@@ -1,3 +1,63 @@
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery-3.3.1.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/select2.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/cla-select2.js"></script>
+<script type="application/javascript">
+  configure_select2('https://xfhpwly456.execute-api.us-east-1.amazonaws.com/api/');
+</script>
+
+{% comment %}
+TODO: better implementation of conditional
+{% endcomment %}
+{% if page.title != "Search results" %}
+<script type="application/javascript">
+    const postSearchForm = event => {
+      event.preventDefault();
+      // Convert form data to query string.
+      const qstr = $.param( $('#cla-search-form').serializeArray() );
+      window.location = 'list.html?' + qstr;
+a = 1;
+//      $('#cla-search-form').submit();
+    };
+    $('#search_button').on('click', postSearchForm);
+</script>
+{% endif %}
+
+{% if page.clamap == true %}
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3&key={{ site.google_maps_api_key }}"></script>
+<script type="text/javascript" src="assets/js/cla-map.js"></script>
+<script type="text/javascript">
+  initMap('{{ site.clamap }}');
+</script>
+{% endif %}
+{% if page.search_results == true %}
+<script type="application/javascript">
+{% comment %}
+TODO: TODO: Improve how this state variable is handled. It's awkward to find
+ it magically appear in js/cla-select2.js.
+ State variables that indicate whether full metadata should display
+ when 'showall' control is clicked.
+{% endcomment %}
+  var showall = {'coll': true, 'bndl': true};
+{% comment %}
+//  $('#results').data('query', get_query_from_form());
+//  $('#cla-search-form').on('submit', handleSelect2FormSubmit);
+{% endcomment %}
+  $('#cla-search-form').on('submit', handleSelect2FormSubmit);
+  $("a.post").on('click', handleMetadataLinkClick);
+  configure_select2('https://xfhpwly456.execute-api.us-east-1.amazonaws.com/api/');
+{% if page.title == "Search results" %}
+    populate_form_from_query_string('cla-search-form');
+    $('#cla-search-form').on('submit', handleSelect2FormSubmit);
+    $('#cla-search-form').submit();
+$(document).foundation('tab', 'reflow');
+{% else %}
+  populate_select2_from_qdata_form();
+{% endif %}
+  make_pagination('cla-search-form');
+        toggle_showall('coll');
+  </script>
+{% endif %}
+
 {% if page.mediaplayer == true %}
 <script>
 $('audio,video').mediaelementplayer();
@@ -38,4 +98,5 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 {% endif %}
+
 

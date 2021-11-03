@@ -16,9 +16,9 @@
 /* Basics
 ------------------------------------------------------------------- */
 
-$text-color         : #111;
+$text-color         : #000000;
 $body-font-color    : $text-color;
-$body-bg            : #fdfdfd;
+$body-bg            : #EEEEEE;
 
 
 
@@ -26,13 +26,26 @@ $body-bg            : #fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
+/*
 $ci-1               : #334D5C; // dark turquoise
 $ci-2               : #45B29D; // turquoise
 $ci-3               : #EFC94C; // yellow
 $ci-4               : #E27A3F; // orange
 $ci-5               : #DF4949; // red
 $ci-6               : #A1D044; // green
+*/
 
+
+/* Berkeley Colorpalette
+   https://brand.berkeley.edu/colors/#
+------------------------------------------------------------------- */
+
+$ci-1               : #003262; // Berkeley Blue
+$ci-2               : #C4820E; // Medalist (second level menu)
+$ci-3               : #3B7EA1; // Founder's Rock
+$ci-4               : #FDB515; // California Gold 
+$ci-5               : #ED4E33; // Golden Gate
+$ci-6               : #DDD5C7; // Bay Fog   (top level menu)
 
 
 /* Foundation Color Variables

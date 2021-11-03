@@ -1,3 +1,11 @@
+# Base configuration for the CLA project. Individual values can be overridden
+# in an environment-specific way by adding a _config file for the environment,
+# e.g _config_lingdev.yml and including both _config files when building:
+#
+# jekyll build --config _config.yml,_config_lingdev.yml
+#
+# The settings in the later config files override values in the earlier ones.
+
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _
@@ -8,29 +16,30 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: 'California Language Archive'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'By the Survey of California and Other Indian Languages'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'The California Language Archive is an online catalog of indigenous language materials in archives at the University of California, Berkeley. It includes physical and digital materials held by the Survey of California and Other Indian Languages, the Phoebe A. Hearst Museum of Anthropology, and the Bancroft Library.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: The Survey of California and Other Indian Languages
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-#
-url: 'https://phlow.github.io'
-baseurl: '/feeling-responsive'
+# NOTE: Do not set the values here. Instead, set these in environment-specific _config
+# files and include when building, as described at the top of this file.
+#url: 'https://cla.berkeley.edu'
+#baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/rsprouse/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +47,8 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+#urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+#urlimg: 'images/'
 
 
 # Logo size is 600x80 pixels
@@ -112,7 +122,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: SCOIL     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +131,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: SCOIL     # Default author for posts
 
 
 
@@ -144,6 +154,7 @@ defaults:
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
 google_site_verification        : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+google_maps_api_key             : 'AIzaSyCZfsdMRPbXEdILyob8sCaVE3YoOtsd780'
 bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification      : ''
 # alexa_verify_id               : ''
@@ -192,8 +203,8 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter   : scoil
+    facebook  : scoil.media
 
 
 #        ____  _

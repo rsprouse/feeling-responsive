@@ -1,3 +1,69 @@
+## Editing
+
+### Top-level pages
+
+Top-level pages are found under `pages/pages-root-folder`. To add another top-level page add an .md file in this folder. (I think)
+
+The output of these pages are at the top level and have the same name as the .md file, but with an .html extension.
+
+Subdirectories of `pages/pages-root-folder` will also be rendered as .html files in the subdirectory.
+
+### Adding a blog post
+
+1. Add an .md file in `_posts`
+   * Use a subdir appropriate to the topic, e.g. `news` (it should match a value in the `categories` list in the post). The resulting url includes the category as part of the path, e.g. `news/post-name`.
+   * The filename should be follow the pattern: `YYYY-MM-DD-descriptive_name.md`.
+2. Use an existing post to model content.
+
+## Updating
+
+When the site is built, sync to the server with:
+
+```bash
+rsync -rvzh --delete -e ssh _site/* username@server.berkeley.edu:/home/sites/scoil_dev_cla_public_static/
+```
+
+The `--delete` option removes files on the server that are not in the new site.
+
+## File organization
+
+* `images/`: Where to put images that will be under `/images` url.
+* `assets/img`: Where to put favicons
+
+
+## Sizes in css
+
+It appears the sizes that can be used to in css classes are small, medium, large, xlarge, and xxlarge. See lines 250-284 in _sass/_03_settings_mixins_media_queries.scss. Use -up and -only suffixes to constrain displays via classes, e.g. 'small-only', 'large-up'.
+
+Margins can be added with e.g. 't10' (top 10px), 'b20' (bottom 20px), etc. See bottom of sass/_07_layout.scss.
+
+## Pull quotes/block quotes
+
+The preferred style for pull/block quotes is to add the `teaser` class, like this:
+
+```css
+> <span class="teaser">She trained more Americanist linguists than did Boas and Sapir put together.</span><cite>Karl Teeter</cite>
+```
+
+## Building
+
+### Local dev
+
+To build and serve the site locally, specify the `local` config when using `jekyll serve`.
+
+```bash
+bundle exec jekyll serve --livereload --config _config.yml,_config_local.yml
+```
+
+### Server dev
+
+To build the site locally and push to the server, specify the `lingdev` config when using `jekyll build`, then push with `rsync`:
+
+```bash
+bundle exec jekyll build --config _config.yml,_config_lingdev.yml && \
+rsync -rvzhe ssh _site_lingdev/* ronald@linguistics.berkeley.edu:/home/sites/scoil_dev_cla_public_static/
+```
+
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
 # Newsletter: Stay in Touch for Future Updates
