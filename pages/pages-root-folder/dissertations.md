@@ -619,7 +619,7 @@ sitemap: true
 <tr>
 <td>2015</td>
 <td>Stephanie Farmer</td>
-<td><em>Establishing Reference in Máíh?~ki</em> [<a href="https://escholarship.org/uc/item/2184b129">PDF</a>]</td>
+<td><em>Establishing Reference in Máíhɨ̃ki</em> [<a href="https://escholarship.org/uc/item/2184b129">PDF</a>]</td>
 <td>Lev Michael</td>
 </tr>
 
@@ -640,7 +640,7 @@ sitemap: true
 <tr>
 <td>2017</td>
 <td>Katherine Sardinha</td>
-<td><em>The Semantics of K?ak??ala Object Case</em> [<a href="http://www.escholarship.org/uc/item/14r9s7t2">PDF</a>]</td>
+<td><em>The Semantics of Kʷak̓ʷala Object Case</em> [<a href="http://www.escholarship.org/uc/item/14r9s7t2">PDF</a>]</td>
 <td>Line Mikkelsen</td>
 </tr>
 
