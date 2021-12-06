@@ -33,9 +33,22 @@ The `--delete` option removes files on the server that are not in the new site.
 
 ## Sizes in css
 
-It appears the sizes that can be used to in css classes are small, medium, large, xlarge, and xxlarge. See lines 250-284 in _sass/_03_settings_mixins_media_queries.scss. Use -up and -only suffixes to constrain displays via classes, e.g. 'small-only', 'large-up'.
+It appears the sizes that can be used to in css classes are small, medium, large, xlarge, and xxlarge. See lines 250-284 in `_sass/_03_settings_mixins_media_queries.scss`. Use -up and -only suffixes to constrain displays via classes, e.g. 'small-only', 'large-up'.
 
-Margins can be added with e.g. 't10' (top 10px), 'b20' (bottom 20px), etc. See bottom of sass/_07_layout.scss.
+Margins can be added with e.g. 't10' (top 10px), 'b20' (bottom 20px), etc. See bottom of `_sass/_07_layout.scss`.
+
+## Mising markdown and html
+
+Some content is not easily handled by markdown and should be entered as plain html. When you do this jekyll will possibly escape certain html sequences, and you might therefore need to exclude the relevant section from escape processing to stop this. For example, the `{::nomarkdown}...<:/nomarkdown}`  section below indicates that the `<a>` tag should be rendered as-is rather than converted to html entities.
+
+```
+{::nomarkdown}
+<figure>
+  <img class="image fit right" width="310px" src="{{site.url}}/images/oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" />
+  <figcaption>Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
+</figure>
+{:/nomarkdown}
+```
 
 ## Pull quotes/block quotes
 

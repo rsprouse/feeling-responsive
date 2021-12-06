@@ -7,3 +7,7 @@ _site
 Gemfile.lock
 
 _site_*
+
+*~
+*.*~
+*.swp
