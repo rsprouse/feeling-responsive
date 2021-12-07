@@ -77,6 +77,27 @@ bundle exec jekyll build --config _config.yml,_config_lingdev.yml && \
 rsync -rvzhe ssh _site_lingdev/* ronald@linguistics.berkeley.edu:/home/sites/scoil_dev_cla_public_static/
 ```
 
+### Github credentials
+
+Store github credentials:
+
+```
+git config --global credential.helper store
+```
+
+The next time a push is requested, enter username and personal access token. When the token expires, generate a new one on github.com.
+
+### SSH credentials
+
+To store ssh credentials in a terminal session, do:
+
+```bash
+eval $(ssh-agent)
+ssh-add ~/.ssh/id_ed25519   # or ~/.ssh/my_private_keyfile
+```
+
+Enter passphrase for the key, and then you can use rsync over ssh to push the site without having to re-enter the passphrase as long as you remain in the terminal session.
+
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
 # Newsletter: Stay in Touch for Future Updates

@@ -5,18 +5,6 @@ title: History of the Survey
 sitemap: true
 ---
 
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-
 The Survey of California Indian Languages was set up informally in 1949, and on January 1, 1953 it was formally established with a permanent budget. Our research partly continues the earlier linguistic work of the Archaeological and Ethnographic Survey of California, established by A. L. Kroeber in 1901. The modern Survey's name was eventually changed&mdash;it is now the Survey of California <strong>and Other</strong> Indian Languages&mdash;to reflect the reality that our work, though traditionally focused on California, has always also had a broader scope.
 
 ## Earlier language documentation at Berkeley
@@ -54,7 +42,7 @@ The research shift toward typological and theoretical questions reflects the gro
 Under the leadership of Leanne Hinton, the third Survey Director, we have been engaged in active outreach to California Indian communities. This includes workshops (on documentation, revitalization, and language learning) for communities through the state, visits to our archive, and the biennial [Breath of Life Archival Institute](https://aicls.org/breath-of-life-institute), a workshop for California Indians whose languages have few or no remaining native speakers.
 
 ## The 2010s
-        
+
 In the last ten years, we have focused on digital repatriation: scanning and digitizing legacy materials, and making them accessible through a new online tool, the California Language Archive, which facilitates distant access to cultural and linguistic heritage materials. This also includes the indigenous language collections (from as early as 1901) in the Berkeley Language Center and the Phoebe A. Hearst Museum of Anthropology. As of September 2019, the California Language Archive indexes over 18,000 items on over 450 languages, with over 30,500 digital files.
 
 > <span class="teaser">It is only a question of a very few years when [California Indian] languages…will have disappeared.</span><cite>Franz Boas</cite>
@@ -62,7 +50,7 @@ In the last ten years, we have focused on digital repatriation: scanning and dig
 For over 100 years, the academic study of California languages and linguistics has been dominated by the concern among scholars that the diversity and richness of our state's languages are in danger of vanishing. Already in April 1901, A. L. Kroeber's teacher Franz Boas wrote to urge the establishment of anthropological and language documentation programs at Berkeley. Boas emphasized "that it is only a question of a very few years when [California Indian] languages…will have disappeared."
 
 The danger was real; half of California’s languages have no native speakers today. But it is important to add that California's Native people and languages are resilient and adaptive; that languages are being learned, transformed, and revived in the face of tremendous obstacles; and that so far, every generation of scholars has been wrong in its prediction that California languages are on the verge of extinction.
-        
+
 <table>
   <caption>Survey Directors</caption>
   <colgroup>
@@ -94,8 +82,3 @@ The danger was real; half of California’s languages have no native speakers to
     </tr>
   </tbody>
 </table>
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
-
