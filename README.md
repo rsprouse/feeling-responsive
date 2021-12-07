@@ -58,6 +58,14 @@ The preferred style for pull/block quotes is to add the `teaser` class, like thi
 > <span class="teaser">She trained more Americanist linguists than did Boas and Sapir put together.</span><cite>Karl Teeter</cite>
 ```
 
+## Reformatting anchor tags
+
+To reformat `<a>` tags as markdown in vim:
+
+```
+s/<a href="\([^"]\+\)">\([^<]\+\)<\/a>/[\2](\1)/g
+```
+
 ## Building
 
 ### Local dev

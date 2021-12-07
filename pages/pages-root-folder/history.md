@@ -1,6 +1,6 @@
 ---
 permalink: history.html
-layout: page-fullwidth
+layout: page
 title: History of the Survey
 sitemap: true
 ---

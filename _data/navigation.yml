@@ -38,20 +38,20 @@
   side: right
   dropdown:
   - title: Using the CLA
-    url: "/using-cla"
+    url: "using-cla.html"
   - title: People
-    url: "/people"
+    url: "people.html"
   - title: History
     url: "history.html"
   - title: Mission
-    url: "/mission"
+    url: "mission.html"
   - title: Our Collection
-    url: "/the-collection"
+    url: "the-collection.html"
   - title: GAIL
     url: "https://lx.berkeley.edu/GAIL"
   - title: Breath of Life
     url: "https://aicls.org/breath-of-life-institute/"
 
 - title: Depositors
-  url: "/for-depositors"
+  url: "for-depositors.html"
   side: right
