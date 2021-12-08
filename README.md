@@ -63,7 +63,13 @@ The preferred style for pull/block quotes is to add the `teaser` class, like thi
 To reformat `<a>` tags as markdown in vim:
 
 ```
-s/<a href="\([^"]\+\)">\([^<]\+\)<\/a>/[\2](\1)/g
+s/<a href="\([^"]\+\)">\([^<]\+\)<\/a>/[\2](\1)/gc
+```
+
+and in reverse:
+
+```
+s/\[\([^]]\+\)](\(\[^)\]\+\))/<a href="\2">\1</a>
 ```
 
 ## Building

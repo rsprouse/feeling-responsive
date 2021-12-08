@@ -39,7 +39,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://cla.berkeley.edu/give
+  url: give.html
   text: Support the Survey
   style: alert
 permalink: /index.html
