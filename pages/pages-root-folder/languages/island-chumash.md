@@ -12,7 +12,7 @@ permalink: languages/island-chumash.html
 The traditional Cruzeño language area spans three of the Channel Islands: Santa Cruz, Santa Rosa, and San Miguel Islands. It is documented in a number of 19th century vocabularies and in the fieldnotes of J. P. Harrington. Based on archaeological evidence and the testimony of early observers, it has been estimated that speakers of all Chumashan languages together numbered between 10,700 and 17,250 in pre-contact times (King 1969). In the 21st century, there are no first-language speakers of any Chumashan language.
 
 <div class="image fit right" style="width: 400px;">
-<a href="https://berkeley.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}/chumashan-languages-map-small.jpg" width="400px"/></a>
+<a href="https://berkeley.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}chumashan-languages-map-small.jpg" width="400px"/></a>
 <div class="caption">
 Map of the Chumashan languages (Robert F. Heizer, ed. 1978. <em>California.</em> (Handbook of North American Indians, Volume 8.) Washington: Smithsonian Institute.)
 </div>

@@ -12,7 +12,7 @@ permalink: languages/shasta.html
 The traditional Shasta language area is from the confluence of Bear Creek and the Rogue River in Oregon, across the Siskiyou Mountains to the upper Klamath River in California and southward along the Shasta and Scott Rivers to their headwaters. In pre-contact times, there were an estimated 2,000 speakers (Kroeber 1925). In the 21st century, there are no first-language speakers (Golla 2011). However, tribal members and language activists have been pursuing language revitalization and reclamation ([Shasta Indian Nation](https://www.shastaindiannation.org/#:~:text=Shasta%20language%20is%20from%20the,to%20their%20aboriginal%2C%20ancestral%20lands.)).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://i.pinimg.com/originals/23/7c/00/237c00c54aeec18a3edac8090cc6ff10.jpg"><img alt="Map of the Shastan languages" src="{{ site.urlimg }}/shastan-languages-map.jpeg" width="400px"/></a>
+<a href="https://i.pinimg.com/originals/23/7c/00/237c00c54aeec18a3edac8090cc6ff10.jpg"><img alt="Map of the Shastan languages" src="{{ site.urlimg }}shastan-languages-map.jpeg" width="400px"/></a>
 <div class="caption">
 Map of the Shastan languages (Golla 2011: 91)
 </div>

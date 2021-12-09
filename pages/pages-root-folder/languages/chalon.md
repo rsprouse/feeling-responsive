@@ -12,7 +12,7 @@ permalink: languages/chalon.html
 The traditional Chalon language area is along Chalone Creek to the east of the Salinas River. During the mission period, Chalon was spoken at Mission Nuestra Señora de la Soledad. Other dialects were potentially spoken along the upper San Benito River as well. The language is only attested in wordlists from the nineteenth century and a fragment of a catechism. In pre-contact times, there were approximately 900 speakers of Chalon (Levy 1978).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}/ohlone-languages-map-small.jpg" width="300px"/></a>
+<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}ohlone-languages-map-small.jpg" width="300px"/></a>
 <div class="caption">
 Map of the Ohlone languages (Richard L. Levy. 1976. <a href="http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&amp;volumeid=66&amp;item=1"><em>Costanoan internal relationships.</em></a> Berkeley: Archaeological Research Facility, University of California.)
 </div>

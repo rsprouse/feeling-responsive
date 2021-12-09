@@ -12,7 +12,7 @@ permalink: languages/mutsun.html
 The traditional Mutsun language area is throughout the drainage of the Pajaro River, and from there west to Monterey Bay, north to Gilroy, east to Hollister, and southeast to the Pinnacles. During the mission period, Mutsun was spoken at Mission San Juan Bautista. Mutsun is attested in the 19th century publications of Father Felipe Arroyo de la Cuesta, in the fieldnotes of J. P. Harrington, and works derived from them. In pre-contact times, there were approximately 2,700 speakers of Mutsun (Levy 1978). In the 21st century, there are no first-language speakers of Mutsun. However, tribal members and language activists have been pursuing language revitalization and reclamation ([Amah Mutsun Tribal Band](https://amahmutsun.org/language)).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}/ohlone-languages-map-small.jpg" width="300px"/></a>
+<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}ohlone-languages-map-small.jpg" width="300px"/></a>
 <div class="caption">
 Map of the Ohlone languages (Richard L. Levy. 1976. <a href="http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&amp;volumeid=66&amp;item=1"><em>Costanoan internal relationships.</em></a> Berkeley: Archaeological Research Facility, University of California.)
 </div>

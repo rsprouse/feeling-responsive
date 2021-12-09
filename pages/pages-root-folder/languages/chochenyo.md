@@ -12,7 +12,7 @@ permalink: languages/chochenyo.html
 The traditional Chochenyo language area is the eastern shore of the San Francisco Bay, from Richmond to Fremont. During the mission period, Chochenyo was spoken at Mission San José. Other varieties may have been spoken further inland, in eastern Alameda County and in the San Ramon, Dublin, and Livermore Valley areas. In addition to vocabularies from the nineteenth and early twentieth centuries, Chochenyo is attested in [J. P. Harrington's fieldnotes](https://cla.berkeley.edu/{{ site.url }}/item.html?bndlid=1024). In pre-contact times, there were approximately 2,000 speakers of Chochenyo (Levy 1978). In the 21st century, there are no first-language speakers (Golla 2011), but there are Chochenyo learners and speakers participating in Chochenyo language classes in the Bay area.
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}/ohlone-languages-map-small.jpg" width="300px"/></a>
+<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}ohlone-languages-map-small.jpg" width="300px"/></a>
 <div class="caption">
 Map of the Ohlone languages (Richard L. Levy. 1976. <a href="http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&amp;volumeid=66&amp;item=1"><em>Costanoan internal relationships.</em></a> Berkeley: Archaeological Research Facility, University of California.)
 </div>

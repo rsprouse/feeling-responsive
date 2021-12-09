@@ -12,7 +12,7 @@ permalink: languages/northern-paiute.html
 The traditional Northern Paiute language area is from Mono Lake, north and west through Nevada and up into Oregon and Idaho. There are two communities of Northern Paiute speakers in California, one at Mono Lake and to the immediate north (around Bridgeport and Coleville, California and Sweetwater, Nevada), the other around Susanville, California. In pre-contact times, Northern Paiute speakers in California probably numbered no more than 600 (Kroeber 1925). In the 21st century, there are about 300 first-language speakers throughout the United States (Golla 2011).
 
 <div class="image fit left" style="width: 225px;">
-<img alt="Lucy Telles and her largest basket" src="{{ site.urlimg }}/northern-paiute-project.jpg" width="225px"/>
+<img alt="Lucy Telles and her largest basket" src="{{ site.urlimg }}northern-paiute-project.jpg" width="225px"/>
 <div class="caption">
 Lucy Telles and her largest basket (Photo courtesy of the <a href="http://www.oac.cdlib.org/ark:/13030/kt9199q6g6/?layout=metadata&amp;brand=oac4">San Joaquin Valley Library System</a>.)
 </div>
@@ -28,7 +28,7 @@ Northern Paiute is a language with subject-object-verb word order. It is aggluti
 
 <div class="image right" style="width: 250px;">
 <audio controls="true">
-<source src="../sounds/northern-paiute-sound.mp3" type="audio/mpeg"/>
+<source src="{{ site.urlaudio }}northern-paiute-sound.mp3" type="audio/mpeg"/>
 Your browser does not support the audio element.
 </audio>
 <div class="caption">
@@ -60,7 +60,7 @@ Audio sample: From a narrative about gathering willow (spoken by Madeline Steven
 * [Burns Paiute Tribe](http://www.burnspaiute-nsn.gov/)
 
 <div class="image fit right" style="width: 275px;">
-<img alt="Michael Houser and Madeline Stevens, hands-on fieldwork picking pinenuts, 2009" src="{{ site.urlimg }}/northern-paiute-pinenut-picking.jpg" width="275px"/>
+<img alt="Michael Houser and Madeline Stevens, hands-on fieldwork picking pinenuts, 2009" src="{{ site.urlimg }}northern-paiute-pinenut-picking.jpg" width="275px"/>
 <div class="caption">
 Madeline Stevens and Michael Houser, "hands-on" fieldwork picking pinenuts, 2009 (Photo courtesy of Maziar Toosarvandani)
 </div>

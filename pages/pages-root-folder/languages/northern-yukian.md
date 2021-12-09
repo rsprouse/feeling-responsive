@@ -13,7 +13,7 @@ The traditional Northern Yukian language area ranges from the Coast Range border
 *Huchnom*, spoken on the lower Eel River; and *Coast Yuki*, spoken on the Pacific coast between Fort Bragg and Usal Creek. In pre-contact times, there were approximately 6,880 speakers of Yuki, 2,100 of Huchnom, and 750 of Coast Yuki (Cook 1956). In the 21st century, there are no first-language speakers (Golla 2011).
 
 <div class="image right" style="width: 300px;">
-<a href="https://berkeley.box.com/v/northern-yukian-language-map"><img alt="Map of the Yuki and Huchnom varieties of Northern Yukian" src="{{ site.urlimg }}/northern-yukian-language-map-small.jpg" width="300px"/></a>
+<a href="https://berkeley.box.com/v/northern-yukian-language-map"><img alt="Map of the Yuki and Huchnom varieties of Northern Yukian" src="{{ site.urlimg }}northern-yukian-language-map-small.jpg" width="300px"/></a>
 <div class="caption">
 Map of the Yuki and Huchnom varieties of Northern Yukian (Martin A. Baumhoff. 1958. <a href="http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&amp;volume=16&amp;journal=3&amp;item=6">California Athabascan Groups.</a> University of California Anthropological Records 16:157-237.)
 </div>

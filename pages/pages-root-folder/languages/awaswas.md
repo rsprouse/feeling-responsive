@@ -12,7 +12,7 @@ permalink: languages/awaswas.html
 The traditional Awaswas language area is on the north shore of Monterey Bay. During the mission period, it was spoken at Mission Santa Cruz. The last speaker of Awaswas died in the nineteenth century, and the language is only attested in wordlists. In pre-contact times, there were approximately 600 speakers of Awaswas (Levy 1978).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}/ohlone-languages-map-small.jpg" width="300px"/></a>
+<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}ohlone-languages-map-small.jpg" width="300px"/></a>
 <div class="caption">
 Map of the Ohlone languages (Richard L. Levy. 1976. <a href="http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&amp;volumeid=66&amp;item=1"><em>Costanoan internal relationships.</em></a> Berkeley: Archaeological Research Facility, University of California.)
 </div>

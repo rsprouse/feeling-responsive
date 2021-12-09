@@ -10,7 +10,7 @@ permalink: languages/southeastern-pomo.html
 ---
 
 <div class="image fit right" style="width: 300px;">
-<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}/pomoan-languages-map-small.jpg" width="300px"/>
+<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}pomoan-languages-map-small.jpg" width="300px"/>
 <div class="caption">
 Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.box.com/v/pomoan-languages-map">Barrett 1908</a>.
 </div>
@@ -22,7 +22,7 @@ The traditional Southeastern Pomo language area is at the eastern end of Clear L
 Southeastern Pomo is a head-final language. Basic word order in sentences is subject-object-verb. Adpositions follow nouns, while adjectives precede nouns. The language is agglutinating, and both derivational and inflectional morphology is suffixed to a root, whether verbal or nominal. Verbs may consist of a root and several suffixes (e.g. causative, evidential, imperfective). Reduplicated verbs, nouns, and adjectives are common. Negation is accomplished via use of a negative particle immediately preceding the verb and concomitant suffixation of negative morphology. Particles serve as markers of a number of other properties as well, including causation, possession, and focus. Polar questions are formed with the use of a final interrogative particle; constituent questions generally leave the interrogative pronoun in situ.
 <div class="image-left" style="width: 250px;">
 <audio controls="true">
-<source src="../sounds/southeastern-pomo-sound.mp3" type="audio/mpeg"/>
+<source src="{{ site.urlaudio }}southeastern-pomo-sound.mp3" type="audio/mpeg"/>
 Your browser does not support the audio element.
 </audio>
 <div class="caption">
@@ -32,7 +32,7 @@ Audio sample: From "An afternoon spent making fruit salad" (spoken by Loretta Ke
 The vowel inventory of the language is relatively small, consisting of five basic vowel qualities that vary between lax and tense depending on the phonological context. A binary vowel length distinction is also present in a few word pairs. The consonant inventory is considerably complex, with 29 consonants in the Elem (Sulphur Bank) dialect. Though there are only two voiced obstruents (bilabial and alveolar stops), voiceless stops exist at five oral places of articulation (bilabial, dental, alveolar/retroflex, velar, and postvelar), voiceless affricates at two (alveolar and palatoalveolar), and voiceless fricatives at six (labiodental, alveolar, palatoalveolar, velar, postvelar, and glottal). Each stop and affricate has a glottalized counterpart, for a total of seven ejective stops and affricates (in addition to a glottal stop). Two nasals, two glides, and a lateral liquid (as well as a flap mostly limited to borrowed words) round out the inventory. Stress falls on the initial underlying vowel of a stem, but as onset consonant clusters are common and frequently realized with an epenthetic vowel, in practice word-level stress often appears on the second syllable of a word. Up to one consonant is allowed in syllable-final position.
 
 <div class="image fit right" style="width: 275px;">
-<img alt="Loretta Kelsey, describing how to make fruit salad, Clear Lake, 2007" src="{{ site.urlimg }}/southeastern-pomo-fieldwork.jpg" width="275px"/>
+<img alt="Loretta Kelsey, describing how to make fruit salad, Clear Lake, 2007" src="{{ site.urlimg }}southeastern-pomo-fieldwork.jpg" width="275px"/>
 <div class="caption">
 Loretta Kelsey, describing how to make fruit salad, Clear Lake, 2007 (Photo courtesy of Marta Piqueras-Brunet)
 </div>

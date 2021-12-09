@@ -12,7 +12,7 @@ permalink: languages/hupa.html
 The traditional Hupa language area is along the lower Trinity River in Humboldt County, from the lower South Fork to the canyon at the north end of Hoopa Valley. Chilula and Whilkut, considered dialects of Hupa, were spoken by people living along Redwood Creek to the west of Hoopa Valley. In pre-contact times, there were an estimated 1,000 speakers of Hupa and around 1,000 speakers of Chilula and Whilkut combined (Wallace 1978). In the 21st century, there are fewer than a half-dozen first-language speakers of Hupa remaining. The Hoopa Valley Tribe has supported language revitalization efforts since the 1970s, and many people have developed a degree of second-language proficiency (Golla 2011).
 
 <div class="image fit right" style="width: 400px;">
-<a href="http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp001-003.pdf"><img alt="Map of Hupa Valley by Pliny Earle Goddard, 1903" src="{{ site.urlimg }}/hupa-language-map-small.jpg" width="400px"/></a>
+<a href="http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp001-003.pdf"><img alt="Map of Hupa Valley by Pliny Earle Goddard, 1903" src="{{ site.urlimg }}hupa-language-map-small.jpg" width="400px"/></a>
 <div class="caption">
 Map of Hupa Valley by Pliny Earle Goddard. 1903. <a href="http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp001-003.pdf">Life and culture of the Hupa</a>. *University of California Publications in American Archaeology and Ethnography* 1:1-87.
 </div>
@@ -72,7 +72,7 @@ he saw
 
 <div class="image right" style="width: 250px;">
 <audio controls="true">
-<source src="../sounds/hupa-sound.mp3" type="audio/mpeg"/>
+<source src="{{ site.urlaudio }}hupa-sound.mp3" type="audio/mpeg"/>
 Your browser does not support the audio element.
 </audio>
 <div class="caption">

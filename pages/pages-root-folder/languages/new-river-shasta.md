@@ -12,7 +12,7 @@ permalink: languages/new-river-shasta.html
 The New River Shasta are believed to have been a distinct ethnographic and linguistic group who lived in the Salmon mountains, along the south and north forks of the Salmon River, as well as along the upper drainage of the New River. Information about New River Shasta is hard to come by; the language is attested only in a few wordlists. In pre-contact times, there were probably no more than 300 speakers (Kroeber 1925).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://i.pinimg.com/originals/23/7c/00/237c00c54aeec18a3edac8090cc6ff10.jpg"><img alt="Map of the Shastan languages" src="{{ site.urlimg }}/shastan-languages-map.jpeg" width="400px"/></a>
+<a href="https://i.pinimg.com/originals/23/7c/00/237c00c54aeec18a3edac8090cc6ff10.jpg"><img alt="Map of the Shastan languages" src="{{ site.urlimg }}shastan-languages-map.jpeg" width="400px"/></a>
 <div class="caption">
 Map of the Shastan languages (Golla 2011: 91)
 </div>

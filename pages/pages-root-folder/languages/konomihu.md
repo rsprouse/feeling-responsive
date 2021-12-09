@@ -12,7 +12,7 @@ permalink: languages/konomihu.html
 The traditional Konomihu language area is on the lower Salmon River. By the 20th century, descendants of the Konomihu identified as Shasta. Even in pre-contact times, there were likely few speakers of the language (Kroeber 1925).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://i.pinimg.com/originals/23/7c/00/237c00c54aeec18a3edac8090cc6ff10.jpg"><img alt="Map of the Shastan languages" src="{{ site.urlimg }}/shastan-languages-map.jpeg" width="400px"/></a>
+<a href="https://i.pinimg.com/originals/23/7c/00/237c00c54aeec18a3edac8090cc6ff10.jpg"><img alt="Map of the Shastan languages" src="{{ site.urlimg }}shastan-languages-map.jpeg" width="400px"/></a>
 <div class="caption">
 Map of the Shastan languages (Golla 2011: 91)
 </div>

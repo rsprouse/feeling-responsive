@@ -12,8 +12,11 @@ baseurl: '/dev_static/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://cla.berkeley.edu/dev_static/images/'
+urlimg: 'https://cla.berkeley.edu/dev_static/assets/images/'
 
+# and audio:
+#
+urlaudio: 'https://cla.berkeley.edu/dev_static/assets/audio/' 
 
 # JSON source data for map.
 clamap: https://cla.berkeley.edu/cla-map.json

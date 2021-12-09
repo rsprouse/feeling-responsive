@@ -12,7 +12,7 @@ permalink: languages/eastern-pomo.html
 The traditional Eastern Pomo language area is on the eastern side of Clear Lake, primarily along streams set back from the shore. There were five main groups centered around settlements in Big Valley (south of Lakeport), on the south shore of Clear Lake along Kelsey Creek, in Clover Valley (to the northeast of Upper Lake), along Middle Creek in Upper Lake Valley, and on the north shore of Clear Lake. In pre-contact times, the Pomoan languages together probably had around 8,000 speakers (Kroeber 1925). In the 21st century, there are only a few first-language speakers of Eastern Pomo. However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://www.nijc.org/pdfs/CENY/CENY%20Pomo%20Language%20Curriculum%20Development%202013.pdf).
 
 <div class="image fit right" style="width: 300px;">
-<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}/pomoan-languages-map-small.jpg" width="300px"/>
+<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}pomoan-languages-map-small.jpg" width="300px"/>
 <div class="caption">
 Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.box.com/v/pomoan-languages-map">Barrett 1908</a>.
 </div>

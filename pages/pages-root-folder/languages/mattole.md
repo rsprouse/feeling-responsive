@@ -12,7 +12,7 @@ permalink: languages/mattole.html
 The traditional area of the very closely related Mattole and Bear River varieties of California Dene (Athabaskan) is along the lower Mattole River and its tributaries in present-day Humboldt County, and along the Bear River (Elsasser 1978). In pre-contact times, there were approximately 2,500 speakers of Mattole and Bear River combined (Baumhoff 1958). As far as is known, there are no first-language speakers of either variety remaining in the 21st century (Golla 2011).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://berkeley.box.com/v/mattole-language-map"><img alt="Map of Mattole" src="{{ site.urlimg }}/mattole-language-map-small.jpg" width="300px"/></a>
+<a href="https://berkeley.box.com/v/mattole-language-map"><img alt="Map of Mattole" src="{{ site.urlimg }}mattole-language-map-small.jpg" width="300px"/></a>
 <div class="caption">
 Map of Mattole (Martin A. Baumhoff. 1958. <a href="http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&amp;volume=16&amp;journal=3&amp;item=6">California Athabascan Groups</a>. <em>University of California Anthropological Records</em> 16:157-237.)
 </div>

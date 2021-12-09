@@ -12,7 +12,7 @@ permalink: languages/central-pomo.html
 The traditional Central Pomo language area is from the Russian River southwest of Clear Lake to the Pacific coast. There were settlements along the Russian River (in the southern Ukiah Valley, in Hopland Valley, and further south near the Sonoma County line), in the coastal region (at Manchester, Point Arena, and at the mouth of the Gualala River), and in the region between the two (around Yorkville and in Anderson Valley). In pre-contact times, the Pomoan languages together probably had around 8,000 speakers (Kroeber 1925). In the 21st century, there are several speakers of Central Pomo (Golla 2011). However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://www.nijc.org/pdfs/CENY/CENY%20Pomo%20Language%20Curriculum%20Development%202013.pdf).
 
 <div class="image fit right" style="width: 300px;">
-<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}/pomoan-languages-map-small.jpg" width="300px"/>
+<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}pomoan-languages-map-small.jpg" width="300px"/>
 <div class="caption">
 Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.box.com/v/pomoan-languages-map">Barrett 1908</a>
 </div>

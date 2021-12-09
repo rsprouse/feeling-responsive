@@ -12,7 +12,7 @@ permalink: languages/southern-pomo.html
 The traditional Southern Pomo language area is on the lower Russian River, in the Dry Creek Valley, and on the Santa Rosa plain. In pre-contact times, the Pomoan languages together probably had around 8,000 speakers (Kroeber 1925). In the 21st century, there are only a handful of first-language speakers of Southern Pomo. However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://sites.google.com/a/mcdanielar.com/pomo/).
 
 <div class="image fit right" style="width: 300px;">
-<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}/pomoan-languages-map-small.jpg" width="300px"/>
+<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}pomoan-languages-map-small.jpg" width="300px"/>
 <div class="caption">
 Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.box.com/v/pomoan-languages-map">Barrett 1908</a>.
 </div>

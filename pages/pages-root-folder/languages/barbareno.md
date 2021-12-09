@@ -12,7 +12,7 @@ permalink: languages/barbareno.html
 The traditional Barbareño language area is along the Pacific coast, from Point Conception to Rincon Point (along the Santa Barbara Channel). During the mission period, Barbareño was spoken at Mission Santa Barbara. A variety of Barbareño called Emigdiano, which was heavily influenced by [Buena Vista Yokuts](yokuts.html) was spoken at San Emigdio near Buena Vista Lake, though it is attested solely in place names (Beeler and Klar 1977). Based on archaeological evidence and the testimony of early observers, it has been estimated that speakers of all Chumashan languages together numbered between 10,700 and 17,250 in pre-contact times (King 1969). In the 21st century, there are no first-language speakers of any Chumashan language. However, tribal members and language activists have been pursuing language revitalization and reclamation ([Wishtoyo Chumash Foundation](https://www.wishtoyo.org/cp-chumash-language)).
 
 <div class="image fit right" style="width: 400px;">
-<a href="https://berkeley.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}/chumashan-languages-map-small.jpg" width="400px"/></a>
+<a href="https://berkeley.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}chumashan-languages-map-small.jpg" width="400px"/></a>
 <div class="caption">
 Map of the Chumashan languages (Robert F. Heizer, ed. 1978. <em>California.</em> (Handbook of North American Indians, Volume 8.) Washington: Smithsonian Institute.)
 </div>

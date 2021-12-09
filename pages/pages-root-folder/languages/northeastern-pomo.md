@@ -12,7 +12,7 @@ permalink: languages/northeastern-pomo.html
 The traditional Northeastern Pomo language area is along Stony Creek on the western edge of the Sacramento Valley. In pre-contact times, the Pomoan languages together probably had around 8,000 speakers (Kroeber 1925). In the 21st century, there are no first-language speakers of Northeastern Pomo (Golla 2011).
 
 <div class="image fit right" style="width: 300px;">
-<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}/pomoan-languages-map-small.jpg" width="300px"/>
+<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}pomoan-languages-map-small.jpg" width="300px"/>
 <div class="caption">
 Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.box.com/v/pomoan-languages-map">Barrett 1908</a>.
 </div>

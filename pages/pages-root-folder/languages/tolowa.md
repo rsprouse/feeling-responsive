@@ -12,7 +12,7 @@ permalink: languages/tolowa.html
 Tolowa is the southernmost language within what is usually called Oregon Dene (or Oregon Athabaskan). Tolowa is very closely related to Chetco, its neighbor immediately to the north in Oregon; the two together are regarded as a single (Tolowa-Chetco) language. This is in turn related, if not as closely, to the Rogue River Dene varieties spoken north of Chetco, and more distantly to Upper Umpqua, the northernmost of the Oregon Dene languages. The traditional Tolowa language area is in Del Norte County from Wilson Creek (south of Crescent City) north into Oregon. In pre-contact times, within what is now California there may have been as many as 2,400 speakers of Tolowa itself (Gould 1978). In the 21st century, there are only a few first-language speakers of Tolowa, but there is an active movement to revitalize the language (Golla 2011).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://berkeley.box.com/v/tolowa-language-map"><img alt="Map of Tolowa speaking areas" src="{{ site.urlimg }}/tolowa-language-map-small.jpg" width="300px"/></a>
+<a href="https://berkeley.box.com/v/tolowa-language-map"><img alt="Map of Tolowa speaking areas" src="{{ site.urlimg }}tolowa-language-map-small.jpg" width="300px"/></a>
 <div class="caption">
 Map of Tolowa speaking areas (Drucker 1937)
 </div>

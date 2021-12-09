@@ -12,7 +12,7 @@ permalink: languages/yurok.html
 The traditional Yurok language area is along the Klamath River, from its mouth at Requa to Weitchpec about 40 miles upstream, and south along the Pacific coast from Requa to Trinidad. In pre-contact times there may have been about 2,500 speakers (Kroeber 1925). In the 21st century, while the Yurok Tribe is the largest in California, there are fewer than a dozen first-language speakers of the language (Golla 2011). However, tribal members and language activists have been pursuing language revitalization and reclamation ([Yurok Language Project](http://linguistics.berkeley.edu/~yurok/)).
 
 <div class="image fit left" style="width: 275px;">
-<img alt="Klamath River estuary" src="{{ site.urlimg }}/klamath-river-estuary.jpg" width="275px"/>
+<img alt="Klamath River estuary" src="{{ site.urlimg }}klamath-river-estuary.jpg" width="275px"/>
 <div class="caption">
 Klamath River estuary (Photo courtesy of Andrew Garrett)
 </div>
@@ -32,7 +32,7 @@ Yurok sentences are notable for extensive use of preverbs: a class of short non-
 
 <div class="image fit right" style="width: 250px;">
 <audio controls="true">
-<source src="../sounds/yurok-sound.mp3" type="audio/mpeg"/>
+<source src="{{ site.urlaudio }}yurok-sound.mp3" type="audio/mpeg"/>
 Your browser does not support the audio element.
 </audio>
 <div class="caption">

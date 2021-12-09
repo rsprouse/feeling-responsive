@@ -12,7 +12,7 @@ permalink: languages/kashaya.html
 The traditional Kashaya language area is along the Pacific coast from north of Bodega Bay to Stewart's Point and Annapolis. In pre-contact times, the Pomoan languages together probably had around 8,000 speakers (Kroeber 1925). In the 21st century, there are several dozen speakers of Kashaya (Golla 2011). However, tribal members and language activists have been pursuing language revitalization and reclamation ([Kashaya language resources](https://www.ling.upenn.edu/~gene/kashaya.html)).
 
 <div class="image fit right" style="width: 300px;">
-<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}/pomoan-languages-map-small.jpg" width="300px"/>
+<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}pomoan-languages-map-small.jpg" width="300px"/>
 <div class="caption">
 Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.box.com/v/pomoan-languages-map">Barrett 1908</a>.
 </div>

@@ -12,7 +12,7 @@ permalink: languages/ventureno.html
 The traditional Ventureño language area is along the Pacific coast from Carpenteria to Malibu. A poorly attested language, *Alliklik Chumash*, which was spoken on the upper Santa Clara River, may be a variety of Ventureñ, as well as *Castac Chumash*. During the mission period, Ventureño was spoken at Mission San Buenaventura. Based on archaeological evidence and the testimony of early observers, it has been estimated that speakers of all Chumashan languages together numbered between 10,700 and 17,250 in pre-contact times (King 1969). In the 21st century, there are no first-language speakers of any Chumashan language.
 
 <div class="image fit right" style="width: 400px;">
-<a href="https://berkeley.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}/chumashan-languages-map-small.jpg" width="400px"/></a>
+<a href="https://berkeley.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}chumashan-languages-map-small.jpg" width="400px"/></a>
 <div class="caption">
 Map of the Chumashan languages (Robert F. Heizer, ed. 1978. *California.* (Handbook of North American Indians, Volume 8.) Washington: Smithsonian Institute.)
 </div>

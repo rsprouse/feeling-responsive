@@ -12,7 +12,7 @@ permalink: languages/karkin.html
 The traditional Karkin language area is on the shores of the Carquinez Strait in the northern San Francisco Bay. Karkin is attested only in a single, short vocabulary recorded by Father Felipe Arroyo de la Cuesta in 1821. In pre-contact times, there were approximately 200 speakers of Karkin (Levy 1978).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}/ohlone-languages-map-small.jpg" width="300px"/></a>
+<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}ohlone-languages-map-small.jpg" width="300px"/></a>
 <div class="caption">
 Map of the Ohlone languages (Richard L. Levy. 1976. <a href="http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&amp;volumeid=66&amp;item=1"><em>Costanoan internal relationships.</em></a> Berkeley: Archaeological Research Facility, University of California.)
 </div>

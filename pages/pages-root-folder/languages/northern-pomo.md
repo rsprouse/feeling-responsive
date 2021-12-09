@@ -12,7 +12,7 @@ permalink: languages/northern-pomo.html
 The traditional Northern Pomo language area is from the Russian River northwest of Clear Lake to the Pacific coast. There were several subgroups, centering around settlements at Sherwood Valley, Outlet Creek in the Willits and Little Lake area, Redwood Valley, Potter Valley, and Coyote Valley (now flooded to form Lake Mendocino). In pre-contact times, the Pomoan languages together probably had around 8,000 speakers (Kroeber 1925). In 2001, there was only one known first-language speaker of Northern Pomo (Golla 2011). However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://www.nijc.org/pdfs/CENY/CENY%20Pomo%20Language%20Curriculum%20Development%202013.pdf).
 
 <div class="image fit right" style="width: 300px;">
-<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}/pomoan-languages-map-small.jpg" width="300px"/>
+<img alt="Map of the Pomoan languages" src="{{ site.urlimg }}pomoan-languages-map-small.jpg" width="300px"/>
 <div class="caption">
 Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.box.com/v/pomoan-languages-map">Barrett 1908</a>.
 </div>
