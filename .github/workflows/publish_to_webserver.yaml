@@ -58,7 +58,6 @@ jobs:
       run:
         echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH }}" >> $GITHUB_ENV
     - name: Set deployment path to prerelease path
-      #if: "github.event.release.prerelease"
       run:
         echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH_PRERELEASE }}" >> $GITHUB_ENV
     - name: Publish to public web server with rsync over ssh
