@@ -32,7 +32,7 @@ on:
       - main
 
 jobs:
-  github-pages:
+  build_and_publish:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
