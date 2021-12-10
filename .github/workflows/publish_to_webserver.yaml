@@ -28,11 +28,10 @@ name: Build CLA website with Jekyll and deploy to server
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
-  build_and_publish:
+  build:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
