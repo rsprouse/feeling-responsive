@@ -5,8 +5,6 @@ title: Terms and conditions of use
 sitemap: true
 ---
 
-New stuff.
-
 Resources available through the California Language Archive (CLA) are the physical property of the University of California, Berkeley. Intellectual rights, including copyright, belong to resource creators or their legal heirs and assigns.
 
 Digital content is also protected by United States copyright law; digital images and sound recordings are made available for nonprofit educational, personal, or research use only. Users of digital content agree to the following conditions:
