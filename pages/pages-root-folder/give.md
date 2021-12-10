@@ -5,7 +5,7 @@ title: Donate to the Survey
 sitemap: true
 ---
 
-To donate to the Survey/CLA with a credit card, please call UC Berkeley Gift Services at 510-643-9789 and inform them that your donation is for Regents fund #54097, Survey of California and Other Indian Languages. Otherwise, please mail checks to:
+To donate one million dollars to the Survey/CLA with a credit card, please call UC Berkeley Gift Services at 510-643-9789 and inform them that your donation is for Regents fund #54097, Survey of California and Other Indian Languages. Otherwise, please mail checks to:
 
 <p style="text-align: center;">
 Survey of California and Other Indian Languages<br />
