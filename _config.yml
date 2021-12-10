@@ -32,10 +32,9 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 author: The Survey of California and Other Indian Languages
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-# NOTE: Do not set the values here. Instead, set these in environment-specific _config
 # files and include when building, as described at the top of this file.
-#url: 'https://cla.berkeley.edu'
-#baseurl: '/'
+url: 'https://cla.berkeley.edu'
+baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -49,7 +48,11 @@ improve_content: https://github.com/rsprouse/feeling-responsive/edit/gh-pages
 #
 #urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 #urlimg: 'images/'
+urlimg: 'https://cla.berkeley.edu/assets/images/'
 
+# and audio:
+#
+urlaudio: 'https://cla.berkeley.edu/assets/audio/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -60,6 +63,8 @@ plugins:
     - jekyll-gist
     - jekyll-paginate
 
+# JSON source data for map.
+clamap: https://cla.berkeley.edu/cla-map.json
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____

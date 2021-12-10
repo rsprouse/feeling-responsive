@@ -16,7 +16,7 @@ urlimg: 'https://cla.berkeley.edu/dev_static/assets/images/'
 
 # and audio:
 #
-urlaudio: 'https://cla.berkeley.edu/dev_static/assets/audio/' 
+urlaudio: 'https://cla.berkeley.edu/dev_static/assets/audio/'
 
 # JSON source data for map.
 clamap: https://cla.berkeley.edu/cla-map.json
