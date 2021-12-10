@@ -1,7 +1,7 @@
 name: Build CLA website with Jekyll and deploy to server
 
 on:
-  commit:
+  push:
     branches:
       - main
 
