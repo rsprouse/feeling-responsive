@@ -34,7 +34,7 @@ author: The Survey of California and Other Indian Languages
 # This URL is the main address for absolute links. Don't include a slash at the end.
 # files and include when building, as described at the top of this file.
 url: 'https://cla.berkeley.edu'
-baseurl: '/'
+baseurl: '/dev_static/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -48,11 +48,11 @@ improve_content: https://github.com/rsprouse/feeling-responsive/edit/gh-pages
 #
 #urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 #urlimg: 'images/'
-urlimg: 'https://cla.berkeley.edu/assets/images/'
+urlimg: 'https://cla.berkeley.edu/dev_static/assets/images/'
 
 # and audio:
 #
-urlaudio: 'https://cla.berkeley.edu/assets/audio/'
+urlaudio: 'https://cla.berkeley.edu/dev_static/assets/audio/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
