@@ -48,18 +48,19 @@ jobs:
         with:
           build_only: true
 
-    - name: Install SSH key
-      uses: shimataro/ssh-key-action@v2
-      with:
-        key: ${{ secrets.SSH_PRIVATE_KEY }}
-        known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
-    - name: Set deployment path to release path
-      if: "!github.event.release.prerelease"
-      run:
-        echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH }}" >> $GITHUB_ENV
-    - name: Set deployment path to prerelease path
-      run:
-        echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH_PRERELEASE }}" >> $GITHUB_ENV
-    - name: Publish to public web server with rsync over ssh
-      run: rsync -a _site/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
+      - name: Set deployment path to release path
+        if: "!github.event.release.prerelease"
+        run:
+          echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH }}" >> $GITHUB_ENV
+      - name: Set deployment path to prerelease path
+        #if: "github.event.release.prerelease"
+        run:
+          echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH_PRERELEASE }}" >> $GITHUB_ENV
+      - name: Publish to public web server with rsync over ssh
+        run: rsync -a _site/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
 
