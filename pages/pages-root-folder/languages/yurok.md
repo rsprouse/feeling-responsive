@@ -18,8 +18,6 @@ Klamath River estuary (Photo courtesy of Andrew Garrett)
 </div>
 </div>
 
-![Klamath River estuary place]({{ site.urlimg }}klamath-river-estuary.jpg)
-
 Yurok belongs to the Algic language family, which also includes [Wiyot](wiyot.html), spoken immediately to the south, as well as all the Algonquian languages (Cree, Ojibwe, and many others), which are spoken across central and eastern Canada and the northern United State from the Rocky Mountains to the Atlantic coast.
 
 #### Grammatical information
