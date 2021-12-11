@@ -9,7 +9,7 @@ header:
 permalink: languages/yurok.html
 ---
 
-The traditional Yurok language area is along the Klamath River, from its mouth at Requa to Weitchpec about 40 miles upstream, and south along the Pacific coast from Requa to Trinidad. In pre-contact times there may have been about 2,500 speakers (Kroeber 1925). In the 21st century, while the Yurok Tribe is the largest in California, there are fewer than a dozen first-language speakers of the language (Golla 2011). However, tribal members and language activists have been pursuing language revitalization and reclamation ([Yurok Language Project](http://linguistics.berkeley.edu/~yurok/)).
+The traditional Yurok language area is along the Klamath River, from its mouth at Requa to Weitchpec about 40 miles upstream, and south along the Pacific coast from Requa to Trinidad. In pre-colonial times there may have been about 2,500 speakers (Kroeber 1925). In the 21st century, while the Yurok Tribe is the largest in California, there are fewer than a dozen first-language speakers of the language (Golla 2011). However, tribal members and language activists have been pursuing language revitalization and reclamation ([Yurok Language Project](http://linguistics.berkeley.edu/~yurok/)).
 
 <div class="image fit left" style="width: 275px;">
 <img alt="Klamath River estuary" src="{{ site.urlimg }}klamath-river-estuary.jpg" width="275px"/>
@@ -17,6 +17,8 @@ The traditional Yurok language area is along the Klamath River, from its mouth a
 Klamath River estuary (Photo courtesy of Andrew Garrett)
 </div>
 </div>
+
+![Klamath River estuary place]({{ site.urlimg }}klamath-river-estuary.jpg)
 
 Yurok belongs to the Algic language family, which also includes [Wiyot](wiyot.html), spoken immediately to the south, as well as all the Algonquian languages (Cree, Ojibwe, and many others), which are spoken across central and eastern Canada and the northern United State from the Rocky Mountains to the Atlantic coast.
 
