@@ -27,7 +27,7 @@ The `--delete` option removes files on the server that are not in the new site.
 
 ## File organization
 
-* `images/`: Where to put images that will be under `/images` url.
+* `assets/images/`: Where to put images that will be under `/images` url.
 * `assets/img`: Where to put favicons
 
 
