@@ -7,7 +7,7 @@ sitemap: true
 
 {::nomarkdown}
 <div class="image fit right" style="width: 226px;">
-<a href="images/yokuts-survey-sheet-big.jpg"><img src="images/yokuts-survey-sheet.jpg" alt="A Yokuts survey sheet" width="226px"/></a>
+<a href="images/yokuts-survey-sheet-big.jpg"><img src="{{ site.urlimg }}yokuts-survey-sheet.jpg" alt="A Yokuts survey sheet" width="226px"/></a>
 <div class="caption">A <a href="languages/yokuts.html">Chukchansi Yokuts</a> survey sheet (<a href="http://dx.doi.org/doi:10.7297/X2HT2M7T">Broadbent.004</a>)</div>
 </div>
 {:/nomarkdown}
@@ -28,7 +28,7 @@ The **[Jaime de Angulo Collection](list.html?collid=11)** contains notebooks, fi
 
 {::nomarkdown}
 <div class="image fit left" style="width: 226px;">
-<img src="images/halpern-field-notebook.jpg" alt="A page from Abraham Halpern's field notebook" width="226px"/></a>
+<img src="{{ site.urlimg }}halpern-field-notebook.jpg" alt="A page from Abraham Halpern's field notebook" width="226px"/></a>
 <div class="caption">A page from one of <a href="{{ site.url }}/list.html?pplid=78">Abraham Halpern</a>'s field notebooks (<a href="http://dx.doi.org/doi:10.7297/X24F1NN1">Halpern.009.003</a>)</div>
 </div>
 {:/nomarkdown}
