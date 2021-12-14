@@ -327,7 +327,7 @@ function render_metadata(data) {
                     }
                     bndlList += ')';
                     if (typeof(has_audio) != 'undefined' && has_audio) {
-                        bndlList += ' <img src="images/audio.gif" alt="Item contains audio" />';
+                        bndlList += ' <img src="assets/img/audio.gif" alt="Item contains audio" />';
                     }
                 }
                 bndlList += '&nbsp;<i class="icon fa-caret-right"></i></label>';
