@@ -10,6 +10,7 @@ categories:
   - news
 tags:
   - announcement (tag)
+permalink: /blog/:year/:title.html
 ---
 
 Thanks for visiting CLA. We've got a new site. (body)

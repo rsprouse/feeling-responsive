@@ -14,7 +14,7 @@ search:
   url: list.html
 widget1:
   title: "The CLA Blog"
-  url: 'blog/'
+  url: 'blog/2021/donate.html'
   image: steele_notes.jpg
   text: 'CLA blog posts for you to read.'
 widget2:
@@ -25,7 +25,7 @@ widget2:
   text: 'We want to highlight the YYY project.'
 widget3:
   title: "Collection spotlight"
-  url: collspot/permalink2
+  url: blog/2021/collspot2.html
   image: xavante_coll.png
   text: 'We are pointing our spotlight at the XXX Collection.'
 #
