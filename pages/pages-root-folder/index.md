@@ -20,7 +20,7 @@ widget1:
 widget2:
   title: Revitalizing an ISO lang
   teaser: subtitle
-  url: projspot/permalink2
+  url: projects/2021/revitalizing-iso-lang.html
   image: eva_aikana.jpg
   text: 'We want to highlight the YYY project.'
 widget3:
