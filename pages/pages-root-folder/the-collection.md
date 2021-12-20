@@ -3,6 +3,7 @@ permalink: the-collection.html
 layout: page
 title: The collection
 sidebar: left
+sidebar_include: _collections_sidebar.html
 sitemap: true
 ---
 
