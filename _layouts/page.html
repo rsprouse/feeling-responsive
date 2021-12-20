@@ -54,9 +54,9 @@ format: post
 	Set a default sidebar comment. Can be overridden by setting
 	sidebar_include value in the page header.
 	{% endcomment %}
-	{% set sidebar_inc == "_sidebar.html" %}
+	{% set sidebar_inc = "_sidebar.html" %}
 	{% if page.sidebar_include %}
-	  {% set sidebar_inc == page.sidebar_include %}
+	  {% set sidebar_inc = page.sidebar_include %}
 	{% endif %}
 
 	{% if page.sidebar == "left" %}
