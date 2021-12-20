@@ -38,9 +38,6 @@ jobs:
       DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
  
     steps:
-      - name: Install Ubuntu dependencies
-        run: sudo apt update && sudo apt install -y --no-install-recommends libffi-dev
-
       - uses: actions/checkout@v2
 
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
