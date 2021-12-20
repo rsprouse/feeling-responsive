@@ -71,4 +71,5 @@ jobs:
           ls -al
           ls -alR build
           rsync -a build/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
+          rsync Gemfile.lock ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
 
