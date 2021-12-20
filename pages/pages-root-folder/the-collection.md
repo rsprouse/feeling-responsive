@@ -2,15 +2,10 @@
 permalink: the-collection.html
 layout: page
 title: The collection
+sidebar: left
+sidebar_include: _collections_sidebar.html
 sitemap: true
 ---
-
-{::nomarkdown}
-<div class="image fit right" style="width: 226px;">
-<a href="images/yokuts-survey-sheet-big.jpg"><img src="{{ site.urlimg }}yokuts-survey-sheet.jpg" alt="A Yokuts survey sheet" width="226px"/></a>
-<div class="caption">A <a href="languages/yokuts.html">Chukchansi Yokuts</a> survey sheet (<a href="http://dx.doi.org/doi:10.7297/X2HT2M7T">Broadbent.004</a>)</div>
-</div>
-{:/nomarkdown}
 
 The Survey of California and Other Indian Languages has over 150 linear feet of archival material, mostly paper records, comprising over 2000 separate catalog records. We hold primary source material on some 130 languages, mainly spoken in the western United States, including at least 50 of the indigenous languages of California. Especially well-represented language groups include Algic, Athabaskan, Chumashan, Hokan (for example Karuk, Pomoan, and Shastan), Penutian (for example Maiduan, Miwok-Ohlone, and Wintun), Uto-Aztecan, and Yukian. All of the languages documented in our collection are severely endangered if they have any remaining native speakers.
 
@@ -25,13 +20,6 @@ In addition to familiar genres such as notes, file slips, and manuscripts, our c
 Our collections of primary and secondary materials include the following, among many others:
 
 The **[Jaime de Angulo Collection](list.html?collid=11)** contains notebooks, file slips and handwritten manuscripts from de Angulos early twentieth century work on a wide range of North American languages including [Achumawi](languages/achumawi.html), some Miwokan languages, and [Shasta](languages/shasta.html).
-
-{::nomarkdown}
-<div class="image fit left" style="width: 226px;">
-<img src="{{ site.urlimg }}halpern-field-notebook.jpg" alt="A page from Abraham Halpern's field notebook" width="226px"/></a>
-<div class="caption">A page from one of <a href="{{ site.url }}/list.html?pplid=78">Abraham Halpern</a>'s field notebooks (<a href="http://dx.doi.org/doi:10.7297/X24F1NN1">Halpern.009.003</a>)</div>
-</div>
-{:/nomarkdown}
 
 The **[S. A. Barrett Collection](list.html?collid=7)** contains 41 files of field notebooks, manuscripts and index cards documenting at least 11 different languages and dating from 1902 through 1908. The collection includes a large amount of material on Pomoan languages and is invaluable for the comparative and historical study of this language family.
 
