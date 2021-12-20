@@ -51,20 +51,24 @@ format: post
 
 
 	{% comment %}
-	If a sidebar special to the page has been set it will be used, else
-	the default.
+	Set a default sidebar comment. Can be overridden by setting
+	sidebar_include value in the page header.
 	{% endcomment %}
+	{% assign sidebar_inc = "_sidebar.html" %}
+	{% if page.sidebar_include %}
+	  {% assign sidebar_inc = page.sidebar_include %}
+	{% endif %}
 
 	{% if page.sidebar == "left" %}
 	<div class="medium-4 columns medium-pull-8">
-		{% include [page.sidebar_include, "_sidebar.html"] %}
+		{% include {{ sidebar_inc }} %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
 
 	{% if page.sidebar == "right" %}
 	<div class="medium-4 columns">
-		{% include [page.sidebar_include, "_sidebar.html"] %}
+		{% include {{ sidebar_inc }} %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 </div><!-- /.row -->
