@@ -10,7 +10,8 @@ Established over half a century ago as the first state-funded institution specif
 
 ## Documentation
 
-<div class="image fit left" style="width: 350px;"><img src="{{ site.urlimg }}ohagan-salazar.jpg" alt="Zachary O'Hagan and Antonina Salazar Torres, reviewing handwritten Caquinte stories, 2016" width="350px"/><div class="caption">Zachary O'Hagan and Antonina Salazar Torres, reviewing handwritten Caquinte stories, Peru, 2016 (photo courtesy of Rachel Keynton)</div></div>
+<img src="{{ site.urlimg }}ohagan-salazar.jpg" alt="Zachary O'Hagan and Antonina Salazar Torres, reviewing handwritten Caquinte stories, 2016" class="th"/>
+<div class="caption">Zachary O'Hagan and Antonina Salazar Torres, reviewing handwritten Caquinte stories, Peru, 2016 (photo courtesy of Rachel Keynton)</div>
 
 The central mission of the Survey has always been language documentation, focusing on the dozens of Indigenous languages of California but also including other languages of the Americas. We have sponsored documentary linguistic work from Alaska and Canada in the north to Peru and Bolivia in the south, but the bulk of our work has been in California, elsewhere in the western and southwestern United States, and in Mexico. In the 1950s and 1960s, the Survey developed a series of elicitation protocols that students used for quick, survey-style linguistic work throughout the state; these are now a valuable part of our permanent collection. At present, support for Berkeley students includes limited financial and technical assistance, as well as physical and digital storage space for the archiving of ongoing fieldwork projects. We also sponsor occasional workshops for California Indian communities with their own documentation programs, in which we give advice about good practices in documentation and archiving.
 
