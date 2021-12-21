@@ -17,7 +17,9 @@ function configure_select2(endpoint) {
         }
     });
     // Let php know that javascript is available.
-    $('#with_js')[0].value = "1";
+    if ( $('#with_js').length) {
+        $('#with_js')[0].value = "1";
+    }
 }
 
 /*
