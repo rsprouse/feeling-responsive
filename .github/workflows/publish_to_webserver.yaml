@@ -71,6 +71,6 @@ jobs:
         run: |
           pwd
           ls -al
-          ls -alR build
-          rsync -a build/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
+          ls -alR _site
+          rsync -a _site/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
 
