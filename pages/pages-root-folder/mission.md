@@ -2,6 +2,7 @@
 permalink: mission.html
 layout: page
 title: Our mission
+sidebar: left
 sitemap: true
 ---
 
