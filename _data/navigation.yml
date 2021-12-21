@@ -10,11 +10,11 @@
   side: right
   dropdown:
   - title: Collections
-    url: "/browse-collections"
+    url: "browse-collections.html"
   - title: Languages
-    url: "/browse-languages"
+    url: "browse-languages.html"
   - title: People
-    url: "/browse-people"
+    url: "browse-people.html"
 
 - title: Resources
   side: right
