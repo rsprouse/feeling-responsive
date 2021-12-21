@@ -52,10 +52,7 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
-
-      - uses: helaili/jekyll-action@v2
-        with:
-          build_only: true
+        run: bundle exec jekyll build
 
       - name: Install SSH key
         uses: shimataro/ssh-key-action@v2
