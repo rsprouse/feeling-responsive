@@ -6,4 +6,4 @@ sidebar: left
 sitemap: true
 ---
 
-<div data-interchange="[assets/partials/collection-list.html, small]"></div>
+<iframe src="assets/partials/collection-list.html"></iframe>
