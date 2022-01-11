@@ -7,4 +7,4 @@ sitemap: true
 iframe_include: collection-list.html
 ---
 
-<iframe id="iframe-list" src="assets/partials/{{ page.iframe_include }}"></iframe>
+<iframe id="iframe-list" src="assets/partials/{{ page.iframe_include }}" style="border=0;"></iframe>
