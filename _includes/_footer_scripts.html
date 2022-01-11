@@ -77,7 +77,21 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
+{% if page.iframe_include %}
+<script type="application/javascript">
 
+function resizeIFrameToFitContent( iFrame ) {
+    iFrame.width  = iFrame.contentWindow.document.body.scrollWidth;
+    iFrame.height = iFrame.contentWindow.document.body.scrollHeight;
+}
+
+window.addEventListener('DOMContentLoaded', function(e) {
+    const iFrame = document.getElementById( 'iframe-list' );
+    resizeIFrameToFitContent( iFrame );
+} );
+
+</script>
+{% endif %}
 
 
 
