@@ -37,8 +37,8 @@ function createMap(data) {
         var marker = new google.maps.Marker({ 
             map: map, 
             position: point,
-            icon: 'images/mm_20_gold3.png', 
-            shadow: 'images/mm_20_shadow.png'
+            icon: 'assets/img/mm_20_gold3.png',
+            shadow: 'assets/img/mm_20_shadow.png'
         });
         marker.addListener('click', function() {
 //            window.location = href;
