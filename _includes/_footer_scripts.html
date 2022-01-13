@@ -91,7 +91,8 @@ function resizeIFrameToFitContent( iFrame ) {
 //} );
 
 $('#iframe-list').load(function() {
-    resizeIFrameToFitContent( $('#iframe-list') );
+    const iFrame = document.getElementById( 'iframe-list' );
+    resizeIFrameToFitContent( iFrame );
 });
 
 </script>
