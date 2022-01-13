@@ -1,10 +1,8 @@
 ---
 permalink: browse-languages.html
-layout: page
-title: Browse by Collection
-sidebar: left
+layout: browse_page
+title: Browse Languages
 sitemap: true
 iframe_include: language-list.html
 ---
 
-<iframe id="iframe-list" src="assets/partials/{{ page.iframe_include }}" style="border=0;"></iframe>
