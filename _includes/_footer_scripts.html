@@ -85,10 +85,14 @@ function resizeIFrameToFitContent( iFrame ) {
     iFrame.height = iFrame.contentWindow.document.body.scrollHeight;
 }
 
-window.addEventListener('DOMContentLoaded', function(e) {
-    const iFrame = document.getElementById( 'iframe-list' );
-    resizeIFrameToFitContent( iFrame );
-} );
+//window.addEventListener('DOMContentLoaded', function(e) {
+//    const iFrame = document.getElementById( 'iframe-list' );
+//    resizeIFrameToFitContent( iFrame );
+//} );
+
+$('#iframe-list').load(function() {
+    resizeIFrameToFitContent( $('#iframe-list') );
+});
 
 </script>
 {% endif %}
