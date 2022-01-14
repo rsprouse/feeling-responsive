@@ -85,6 +85,14 @@ function resizeIFrameToFitContent( iFrame ) {
     iFrame.height = iFrame.contentWindow.document.body.scrollHeight + 40;
 }
 
+{% comment %}
+# Attach the iframe resize function to different listeners since browsers
+# seem to recognize the timing of these events differently.
+{% endcomment %}
+window.addEventListener('DOMContentLoaded', function(e) {
+    const iFrame = document.getElementById( 'iframe-list' );
+    resizeIFrameToFitContent( iFrame );
+} );
 $('#iframe-list').load(function() {
     const iFrame = document.getElementById( 'iframe-list' );
     resizeIFrameToFitContent( iFrame );
