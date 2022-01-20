@@ -68,6 +68,15 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
     populate_form_from_query_string('cla-search-form');
     $('#cla-search-form').on('submit', handleSelect2FormSubmit);
     $('#cla-search-form').submit();
+{% else %}
+  populate_select2_from_qdata_form();
+{% endif %}
+  make_pagination('cla-search-form');
+        toggle_showall('coll');
+  </script>
+{% endif %}
+
+{% if page.tabs_include == true %}
 {% comment %}
 Make tabs work correctly after content is loaded.
 {% endcomment %}
@@ -76,12 +85,6 @@ Make tabs work correctly after content is loaded.
     window.addEventListener('DOMContentLoaded', function(e) {
       $(document).foundation('tab', 'reflow');
   } );
-  </script>
-{% else %}
-  populate_select2_from_qdata_form();
-{% endif %}
-  make_pagination('cla-search-form');
-        toggle_showall('coll');
   </script>
 {% endif %}
 

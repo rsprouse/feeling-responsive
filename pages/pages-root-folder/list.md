@@ -2,6 +2,7 @@
 permalink: list.html
 layout: page
 search_results: true
+tabs_include: true
 title: Search results
 sitemap: false
 ---
