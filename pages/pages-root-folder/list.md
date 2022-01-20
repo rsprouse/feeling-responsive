@@ -1,6 +1,7 @@
 ---
 permalink: list.html
 layout: page
+tabs_include: true
 title: Search results
 sitemap: false
 ---
