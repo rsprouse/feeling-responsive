@@ -7,6 +7,8 @@ title: Search results
 sitemap: false
 ---
 
+{% include _search_form.html %}
+
 <ul class="tabs" data-tab>
   <li class="tab-title active"><a href="#coll">Collections</a></li>
   <li class="tab-title"><a href="#bndl">Items</a></li>
