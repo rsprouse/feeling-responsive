@@ -1,6 +1,7 @@
 ---
 permalink: list.html
 layout: page
+search_include: true
 search_results: true
 tabs_include: true
 title: Search results
