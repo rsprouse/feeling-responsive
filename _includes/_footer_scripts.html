@@ -5,6 +5,32 @@
   configure_select2('https://xfhpwly456.execute-api.us-east-1.amazonaws.com/api/');
 </script>
 
+{% if page.clamap == true %}
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3&key={{ site.google_maps_api_key }}"></script>
+<script type="text/javascript" src="assets/js/cla-map.js"></script>
+<script type="text/javascript">
+  initMap('{{ site.clamap }}');
+</script>
+{% endif %}
+
+{% if page.mediaplayer == true %}
+<script>
+$('audio,video').mediaelementplayer();
+</script>
+{% endif %}
+
+
+<script src="{{ site.url }}{{ site.baseurl }}assets/js/javascript.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}assets/js/foundation.interchange.min.js"></script>
+
+
+{% if page.header.image_fullwidth %}
+<script>
+    $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
+    $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
+</script>
+{% endif %}
+
 {% comment %}
 TODO: better implementation of conditional
 {% endcomment %}
@@ -22,13 +48,6 @@ a = 1;
 </script>
 {% endif %}
 
-{% if page.clamap == true %}
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3&key={{ site.google_maps_api_key }}"></script>
-<script type="text/javascript" src="assets/js/cla-map.js"></script>
-<script type="text/javascript">
-  initMap('{{ site.clamap }}');
-</script>
-{% endif %}
 {% if page.search_results == true %}
 <script type="application/javascript">
 {% comment %}
@@ -49,43 +68,21 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
     populate_form_from_query_string('cla-search-form');
     $('#cla-search-form').on('submit', handleSelect2FormSubmit);
     $('#cla-search-form').submit();
-$(document).foundation('tab', 'reflow');
+{% comment %}
+Make tabs work correctly after content is loaded.
+{% endcomment %}
+  <script src="{{ site.url }}{{ site.baseurl }}assets/js/foundation.tab.min.js"></script>
+  <script type="application/javascript">
+    window.addEventListener('DOMContentLoaded', function(e) {
+      $(document).foundation('tab', 'reflow');
+  } );
+  </script>
 {% else %}
   populate_select2_from_qdata_form();
 {% endif %}
   make_pagination('cla-search-form');
         toggle_showall('coll');
   </script>
-{% endif %}
-
-{% if page.mediaplayer == true %}
-<script>
-$('audio,video').mediaelementplayer();
-</script>
-{% endif %}
-
-
-<script src="{{ site.url }}{{ site.baseurl }}assets/js/javascript.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}assets/js/foundation.interchange.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}assets/js/foundation.tab.min.js"></script>
-
-
-{% if page.header.image_fullwidth %}
-<script>
-    $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
-    $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
-</script>
-{% endif %}
-
-{% comment %}
-Make tabs work correctly after content is loaded.
-{% endcomment %}
-{% if page.tabs_include %}
-<script type="application/javascript">
-window.addEventListener('DOMContentLoaded', function(e) {
-    $(document).foundation('tab', 'reflow');
-} );
-</script>
 {% endif %}
 
 {% if page.iframe_include %}
