@@ -44,7 +44,6 @@ a = 1;
 {% endif %}
 
 {% if page.search_include %}
-<h2>searches</h2>
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/select2.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/cla-select2.js"></script>
 {% endif %}
@@ -64,7 +63,7 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
 {% endcomment %}
   $('#cla-search-form').on('submit', handleSelect2FormSubmit);
   $("a.post").on('click', handleMetadataLinkClick);
-  configure_select2('https://xfhpwly456.execute-api.us-east-1.amazonaws.com/api/');
+	configure_select2({{ site.search.aws_endpoint }}, {{ site.search.placeholder }});
 {% if page.title == "Search results" %}
     populate_form_from_query_string('cla-search-form');
     $('#cla-search-form').on('submit', handleSelect2FormSubmit);

@@ -1,10 +1,10 @@
 var aws_endpoint = ''; // File global.
 
-function configure_select2(endpoint) {
+function configure_select2(endpoint, placeholder) {
     aws_endpoint = endpoint;  // Set file global variable.
     $('#cla-search-select').select2({
         dropdownParent: $('#cla-search-form'),
-        placeholder: 'Search languages, people, topics, identifiers.',
+        placeholder: placeholder,
         allowClear: true,
         minimumInputLength: 2,
         multiple: true,
