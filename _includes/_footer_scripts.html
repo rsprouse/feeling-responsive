@@ -77,6 +77,17 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
+{% comment %}
+Make tabs work correctly after content is loaded.
+{% endcomment %}
+{% if page.tabs_include %}
+<script type="application/javascript">
+window.addEventListener('DOMContentLoaded', function(e) {
+    $(document).foundation('tab', 'reflow');
+} );
+</script>
+{% endif %}
+
 {% if page.iframe_include %}
 <script type="application/javascript">
 
