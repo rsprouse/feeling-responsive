@@ -113,7 +113,8 @@ const handleSelect2FormSubmit = event => {
   event.preventDefault();
   tab = coll_or_bndl_tab();
   var query = get_query_from_form(event.currentTarget.id);
-  $.post({
+  $.ajax({
+      method: 'POST',
       url: aws_endpoint + 'sq',
       data: JSON.stringify(query),
       dataType: 'json',
