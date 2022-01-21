@@ -8,10 +8,7 @@ layout: cla-frontpage
 header:
   image_fullwidth: homepage_collage_beta.jpg
   title: California Language Archive
-search:
-  placeholder: Search languages, people, topics, identifiers.
-  button_text: Search CLA
-  url: list.html
+search_include: true
 widget1:
   title: "The CLA Blog"
   url: 'blog/2021/donate.html'
@@ -20,7 +17,7 @@ widget1:
 widget2:
   title: Revitalizing an ISO lang
   teaser: subtitle
-  url: projects/2021/revitalizing-iso-lang.html
+  url: blog/2021/revitalizing-iso-lang.html
   image: eva_aikana.jpg
   text: 'We want to highlight the YYY project.'
 widget3:
