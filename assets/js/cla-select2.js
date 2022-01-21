@@ -127,8 +127,8 @@ const handleSelect2FormSubmit = event => {
           showall[tab] = true;
 
           let { collHTML, bndlHTML, collcntHTML, bndlcntHTML, searchstrHTML } = render_metadata(data);
-          $('#coll-tab').replaceWith(collHTML);
-          $('#bndl-tab').replaceWith(bndlHTML);
+          $('#coll').replaceWith(collHTML);
+          $('#bndl').replaceWith(bndlHTML);
           make_pagination(event.currentTarget.id);
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
@@ -348,7 +348,7 @@ function render_metadata(data) {
     }
 
     // beginning of the collection section
-    collHTML += '<div class="sectiontab" id="coll-tab"><div class="12u 12u$(small)">';
+    collHTML += '<div class="sectiontab" id="coll"><div class="12u 12u$(small)">';
     collcntHTML += '<p><b>';
     if (total_coll != 0) {
         collcntHTML += (collfrom+1);
@@ -368,7 +368,7 @@ function render_metadata(data) {
     collHTML += '</div></div>';
 
     // list of bundle items
-    bndlHTML += '<div class="sectiontab" id="bndl-tab"><div class="12u 12u$(small)">';
+    bndlHTML += '<div class="sectiontab" id="bndl"><div class="12u 12u$(small)">';
     bndlcntHTML += '<p><b>';
     if (total_bndl != 0) {
         bndlcntHTML += (bndlfrom+1) + '</b> - <b>';
