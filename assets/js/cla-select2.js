@@ -38,6 +38,15 @@ function coll_or_bndl_tab() {
 }
 
 /**
+ * Handle click of Search button in search form, which is an <a>
+ * styled to look like a button rather than a <submit> button.
+ */
+const handleSelect2Submit = event => {
+    // Stop the link's GET action.
+    event.preventDefault();
+}
+
+/**
  * A handler function to handle clicks on <a href=""> elements
  * in Collection and Bundle metadata.
  * Transforms the link GET to a POST with prepopulated select2
