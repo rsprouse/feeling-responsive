@@ -262,8 +262,8 @@ function reset() {
 }
 
 function update_coll_and_bndl_counts(data) {
-    $('#collcnt').innerHTML = " (" + data['coll']['hits']['total'] + ")";
-    $('#bndlcnt').innerHTML = " (" + data['bndl']['hits']['total'] + ")";
+    $('#collcnt').html( " (" + data['coll']['hits']['total'] + ")" );
+    $('#bndlcnt').html( " (" + data['bndl']['hits']['total'] + ")" );
 }
 
 function render_metadata(data) {
