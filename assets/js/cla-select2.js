@@ -44,6 +44,9 @@ function coll_or_bndl_tab() {
 const handleSelect2Submit = event => {
     // Stop the link's GET action.
     event.preventDefault();
+    $.each($('#cla-search-form').find(':selected'), function(t) {
+        t.value; // e.g. 'langid=243=Karuk'
+    });
 }
 
 /**
