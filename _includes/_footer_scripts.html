@@ -68,8 +68,9 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
   $("a.post").on('click', handleMetadataLinkClick);
 {% if page.title == "Search results" %}
     populate_form_from_query_string('cla-search-form');
-    $('#cla-search-form').on('submit', handleSelect2FormSubmit);
-    $('#cla-search-form').submit();
+    $('#search_button').on('click', handleSelect2Submit);
+    //$('#cla-search-form').on('submit', handleSelect2FormSubmit);
+    //$('#cla-search-form').submit();
 {% else %}
   populate_select2_from_qdata_form();
 {% endif %}
