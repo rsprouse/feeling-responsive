@@ -140,8 +140,9 @@ const handleSelect2FormSubmit = event => {
 
           let { collHTML, bndlHTML, collcntHTML, bndlcntHTML, searchstrHTML } = render_metadata(data);
           update_coll_and_bndl_counts(data);
-          $('#coll').replaceWith(collHTML);
-          $('#bndl').replaceWith(bndlHTML);
+          update_coll(data);
+          //$('#coll').replaceWith(collHTML);
+          //$('#bndl').replaceWith(bndlHTML);
           make_pagination(event.currentTarget.id);
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
@@ -262,8 +263,16 @@ function reset() {
 }
 
 function update_coll_and_bndl_counts(data) {
-    $('#collcnt').html( " (" + data['coll']['hits']['total'] + ")" );
-    $('#bndlcnt').html( " (" + data['bndl']['hits']['total'] + ")" );
+    if (data['coll'] != "{}") {
+        $('#collcnt').html( " (" + data['coll']['hits']['total'] + ")" );
+    } else {
+        $('#collcnt').html(" (0)");
+    }
+    if (data['bndl'] != "{}") {
+        $('#bndlcnt').html( " (" + data['bndl']['hits']['total'] + ")" );
+    } else {
+        $('#bndlcnt').html(" (0)");
+    }
 }
 
 function render_metadata(data) {
