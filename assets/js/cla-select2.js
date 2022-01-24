@@ -139,6 +139,7 @@ const handleSelect2FormSubmit = event => {
           showall[tab] = true;
 
           let { collHTML, bndlHTML, collcntHTML, bndlcntHTML, searchstrHTML } = render_metadata(data);
+          update_coll_and_bndl_counts(data);
           $('#coll').replaceWith(collHTML);
           $('#bndl').replaceWith(bndlHTML);
           make_pagination(event.currentTarget.id);
@@ -258,6 +259,11 @@ function reset() {
     document.getElementById('bndlfrom').value = 0;
     document.getElementById('collfrom').value = 0;
     //document.getElementById('tab').value = "bndl";
+}
+
+function update_coll_and_bndl_counts(data) {
+    $('#collcnt').innerHTML = " (" + data['coll']['hits']['total'] + ")";
+    $('#bndlcnt').innerHTML = " (" + data['bndl']['hits']['total'] + ")";
 }
 
 function render_metadata(data) {
