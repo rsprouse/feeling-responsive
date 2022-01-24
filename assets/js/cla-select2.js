@@ -276,7 +276,7 @@ function update_coll_and_bndl_counts(data) {
 }
 
 function update_coll_list(q, recs) {
-    const collfirst = parseInt(q['collfrom'], 10) + 1;
+    const collfirst = parseInt(q['collfrom'], 10) + 11;
     $('#colllist').prop('start', collfirst);
     let collhtml = "";
     $.each(recs, function(i, r) {
