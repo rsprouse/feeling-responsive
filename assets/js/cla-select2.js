@@ -140,7 +140,7 @@ const handleSelect2FormSubmit = event => {
 
           let { collHTML, bndlHTML, collcntHTML, bndlcntHTML, searchstrHTML } = render_metadata(data);
           update_coll_and_bndl_counts(data);
-          update_coll(data);
+          update_coll_list(query, data["coll"]["hits"]["hits"]);
           //$('#coll').replaceWith(collHTML);
           //$('#bndl').replaceWith(bndlHTML);
           make_pagination(event.currentTarget.id);
@@ -273,6 +273,22 @@ function update_coll_and_bndl_counts(data) {
     } else {
         $('#bndlcnt').html(" (0)");
     }
+}
+
+function update_coll_list(q, recs) {
+    const collfirst = parseInt(q['collfrom'], 10) + 1;
+    $('#colllist').prop('start', collfirst);
+    let collhtml = "";
+    $.each(recs, function(i, r) {
+        let count = collfirst + i;
+        collhtml += '<li class="itemlist">';
+        collhtml += '<input id="_coll' +  count + '" type="checkbox" name="checkbox-coll">';
+        collhtml += '<label class="showmore" for="_coll' +  count + '">';
+        collhtml += '<a href="list.html?collid=' + r['_source']['collid'] + '" class="post">' + r['_source']['title'] +'</a>';
+        collhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
+        collhtml += r['_source']['ul_md'];
+    });
+    $('#colllist').html(collhtml);
 }
 
 function render_metadata(data) {

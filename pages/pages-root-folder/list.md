@@ -16,9 +16,11 @@ sitemap: false
 </ul>
 <div class="tabs-content">
   <div class="content active" id="coll">
-    <p>List of collections</p>
+    <ol id="colllist" class="alt", start="0">
+    </ol>
   </div>
   <div class="content" id="item">
-    <p>List of items</p>
+    <ol id="bndllist" class="alt", start="0">
+    </ol>
   </div>
 </div>
