@@ -16,15 +16,11 @@ sitemap: false
 </ul>
 <div class="tabs-content">
   <div class="content active" id="coll">
-{::nomarkdown}
-    <ol id="colllist" class="alt", start="0">
+    <ol id="colllist" class="alt" start="0">
     </ol>
-{/::nomarkdown}
   </div>
   <div class="content" id="item">
-{::nomarkdown}
-    <ol id="bndllist" class="alt", start="0">
+    <ol id="bndllist" class="alt" start="0">
     </ol>
-{/::nomarkdown}
   </div>
 </div>
