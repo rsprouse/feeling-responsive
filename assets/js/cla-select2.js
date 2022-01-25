@@ -257,7 +257,10 @@ function update_counts(q, data, sel) {
     if (data[sel] != "{}") {
         total = data[sel]['hits']['total'];
     }
-    let results = "result";
+    let results = 'Collection';
+    if (sel == 'bndl') {
+        results = 'Item';
+    }
     if (total != 1) {
         results += "s";
     }
