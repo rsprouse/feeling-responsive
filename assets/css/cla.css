@@ -10,6 +10,10 @@
   cursor: pointer;
 }
 
+label.showall {
+  display: none;
+}
+
 input + .showmore + ul{
   display:none;
 }
