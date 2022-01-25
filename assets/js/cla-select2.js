@@ -1,4 +1,6 @@
-var aws_endpoint = ''; // File global.
+// File globals
+let aws_endpoint = '';
+let showall = {'coll': true, 'bndl': true};
 
 function configure_select2(endpoint, placeholder) {
     aws_endpoint = endpoint;  // Set file global variable.
@@ -123,8 +125,8 @@ TODO: mapping to extract p.value is not tested
 const handleSelect2FormSubmit = event => {
   // Stop the form from submitting since we'll POST from here.
   event.preventDefault();
-  tab = coll_or_bndl_tab();
-  var query = get_query_from_form('cla-search-form');
+  const tab = coll_or_bndl_tab();
+  const query = get_query_from_form('cla-search-form');
   $.ajax({
       method: 'POST',
       url: aws_endpoint + 'sq',
@@ -134,11 +136,10 @@ const handleSelect2FormSubmit = event => {
           // Put 'showall' controls into proper state.
           $('#show-all-caret-' + tab).toggleClass('fa-caret-right', true);
           $('#show-all-caret-' + tab).toggleClass('fa-caret-down', false);
-          var sel = '[name="checkbox-' + tab + '"]';
+          const sel = '[name="checkbox-' + tab + '"]';
           $(sel).prop('checked', true);
           showall[tab] = true;
 
-          let { collHTML, bndlHTML, collcntHTML, bndlcntHTML, searchstrHTML } = render_metadata(data);
           update_counts(query, data, 'coll');
           update_counts(query, data, 'bndl');
           update_coll_list(query, data["coll"]["hits"]["hits"]);
@@ -208,7 +209,7 @@ const handleFocusOut = event => {
 * Show full metadata for all collection/items records in display list.
 */
 function toggle_showall(type) {
-    var sel = '[name="checkbox-' + type + '"]';  // type = 'coll'|'bndl'
+    const sel = '[name="checkbox-' + type + '"]';  // type = 'coll'|'bndl'
     $(sel).prop('checked', showall[type]);
     showall[type] = !showall[type];
     // Change the arrow direction.
@@ -291,7 +292,7 @@ function update_counts(q, data, sel) {
 function update_coll_list(q, recs) {
     const collfirst = parseInt(q['collfrom'], 10) + 1;
     $('#colllist').prop('start', collfirst);
-    let collhtml = "";
+    let collhtml = '';
     $.each(recs, function(i, r) {
         let count = collfirst + i;
         collhtml += '<li class="itemlist">';
@@ -307,7 +308,7 @@ function update_coll_list(q, recs) {
 function update_bndl_list(q, recs) {
     const bndlfirst = parseInt(q['bndlfrom'], 10) + 1;
     $('#bndllist').prop('start', bndlfirst);
-    let bndlhtml = "";
+    let bndlhtml = '';
     $.each(recs, function(i, r) {
         let count = bndlfirst + i;
         bndlhtml += '<li class="itemlist">';

@@ -60,12 +60,14 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
  State variables that indicate whether full metadata should display
  when 'showall' control is clicked.
 {% endcomment %}
-  var showall = {'coll': true, 'bndl': true};
+//  let showall = {'coll': true, 'bndl': true};
 {% comment %}
 //  $('#results').data('query', get_query_from_form());
 //  $('#cla-search-form').on('submit', handleSelect2FormSubmit);
 {% endcomment %}
-  $("a.post").on('click', handleMetadataLinkClick);
+  $('a.post').on('click', handleMetadataLinkClick);
+  $('#collshowall').on('click', toggle_showall('coll'));
+  $('#bndlshowall').on('click', toggle_showall('bndl'));
 {% if page.title == "Search results" %}
     populate_form_from_query_string('cla-search-form');
     $('#search_button').on('click', handleSelect2FormSubmit);
@@ -75,8 +77,8 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
   populate_select2_from_qdata_form();
 {% endif %}
   make_pagination('cla-search-form');
-        toggle_showall('coll');
-  </script>
+  toggle_showall('coll');
+</script>
 {% endif %}
 
 {% if page.tabs_include == true %}
