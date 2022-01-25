@@ -264,15 +264,19 @@ function reset() {
 
 function update_coll_and_bndl_counts(data) {
     if (data['coll'] != "{}") {
-        $('#collcnt').html( " (" + data['coll']['hits']['total'] + ")" );
+        const collhits = data['coll']['hits']['total'];
     } else {
-        $('#collcnt').html(" (0)");
+        const collhits = 0;
     }
+    $('#collcnt').html( " (" + collhits + ")" );
+    $('#collresultscnt > span[name="total"]').html(collhits);
     if (data['bndl'] != "{}") {
-        $('#bndlcnt').html( " (" + data['bndl']['hits']['total'] + ")" );
+        const bndlhits = data['bndl']['hits']['total'];
     } else {
-        $('#bndlcnt').html(" (0)");
+        const bndlhits = 0;
     }
+    $('#bndlcnt').html( " (" + bndlhits + ")" );
+    $('#bndlresultscnt > span[name="total"]').html(bndlhits);
 }
 
 function update_coll_list(q, recs) {
