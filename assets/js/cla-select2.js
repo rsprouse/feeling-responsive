@@ -139,7 +139,8 @@ const handleSelect2FormSubmit = event => {
           showall[tab] = true;
 
           let { collHTML, bndlHTML, collcntHTML, bndlcntHTML, searchstrHTML } = render_metadata(data);
-          update_coll_and_bndl_counts(data);
+          update_counts(data, 'coll');
+          update_counts(data, 'bndl');
           update_coll_list(query, data["coll"]["hits"]["hits"]);
           //$('#coll').replaceWith(collHTML);
           //$('#bndl').replaceWith(bndlHTML);
@@ -262,21 +263,23 @@ function reset() {
     //document.getElementById('tab').value = "bndl";
 }
 
-function update_coll_and_bndl_counts(data) {
-    if (data['coll'] != "{}") {
-        const collhits = data['coll']['hits']['total'];
+/*
+ * Update the display elements for coll/bndl counts.
+ */
+function update_counts(data, sel) {
+    if (data[sel] != "{}") {
+        const hits = data[sel]['hits']['total'];
     } else {
-        const collhits = 0;
+        const hits = 0;
     }
-    $('#collcnt').html( " (" + collhits + ")" );
-    $('#collresultscnt > span[name="total"]').html(collhits);
-    if (data['bndl'] != "{}") {
-        const bndlhits = data['bndl']['hits']['total'];
-    } else {
-        const bndlhits = 0;
+    let results = "result";
+    if (hits != 1) {
+        results += "s";
     }
-    $('#bndlcnt').html( " (" + bndlhits + ")" );
-    $('#bndlresultscnt > span[name="total"]').html(bndlhits);
+    $('#' + sel).html( " (" + hits + ")" );
+    $('#' + sel + 'resultscnt > span[name="total"]').html(hits);
+    $('#' + sel + 'resultscnt > span[name="results"]').html(results);
+    $('#' + sel + 'resultscnt').show()
 }
 
 function update_coll_list(q, recs) {

@@ -16,12 +16,12 @@ sitemap: false
 </ul>
 <div class="tabs-content">
   <div class="content active" id="coll">
-    <p id="collresultscnt" display="none"><b><span name="start" class="counts"></span></b> &ndash; <b><span name="end"></span></b> of <b><span id="total"></span></b></p>
+    <p id="collresultscnt"><b><span name="start" class="counts"></span></b> &ndash; <b><span name="end"></span></b> of <b><span id="total"></span></b> <span name="result"></span></p>
     <ol id="colllist" class="alt" start="0">
     </ol>
   </div>
   <div class="content" id="item">
-    <p id="bndlresultscnt" display="none"><b><span name="start" class="counts"></span></b> &ndash; <b><span name="end"></span></b> of <b><span id="total"></span></b></p>
+    <p id="bndlresultscnt"><b><span name="start" class="counts"></span></b> &ndash; <b><span name="end"></span></b> of <b><span id="total"></span></b> <span name="result"></span></p>
     <ol id="bndllist" class="alt" start="0">
     </ol>
   </div>
