@@ -129,6 +129,7 @@ const handleSelect2FormSubmit = event => {
           update_counts(query, data, 'bndl');
           update_coll_list(query, data["coll"]["hits"]["hits"]);
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
+	  $('#tablist').show();
 	  $('label.showall').show();
           make_pagination(event.currentTarget.id);
           // Add event handlers for all <a href=""> metadata elements that

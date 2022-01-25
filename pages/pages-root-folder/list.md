@@ -5,6 +5,7 @@ search_include: true
 search_results: true
 tabs_include: true
 title: Search results
+hide_title: true
 sitemap: false
 ---
 
