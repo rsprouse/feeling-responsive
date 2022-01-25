@@ -282,7 +282,7 @@ function update_counts(data, sel) {
 }
 
 function update_coll_list(q, recs) {
-    const collfirst = parseInt(q['collfrom'], 10) + 11;
+    const collfirst = parseInt(q['collfrom'], 10) + 1;
     $('#colllist').prop('start', collfirst);
     let collhtml = "";
     $.each(recs, function(i, r) {
