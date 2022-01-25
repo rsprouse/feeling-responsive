@@ -1,7 +1,8 @@
 /*
 The original feeling_responsive theme did not include the tabs
 component from Foundation 5. We include the .css related to tabs
-here, and it would be nice to someday compile it from scss so
+here (it was copied from the tab demo page in the Foundation 5
+docs). It would be nice to someday compile it from scss so
 that changes to the styling could be handled in the same way as
 the .scss files in the _sass directory.
 */
@@ -10,7 +11,8 @@ the .scss files in the _sass directory.
   margin-left: 0; }
   .tabs:before, .tabs:after {
     content: " ";
-    display: table; }
+/*    display: table; # This resulted in weird shiftingh of content immediately below the tab titles of a few pixels' height. */
+  }
   .tabs:after {
     clear: both; }
   .tabs dd,
