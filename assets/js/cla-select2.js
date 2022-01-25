@@ -267,21 +267,26 @@ function reset() {
  * Update the display elements for coll/bndl counts.
  */
 function update_counts(q, data, sel) {
-    let hits = 0;
+    let total = 0;
     if (data[sel] != "{}") {
-        hits = data[sel]['hits']['total'];
+        total = data[sel]['hits']['total'];
     }
     let results = "result";
-    if (hits != 1) {
+    if (total != 1) {
         results += "s";
     }
-    $('#' + sel + 'cnt').html( " (" + hits + ")" );
+    /* Update the tab labels with number of Colls/Bndls. */
+    $('#' + sel + 'cnt').html( " (" + total + ")" );
+
+    /* Update the 'X - Y of Z results' line. */
     const start = parseInt(q[sel + 'from'], 10);
-    $('#' + sel + 'resultscnt').find('span[name="start"]').html(start + 1);
-    $('#' + sel + 'resultscnt').find('span[name="end"]').html(start + data[sel]["hits"]["hits"].length);
-    $('#' + sel + 'resultscnt').find('span[name="total"]').html(hits);
-    $('#' + sel + 'resultscnt').find('span[name="results"]').html(results);
-    $('#' + sel + 'resultscnt').show()
+    const end = start + data[sel]["hits"]["hits"].length;
+    const rsel = '#' + sel + 'resultscnt';
+    $(rsel).find('span[name="start"]').html(start + 1);
+    $(rsel).find('span[name="end"]').html(end);
+    $(rsel).find('span[name="total"]').html(total);
+    $(rsel).find('span[name="results"]').html(results);
+    $(rsel).show()
 }
 
 function update_coll_list(q, recs) {
