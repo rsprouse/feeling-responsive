@@ -142,8 +142,7 @@ const handleSelect2FormSubmit = event => {
           update_counts(query, data, 'coll');
           update_counts(query, data, 'bndl');
           update_coll_list(query, data["coll"]["hits"]["hits"]);
-          //$('#coll').replaceWith(collHTML);
-          //$('#bndl').replaceWith(bndlHTML);
+          update_bndl_list(query, data["bndl"]["hits"]["hits"]);
           make_pagination(event.currentTarget.id);
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
@@ -303,6 +302,41 @@ function update_coll_list(q, recs) {
         collhtml += r['_source']['ul_md'];
     });
     $('#colllist').html(collhtml);
+}
+
+function update_bndl_list(q, recs) {
+    const bndlfirst = parseInt(q['bndlfrom'], 10) + 1;
+    $('#bndllist').prop('start', bndlfirst);
+    let bndlhtml = "";
+    $.each(recs, function(i, r) {
+        let count = bndlfirst + i;
+        bndlhtml += '<li class="itemlist">';
+        bndlhtml += '<input id="_bndl' +  count + '" type="checkbox" name="checkbox-bndl">';
+        bndlhtml += '<label class="showmore" for="_bndl' + count + '">';
+        bndlhtml += '<a href="item.html?bndlid=' + r['_source']['bndlid'] + '">' + r['_source']['title'] + '</a>';
+        let datestr = r['_source']['datestr'];
+        if (typeof(datestr) != 'undefined' && datestr != '') {
+            bndlhtml += ' (' + datestr + ') ';
+        }
+        let assetcnt = r['_source']['assetcnt'];
+        if (typeof(assetcnt) != 'undefined' && assetcnt > 0) {
+            bndlhtml += ' (' + assetcnt + ' digital file';
+            if (assetcnt > 1) {
+                bndlhtml += 's';
+            }
+            let has_audio = r['_source']['has_audio'];
+            if (typeof(has_audio) != 'undefined' && has_audio) {
+                bndlhtml += ', with audio';
+            }
+            bndlhtml += ')';
+            if (typeof(has_audio) != 'undefined' && has_audio) {
+                bndlhtml += '<i class="icon file-audio"></i>';
+            }
+        }
+        bndlhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
+        bndlhtml += r['_source']['ul_md'];
+    });
+    $('#bndllist').html(bndlhtml);
 }
 
 function render_metadata(data) {
