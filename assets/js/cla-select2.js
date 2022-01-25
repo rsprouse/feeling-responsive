@@ -267,10 +267,9 @@ function reset() {
  * Update the display elements for coll/bndl counts.
  */
 function update_counts(data, sel) {
+    let hits = 0;
     if (data[sel] != "{}") {
-        const hits = data[sel]['hits']['total'];
-    } else {
-        const hits = 0;
+        hits = data[sel]['hits']['total'];
     }
     let results = "result";
     if (hits != 1) {
