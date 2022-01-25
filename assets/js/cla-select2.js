@@ -277,10 +277,10 @@ function update_counts(q, data, sel) {
     }
     $('#' + sel + 'cnt').html( " (" + hits + ")" );
     const start = parseInt(q[sel + 'from'], 10);
-    $('#' + sel + 'resultscnt >> span[name="start"]').html(start + 1);
-    $('#' + sel + 'resultscnt >> span[name="end"]').html(start + data[sel]["hits"]["hits"].length);
-    $('#' + sel + 'resultscnt >> span[name="total"]').html(hits);
-    $('#' + sel + 'resultscnt >> span[name="results"]').html(results);
+    $('#' + sel + 'resultscnt').find('span[name="start"]').html(start + 1);
+    $('#' + sel + 'resultscnt').find('span[name="end"]').html(start + data[sel]["hits"]["hits"].length);
+    $('#' + sel + 'resultscnt').find('span[name="total"]').html(hits);
+    $('#' + sel + 'resultscnt').find('span[name="results"]').html(results);
     $('#' + sel + 'resultscnt').show()
 }
 
