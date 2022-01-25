@@ -24,21 +24,6 @@ function configure_select2(endpoint, placeholder) {
     }
 }
 
-/*
- * Return 'bndl' or 'coll' if the 'bndl' or 'coll' tab is
- * currently displayed. Return '' if neither.
-*/
-function coll_or_bndl_tab() {
-    var id = $('input[name="tabs"]:checked').prop('id');
-    var type = '';
-    if (id == 'tab1') {
-        type = 'coll';
-    } else if (id == 'tab2') {
-        type = 'bndl';
-    }
-    return type;
-}
-
 /**
  * Handle click of Search button in search form, which is an <a>
  * styled to look like a button rather than a <submit> button.
@@ -125,7 +110,7 @@ TODO: mapping to extract p.value is not tested
 const handleSelect2FormSubmit = event => {
   // Stop the form from submitting since we'll POST from here.
   event.preventDefault();
-  const tab = coll_or_bndl_tab();
+  const tab = $('#tablist > li.active').data('tabname');
   const query = get_query_from_form('cla-search-form');
   $.ajax({
       method: 'POST',
@@ -543,9 +528,9 @@ function make_pagination(formid) {
         html += '</div>';
         $('#' + tab + 'paginator').replaceWith(html);
         $('#' + tab + 'paginator > a').on('click', function(event) {
-            var page = event.target.dataset.page;
-            var size = parseInt($('#cla-search-form > [name="size"]').prop('value'));
-            var tab = coll_or_bndl_tab();
+            const page = event.target.dataset.page;
+            const size = parseInt($('#cla-search-form > [name="size"]').prop('value'));
+            const tab = $('#tablist > li.active').data('tabname');
             changefrom(tab, (page - 1) * size);
         });
     }
