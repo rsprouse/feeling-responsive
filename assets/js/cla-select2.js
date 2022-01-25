@@ -275,7 +275,7 @@ function update_counts(data, sel) {
     if (hits != 1) {
         results += "s";
     }
-    $('#' + sel).html( " (" + hits + ")" );
+    $('#' + sel + 'cnt').html( " (" + hits + ")" );
     $('#' + sel + 'resultscnt > span[name="total"]').html(hits);
     $('#' + sel + 'resultscnt > span[name="results"]').html(results);
     $('#' + sel + 'resultscnt').show()
