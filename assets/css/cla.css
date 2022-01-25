@@ -1,5 +1,26 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
 #collresultscnt, #bndlresultscnt {
   display: none;
+}
+
+/* Show More */
+
+.showmore, .showall {
+  cursor: pointer;
+}
+
+input + .showmore + ul{
+  display:none;
+}
+
+input:checked + .showmore + ul{
+  display:block;
+}
+
+input:checked + .showmore > .fa-caret-right::before {
+    font-family: FontAwesome;
+    content: "\f0d7";
 }
 
 /* Select2 search box */
