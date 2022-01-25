@@ -191,14 +191,15 @@ const handleFocusOut = event => {
 */
 
 /*
-* Show full metadata for all collection/items records in display list.
+* Show full metadata for all coll/bndl records in display list.
 */
-function toggle_showall(type) {
-    const sel = '[name="checkbox-' + type + '"]';  // type = 'coll'|'bndl'
-    $(sel).prop('checked', showall[type]);
-    showall[type] = !showall[type];
+function toggle_showall() {
+    const tab = $('#tablist > li.active').data('tabname');
+    const sel = '[name="checkbox-' + tab + '"]';
+    $(sel).prop('checked', showall[tab]);
+    showall[tab] = !showall[tab];
     // Change the arrow direction.
-    $('#show-all-caret-' + type).toggleClass('fa-caret-right fa-caret-down');
+    $('#show-all-caret-' + tab).toggleClass('fa-caret-right fa-caret-down');
 }
 
 function onclickSearch(idSearch, title) {

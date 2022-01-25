@@ -26,7 +26,7 @@ Clean this up later, if desired. -->
   </div></div>
   <div class="content sectiontab" id="item"><div class="12u 12u$(small)">
     <p id="bndlresultscnt"><b><span name="start" class="counts"></span></b> &ndash; <b><span name="end"></span></b> of <b><span name="total"></span></b> <span name="results"></span></p>
-    <label id="collshowall" class="showall">Show All/Collapse All&nbsp;<i id="show-all-caret-coll" class="icon fa-caret-right"></i></label>
+    <label id="bndlshowall" class="showall">Show All/Collapse All&nbsp;<i id="show-all-caret-coll" class="icon fa-caret-right"></i></label>
     <ol id="bndllist" class="alt" start="0">
     </ol>
   </div></div>

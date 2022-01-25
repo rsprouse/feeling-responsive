@@ -66,8 +66,8 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
 //  $('#cla-search-form').on('submit', handleSelect2FormSubmit);
 {% endcomment %}
   $('a.post').on('click', handleMetadataLinkClick);
-  $('#collshowall').on('click', toggle_showall('coll'));
-  $('#bndlshowall').on('click', toggle_showall('bndl'));
+  $('#collshowall').on('click', toggle_showall);
+  $('#bndlshowall').on('click', toggle_showall);
 {% if page.title == "Search results" %}
     populate_form_from_query_string('cla-search-form');
     $('#search_button').on('click', handleSelect2FormSubmit);
