@@ -139,8 +139,8 @@ const handleSelect2FormSubmit = event => {
           showall[tab] = true;
 
           let { collHTML, bndlHTML, collcntHTML, bndlcntHTML, searchstrHTML } = render_metadata(data);
-          update_counts(data, 'coll');
-          update_counts(data, 'bndl');
+          update_counts(query, data, 'coll');
+          update_counts(query, data, 'bndl');
           update_coll_list(query, data["coll"]["hits"]["hits"]);
           //$('#coll').replaceWith(collHTML);
           //$('#bndl').replaceWith(bndlHTML);
@@ -266,7 +266,7 @@ function reset() {
 /*
  * Update the display elements for coll/bndl counts.
  */
-function update_counts(data, sel) {
+function update_counts(q, data, sel) {
     let hits = 0;
     if (data[sel] != "{}") {
         hits = data[sel]['hits']['total'];
@@ -276,8 +276,11 @@ function update_counts(data, sel) {
         results += "s";
     }
     $('#' + sel + 'cnt').html( " (" + hits + ")" );
-    $('#' + sel + 'resultscnt > span[name="total"]').html(hits);
-    $('#' + sel + 'resultscnt > span[name="results"]').html(results);
+    const start = parseInt(q[sel + 'from'], 10);
+    $('#' + sel + 'resultscnt >> span[name="start"]').html(start + 1);
+    $('#' + sel + 'resultscnt >> span[name="end"]').html(start + data[sel]["hits"]["hits"].length);
+    $('#' + sel + 'resultscnt >> span[name="total"]').html(hits);
+    $('#' + sel + 'resultscnt >> span[name="results"]').html(results);
     $('#' + sel + 'resultscnt').show()
 }
 
