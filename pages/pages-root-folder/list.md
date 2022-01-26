@@ -24,11 +24,13 @@ Clean this up later, if desired. -->
     <label id="collshowall" class="showall">Show All/Collapse All&nbsp;<i id="show-all-caret-coll" class="icon fa-caret-right"></i></label>
     <ol id="colllist" class="alt" start="0">
     </ol>
+  <div class="pagination" id="collpaginator"></div>
   </div></div>
   <div class="content sectiontab" id="item"><div class="12u 12u$(small)">
     <p id="bndlresultscnt">&nbsp;<b><span name="start" class="counts"></span></b> &ndash; <b><span name="end"></span></b> of <b><span name="total"></span></b> <span name="results"></span></p>
     <label id="bndlshowall" class="showall">Show All/Collapse All&nbsp;<i id="show-all-caret-coll" class="icon fa-caret-right"></i></label>
     <ol id="bndllist" class="alt" start="0">
     </ol>
+  <div class="pagination" id="bndlpaginator"></div>
   </div></div>
 </div>

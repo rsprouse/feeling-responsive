@@ -125,13 +125,16 @@ const handleSelect2FormSubmit = event => {
           $(sel).prop('checked', true);
           showall[tab] = true;
 
-          update_counts(query, data, 'coll');
-          update_counts(query, data, 'bndl');
+          collpg = get_pagination('coll', query, data);
+          bndlpg = get_pagination('bndl', query, data);
+          update_counts('coll', collpg);
+          update_counts('bndl', bndlpg);
           update_coll_list(query, data["coll"]["hits"]["hits"]);
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
 	  $('#tablist').show();
 	  $('label.showall').show();
-          make_pagination(event.currentTarget.id);
+          make_pagination('coll', collpg);
+          make_pagination('bndl', bndlpg);
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
           $("a.post").on('click', handleMetadataLinkClick);
@@ -252,36 +255,37 @@ function reset() {
 }
 
 /*
+ * Get the pagination info and return in an object.
+ */
+function get_pagination(tab, q, data) {
+    const from = parseInt(q[tab + 'from']) + 1;
+    const end = from + data[tab]["hits"]["hits"].length;
+    const total = (data[tab] != "{}" ? data[tab]['hits']['total'] : 0);
+    return { from, end, total };
+}
+
+/*
  * Update the display elements for coll/bndl counts.
  */
-function update_counts(q, data, sel) {
-    let total = 0;
-    if (data[sel] != "{}") {
-        total = data[sel]['hits']['total'];
-    }
-    let results = 'Collection';
-    if (sel == 'bndl') {
-        results = 'Item';
-    }
-    if (total != 1) {
+function update_counts(tab, pg) {
+    let results = (tab == 'bndl' ? 'Item' : 'Collection');
+    if (pg.total != 1) {
         results += "s";
     }
     /* Update the tab labels with number of Colls/Bndls. */
-    $('#' + sel + 'cnt').html( " (" + total + ")" );
+    $('#' + tab + 'cnt').html( " (" + pg.total + ")" );
 
     /* Update the 'X - Y of Z results' line. */
-    const start = parseInt(q[sel + 'from'], 10);
-    const end = start + data[sel]["hits"]["hits"].length;
-    const rsel = '#' + sel + 'resultscnt';
-    $(rsel).find('span[name="start"]').html(start + 1);
-    $(rsel).find('span[name="end"]').html(end);
-    $(rsel).find('span[name="total"]').html(total);
+    const rsel = '#' + tab + 'resultscnt';
+    $(rsel).find('span[name="start"]').html(pg.from);
+    $(rsel).find('span[name="end"]').html(pg.end);
+    $(rsel).find('span[name="total"]').html(pg.total);
     $(rsel).find('span[name="results"]').html(results);
     $(rsel).show()
 }
 
 function update_coll_list(q, recs) {
-    const collfirst = parseInt(q['collfrom'], 10) + 1;
+    const collfirst = parseInt(q['collfrom']) + 1;
     $('#colllist').prop('start', collfirst);
     let collhtml = '';
     $.each(recs, function(i, r) {
@@ -297,7 +301,7 @@ function update_coll_list(q, recs) {
 }
 
 function update_bndl_list(q, recs) {
-    const bndlfirst = parseInt(q['bndlfrom'], 10) + 1;
+    const bndlfirst = parseInt(q['bndlfrom']) + 1;
     $('#bndllist').prop('start', bndlfirst);
     let bndlhtml = '';
     $.each(recs, function(i, r) {
@@ -489,57 +493,43 @@ function render_metadata(data) {
 /*
  * Create the pagination <div> for 'bndl' and 'coll' tabs.
 */
-function make_pagination(formid) {
-    var dlen = 10; // display length (number of pages to display in paginator).
-    var tabs = ['bndl', 'coll'];
-    for (var tabn = 0; tabn < tabs.length; tabn++) {
-        var tab = tabs[tabn];
-        var selpfx = '#' + formid + ' > [name="';
-        //var type = $(selpfx + 'tab"]').prop('value');
-        var fromsel = selpfx + tab + 'from"]';
-        var from = $(fromsel).prop('value');
-        var totalsel = '#' + tab + 'total';
-        var total = parseInt($(totalsel).prop('innerHTML'));
-        var size = $(selpfx + 'size"]').prop('value');
-        var numpages = Math.ceil(total / size);
-        var curpage = Math.ceil(from / size) + 1;
-        var first = (curpage <= dlen ? 1 : curpage - (curpage % dlen));
-        var last = (curpage <= dlen ? first + dlen - 1 : first + dlen);
-        last = (last > numpages ? numpages : last);
-        var html = '<div class="pagination" id="' + tab + 'paginator">';
-        if (first > 1) {
-            html += '<a href="#" id="' + tab + 'laquo" data-page="1">&laquo;</a>';
-            //html += '<a href="#" id="' + tab + 'lsaquo" data-page="' + (curpage - 1) + '">&lsaquo;</a>';
-            var dest = (first - dlen < 1 ? 1 : first - dlen);
-            html += '<a href="#" id="' + tab + 'lhellip" data-page="' + dest + '">&hellip;</a>';
-        }
-        if (numpages > 1) {
-            for (var n = first; n <= last; n++) {
-                var add = '';
-                if (n == 1) {
-                    add = ' id="' + tab + 'page1paginate"';
-                }
-                if (n == curpage) {
-                    add = ' class="active"';
-                }
-                html += '<a href="#"' + add + ' data-page="' + n + '">' + n + '</a>';
-            }
-        }
-        if (last < numpages) {
-            html += '<a href="#" id="' + tab + 'rhellip" data-page="' + (last + 1) + '">&hellip;</a>';
-            //html += '<a href="#" id="' + tab + 'rsaquo" data-page="' + (curpage + 1) + '">&rsaquo;</a>';
-            html += '<a href="#" id="' + tab + 'raquo" data-page="' + numpages + '">&raquo;</a>';
-        }
- 
-        html += '</div>';
-        $('#' + tab + 'paginator').replaceWith(html);
-        $('#' + tab + 'paginator > a').on('click', function(event) {
-            const page = event.target.dataset.page;
-            const size = parseInt($('#cla-search-form > [name="size"]').prop('value'));
-            const tab = $('#tablist > li.active').data('tabname');
-            changefrom(tab, (page - 1) * size);
-        });
+function make_pagination(tab, pg)  {
+    const dlen = 10; // display length (number of pages to display in paginator).
+    const numpages = Math.ceil(pg.total / size);
+    const curpage = Math.ceil(pg.from / size) + 1;
+    const first = (curpage <= dlen ? 1 : curpage - (curpage % dlen));
+    const last = (curpage <= dlen ? first + dlen - 1 : first + dlen);
+    last = (last > numpages ? numpages : last);
+    const html = '';
+    if (first > 1) {
+        html += '<a href="#" id="' + tab + 'laquo" data-page="1">&laquo;</a>';
+        const dest = (first - dlen < 1 ? 1 : first - dlen);
+        html += '<a href="#" id="' + tab + 'lhellip" data-page="' + dest + '">&hellip;</a>';
     }
+    if (numpages > 1) {
+        for (let n = first; n <= last; n++) {
+            let add = '';
+            if (n == 1) {
+                add = ' id="' + tab + 'page1paginate"';
+            }
+            if (n == curpage) {
+                add = ' class="active"';
+            }
+            html += '<a href="#"' + add + ' data-page="' + n + '">' + n + '</a>';
+        }
+    }
+    if (last < numpages) {
+        html += '<a href="#" id="' + tab + 'rhellip" data-page="' + (last + 1) + '">&hellip;</a>';
+        html += '<a href="#" id="' + tab + 'raquo" data-page="' + numpages + '">&raquo;</a>';
+    }
+ 
+    $('#' + tab + 'paginator').html(html);
+    $('#' + tab + 'paginator > a').on('click', function(event) {
+        const page = event.target.dataset.page;
+        const pgsize = parseInt($('#cla-search-form > [name="size"]').prop('value'));
+        const tab = $('#tablist > li.active').data('tabname');
+        changefrom(tab, (page - 1) * pgsize);
+    });
 }
 
 function populate_form_from_query_string(formid) {
