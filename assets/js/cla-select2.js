@@ -101,9 +101,24 @@ TODO: mapping to extract p.value is not tested
 }
 
 /**
+ * A handler function for a click on the Search button.
+ */
+const handleSearchButtonClick = event => {
+  /* Don't POST the form automatically. */
+  event.preventDefault();
+  /* Start search results at the beginning and set to default tab. */
+  $('#cla-search-form').data('collfrom', '0');
+  $('#cla-search-form').data('bndlfrom', '0');
+  $('#cla-search-form').data('tab', 'bndl');
+  /* Start the search. */
+  $('#cla-search-form').submit();
+}
+
+/**
  * A handler function to handle the select option elements created by
  * select2. Transform to a JSON object suitable for POSTing to the
- * CLA api.
+ * CLA api. This handler might be called from a click on the search
+ * button (indirectly) or on a pagination link.
  * @param  {Event} event  the submit event triggered by the user
  * @return {void}
  */
@@ -112,9 +127,6 @@ const handleSelect2FormSubmit = event => {
   event.preventDefault();
   const tab = $('#tablist > li.active').data('tabname');
   const query = get_query_from_form('cla-search-form');
-  query['collfrom'] = '0';
-  query['bndlfrom'] = '0';
-  query['tab'] = 'coll';
   $.ajax({
       method: 'POST',
       url: aws_endpoint + 'sq',
@@ -228,9 +240,11 @@ function changefrom(type, val) {
 //    $('#results').data('query', query);
     //document.getElementById('go').click({formid: formid});
     if (type == 'coll') {
-        $('#cla-search-form > [name="collfrom"]').prop('value', val);
+        //$('#cla-search-form > [name="collfrom"]').prop('value', val);
+        $('#cla-search-form').data('collfrom', val);
     } else {
-        $('#cla-search-form > [name="bndlfrom"]').prop('value', val);
+        //$('#cla-search-form > [name="bndlfrom"]').prop('value', val);
+        $('#cla-search-form').data('bndlfrom', val);
     }
     $('#cla-search-form').submit();
 }
@@ -251,11 +265,13 @@ function changeCollfrom(val) {
 }
 */
 
+/*
 function reset() {
     document.getElementById('bndlfrom').value = 0;
     document.getElementById('collfrom').value = 0;
     //document.getElementById('tab').value = "bndl";
 }
+*/
 
 /*
  * Get the pagination info and return in an object.
@@ -538,7 +554,6 @@ function update_pagination(tab, pg)  {
 
 function populate_form_from_query_string(formid) {
   const formsel = '#' + formid;
-  const form = $(formsel);
   const qsparams = new URLSearchParams(window.location.search);
   populate_select2_from_params(qsparams.getAll('sparams[]'));
 /*
@@ -553,10 +568,11 @@ function populate_form_from_query_string(formid) {
 */
   const params = ['tab', 'with_js', 'size', 'bndlfrom', 'collfrom', 'bndlsort', 'collsort'];
   $.each(params, function(i, p) {
-      psel = formsel + ' > [name="' + p + '"]';
-      var val = qsparams.get(p);
+      //psel = formsel + ' > [name="' + p + '"]';
+      const val = qsparams.get(p);
       if (val != null) {
-          $(psel).prop('value', val);
+          //$(psel).prop('value', val);
+          $(formsel).data(p, val);
       }
   });
 }
@@ -570,24 +586,26 @@ function get_query_from_form(formid) {
   const filts = ['bndlid', 'collid', 'langid', 'pplid', 'placeid', 'repoid'];
   const sep = '=';
 
+  const sel = '#' + formid;
+
   // query is the object that will be POSTed.
   // The 'q' element has the query string(s), and other elements are filters.
-  var query = {'q': [], 'qstr': []};
+  const query = {'q': [], 'qstr': []};
   $.each(filts, function(i,f) {
       query[f] = [];
   });
 
   // Add query strings and filters from select2 option elements.
   if (formid == 'cla-search-form') {
-      inputs = $('#' + formid).find(':selected');
+      let inputs = $(sel).find(':selected');
   } else {
-      inputs = $('#' + formid + ' > input[name="sparams[]"]');
+      let inputs = $(sel + ' > input[name="sparams[]"]');
   }
 
   inputs.each(function() {
-      var val = $(this).val();
+      const val = $(this).val();
       if (val.includes(sep)) {
-          var parts = val.split(sep);
+          const parts = val.split(sep);
           if ((parts.length == 3) && ($.inArray(parts[0], filts) >= 0)) {
               query[parts[0]].push(parts[1]);
           }
@@ -614,12 +632,12 @@ function get_query_from_form(formid) {
       }
   });
 
-  // Add size value.
   // TODO: use default (or ignore) if incorrect/missing size value.
   const params = ['tab', 'with_js', 'size', 'bndlfrom', 'collfrom', 'bndlsort', 'collsort'];
   $.each(params, function(i, p) {
-      psel = '#' + formid + ' > [name="' + p + '"]';
-      query[p] = $(psel).prop('value');
+      //psel = '#' + formid + ' > [name="' + p + '"]';
+      //query[p] = $(psel).prop('value');
+      query[p] = $(sel).data(p);
   });
 
   return query;
