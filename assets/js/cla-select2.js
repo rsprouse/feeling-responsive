@@ -127,6 +127,15 @@ const handleSelect2FormSubmit = event => {
   event.preventDefault();
   const tab = $('#tablist > li.active').data('tabname');
   const query = get_query_from_form('cla-search-form');
+/* TODO: The data-size attribute gets cast to int instead of string.
+ * Probably this is because size is an attribute of some elements
+ * in html already and gets special treatment. (For comparison,
+ * data-collfrom remains a string.)
+ * As a hack, we cast back to string. Investigate whether renaming
+ * the attribute data-pgsize would fix the issue. The API could be changed
+ * to match.
+ */
+  query['size'] = query['size'].toString();
   $.ajax({
       method: 'POST',
       url: aws_endpoint + 'sq',
@@ -241,10 +250,10 @@ function changefrom(type, val) {
     //document.getElementById('go').click({formid: formid});
     if (type == 'coll') {
         //$('#cla-search-form > [name="collfrom"]').prop('value', val);
-        $('#cla-search-form').data('collfrom', val);
+        $('#cla-search-form').data('collfrom', val.toString());
     } else {
         //$('#cla-search-form > [name="bndlfrom"]').prop('value', val);
-        $('#cla-search-form').data('bndlfrom', val);
+        $('#cla-search-form').data('bndlfrom', val.toString());
     }
     $('#cla-search-form').submit();
 }
@@ -600,7 +609,7 @@ function get_query_from_form(formid) {
   if (formid == 'cla-search-form') {
       inputs = $(sel).find(':selected');
   } else {
-      inputs = $(sel + ' > input[name="sparams[]"]');
+      let inputs = $(sel + ' > input[name="sparams[]"]');
   }
 
   inputs.each(function() {
