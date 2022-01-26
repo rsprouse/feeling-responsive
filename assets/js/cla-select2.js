@@ -112,8 +112,8 @@ const handleSelect2FormSubmit = event => {
   event.preventDefault();
   const tab = $('#tablist > li.active').data('tabname');
   const query = get_query_from_form('cla-search-form');
-  query['collfrom'] = 0;
-  query['bndlfrom'] = 0;
+  query['collfrom'] = '0';
+  query['bndlfrom'] = '0';
   query['tab'] = 'coll';
   $.ajax({
       method: 'POST',
