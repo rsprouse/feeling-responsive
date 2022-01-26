@@ -259,9 +259,10 @@ function reset() {
  */
 function get_pagination(tab, q, data) {
     const from = parseInt(q[tab + 'from']) + 1;
-    const end = from + data[tab]["hits"]["hits"].length;
-    const total = (data[tab] != "{}" ? data[tab]['hits']['total'] : 0);
-    return { from, end, total };
+    const end = from + data[tab]['hits']['hits'].length;
+    const total = (data[tab] != '{}' ? data[tab]['hits']['total'] : 0);
+    const size = parseInt(q['size']);
+    return { from, end, total, size };
 }
 
 /*
@@ -495,10 +496,10 @@ function render_metadata(data) {
 */
 function make_pagination(tab, pg)  {
     const dlen = 10; // display length (number of pages to display in paginator).
-    const numpages = Math.ceil(pg.total / size);
-    const curpage = Math.ceil(pg.from / size) + 1;
+    const numpages = Math.ceil(pg.total / pg.size);
+    const curpage = Math.ceil(pg.from / pg.size) + 1;
     const first = (curpage <= dlen ? 1 : curpage - (curpage % dlen));
-    const last = (curpage <= dlen ? first + dlen - 1 : first + dlen);
+    let last = (curpage <= dlen ? first + dlen - 1 : first + dlen);
     last = (last > numpages ? numpages : last);
     const html = '';
     if (first > 1) {
@@ -522,7 +523,7 @@ function make_pagination(tab, pg)  {
         html += '<a href="#" id="' + tab + 'rhellip" data-page="' + (last + 1) + '">&hellip;</a>';
         html += '<a href="#" id="' + tab + 'raquo" data-page="' + numpages + '">&raquo;</a>';
     }
- 
+
     $('#' + tab + 'paginator').html(html);
     $('#' + tab + 'paginator > a').on('click', function(event) {
         const page = event.target.dataset.page;
