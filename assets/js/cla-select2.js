@@ -501,7 +501,7 @@ function update_pagination(tab, pg)  {
     const first = (curpage <= dlen ? 1 : curpage - (curpage % dlen));
     let last = (curpage <= dlen ? first + dlen - 1 : first + dlen);
     last = (last > numpages ? numpages : last);
-    const html = '';
+    let html = '';
     if (first > 1) {
         html += '<a href="#" id="' + tab + 'laquo" data-page="1">&laquo;</a>';
         const dest = (first - dlen < 1 ? 1 : first - dlen);
