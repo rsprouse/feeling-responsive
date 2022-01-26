@@ -596,10 +596,11 @@ function get_query_from_form(formid) {
   });
 
   // Add query strings and filters from select2 option elements.
+  let inputs = [];
   if (formid == 'cla-search-form') {
-      let inputs = $(sel).find(':selected');
+      inputs = $(sel).find(':selected');
   } else {
-      let inputs = $(sel + ' > input[name="sparams[]"]');
+      inputs = $(sel + ' > input[name="sparams[]"]');
   }
 
   inputs.each(function() {
