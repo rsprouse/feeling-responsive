@@ -133,8 +133,8 @@ const handleSelect2FormSubmit = event => {
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
 	  $('#tablist').show();
 	  $('label.showall').show();
-          make_pagination('coll', collpg);
-          make_pagination('bndl', bndlpg);
+          update_pagination('coll', collpg);
+          update_pagination('bndl', bndlpg);
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
           $("a.post").on('click', handleMetadataLinkClick);
@@ -492,12 +492,12 @@ function render_metadata(data) {
 }
 
 /*
- * Create the pagination <div> for 'bndl' and 'coll' tabs.
+ * Update the pagination <div> for 'bndl' and 'coll' tabs.
 */
-function make_pagination(tab, pg)  {
+function update_pagination(tab, pg)  {
     const dlen = 10; // display length (number of pages to display in paginator).
     const numpages = Math.ceil(pg.total / pg.size);
-    const curpage = Math.ceil(pg.from / pg.size) + 1;
+    const curpage = Math.ceil(pg.from / pg.size);
     const first = (curpage <= dlen ? 1 : curpage - (curpage % dlen));
     let last = (curpage <= dlen ? first + dlen - 1 : first + dlen);
     last = (last > numpages ? numpages : last);
