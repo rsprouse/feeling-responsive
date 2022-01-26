@@ -112,6 +112,9 @@ const handleSelect2FormSubmit = event => {
   event.preventDefault();
   const tab = $('#tablist > li.active').data('tabname');
   const query = get_query_from_form('cla-search-form');
+  query['collfrom'] = 0;
+  query['bndlfrom'] = 0;
+  query['tab'] = 'coll';
   $.ajax({
       method: 'POST',
       url: aws_endpoint + 'sq',
@@ -259,7 +262,7 @@ function reset() {
  */
 function get_pagination(tab, q, data) {
     const from = parseInt(q[tab + 'from']) + 1;
-    const end = from + data[tab]['hits']['hits'].length;
+    const end = from + data[tab]['hits']['hits'].length -  1;
     const total = (data[tab] != '{}' ? data[tab]['hits']['total'] : 0);
     const size = parseInt(q['size']);
     return { from, end, total, size };
