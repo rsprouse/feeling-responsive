@@ -4,6 +4,13 @@
   display: none;
 }
 
+/* Show <p> of restricted digital assets only when on Bndl detail page,
+ * i.e. hide it when Bndl is in a list of search results.
+ */
+li.itemlist > p.detailonly {
+    display: none
+}
+
 /* Show More */
 
 .showmore, .showall {
