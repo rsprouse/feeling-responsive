@@ -81,6 +81,17 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
 </script>
 {% endif %}
 
+{% if page.collbndlrec %}
+<script type="application/javascript">
+  const idSearch = event.target.href.split('?')[1];
+  const param = idSearch.split('=');
+  const rectype = param[0];
+  const recid = param[1];
+// TODO: check that the 'collid'/'bndlid' param matches page.collbndlrec
+  display_collbndlrec(page.collbndlrec, recid);
+</script>
+{% endif %}
+
 {% if page.tabs_include == true %}
 {% comment %}
 Make tabs work correctly after content is loaded.

@@ -100,6 +100,24 @@ TODO: mapping to extract p.value is not tested
     populate_select2_from_params(params);
 }
 
+function display_collbndlrec(rectype, recid) {
+  const idSearch = event.target.href.split('?')[1];
+  const query = {rectype + 'id': recid);
+  $.ajax({
+      method: 'POST',
+      url: aws_endpoint + 'sq',
+      data: JSON.stringify(query),
+      dataType: 'json',
+      success: function(data) {
+          const html = data[rectype]['hits']['hits'][0]['_source']['ul_md'];
+          $('#collbndlrec').html(html);
+          // Add event handlers for all <a href=""> metadata elements that
+          // should be handled by a POST instead of a GET, if possible.
+          $("a.post").on('click', handleMetadataLinkClick);
+      }
+  });
+}
+
 /**
  * A handler function for a click on the Search button.
  */
