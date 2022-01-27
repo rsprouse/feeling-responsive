@@ -83,12 +83,14 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
 
 {% if page.collbndlrec %}
 <script type="application/javascript">
-  const idSearch = event.target.href.split('?')[1];
-  const param = idSearch.split('=');
-  const rectype = param[0];
-  const recid = param[1];
-// TODO: check that the 'collid'/'bndlid' param matches page.collbndlrec
-  display_collbndlrec(page.collbndlrec, recid);
+  const sp = new URLSearchParams(window.location.search);
+  const paramname = page.collbndlrec + 'id';
+  if (sp.has(paramname)) {
+    const recid = sp.get(paramname);
+    display_collbndlrec(page.collbndlrec, recid);
+  } else {
+    $('#collbndlrec').html('<p>The ' + paramname + ' parameter was not included in the url.</p>');
+  }
 </script>
 {% endif %}
 
