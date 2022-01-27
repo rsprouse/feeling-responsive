@@ -106,8 +106,8 @@ function display_collbndlrec(rectype, recid) {
       method: 'GET',
       url: aws_endpoint + action + '/' + recid,
       success: function(data) {
-          const html = data['hits']['hits'][0]['_source']['ul_md'];
-          $('#collbndlrec').html(html);
+          const rsource = data['hits']['hits'][0]['_source'];
+          $('#collbndlrec').html(get_bndllicontent(rsource, 0));
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
           $("a.post").on('click', handleMetadataLinkClick);
@@ -344,6 +344,35 @@ function update_coll_list(q, recs) {
     $('#colllist').html(collhtml);
 }
 
+function get_bndllicontent(bsource, count) {
+    let bndlhtml = '';
+    bndlhtml += '<input id="_bndl' +  count + '" type="checkbox" name="checkbox-bndl">';
+    bndlhtml += '<label class="showmore" for="_bndl' + count + '">';
+    bndlhtml += '<a href="item?bndlid=' + bsource['bndlid'] + '">' + bsource['title'] + '</a>';
+    let datestr = bsource['datestr'];
+    if (typeof(datestr) != 'undefined' && datestr != '') {
+        bndlhtml += ' (' + datestr + ') ';
+    }
+    let assetcnt = bsource['assetcnt'];
+    if (typeof(assetcnt) != 'undefined' && assetcnt > 0) {
+        bndlhtml += ' (' + assetcnt + ' digital file';
+        if (assetcnt > 1) {
+            bndlhtml += 's';
+        }
+        let has_audio = bsource['has_audio'];
+        if (typeof(has_audio) != 'undefined' && has_audio) {
+            bndlhtml += ', with audio';
+        }
+        bndlhtml += ')';
+        if (typeof(has_audio) != 'undefined' && has_audio) {
+            bndlhtml += '<i class="icon file-audio"></i>';
+        }
+    }
+    bndlhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
+    bndlhtml += bsource['ul_md'];
+    return bndlhtml;
+}
+
 function update_bndl_list(q, recs) {
     const bndlfirst = parseInt(q['bndlfrom']) + 1;
     $('#bndllist').prop('start', bndlfirst);
@@ -351,30 +380,8 @@ function update_bndl_list(q, recs) {
     $.each(recs, function(i, r) {
         let count = bndlfirst + i;
         bndlhtml += '<li class="itemlist">';
-        bndlhtml += '<input id="_bndl' +  count + '" type="checkbox" name="checkbox-bndl">';
-        bndlhtml += '<label class="showmore" for="_bndl' + count + '">';
-        bndlhtml += '<a href="item?bndlid=' + r['_source']['bndlid'] + '">' + r['_source']['title'] + '</a>';
-        let datestr = r['_source']['datestr'];
-        if (typeof(datestr) != 'undefined' && datestr != '') {
-            bndlhtml += ' (' + datestr + ') ';
-        }
-        let assetcnt = r['_source']['assetcnt'];
-        if (typeof(assetcnt) != 'undefined' && assetcnt > 0) {
-            bndlhtml += ' (' + assetcnt + ' digital file';
-            if (assetcnt > 1) {
-                bndlhtml += 's';
-            }
-            let has_audio = r['_source']['has_audio'];
-            if (typeof(has_audio) != 'undefined' && has_audio) {
-                bndlhtml += ', with audio';
-            }
-            bndlhtml += ')';
-            if (typeof(has_audio) != 'undefined' && has_audio) {
-                bndlhtml += '<i class="icon file-audio"></i>';
-            }
-        }
-        bndlhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
-        bndlhtml += r['_source']['ul_md'];
+        bndlhtml += get_bndllicontent(r['_source'], count);
+        bndlhtml += '</li>';
     });
     $('#bndllist').html(bndlhtml);
 }
