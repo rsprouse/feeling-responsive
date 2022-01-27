@@ -106,7 +106,7 @@ function display_collbndlrec(rectype, recid) {
       method: 'GET',
       url: aws_endpoint + action + '/' + recid,
       success: function(data) {
-          const html = data['hits'][0]['_source']['ul_md'];
+          const html = data['hits']['hits'][0]['_source']['ul_md'];
           $('#collbndlrec').html(html);
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
