@@ -353,7 +353,7 @@ function update_bndl_list(q, recs) {
         bndlhtml += '<li class="itemlist">';
         bndlhtml += '<input id="_bndl' +  count + '" type="checkbox" name="checkbox-bndl">';
         bndlhtml += '<label class="showmore" for="_bndl' + count + '">';
-        bndlhtml += '<a href="item.html?bndlid=' + r['_source']['bndlid'] + '">' + r['_source']['title'] + '</a>';
+        bndlhtml += '<a href="item?bndlid=' + r['_source']['bndlid'] + '">' + r['_source']['title'] + '</a>';
         let datestr = r['_source']['datestr'];
         if (typeof(datestr) != 'undefined' && datestr != '') {
             bndlhtml += ' (' + datestr + ') ';
