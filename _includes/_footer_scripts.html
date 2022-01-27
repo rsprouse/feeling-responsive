@@ -85,8 +85,8 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
 <script type="application/javascript">
   const sp = new URLSearchParams(window.location.search);
   const rectype = '{{ page.collbndlrec }}';
-  if (sp.has(rectype)) {
-    const paramname = rectype + 'id';
+  const paramname = rectype + 'id';
+  if (sp.has(paramname)) {
     const recid = sp.get(paramname);
     display_collbndlrec(paramname, recid);
   } else {
