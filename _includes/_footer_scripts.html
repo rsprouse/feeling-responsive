@@ -88,7 +88,7 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
   const paramname = rectype + 'id';
   if (sp.has(paramname)) {
     const recid = sp.get(paramname);
-    display_collbndlrec(paramname, recid);
+    display_collbndlrec(rectype, recid);
   } else {
     $('#collbndlrec').html('<p>The ' + paramname + ' parameter was not included in the url.</p>');
   }
