@@ -14,11 +14,11 @@ label.showall {
   display: none;
 }
 
-input + label.showmore {
+input + .showmore + ul{
   display:none;
 }
 
-input:checked + label.showmore {
+input:checked + .showmore + ul{
   display:block;
 }
 
