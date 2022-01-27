@@ -554,8 +554,8 @@ function update_pagination(tab, pg)  {
 
     $('#' + tab + 'paginator').html(html);
     $('#' + tab + 'paginator > a').on('click', function(event) {
-        const page = event.target.dataset.page;
-        const pgsize = parseInt($('#cla-search-form > [name="size"]').prop('value'));
+        const page = parseInt(event.target.dataset.page);
+        const pgsize = parseInt($('#cla-search-form').data('size'));
         const tab = $('#tablist > li.active').data('tabname');
         changefrom(tab, (page - 1) * pgsize);
     });
