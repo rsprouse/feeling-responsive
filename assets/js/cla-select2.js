@@ -101,16 +101,14 @@ TODO: mapping to extract p.value is not tested
 }
 
 function display_collbndlrec(rectype, recid) {
-  const paramname = rectype + 'id';
-  const query = [];
-  query[paramname] = recid;
+  const action = rectype == 'coll' ? 'collection' : 'item';
   $.ajax({
       method: 'POST',
-      url: aws_endpoint + 'sq',
+      url: aws_endpoint + action + '/' + recid,
       data: JSON.stringify(query),
       dataType: 'json',
       success: function(data) {
-          const html = data[rectype]['hits']['hits'][0]['_source']['ul_md'];
+          const html = data['hits'][0]['_source']['ul_md'];
           $('#collbndlrec').html(html);
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
