@@ -84,10 +84,11 @@ TODO: TODO: Improve how this state variable is handled. It's awkward to find
 {% if page.collbndlrec %}
 <script type="application/javascript">
   const sp = new URLSearchParams(window.location.search);
-  const paramname = page.collbndlrec + 'id';
-  if (sp.has(paramname)) {
+  const rectype = '{{ page.collbndlrec }}';
+  if (sp.has(rectype)) {
+    const paramname = rectype + 'id';
     const recid = sp.get(paramname);
-    display_collbndlrec(page.collbndlrec, recid);
+    display_collbndlrec(paramname, recid);
   } else {
     $('#collbndlrec').html('<p>The ' + paramname + ' parameter was not included in the url.</p>');
   }
