@@ -374,8 +374,8 @@ function get_bndllicontent(bsource, count) {
     }
     if (count >= 0) {
         bndlhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
-        bndlhtml += bsource['ul_md'];
     }
+    bndlhtml += bsource['ul_md'];
     return bndlhtml;
 }
 
