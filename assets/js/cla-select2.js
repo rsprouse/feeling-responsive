@@ -101,8 +101,7 @@ TODO: mapping to extract p.value is not tested
 }
 
 function display_collbndlrec(rectype, recid) {
-  const idSearch = event.target.href.split('?')[1];
-  const query = {rectype + 'id': recid);
+ const query = {rectype + 'id': recid};
   $.ajax({
       method: 'POST',
       url: aws_endpoint + 'sq',
