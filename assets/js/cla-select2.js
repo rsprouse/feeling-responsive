@@ -103,10 +103,8 @@ TODO: mapping to extract p.value is not tested
 function display_collbndlrec(rectype, recid) {
   const action = rectype == 'coll' ? 'collection' : 'item';
   $.ajax({
-      method: 'POST',
+      method: 'GET',
       url: aws_endpoint + action + '/' + recid,
-      data: JSON.stringify(query),
-      dataType: 'json',
       success: function(data) {
           const html = data['hits'][0]['_source']['ul_md'];
           $('#collbndlrec').html(html);
