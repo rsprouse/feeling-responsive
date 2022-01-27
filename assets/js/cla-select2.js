@@ -250,10 +250,10 @@ function changefrom(type, val) {
     //document.getElementById('go').click({formid: formid});
     if (type == 'coll') {
         //$('#cla-search-form > [name="collfrom"]').prop('value', val);
-        $('#cla-search-form').data('collfrom', val);
+        $('#cla-search-form').data('collfrom', val.toString());
     } else {
         //$('#cla-search-form > [name="bndlfrom"]').prop('value', val);
-        $('#cla-search-form').data('bndlfrom', val);
+        $('#cla-search-form').data('bndlfrom', val.toString());
     }
     $('#cla-search-form').submit();
 }
