@@ -107,7 +107,7 @@ function display_collbndlrec(rectype, recid) {
       url: aws_endpoint + action + '/' + recid,
       success: function(data) {
           const rsource = data['hits']['hits'][0]['_source'];
-          $('#collbndlrec').html(get_bndllicontent(rsource, 0));
+          $('#collbndlrec').html(get_bndllicontent(rsource, -1));
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
           $("a.post").on('click', handleMetadataLinkClick);
@@ -346,9 +346,13 @@ function update_coll_list(q, recs) {
 
 function get_bndllicontent(bsource, count) {
     let bndlhtml = '';
-    bndlhtml += '<input id="_bndl' +  count + '" type="checkbox" name="checkbox-bndl">';
-    bndlhtml += '<label class="showmore" for="_bndl' + count + '">';
-    bndlhtml += '<a href="item?bndlid=' + bsource['bndlid'] + '">' + bsource['title'] + '</a>';
+    if (count >= 0) {
+        bndlhtml += '<input id="_bndl' +  count + '" type="checkbox" name="checkbox-bndl">';
+        bndlhtml += '<label class="showmore" for="_bndl' + count + '">';
+        bndlhtml += '<a href="item?bndlid=' + bsource['bndlid'] + '">' + bsource['title'] + '</a>';
+    } else {
+        bndlhtml += bsource['title'];
+    }
     let datestr = bsource['datestr'];
     if (typeof(datestr) != 'undefined' && datestr != '') {
         bndlhtml += ' (' + datestr + ') ';
@@ -368,8 +372,10 @@ function get_bndllicontent(bsource, count) {
             bndlhtml += '<i class="icon file-audio"></i>';
         }
     }
-    bndlhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
-    bndlhtml += bsource['ul_md'];
+    if (count >= 0) {
+        bndlhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
+        bndlhtml += bsource['ul_md'];
+    }
     return bndlhtml;
 }
 
