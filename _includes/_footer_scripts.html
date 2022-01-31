@@ -26,23 +26,6 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
-{% comment %}
-TODO: better implementation of conditional
-{% endcomment %}
-{% if page.title != "Search results" %}
-<script type="application/javascript">
-    const postSearchForm = event => {
-      event.preventDefault();
-      // Convert form data to query string.
-      const qstr = $.param( $('#cla-search-form').serializeArray() );
-      window.location = 'list.html?' + qstr;
-a = 1;
-//      $('#cla-search-form').submit();
-    };
-    $('#search_button').on('click', postSearchForm);
-</script>
-{% endif %}
-
 {% if page.search_include %}
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/select2.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/cla-select2.js"></script>
