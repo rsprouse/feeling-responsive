@@ -1,5 +1,5 @@
 ---
-permalink: list.html
+permalink: list/index.html
 layout: page
 search_include: true
 search_results: true
