@@ -235,8 +235,7 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
     width: 100%;
     display: -webkit-inline-box;}
     .select2-container--default .select2-selection--multiple .select2-selection__rendered li {
-      list-style: none;
-      display: table;}
+      list-style: none;}
   .select2-container--default .select2-selection--multiple .select2-selection__placeholder {
     color: #999;
     margin-top: 5px;
