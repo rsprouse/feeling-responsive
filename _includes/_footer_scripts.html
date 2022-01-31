@@ -37,31 +37,13 @@ $('audio,video').mediaelementplayer();
 </script>
 {% endif %}
 
-{% if page.search_results == true %}
+{% if page.search_results %}
 <script type="application/javascript">
-{% comment %}
-TODO: TODO: Improve how this state variable is handled. It's awkward to find
- it magically appear in js/cla-select2.js.
- State variables that indicate whether full metadata should display
- when 'showall' control is clicked.
-{% endcomment %}
-//  let showall = {'coll': true, 'bndl': true};
-{% comment %}
-//  $('#results').data('query', get_query_from_form());
-//  $('#cla-search-form').on('submit', handleSelect2FormSubmit);
-{% endcomment %}
   $('a.post').on('click', handleMetadataLinkClick);
   $('#collshowall').on('click', toggle_showall);
   $('#bndlshowall').on('click', toggle_showall);
-{% if page.title == "Search results" %}
-    populate_form_from_query_string('cla-search-form');
-    $('#search_button').on('click', handleSearchButtonClick);
-    //$('#cla-search-form').on('submit', handleSelect2FormSubmit);
-    //$('#cla-search-form').submit();
-{% else %}
+  $('#search_button').on('click', handleSearchButtonClick);
   populate_select2_from_qdata_form();
-{% endif %}
-  //make_pagination('cla-search-form');
   toggle_showall('coll');
 </script>
 {% endif %}
