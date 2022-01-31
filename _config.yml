@@ -70,7 +70,7 @@ clamap: https://cla.berkeley.edu/cla-map.json
 search:
   placeholder: Search languages, people, topics, identifiers.
   button_text: Search CLA
-  url: list.html
+  url: list
   aws_endpoint: https://xfhpwly456.execute-api.us-east-1.amazonaws.com/api/
 
 #       ____              _             __  _
