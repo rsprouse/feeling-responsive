@@ -34,7 +34,10 @@ $('audio,video').mediaelementplayer();
     $('#cla-search-form').on('submit', handleSelect2FormSubmit);
   {% else %}
     $('#search_button').on('click', function () {
-      $('#cla-search-form').submit();
+      /* Submitting via the jquery element, $('#cla-search-form).submit(),
+         sends a GET, but using the HTML form itself does a POST, as
+         configured in the form. */
+      $('#cla-search-form')[0].submit();
     });
   {% endif %}
   configure_select2("{{ site.search.aws_endpoint }}", "{{ site.search.placeholder }}");
