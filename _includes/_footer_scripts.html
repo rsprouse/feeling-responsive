@@ -49,7 +49,8 @@ $('audio,video').mediaelementplayer();
   $('#collshowall').on('click', toggle_showall);
   $('#bndlshowall').on('click', toggle_showall);
   $('#search_button').on('click', handleSearchButtonClick);
-  populate_select2_from_query_string();
+  populate_form_from_query_string('cla-search-form');
+  $('#search_button').click();
   toggle_showall('coll');
 </script>
 {% endif %}
