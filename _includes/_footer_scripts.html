@@ -33,7 +33,7 @@ $('audio,video').mediaelementplayer();
   {% if page.search_results %}
     $('#cla-search-form').on('submit', handleSelect2FormSubmit);
   {% else %}
-    $('#search_button').on('click', function () {
+    $('#search_button').on('click', function (event) {
       /* Submitting via the jquery element, $('#cla-search-form).submit(),
          sends a GET, but using the HTML form itself does a POST, as
          configured in the form. */
