@@ -86,20 +86,6 @@ function populate_select2_from_params(params) {
     });
 }
 
-/*
- * Find query data in #qdata-form and use it to repopulate select2
- * element.
-*/
-function populate_select2_from_qdata_form() {
-/*
-TODO: mapping to extract p.value is not tested
-*/
-    params = $.map($('#qdata-form > input[name="sparams[]"]'), function (p) {
-        p.value;
-    });
-    populate_select2_from_params(params);
-}
-
 function display_collbndlrec(rectype, recid) {
   const action = rectype == 'coll' ? 'collection' : 'item';
   $.ajax({
