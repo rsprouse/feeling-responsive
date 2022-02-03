@@ -70,6 +70,7 @@ const handleMetadataLinkClick = event => {
 
 /*
  * Use param data to repopulate select2 element.
+ * TODO: check params against whitelist
 */
 function populate_select2_from_params(params) {
     sep = '=';
@@ -299,6 +300,48 @@ function update_bndl_list(q, recs) {
         bndlhtml += '</li>';
     });
     $('#bndllist').html(bndlhtml);
+}
+
+/*
+ * Update the pagination <div> for 'bndl' and 'coll' tabs.
+*/
+function update_pagination(tab, pg)  {
+    const dlen = 10; // display length (number of pages to display in paginator).
+    const numpages = Math.ceil(pg.total / pg.size);
+    const curpage = Math.ceil(pg.from / pg.size);
+    const first = (curpage <= dlen ? 1 : curpage - (curpage % dlen));
+    let last = (curpage <= dlen ? first + dlen - 1 : first + dlen);
+    last = (last > numpages ? numpages : last);
+    let html = '';
+    if (first > 1) {
+        html += '<a href="#" id="' + tab + 'laquo" data-page="1">&laquo;</a>';
+        const dest = (first - dlen < 1 ? 1 : first - dlen);
+        html += '<a href="#" id="' + tab + 'lhellip" data-page="' + dest + '">&hellip;</a>';
+    }
+    if (numpages > 1) {
+        for (let n = first; n <= last; n++) {
+            let add = '';
+            if (n == 1) {
+                add = ' id="' + tab + 'page1paginate"';
+            }
+            if (n == curpage) {
+                add = ' class="active"';
+            }
+            html += '<a href="#"' + add + ' data-page="' + n + '">' + n + '</a>';
+        }
+    }
+    if (last < numpages) {
+        html += '<a href="#" id="' + tab + 'rhellip" data-page="' + (last + 1) + '">&hellip;</a>';
+        html += '<a href="#" id="' + tab + 'raquo" data-page="' + numpages + '">&raquo;</a>';
+    }
+
+    $('#' + tab + 'paginator').html(html);
+    $('#' + tab + 'paginator > a').on('click', function(event) {
+        const page = parseInt(event.target.dataset.page);
+        const pgsize = parseInt($('#cla-search-form').data('size'));
+        const tab = $('#tablist > li.active').data('tabname');
+        changefrom(tab, (page - 1) * pgsize);
+    });
 }
 
 function populate_form_from_query_string(formid) {
