@@ -52,6 +52,10 @@ $('audio,video').mediaelementplayer();
   populate_form_from_query_string('cla-search-form');
   $('#search_button').click();
   toggle_showall('coll');
+  window.onpopstate = function(event) {
+    alert(`location: ${document.location}, state: ${JSON.stringify(event.state)}`)
+    populate_form_from_state();
+  }
 </script>
 {% endif %}
 

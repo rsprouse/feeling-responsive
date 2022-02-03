@@ -344,6 +344,13 @@ function update_pagination(tab, pg)  {
     });
 }
 
+function populate_form_from_state() {
+  $('#cla-search-form').empty().trigger("change");
+  const p = new URLSearchParams(window.history.state).getAll('sparams[]');
+  populate_select2_from_params(p);
+  $('#search_button').click();
+}
+
 function populate_form_from_query_string(formid) {
   const formsel = '#' + formid;
   const qsparams = new URLSearchParams(window.location.search);
