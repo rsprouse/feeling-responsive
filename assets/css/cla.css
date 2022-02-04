@@ -4,11 +4,49 @@
   display: none;
 }
 
+/* Coll and Bndl metadata */
+
 /* Show <p> of restricted digital assets only when on Bndl detail page,
  * i.e. hide it when Bndl is in a list of search results.
  */
 li.itemlist > p.detailonly {
     display: none
+}
+
+ul.md {
+  list-style-type: none;
+  /* Hanging indent */
+  padding-left: 10px;
+  text-indent: -10px;
+}
+
+ul.md > li {
+  list-style-type: none;
+  line-height:1.5em;
+  border-top: 0!important;
+  padding: 0em 0em!important;
+}
+
+ul.md > li > span.label {
+  font-weight: 600;
+}
+
+ul.md > li > span.notfirst {
+  margin-left: 2em;
+}
+
+/* Override vertical-align: baseline inherited from _forms.scss line 489
+ * (input[type="checkbox"] + label).
+ */
+li.itemlist > label.showmore {
+  vertical-align: top;
+}
+
+/* Override font-size: 0.875rem inherited from _forms.scss line 163
+ * (label).
+ */
+label {
+  font-size: 1rem;
 }
 
 /* Show More */
