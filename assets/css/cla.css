@@ -91,6 +91,41 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
     display: none;
 }
 
+/* Pagination */
+
+.pagination {
+    display: inline-block;
+    text-align: center;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: .2rem .48rem;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #003262;
+    margin: 0 .2rem;
+}
+
+/*
+.pagination a:nth-child(n+9) {
+    display:none;
+}
+*/
+
+.pagination a:last-child {
+    display:block;
+}
+
+.pagination a.active {
+    background-color: #FDB515;
+    color: white;
+    border: 1px solid #FDB515;
+}
+
+.pagination a:hover:not(.active) {background-color: #C4820E;}
+
 /* Select2 search box */
 .select2-container {
   box-sizing: border-box;
