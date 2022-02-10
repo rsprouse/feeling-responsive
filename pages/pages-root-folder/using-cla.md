@@ -2,6 +2,9 @@
 permalink: using-cla.html
 layout: page
 title: Terms and conditions of use
+header:
+   image_fullwidth: salinan_lands.jpg
+   title: California Language Archive
 sitemap: true
 ---
 

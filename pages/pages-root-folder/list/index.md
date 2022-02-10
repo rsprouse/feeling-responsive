@@ -6,6 +6,7 @@ search_results: true
 tabs_include: true
 title: Search results
 hide_title: true
+header: no
 sitemap: false
 ---
 

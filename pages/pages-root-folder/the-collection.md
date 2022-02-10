@@ -4,6 +4,9 @@ layout: page
 title: The collection
 sidebar: left
 sidebar_include: _collections_sidebar.html
+header:
+   image_fullwidth: salinan_lands.jpg
+   title: California Language Archive
 sitemap: true
 ---
 

@@ -2,6 +2,9 @@
 permalink: fieldwork-tools.html
 layout: page
 title: Fieldwork tools
+header:
+   image_fullwidth: salinan_lands.jpg
+   title: California Language Archive
 sitemap: true
 ---
 ## General information

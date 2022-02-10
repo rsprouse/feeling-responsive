@@ -2,6 +2,9 @@
 permalink: dissertations.html
 layout: page
 title: Berkeley Ph.D. dissertations on American Indian languages and linguistics
+header:
+   image_fullwidth: salinan_lands.jpg
+   title: California Language Archive
 sitemap: true
 ---
 

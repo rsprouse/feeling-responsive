@@ -2,6 +2,9 @@
 permalink: language-maps.html
 layout: page
 title: California language maps
+header:
+   image_fullwidth: salinan_lands.jpg
+   title: California Language Archive
 sitemap: true
 ---
 

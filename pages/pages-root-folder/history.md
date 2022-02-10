@@ -2,6 +2,9 @@
 permalink: history.html
 layout: page
 title: History of the Survey
+header:
+   image_fullwidth: salinan_lands.jpg
+   title: California Language Archive
 sitemap: true
 ---
 

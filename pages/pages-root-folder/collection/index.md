@@ -4,8 +4,8 @@ layout: page
 search_include: true
 search_results: true
 iframe_include: true
-collbndlrec: bndl
-title: CLA Item
+collbndlrec: coll
+title: CLA Collection
 hide_title: true
 header: no
 sitemap: false

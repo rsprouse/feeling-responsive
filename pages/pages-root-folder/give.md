@@ -2,6 +2,9 @@
 permalink: give.html
 layout: page
 title: Donate to the Survey
+header:
+   image_fullwidth: salinan_lands.jpg
+   title: California Language Archive
 sitemap: true
 ---
 

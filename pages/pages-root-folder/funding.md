@@ -2,6 +2,9 @@
 permalink: funding.html
 layout: page
 title: Funding for linguistic fieldwork
+header:
+   image_fullwidth: salinan_lands.jpg
+   title: California Language Archive
 sitemap: true
 ---
 

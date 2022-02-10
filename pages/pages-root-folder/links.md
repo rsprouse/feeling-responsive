@@ -2,6 +2,9 @@
 permalink: links.html
 layout: page
 title: Links
+header:
+   image_fullwidth: salinan_lands.jpg
+   title: California Language Archive
 sitemap: true
 ---
 
