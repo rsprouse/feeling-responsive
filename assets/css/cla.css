@@ -96,6 +96,12 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
     display: none;
 }
 
+.fa-file-audio::before {
+    font-family: FontAwesome;
+    font-style: normal;
+    content: "\f1c7";
+}
+
 /* Pagination */
 
 .pagination {
