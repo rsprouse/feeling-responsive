@@ -13,8 +13,14 @@ li.itemlist > p.detailonly {
     display: none
 }
 
+div.detailonly > span.title {
+  font-size: 1.5em;
+}
+
 ul.md {
-  list-style-type: none;
+  display: table-cell;
+  padding-bottom: 1.5em;
+  padding-top: 1.5em;
   /* Hanging indent */
   padding-left: 10px;
   text-indent: -10px;

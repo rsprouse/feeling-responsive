@@ -260,12 +260,12 @@ function get_bndllicontent(bsource, count) {
         bndlhtml += '<input id="_bndl' +  count + '" type="checkbox" name="checkbox-bndl">';
         bndlhtml += '<label class="showmore" for="_bndl' + count + '">';
         bndlhtml += '<a href="item?bndlid=' + bsource['bndlid'] + '">' + bsource['title'] + '</a>';
+        let datestr = bsource['datestr'];
+        if (typeof(datestr) != 'undefined' && datestr != '') {
+            bndlhtml += ' (' + datestr + ') ';
+        }
     } else {
-        bndlhtml += bsource['title'];
-    }
-    let datestr = bsource['datestr'];
-    if (typeof(datestr) != 'undefined' && datestr != '') {
-        bndlhtml += ' (' + datestr + ') ';
+        bndlhtml += '<span class="title">' + bsource['title'] + '</span>';
     }
     let assetcnt = bsource['assetcnt'];
     if (typeof(assetcnt) != 'undefined' && assetcnt > 0) {
@@ -279,7 +279,7 @@ function get_bndllicontent(bsource, count) {
         }
         bndlhtml += ')';
         if (typeof(has_audio) != 'undefined' && has_audio) {
-            bndlhtml += '<i class="icon fa-file-audio"></i>';
+            bndlhtml += '&nbsp;<i class="icon fa-file-audio"></i>';
         }
     }
     if (count >= 0) {
