@@ -279,7 +279,7 @@ function get_bndllicontent(bsource, count) {
         }
         bndlhtml += ')';
         if (typeof(has_audio) != 'undefined' && has_audio) {
-            bndlhtml += '<i class="icon file-audio"></i>';
+            bndlhtml += '<i class="icon fa-file-audio"></i>';
         }
     }
     if (count >= 0) {
