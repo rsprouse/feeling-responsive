@@ -37,19 +37,13 @@ ul.md > li > span.notfirst {
 
 /* Override vertical-align: baseline inherited from _forms.scss line 489
  * (input[type="checkbox"] + label).
- * The line-height also needs to match the line-height of the
- * li.itemlist selector.
  */
 li.itemlist > label.showmore {
   vertical-align: top;
-  line-height: 2em;
 }
 
-/* The line-height needs to match the line-height of the
- * li.itemlist > label.showmore selector.
- */
 li.itemlist {
-  line-height: 2em;
+  padding-bottom: 0.4em;
 }
 
 /* Override font-size: 0.875rem inherited from _forms.scss line 163
@@ -67,6 +61,7 @@ label {
 
 label.showall {
   display: none;
+  padding-bottom: 0.4em;
 }
 
 input + .showmore + ul{
