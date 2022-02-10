@@ -49,7 +49,7 @@ label {
   font-size: 1rem;
 }
 
-/* Show More */
+/* Show All/More */
 
 .showmore, .showall {
   cursor: pointer;
@@ -67,8 +67,22 @@ input:checked + .showmore + ul{
   display:block;
 }
 
+/* Default right and down arrows */
+.fa-caret-right::before {
+    font-family: FontAwesome;
+    font-style: normal;
+    content: "\f0da";
+}
+.fa-caret-down::before {
+    font-family: FontAwesome;
+    font-style: normal;
+    content: "\f0d7";
+}
+
+/* Change to down arrow when checked */
 input:checked + .showmore > .fa-caret-right::before {
     font-family: FontAwesome;
+    font-style: normal;
     content: "\f0d7";
 }
 
