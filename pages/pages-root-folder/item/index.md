@@ -7,6 +7,7 @@ iframe_include: true
 collbndlrec: bndl
 title: CLA item
 hide_title: true
+header: no
 sitemap: false
 ---
 
