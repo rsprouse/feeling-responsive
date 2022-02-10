@@ -254,6 +254,12 @@ function update_coll_list(q, recs) {
     $('#colllist').html(collhtml);
 }
 
+/* Get the Bndl metadata content from an elasticsearch response.
+ * bsource contains the Bndl's _source value from elasticsearch.
+ * count is the number associated with the Bndl metadata in a list
+ * of Bndls. Use a negative value for a non-list context, such as
+ * the detail page for a single Bndl.
+ */
 function get_bndllicontent(bsource, count) {
     let bndlhtml = '';
     if (count >= 0) {
@@ -269,7 +275,7 @@ function get_bndllicontent(bsource, count) {
     }
     let assetcnt = bsource['assetcnt'];
     if (typeof(assetcnt) != 'undefined' && assetcnt > 0) {
-        bndlhtml += ' (' + assetcnt + ' digital file';
+        bndlhtml += ' (' + assetcnt + '&nbsp;digital file';
         if (assetcnt > 1) {
             bndlhtml += 's';
         }
@@ -286,6 +292,11 @@ function get_bndllicontent(bsource, count) {
         bndlhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
     }
     bndlhtml += bsource['ul_md'];
+    if (count < 0 & 'boxurl' in bsource) {
+        bndlhtml += '<p>By using digital assets, you accept our <a href="using_cla.php">Terms and Conditions</a>.<br />';
+        bndlhtml += 'If files do not appear below, you may also <a href="' + bsource['boxurl'] + '">go directly to the asset folder</a>.</p>';
+        bndlhtml += '<iframe id="iframe-list" src="' + bsource['boxurl'] + '"></iframe>';
+    }
     return bndlhtml;
 }
 
