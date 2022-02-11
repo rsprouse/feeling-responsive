@@ -62,11 +62,13 @@
 
                       {% if dropdown_link.url contains 'http' %}
                         {% assign domain = '' %}
+                        {% assign baseurl = '' %}
                         {% else %}
                         {% assign domain = site.url %}
+                        {% assign baseurl = site.baseurl %}
                       {% endif %}
 
-                      <li><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
+                      <li><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ domain }}{{ baseurl }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
                     {% endfor %}
                   </ul>
 
