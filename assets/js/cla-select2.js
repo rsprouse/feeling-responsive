@@ -248,7 +248,7 @@ function update_coll_list(q, recs) {
         collhtml += '<li class="itemlist">';
         collhtml += '<input id="_coll' +  count + '" type="checkbox" name="checkbox-coll">';
         collhtml += '<label class="showmore" for="_coll' +  count + '">';
-        collhtml += '<a href="' + baseurl + 'list.html?collid=' + r['_source']['collid'] + '" class="post">' + r['_source']['title'] +'</a>';
+        collhtml += '<a href="' + baseurl + 'collection?collid=' + r['_source']['collid'] + '" class="post">' + r['_source']['title'] +'</a>';
         collhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
         collhtml += r['_source']['ul_md'];
     });
