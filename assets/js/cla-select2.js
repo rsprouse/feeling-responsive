@@ -1,6 +1,7 @@
 // File globals
 let aws_endpoint = '';
 let showall = {'coll': true, 'bndl': true};
+let baseurl = '';
 
 function configure_select2(endpoint, placeholder) {
     aws_endpoint = endpoint;  // Set file global variable.
@@ -97,7 +98,7 @@ function display_collbndlrec(rectype, recid) {
           $('#collbndlrec').html(get_bndllicontent(rsource, -1));
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
-          $("a.post").on('click', handleMetadataLinkClick);
+          //$("a.post").on('click', handleMetadataLinkClick);
       }
   });
 }
@@ -163,7 +164,7 @@ const handleSelect2FormSubmit = event => {
           update_pagination('bndl', bndlpg);
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
-          $("a.post").on('click', handleMetadataLinkClick);
+          //$("a.post").on('click', handleMetadataLinkClick);
       }
   });
 };
@@ -265,7 +266,7 @@ function get_bndllicontent(bsource, count) {
     if (count >= 0) {
         bndlhtml += '<input id="_bndl' +  count + '" type="checkbox" name="checkbox-bndl">';
         bndlhtml += '<label class="showmore" for="_bndl' + count + '">';
-        bndlhtml += '<a href="item?bndlid=' + bsource['bndlid'] + '">' + bsource['title'] + '</a>';
+        bndlhtml += '<a href="' + baseurl + 'item?bndlid=' + bsource['bndlid'] + '">' + bsource['title'] + '</a>';
         let datestr = bsource['datestr'];
         if (typeof(datestr) != 'undefined' && datestr != '') {
             bndlhtml += ' (' + datestr + ') ';
@@ -293,7 +294,7 @@ function get_bndllicontent(bsource, count) {
     }
     bndlhtml += bsource['ul_md'];
     if (count < 0 & 'boxurl' in bsource) {
-        bndlhtml += '<p>By using digital assets, you accept our <a href="using_cla.php">Terms and Conditions</a>.<br />';
+        bndlhtml += '<p>By using digital assets, you accept our <a href="using-cla.html">Terms and Conditions</a>.<br />';
         bndlhtml += 'If files do not appear below, you may also <a href="' + bsource['boxurl'] + '">go directly to the asset folder</a>.</p>';
         bndlhtml += '<iframe src="' + bsource['boxurl'] + '" width="100%" height="1250" frameborder="1" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>';
     }

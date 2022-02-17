@@ -30,6 +30,7 @@ $('audio,video').mediaelementplayer();
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/select2.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/cla-select2.js"></script>
 <script type="application/javascript">
+  baseurl = '{{ site.baseurl }}';
   {% if page.search_results %}
     $('#cla-search-form').on('submit', handleSelect2FormSubmit);
   {% else %}
