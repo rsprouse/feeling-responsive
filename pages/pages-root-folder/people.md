@@ -11,7 +11,7 @@ sitemap: true
 [Personnel](#personnel) \| [Affiliated Faculty](#faculty) \| [Affiliated Students](#students) \| [Recent Alums](#alumni)
 
 ## <a name="personnel"></a>Personnel
-<div class="image left">
+<div id = "andrew_pic" class="image left">
 <img src="{{ site.urlimg }}ag-cla.png" height="150" width="125" alt="Andrew Garrett"/>
 </div>
 
@@ -47,7 +47,7 @@ sitemap: true
 
 ## <a name="faculty"></a>Affiliated Faculty
 
-<div class="image right other_people_pics">
+<div class="image right">
 <img src="{{ site.urlimg }}beier.jpg" alt="Christine Beier"/>
 </div>
 
