@@ -11,7 +11,7 @@ sitemap: true
 [Personnel](#personnel) \| [Affiliated Faculty](#faculty) \| [Affiliated Students](#students) \| [Recent Alums](#alumni)
 
 ## <a name="personnel"></a>Personnel
-<div id = "andrew_pic" class="image left">
+<div class="image left personnel_images">
 <img src="{{ site.urlimg }}ag-cla.png" height="150" width="125" alt="Andrew Garrett"/>
 </div>
 
