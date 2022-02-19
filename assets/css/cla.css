@@ -652,28 +652,25 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
 
 /* Person page stuff -aeb*/
 
-/*Realized belatedly that this class is used for more than just personnel, but for now that's the name*/
+/*.image is actually the class for the whole div and not the photo itself, which is .people_img*/
+
+.image 
+{
+  width:125px;
+  height:150px
+  padding: 10px;
+}
+
+.people_img
+{
+  width:100px;
+  padding: 10px;
+}
 
 .personnel_images
 {
-  height:150px; 
   width:125px;
-  padding: 10px;
-}
-
-/*something odd going on with a couple of the photos' resizing, trying to figure that out with Andrew's*/
-
-.other_people_pics
-{
-  height:150px; 
-  width:125px;
-  padding: 10px;
-}
-
-#andrew_pic
-{
-  height:150px; 
-  width:125px;
+  height:150px
   padding: 10px;
 }
 
