@@ -35,9 +35,7 @@ sitemap: true
 <img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund" width="125" height="150"/>
 </div>
 
-[Anna Björklund] (https://aebjorklund.github.io/) (Graduate Student, Linguistics) 
-
-Anna Björklund is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. 
+[Anna Björklund](https://aebjorklund.github.io/) (Graduate Student, Linguistics) is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. 
 
 Since 2020, I have worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, which includes co-teaching a weekly class and archival research.
 
