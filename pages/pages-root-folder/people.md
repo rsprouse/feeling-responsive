@@ -29,15 +29,17 @@ sitemap: true
 <img src="{{ site.urlimg }}sprouse.jpg" alt="Ronald Sprouse" width="125" height="150" />
 </div>
 
-Ronald Sprouse (Programmer) has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
-
+[Ronald Sprouse](https://github.com/rsprouse) (Programmer) has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
 
 <div class="image right">
-<img src="{{ site.urlimg }}robertson.jpg" alt="Allegra Robertson" width="125" height="150"/>
+<img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund" width="125" height="150"/>
 </div>
 
-Allegra Robertson (Graduate Student, Linguistics) is interested in Amazonian languages, indigenous language revitalization, phonetics and phonology. She began conducting fieldwork in Guyana in 2017, where she documented Warao (isolate) with a focus on imperatives and morphology. Her current research focuses on contrastive phonation and gradient weight in Yanesha' (Arawak), from phonetic, phonological, and historical perspectives. Since 2017 she has also been involved in the Berkeley Comparative Arawakan Project, led by [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html).
+[Anna Björklund] (https://aebjorklund.github.io/) (Graduate Student, Linguistics) 
 
+Anna Björklund is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. 
+
+Since 2020, I have worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, which includes co-teaching a weekly class and archival research.
 
 <div class="image left">
 <img src="{{ site.urlimg }}hinton.jpg" alt="Leanne Hinton" width="125" height="150" />
@@ -115,12 +117,6 @@ Nicolas Arms (Graduate Student, Anthropology) studies deixis and other indexical
 
 [Edwin Ko's](http://eddersko.com/)  (Graduate Student, Linguistics) interests focus on the indigenous languages of North America, especially Crow (Siouan) and Northern Pomo (Pomoan). His research interests are broadly in (morpho)syntax, historical linguistics, language contact, language documentation, and language revitalization. Some of his recent work involves an analysis of active-stative agreement, multiple exponence and switch-reference system in Crow, as well as of the use of digital technology in the revitalization of Northern Pomo.
 
-<div class="image right">
-<img src="{{ site.urlimg }}lapierre.jpg" alt="Myriam Lapierre" width="125" height="150"/>
-</div>
-
-[Myriam Lapierre](https://sites.google.com/berkeley.edu/myriam-lapierre/home) (Graduate Student, Linguistics) is interested in the phonetics and phonology of South American languages, with a particular focus on nasality-related phenomena in the Amazon. She began conducting fieldwork in the Brazilian Amazon in 2014, and has since worked with several languages of the Jê family (Panãra, Me~bêngôkre, Kajkwakhrattxi, and Xavante), as well as Kawaiwete (Tupí-Guaraní). Some of her recent and ongoing work includes a descriptive analysis of the phonology of Panãra, an analysis of nasal coarticulation in Panãra using oral and nasal airflow data, and a typological and theoretical analysis of nasal harmony phenomena in languages of the Tupí-Guaraní family.
-
 <div class="image left">
 <img src="{{ site.urlimg }}maier.jpg" alt="Erik Maier" width="125" height="150"/>
 </div>
@@ -139,7 +135,14 @@ Nicolas Arms (Graduate Student, Anthropology) studies deixis and other indexical
 
 [Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (Graduate Student, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northerm Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
 
+
 <div class="image right">
+<img src="{{ site.urlimg }}robertson.jpg" alt="Allegra Robertson" width="125" height="150"/>
+</div>
+
+Allegra Robertson(https://sites.google.com/view/allegrarobertson) (Graduate Student, Linguistics) is interested in Amazonian languages, indigenous language revitalization, phonetics and phonology. She began conducting fieldwork in Guyana in 2017, where she documented Warao (isolate) with a focus on imperatives and morphology. Her current research focuses on contrastive phonation and gradient weight in Yanesha' (Arawak), from phonetic, phonological, and historical perspectives. Since 2017 she has also been involved in the Berkeley Comparative Arawakan Project, led by [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html).
+
+<div class="image left">
 <img src="{{ site.urlimg }}wesley.jpeg" alt="Wesley dos Santos" width="125" height="150"/>
 </div>
 
@@ -158,31 +161,38 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 
 
 <div class="image right">
+<img src="{{ site.urlimg }}lapierre.jpg" alt="Myriam Lapierre" width="125" height="150"/>
+</div>
+
+[Myriam Lapierre](https://sites.google.com/berkeley.edu/myriam-lapierre/home) (Graduate Student, Linguistics) is interested in the phonetics and phonology of South American languages, with a particular focus on nasality-related phenomena in the Amazon. She began conducting fieldwork in the Brazilian Amazon in 2014, and has since worked with several languages of the Jê family (Panãra, Me~bêngôkre, Kajkwakhrattxi, and Xavante), as well as Kawaiwete (Tupí-Guaraní). Some of her recent and ongoing work includes a descriptive analysis of the phonology of Panãra, an analysis of nasal coarticulation in Panãra using oral and nasal airflow data, and a typological and theoretical analysis of nasal harmony phenomena in languages of the Tupí-Guaraní family.
+
+
+<div class="image left">
 <img src="{{ site.urlimg }}neely.jpg" alt="Kelsey Neely" width="125" height="150"/>
 </div>
 
 [Kelsey Neely](http://lx.berkeley.edu/people/graduate-students) (PhD 2019) is an ELDP Postdoctoral Research Fellow at the University of Texas at Austin. She works on Yaminawa and Nahua (Yora), two closely related Panoan language varieties spoken in Peruvian Amazonia. She is currently interlinearizing and editing a book of traditional narratives and oral histories for the Yaminawa and Nahua communities. Her research interests include anthropological linguistics, sociolinguistics, prosody, morphosyntax, and the history of Amazonian languages and peoples. Kelsey is also producing a grammatical description and lexical database for the language.
 
 
-<div class="image left">
+<div class="image right">
 <img src="{{ site.urlimg }}sandy.jpg" height="150" width="125" alt="Clare Sandy" width="125" height="150"/>
 </div>
 
 [Clare Sandy](https://english.sfsu.edu/people/faculty/clare-sandy) (PhD 2017) is a Lecturer at San Jos&eacute; State University and has been part of the Karuk Research Unit group conducting fieldwork on Karuk, and managing an online dictionary and text corpus of the language, and working with the Karuk community to support their language revitalization efforts. She has also carried out team based linguistic fieldwork on Omagua, a highly endangered language of the Peruvian Amazon, and has worked with Sierra Miwok, Mono, and Eastern Pomo speakers and language learners at the Breath of Life Workshop. Her research interests include phonology, morphology, and language change, and her dissertation work focuses on the accentual system of Karuk. She is also interested in database development and in making archival linguistic materials accessible.
 
-<div class="image right">
+<div class="image left">
 <img src="{{ site.urlimg }}sardinha.png" height="150" width="125" alt="Katie Sardinha" width="125" height="150"/>
 </div>
 
 [Katie Sardinha](http://linguistics.berkeley.edu/~ksardinha/) (PhD 2017) began work on Kwak'wala, a Northern Wakashan language spoken on the central coast of British Columbia, in 2009. Her dissertation work investigated object case patterns in the language and the relationship between object case and event structure. More generally, her Kwak'wala research has focused on phenomena at the syntax-semantic interface and syntactic change within the Wakashan language family. Katie is interested in fieldwork methodology and creative language teaching tools, and has developed Story-builder, a visual story-telling card set which can be downloaded from her website, [www.story-builder.ca](http://www.story-builder.ca/).
 
-<div class="image left">
+<div class="image right">
 <img src="{{ site.urlimg }}skilton.jpg" alt="Amalia Skilton" width="125" height="150"/>
 </div>
 
 [Amalia Horan Skilton](http://linguistics.berkeley.edu/~amaliaskilton/) (PhD 2019) is an NSF SBE Postdoctoral Research Fellow affiliated with the Department of Linguistics at the University of Texas at Austin and the Language Development Department at the Max Planck Institute for Psycholinguistics, Austin. Since 2012, Amalia has conducted over 24 months of in situ fieldwork on Ticuna (isolate; Peru, Colombia, Brazil) and Ma´i´h?~ki (Tukanoan; Peru). Her research examines how speakers use language and gesture to manage one another's attention in conversation. Amalia's current project, titled "Language acquisition and joint attention," analyzes language development and the development of general interactive skills -- such as pointing and following adults' gaze -- in children, aged 1 to 4 years, acquiring Ticuna as their first language.
 
-<div class="image right">
+<div class="image left">
 <img src="{{ site.urlimg }}stark.jpg" height="150" width="125" alt="Tammy Stark" width="125" height="150"/>
 </div>
 
