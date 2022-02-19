@@ -100,7 +100,7 @@ Nicolas Arms (Graduate Student, Anthropology) studies deixis and other indexical
 [Maksymilian Dabkowski](https://maksymilian-dabkowski.github.io/) (Graduate Student, Linguistics) is interested in phonological interfaces and language documentation. Since 2017, he has been carrying out fieldwork on A'ingae (or Cofán, ISO 639-3: con), an Amazonian language isolate spoken in northeast Ecuador and southern Colombia. He has investigated the interactions of stress, glottalization, and morphosyntactic structure in A'ingae verbs. In 2020, Maksymilian worked as a lab manager for A'ingae Language Documentation Project, building a multimedia language corpus accessible to the communities of speakers. His other interests include semantics, language revitalization, logic, and psycholinguistics.
 
 <div class="image right personnel_images">
-<img src="{{ site.urlimg }}erin.jpg" alt="Erin Donnelly Kuhns"/>
+<img src="{{ site.urlimg }erin.jpg" alt="Erin Donnelly Kuhns"/>
 </div>
 
 [Erin Donnelly](http://linguistics.berkeley.edu/~edonnelly/) (Graduate Student, Linguistics) is interested in Mesoamerican languages, with a focus on socio- and historical linguistics. Her dissertation project investigates the dialectology of Northern Zapotec (Eastern Oto-Manguean). She has been researching Choapan Zapotec for ten years, and has also conducted fieldwork on varieties of Villa Alta Zapotec and Lalana Chinantec (Western Oto-Manguean). Erin collaborates with community members on El Nigromante Zapotec revitalization efforts.
@@ -121,7 +121,7 @@ Nicolas Arms (Graduate Student, Anthropology) studies deixis and other indexical
 <img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano"/>
 </div>
 
-[Tzintia Montano Ramirez] (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
+Tzintia Montano Ramirez (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
 <div class="image right personnel_images">
 <img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee"/>
