@@ -661,4 +661,13 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
   padding: 10px;
 }
 
+/*something odd going on with a couple of the photos' resizing, which I should figure out later, but for now this makes them the same size as personnel_images*/
+
+.other_people_pics
+{
+  height:150px; 
+  width:125px;
+  padding: 10px;
+}
+
 
