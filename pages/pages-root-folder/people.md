@@ -84,8 +84,7 @@ sitemap: true
 [Richard Rhodes](http://linguistics.berkeley.edu/people/person_detail.php?person=29) (Associate Professor of Linguistics) conducts research on topics relating to American Indian languages, particularly those of the Algonquian family, including bringing insights gained in fieldwork to bear on typology and on analytic issues in better studied languages. He has done extensive fieldwork on the Ottawa dialect of Ojibwe which is spoken in Michigan and southern Ontario, and on Métchif, a language of the northern plains consisting of French and Cree elements. He has also done fieldwork on Sayula Popoluca, a Mixe-Zoquean language of southern Mexico. His most important work is the Eastern Ojibwe-Chippewa-Ottawa Dictionary which incorporates two dialects of Ojibwe. He has written extensively on the syntax of Ojibwe, on topics of Ojibwe ethnohistory, and on the lexicography of American Indian languages.
 
 
-## 
-<a name="students"></a>Affiliated Students
+## <a name="students"></a>Affiliated Students
 
 <div class="image right personnel_images">
 <img src="{{ site.urlimg }}Arms-Nicolas-photo.jpg" alt="Nicolas Arms"/>
