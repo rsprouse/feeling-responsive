@@ -33,7 +33,7 @@ Ronald Sprouse (Programmer) has worked as a linguist and programmer on a number 
 
 
 <div class="image right">
-<img src="{{ site.urlimg }}robertson.jpg" alt="Leanne Hinton" width="125" height="150"/>
+<img src="{{ site.urlimg }}robertson.jpg" alt="Allegra Robertson" width="125" height="150"/>
 </div>
 
 Allegra Robertson (Graduate Student, Linguistics) is interested in Amazonian languages, indigenous language revitalization, phonetics and phonology. She began conducting fieldwork in Guyana in 2017, where she documented Warao (isolate) with a focus on imperatives and morphology. Her current research focuses on contrastive phonation and gradient weight in Yanesha' (Arawak), from phonetic, phonological, and historical perspectives. Since 2017 she has also been involved in the Berkeley Comparative Arawakan Project, led by [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html).
@@ -131,9 +131,7 @@ Nicolas Arms (Graduate Student, Anthropology) studies deixis and other indexical
 <img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano" width="125" height="150"/>
 </div>
 
-Tzintia Montano Ramirez (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
-
-
+[Tzintia Montano Ramirez] (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
 <div class="image left">
 <img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" width="125" height="150"/>
@@ -145,7 +143,7 @@ Tzintia Montano Ramirez (Graduate Student, Linguistics) is interested in languag
 <img src="{{ site.urlimg }}wesley.jpeg" alt="Wesley dos Santos" width="125" height="150"/>
 </div>
 
-Wesley dos Santos (Graduate Student, Linguistics)  is interested in Language Documentation and Description, Historical Linguistics and Linguistic Typology of South America Indigenous Languages. His current project focuses on a grammatical description of Kawahiva (a Tupi-Guarani language) based on the varieties spoken by the Karipuna and Uru-Eu-Wau-Wau peoples living in Southwestern Amazonia basin (State of Rondônia, Brazil), where dos Santos started conducting fieldwork in 2017.
+[Wesley dos Santos] (Graduate Student, Linguistics)  is interested in Language Documentation and Description, Historical Linguistics and Linguistic Typology of South America Indigenous Languages. His current project focuses on a grammatical description of Kawahiva (a Tupi-Guarani language) based on the varieties spoken by the Karipuna and Uru-Eu-Wau-Wau peoples living in Southwestern Amazonia basin (State of Rondônia, Brazil), where dos Santos started conducting fieldwork in 2017.
 
 
 ## <a name="alumni"></a>Recent Alums
