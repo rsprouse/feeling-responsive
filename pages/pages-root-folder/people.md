@@ -11,8 +11,8 @@ sitemap: true
 [Personnel](#personnel) \| [Affiliated Faculty](#faculty) \| [Affiliated Students](#students) \| [Recent Alums](#alumni)
 
 ## <a name="personnel"></a>Personnel
-<div class="image left personnel_images">
-<img src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
+<div class="image left">
+<img class="people_img" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
 </div>
 
 [Andrew Garrett](http://linguistics.berkeley.edu/~garrett/) (Director) is Professor of Linguistics and Nadine M. Tang and Bruce L. Smith Professor of Cross-Cultural Social Sciences. As a Californianist he has done linguistic fieldwork, archival work, and consulting work with the [Hupa](languages/hupa.php), [Karuk](languages/karuk.php), [Northern Paiute](languages/northern-paiute.php), [Rumsen Ohlone](languages/rumsen.php), and Sierra Miwok languages, but he mainly focuses on [Yurok](languages/yurok.php) and [Karuk](languages/karuk.php) (in northern California). His Yurok projects include articles on descriptive and historical linguistics, contributions to the tribal language program (including a practical dictionary compiled with Juliette Blevins and Lisa Conathan), ongoing work on Yurok texts, and a [digital text and lexical archive](http://linguistics.berkeley.edu/~yurok). In Yurok grammar, Garrett is especially interested in relations between lexical and morphological structures on the one hand, and between lexical and syntactic patterns on the other; his book [Basic Yurok](http://escholarship.org/uc/item/2vw609w4) appeared in 2014. His Karuk projects, in collaboration with [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen/) and several graduate students, include a database of texts, research on the language's interesting syntactic patterns, and a co-edited volume of ten texts recorded in 1901 and 1902. More generally, he studies the dialectology of languages of the west coast and the emergence of the distinctive California linguistic profile. Outside California, Garrett also worked on Indo-European historical linguistics, especially Anatolian, Greek, and Latin, and general problems of language change and linguistic reconstruction.
