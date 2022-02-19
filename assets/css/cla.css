@@ -652,10 +652,10 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
 
 /* Person page stuff*/
 
-personnel_images
+.personnel_images
 {
-  height:"150"; 
-  width:"125";
+  height:150px; 
+  width:125px;
 }
 
 
