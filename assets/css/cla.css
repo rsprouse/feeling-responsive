@@ -650,12 +650,15 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
 .select2-container--classic.select2-container--open .select2-dropdown {
   border-color: #5897fb; }
 
-/* Person page stuff*/
+/* Person page stuff -aeb*/
+
+/*Realized belatedly that this class is used for more than just personnel, but for now that's the name*/
 
 .personnel_images
 {
   height:150px; 
   width:125px;
+  padding: 15px;
 }
 
 
