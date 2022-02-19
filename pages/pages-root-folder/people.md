@@ -123,6 +123,7 @@ Nicolas Arms (Graduate Student, Anthropology) studies deixis and other indexical
 
 Tzintia Montano Ramirez (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
+
 <div class="image right personnel_images">
 <img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee"/>
 </div>
