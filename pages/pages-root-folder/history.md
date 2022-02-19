@@ -46,8 +46,6 @@ Under the leadership of Leanne Hinton, the third Survey Director, we have been e
 
 In the last ten years, we have focused on digital repatriation: scanning and digitizing legacy materials, and making them accessible through a new online tool, the California Language Archive, which facilitates distant access to cultural and linguistic heritage materials. This also includes the indigenous language collections (from as early as 1901) in the Berkeley Language Center and the Phoebe A. Hearst Museum of Anthropology. As of September 2019, the California Language Archive indexes over 18,000 items on over 450 languages, with over 30,500 digital files.
 
-> <span class="teaser">It is only a question of a very few years when [California Indian] languages…will have disappeared.</span><cite>Franz Boas</cite>
-
 For over 100 years, the academic study of California languages and linguistics has been dominated by the concern among scholars that the diversity and richness of our state's languages are in danger of vanishing. Already in April 1901, A. L. Kroeber's teacher Franz Boas wrote to urge the establishment of anthropological and language documentation programs at Berkeley. Boas emphasized "that it is only a question of a very few years when [California Indian] languages…will have disappeared."
 
 The danger was real; half of California’s languages have no native speakers today. But it is important to add that California's Native people and languages are resilient and adaptive; that languages are being learned, transformed, and revived in the face of tremendous obstacles; and that so far, every generation of scholars has been wrong in its prediction that California languages are on the verge of extinction.
