@@ -652,9 +652,9 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
 
 /* Person page stuff -aeb*/
 
-/*.image is actually the class for the whole div and not the photo itself, which is .people_img*/
+/*.people_images is actually the class for the whole div and includes everyone on the people page. It's an */
 
-.personnel_images
+.people_images
 {
   width:125px;
   height:150px;
