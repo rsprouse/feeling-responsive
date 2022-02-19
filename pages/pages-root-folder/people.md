@@ -111,7 +111,7 @@ Nicolas Arms (Graduate Student, Anthropology) studies deixis and other indexical
 
 [Edwin Ko's](http://eddersko.com/)  (Graduate Student, Linguistics) interests focus on the indigenous languages of North America, especially Crow (Siouan) and Northern Pomo (Pomoan). His research interests are broadly in (morpho)syntax, historical linguistics, language contact, language documentation, and language revitalization. Some of his recent work involves an analysis of active-stative agreement, multiple exponence and switch-reference system in Crow, as well as of the use of digital technology in the revitalization of Northern Pomo.
 
-<div class="image left personnel_images">
+<div class="image right personnel_images">
 <img src="{{ site.urlimg }}maier.png" alt="Erik Maier"/>
 </div>
 
