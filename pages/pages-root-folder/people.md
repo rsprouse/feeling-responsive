@@ -47,7 +47,7 @@ sitemap: true
 
 ## <a name="faculty"></a>Affiliated Faculty
 
-<div class="image right">
+<div class="image right personnel_images">
 <img src="{{ site.urlimg }}beier.jpg" alt="Christine Beier"/>
 </div>
 
