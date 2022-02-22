@@ -80,7 +80,7 @@ function populate_select2_from_params(params) {
     $.each(params.getAll('sparams[]'), function(i, p) {
         let title = p;
         const parts = p.split(sep);
-        if (parts.length > 1 && filts.include(parts[0])) {
+        if (parts.length > 1 && filts.includes(parts[0])) {
             if (parts.length == 3) {
                 title = parts[2] + '\u2006';
             }
