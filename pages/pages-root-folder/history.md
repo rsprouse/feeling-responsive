@@ -22,8 +22,6 @@ A Department of Linguistics was created at the University of California in 1901,
 </figure>
 During this period, Americanist linguistic work at Berkeley focused mainly on documentation, especially of the many poorly described languages of California, and on areal and historical analysis. The leading figure was Mary Haas, the first Director of the Survey. A student of Edward Sapir's at Chicago and then Yale, Haas came to Berkeley in 1943 and secured a regular academic position beginning in 1946. From then until her retirement in 1978 (and afterwards), as her student Karl Teeter put it, "she trained more Americanist linguists than did Boas and Sapir put together."
 
-> <span class="teaser">She trained more Americanist linguists than did Boas and Sapir put together.</span><cite>Karl Teeter</cite>
-
 Guided by Haas and by her colleague and eventual successor as Survey Director, Wallace Chafe, Berkeley dissertations in the 1950s, 1960s, and 1970s include over 40 grammatical descriptions and dictionaries of American Indian languages.
 
 <figure>
@@ -47,8 +45,6 @@ Under the leadership of Leanne Hinton, the third Survey Director, we have been e
 ## The 2010s
 
 In the last ten years, we have focused on digital repatriation: scanning and digitizing legacy materials, and making them accessible through a new online tool, the California Language Archive, which facilitates distant access to cultural and linguistic heritage materials. This also includes the indigenous language collections (from as early as 1901) in the Berkeley Language Center and the Phoebe A. Hearst Museum of Anthropology. As of September 2019, the California Language Archive indexes over 18,000 items on over 450 languages, with over 30,500 digital files.
-
-> <span class="teaser">It is only a question of a very few years when [California Indian] languages…will have disappeared.</span><cite>Franz Boas</cite>
 
 For over 100 years, the academic study of California languages and linguistics has been dominated by the concern among scholars that the diversity and richness of our state's languages are in danger of vanishing. Already in April 1901, A. L. Kroeber's teacher Franz Boas wrote to urge the establishment of anthropological and language documentation programs at Berkeley. Boas emphasized "that it is only a question of a very few years when [California Indian] languages…will have disappeared."
 
