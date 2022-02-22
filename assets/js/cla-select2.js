@@ -71,17 +71,21 @@ const handleMetadataLinkClick = event => {
 
 /*
  * Use param data to repopulate select2 element.
- * TODO: check params against whitelist
+ * params is a URLSearchParams object
+ * TODO: whitelist filts
 */
 function populate_select2_from_params(params) {
-    sep = '=';
-    $.each(params, function(i,p) {
-        var title = p;
-        var parts = p.split(sep);
-        if (parts.length == 3) {
-            title = parts[2] + '\u2006';
+    const filts = ['bndlid', 'collid', 'langid', 'pplid', 'placeid', 'repoid'];
+    const sep = '=';
+    $.each(params.getAll('sparams[]'), function(i, p) {
+        let title = p;
+        const parts = p.split(sep);
+        if (parts.length > 1 && filts.include(parts[0])) {
+            if (parts.length == 3) {
+                title = parts[2] + '\u2006';
+            }
         }
-	if (title !== '\u2006' && title !== '') {
+        if (title !== '\u2006' && title !== '') {
             newOption = new Option(title, p, true, true);
             $('#cla-search-select').append(newOption).trigger('change');
         }
@@ -158,8 +162,8 @@ const handleSelect2FormSubmit = event => {
           update_counts('bndl', bndlpg);
           update_coll_list(query, data["coll"]["hits"]["hits"]);
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
-	  $('#tablist').show();
-	  $('label.showall').show();
+          $('#tablist').show();
+          $('label.showall').show();
           update_pagination('coll', collpg);
           update_pagination('bndl', bndlpg);
           // Add event handlers for all <a href=""> metadata elements that
@@ -358,7 +362,7 @@ function update_pagination(tab, pg)  {
 
 function populate_form_from_state() {
   $('#cla-search-form').empty().trigger("change");
-  const p = new URLSearchParams(window.history.state).getAll('sparams[]');
+  const p = new URLSearchParams(window.history.state)
   populate_select2_from_params(p);
   $('#search_button').click();
 }
@@ -366,8 +370,7 @@ function populate_form_from_state() {
 function populate_form_from_query_string(formid) {
   const formsel = '#' + formid;
   const qsparams = new URLSearchParams(window.location.search);
-  populate_select2_from_params(qsparams.getAll('sparams[]'));
-  const params = ['tab', 'with_js', 'size', 'bndlfrom', 'collfrom', 'bndlsort', 'collsort'];
+  populate_select2_from_params(qsparams);
   $.each(params, function(i, p) {
       const val = qsparams.get(p);
       if (val != null) {
