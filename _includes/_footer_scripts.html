@@ -36,8 +36,8 @@ $('audio,video').mediaelementplayer();
   {% else %}
     $('#search_button').on('click', function (e) {
       e.preventDefault();
-      const s = $.param($('#cla-search-form').serializeArray());
-      if (s != '') {
+      if ($('#cla-search-form').find(':selected').length > 0) {
+        const s = $.param($('#cla-search-form').serializeArray());
         window.location.href = 'list/index.html?' + s;
       }
     });
