@@ -37,7 +37,9 @@ $('audio,video').mediaelementplayer();
     $('#search_button').on('click', function (e) {
       e.preventDefault();
       const s = $.param($('#cla-search-form').serializeArray());
-      window.location.href = 'list/index.html?' + s;
+      if (s != '') {
+        window.location.href = 'list/index.html?' + s;
+      }
     });
   {% endif %}
   configure_select2("{{ site.search.aws_endpoint }}", "{{ site.search.placeholder }}");

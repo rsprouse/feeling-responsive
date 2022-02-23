@@ -74,13 +74,17 @@ const handleMetadataLinkClick = event => {
  * params is a URLSearchParams object
  * TODO: whitelist filts
 */
-function populate_select2_from_params(params) {
+function populate_form_from_params(params) {
+    const hparams = ['tab', 'with_js', 'size', 'bndlfrom', 'collfrom', 'bndlsort', 'collsort'];
     const filts = ['bndlid', 'collid', 'langid', 'pplid', 'placeid', 'repoid'];
     const sep = '=';
     $.each(params.getAll('sparams[]'), function(i, p) {
         let title = p;
         const parts = p.split(sep);
-        if (parts.length > 1 && filts.includes(parts[0])) {
+        if (parts.length > 1 && hparams.includes(parts[0])) {
+            const hsel = '#cla-search-form > input[name="' + parts[0] + '"]';
+            $(hsel).val(parts[1]);
+        } else if (parts.length > 1 && filts.includes(parts[0])) {
             if (parts.length == 3) {
                 title = parts[2] + '\u2006';
             }
@@ -90,6 +94,12 @@ function populate_select2_from_params(params) {
             $('#cla-search-select').append(newOption).trigger('change');
         }
     });
+  $.each(params, function(i, p) {
+      const val = qsparams.get(p);
+      if (val != null) {
+          $(formsel).data(p, val);
+      }
+  });
 }
 
 function display_collbndlrec(rectype, recid) {
@@ -363,21 +373,14 @@ function update_pagination(tab, pg)  {
 function populate_form_from_state() {
   $('#cla-search-form').empty().trigger("change");
   const p = new URLSearchParams(window.history.state)
-  populate_select2_from_params(p);
+  populate_form_from_params(p);
   $('#search_button').click();
 }
 
 function populate_form_from_query_string(formid) {
   const formsel = '#' + formid;
   const qsparams = new URLSearchParams(window.location.search);
-  populate_select2_from_params(qsparams);
-  const params = ['tab', 'with_js', 'size', 'bndlfrom', 'collfrom', 'bndlsort', 'collsort'];
-  $.each(params, function(i, p) {
-      const val = qsparams.get(p);
-      if (val != null) {
-          $(formsel).data(p, val);
-      }
-  });
+  populate_form_from_params(qsparams);
 }
 
   // Use `JSON.stringify()` to make the output valid, human-readable JSON.
