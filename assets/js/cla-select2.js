@@ -371,6 +371,7 @@ function populate_form_from_query_string(formid) {
   const formsel = '#' + formid;
   const qsparams = new URLSearchParams(window.location.search);
   populate_select2_from_params(qsparams);
+  const params = ['tab', 'with_js', 'size', 'bndlfrom', 'collfrom', 'bndlsort', 'collsort'];
   $.each(params, function(i, p) {
       const val = qsparams.get(p);
       if (val != null) {
