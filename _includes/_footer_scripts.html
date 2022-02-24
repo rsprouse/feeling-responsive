@@ -53,6 +53,8 @@ $('audio,video').mediaelementplayer();
   $('#bndlshowall').on('click', toggle_showall);
   $('#search_button').on('click', handleSearchButtonClick);
   populate_form_from_query_string('cla-search-form');
+  const s = $.param($('#cla-search-form').serializeArray());
+  history.pushState(s, '{{ site.title }}', '{{ site.baseurl }}/list');
   $('#search_button').click();
   toggle_showall('coll');
   window.onpopstate = function(event) {
