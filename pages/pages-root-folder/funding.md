@@ -9,8 +9,8 @@ sitemap: true
 ---
 
 {::nomarkdown}
-<figure>
-  <img class="image fit right" width="310px" src="{{site.url}}/images/oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" />
+<figure class="right">
+  <img class="image fit" width="310px" src="{{site.url}}/images/oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" />
   <figcaption>Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
 </figure>
 {:/nomarkdown}
