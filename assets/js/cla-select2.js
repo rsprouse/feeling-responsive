@@ -79,19 +79,21 @@ function populate_form_from_params(params) {
     const filts = ['bndlid', 'collid', 'langid', 'pplid', 'placeid', 'repoid'];
     const sep = '=';
     $.each(Array.from(params.entries()), function(i, p) {
-        let title = p;
-        const parts = p.split(sep);
-        if (parts.length > 1 && hparams.includes(parts[0])) {
-            const hsel = '#cla-search-form > input[name="' + parts[0] + '"]';
-            $(hsel).val(parts[1]);
-        } else if (parts.length > 1 && filts.includes(parts[0])) {
-            if (parts.length == 3) {
-                title = parts[2] + '\u2006';
+        if (hparams.includes(p[0])) {
+            const hsel = '#cla-search-form > input[name="' + p[0] + '"]';
+            $(hsel).val(p[1]);
+	} else if (p[0] == 'sparams[]') {
+            let title = p[1];
+            const parts = p[1].split(sep);
+            if (parts.length > 1 && filts.includes(parts[0])) {
+                if (parts.length == 3) {
+                    title = parts[2] + '\u2006';
+                }
             }
-        }
-        if (title !== '\u2006' && title !== '') {
-            newOption = new Option(title, p, true, true);
-            $('#cla-search-select').append(newOption).trigger('change');
+            if (title !== '\u2006' && title !== '') {
+                newOption = new Option(title, p, true, true);
+                $('#cla-search-select').append(newOption).trigger('change');
+            }
         }
     });
 }
