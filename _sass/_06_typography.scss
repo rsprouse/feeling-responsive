@@ -135,7 +135,13 @@ figure {
     text-align:center;
     margin: 0.5em;
     padding: 0.5em;
+    display:table;
 }
+
+img, figcaption {
+    display: table-cell;
+}
+
 #masthead-with-background-color figure,
 #masthead-with-pattern figure {
     margin: 0;
