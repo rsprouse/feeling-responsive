@@ -82,7 +82,7 @@ function populate_form_from_params(params) {
         if (hparams.includes(p[0])) {
             const hsel = '#cla-search-form > input[name="' + p[0] + '"]';
             $(hsel).val(p[1]);
-	} else if (p[0] == 'sparams[]') {
+        } else if (p[0] == 'sparams[]') {
             let title = p[1];
             const parts = p[1].split(sep);
             if (parts.length > 1 && filts.includes(parts[0])) {
@@ -91,7 +91,7 @@ function populate_form_from_params(params) {
                 }
             }
             if (title !== '\u2006' && title !== '') {
-                newOption = new Option(title, p, true, true);
+                newOption = new Option(title, p[1], true, true);
                 $('#cla-search-select').append(newOption).trigger('change');
             }
         }
