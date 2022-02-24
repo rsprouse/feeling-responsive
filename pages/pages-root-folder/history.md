@@ -16,8 +16,8 @@ A Department of Linguistics was created at the University of California in 1901,
 
 ## The 1950s, 1960s, and 1970s
 
-<figure>
-  <img class="image fit left" width="160px" src="{{site.url}}/images/mary-haas-1930.jpg" alt="Mary Haas, Earlham College, 1930" />
+<figure class="left">
+  <img class="image fit" width="160px" src="{{site.url}}/images/mary-haas-1930.jpg" alt="Mary Haas, Earlham College, 1930" />
   <figcaption>Mary Haas, Earlham College, 1930</figcaption>
 </figure>
 During this period, Americanist linguistic work at Berkeley focused mainly on documentation, especially of the many poorly described languages of California, and on areal and historical analysis. The leading figure was Mary Haas, the first Director of the Survey. A student of Edward Sapir's at Chicago and then Yale, Haas came to Berkeley in 1943 and secured a regular academic position beginning in 1946. From then until her retirement in 1978 (and afterwards), as her student Karl Teeter put it, "she trained more Americanist linguists than did Boas and Sapir put together."
