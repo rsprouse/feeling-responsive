@@ -13,16 +13,16 @@ sitemap: true
 <b>Deadline</b>: November 30, 2020<br />
 <b>Award</b>: typical grants will be no more than $6,000.
 
-Berkeley graduate students (in any department) are invited to apply for funding for linguistic fieldwork on endangered languages. This funding comes through the Robert L. Oswalt Graduate Student Support Endowment for Endangered Language Documentation, given in memory of Robert L. Oswalt (Ph.D. UC Berkeley 1961) by his widow and sons. It is restricted to Berkeley graduate students, for linguistic fieldwork on endangered languages (anywhere in the world).
-
-For more details and how to apply, click <a href="https://berkeley.box.com/v/oswalt-grant-2020">here</a>.
-
 {::nomarkdown}
-<figure c;ass="right">
+<figure class="center">
   <img class="image fit" width="310px" src="{{site.url}}/images/oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" />
   <figcaption>Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
 </figure>
 {:/nomarkdown}
+
+Berkeley graduate students (in any department) are invited to apply for funding for linguistic fieldwork on endangered languages. This funding comes through the Robert L. Oswalt Graduate Student Support Endowment for Endangered Language Documentation, given in memory of Robert L. Oswalt (Ph.D. UC Berkeley 1961) by his widow and sons. It is restricted to Berkeley graduate students, for linguistic fieldwork on endangered languages (anywhere in the world).
+
+For more details and how to apply, click <a href="https://berkeley.box.com/v/oswalt-grant-2020">here</a>.
 
 ## Other Sources of Funding
 
