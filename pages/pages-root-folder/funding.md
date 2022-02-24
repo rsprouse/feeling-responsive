@@ -14,7 +14,7 @@ sitemap: true
 <b>Award</b>: typical grants will be no more than $6,000.
 
 {::nomarkdown}
-<figure class="left">
+<figure class="right">
   <img class="image fit" width="310px" src="{{site.url}}/images/oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" />
   <figcaption>Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
 </figure>
