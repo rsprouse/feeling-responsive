@@ -143,6 +143,8 @@ figcaption,
     font-family: $font-family-sans-serif;
     font-size: rem-calc(13);
     padding-top: rem-calc(2);
+    display:block; 
+	text-align:center;
 }
 figcaption a,
 .masthead-caption a {
