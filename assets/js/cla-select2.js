@@ -94,12 +94,6 @@ function populate_form_from_params(params) {
             $('#cla-search-select').append(newOption).trigger('change');
         }
     });
-  $.each(params, function(i, p) {
-      const val = qsparams.get(p);
-      if (val != null) {
-          $(formsel).data(p, val);
-      }
-  });
 }
 
 function display_collbndlrec(rectype, recid) {
@@ -124,9 +118,9 @@ const handleSearchButtonClick = event => {
   /* Don't POST the form automatically. */
   event.preventDefault();
   /* Start search results at the beginning and set to default tab. */
-  $('#cla-search-form').data('collfrom', '0');
-  $('#cla-search-form').data('bndlfrom', '0');
-  $('#cla-search-form').data('tab', 'bndl');
+  $('#cla-search-form > input[name="collfrom"]').val('0');
+  $('#cla-search-form > input[name="bndlfrom"]').val('0');
+  $('#cla-search-form > input[name="tab"]').val('bndl');
   /* Start the search. */
   $('#cla-search-form').submit();
 }
@@ -213,11 +207,9 @@ function changefrom(type, val) {
 //    $('#results').data('query', query);
     //document.getElementById('go').click({formid: formid});
     if (type == 'coll') {
-        //$('#cla-search-form > [name="collfrom"]').prop('value', val);
-        $('#cla-search-form').data('collfrom', val.toString());
+        $('#cla-search-form > input[name="collfrom"]').val().toString();
     } else {
-        //$('#cla-search-form > [name="bndlfrom"]').prop('value', val);
-        $('#cla-search-form').data('bndlfrom', val.toString());
+        $('#cla-search-form > input[name="bndlfrom"]').val().toString();
     }
     $('#cla-search-form').submit();
 }
@@ -364,7 +356,7 @@ function update_pagination(tab, pg)  {
     $('#' + tab + 'paginator').html(html);
     $('#' + tab + 'paginator > a').on('click', function(event) {
         const page = parseInt(event.target.dataset.page);
-        const pgsize = parseInt($('#cla-search-form').data('size'));
+        const pgsize = parseInt($('#cla-search-form > input[name="size"]').val());
         const tab = $('#tablist > li.active').data('tabname');
         changefrom(tab, (page - 1) * pgsize);
     });
@@ -442,9 +434,8 @@ function get_query_from_form(formid) {
   // TODO: use default (or ignore) if incorrect/missing size value.
   const params = ['tab', 'with_js', 'size', 'bndlfrom', 'collfrom', 'bndlsort', 'collsort'];
   $.each(params, function(i, p) {
-      //psel = '#' + formid + ' > [name="' + p + '"]';
-      //query[p] = $(psel).prop('value');
-      query[p] = $(sel).data(p);
+      psel = '#' + formid + ' > [name="' + p + '"]';
+      query[p] = $(psel).val();
   });
 
   return query;
