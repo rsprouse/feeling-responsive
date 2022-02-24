@@ -135,8 +135,12 @@ figure {
     text-align:center;
     margin: 0.5em;
     padding: 0.5em;
+    display:table;
 }
 
+figure img {
+    display: block;
+}
 
 #masthead-with-background-color figure,
 #masthead-with-pattern figure {
@@ -148,8 +152,9 @@ figcaption,
     font-family: $font-family-sans-serif;
     font-size: rem-calc(13);
     padding-top: rem-calc(2);
-    display:block; 
+    display:table-caption; 
     text-align:center;
+    caption-side: bottom;
 }
 figcaption a,
 .masthead-caption a {
