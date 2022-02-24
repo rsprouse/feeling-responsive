@@ -132,6 +132,7 @@ img { border-radius: $global-radius;}
 
 figure {
     margin: 0 0 rem-calc(30) 0;
+    text-align:center;
 }
 #masthead-with-background-color figure,
 #masthead-with-pattern figure {
@@ -144,7 +145,7 @@ figcaption,
     font-size: rem-calc(13);
     padding-top: rem-calc(2);
     display:block; 
-	text-align:center;
+    text-align:center;
 }
 figcaption a,
 .masthead-caption a {
