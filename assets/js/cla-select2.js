@@ -78,7 +78,7 @@ function populate_form_from_params(params) {
     const hparams = ['tab', 'with_js', 'size', 'bndlfrom', 'collfrom', 'bndlsort', 'collsort'];
     const filts = ['bndlid', 'collid', 'langid', 'pplid', 'placeid', 'repoid'];
     const sep = '=';
-    $.each(params.getAll('sparams[]'), function(i, p) {
+    $.each(params.entries(), function(i, p) {
         let title = p;
         const parts = p.split(sep);
         if (parts.length > 1 && hparams.includes(parts[0])) {
