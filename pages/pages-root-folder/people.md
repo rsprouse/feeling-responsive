@@ -98,11 +98,13 @@ Nicolas Arms (Graduate Student, Anthropology) studies deixis and other indexical
 
 [Maksymilian Dabkowski](https://maksymilian-dabkowski.github.io/) (Graduate Student, Linguistics) is interested in phonological interfaces and language documentation. Since 2017, he has been carrying out fieldwork on A'ingae (or Cofán, ISO 639-3: con), an Amazonian language isolate spoken in northeast Ecuador and southern Colombia. He has investigated the interactions of stress, glottalization, and morphosyntactic structure in A'ingae verbs. In 2020, Maksymilian worked as a lab manager for A'ingae Language Documentation Project, building a multimedia language corpus accessible to the communities of speakers. His other interests include semantics, language revitalization, logic, and psycholinguistics.
 
+<---!
 <div class="image right people_images">
 <img src="{{ site.urlimg }}erin.jpg" alt="Erin Donnelly Kuhns"/>
 </div>
 
-[Erin Donnelly](http://linguistics.berkeley.edu/~edonnelly/) (Graduate Student, Linguistics) is interested in Mesoamerican languages, with a focus on socio- and historical linguistics. Her dissertation project investigates the dialectology of Northern Zapotec (Eastern Oto-Manguean). She has been researching Choapan Zapotec for ten years, and has also conducted fieldwork on varieties of Villa Alta Zapotec and Lalana Chinantec (Western Oto-Manguean). Erin collaborates with community members on El Nigromante Zapotec revitalization efforts.
+[Erin Donnelly](http://linguistics.berkeley.edu/~edonnelly/) (Graduate Student, Linguistics) is interested in Mesoamerican languages, with a focus on socio- and historical linguistics. Her dissertation project investigates the dialectology of Northern Zapotec (Eastern Oto-Manguean). She has been researching Choapan Zapotec for ten years, and has also conducted fieldwork on varieties of Villa Alta Zapotec and Lalana Chinantec (Western Oto-Manguean). Erin collaborates with community members on El Nigromante Zapotec revitalization efforts. 
+--->
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}ko.png" alt="Edwin Ko"/>
@@ -158,7 +160,7 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 <img src="{{ site.urlimg }}lapierre.jpg" alt="Myriam Lapierre"/>
 </div>
 
-[Myriam Lapierre](https://sites.google.com/berkeley.edu/myriam-lapierre/home) (Graduate Student, Linguistics) is interested in the phonetics and phonology of South American languages, with a particular focus on nasality-related phenomena in the Amazon. She began conducting fieldwork in the Brazilian Amazon in 2014, and has since worked with several languages of the Jê family (Panãra, Me~bêngôkre, Kajkwakhrattxi, and Xavante), as well as Kawaiwete (Tupí-Guaraní). Some of her recent and ongoing work includes a descriptive analysis of the phonology of Panãra, an analysis of nasal coarticulation in Panãra using oral and nasal airflow data, and a typological and theoretical analysis of nasal harmony phenomena in languages of the Tupí-Guaraní family.
+[Myriam Lapierre](https://sites.google.com/berkeley.edu/myriam-lapierre/home) (PhD 2021, Linguistics) is interested in the phonetics and phonology of South American languages, with a particular focus on nasality-related phenomena in the Amazon. She began conducting fieldwork in the Brazilian Amazon in 2014, and has since worked with several languages of the Jê family (Panãra, Me~bêngôkre, Kajkwakhrattxi, and Xavante), as well as Kawaiwete (Tupí-Guaraní). Some of her recent and ongoing work includes a descriptive analysis of the phonology of Panãra, an analysis of nasal coarticulation in Panãra using oral and nasal airflow data, and a typological and theoretical analysis of nasal harmony phenomena in languages of the Tupí-Guaraní family.
 
 
 <div class="image left people_images">
