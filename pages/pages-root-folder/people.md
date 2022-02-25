@@ -98,39 +98,39 @@ sitemap: true
 
 [Maksymilian Dabkowski](https://maksymilian-dabkowski.github.io/) (Graduate Student, Linguistics) is interested in phonological interfaces and language documentation. Since 2017, he has been carrying out fieldwork on A'ingae (or Cofán, ISO 639-3: con), an Amazonian language isolate spoken in northeast Ecuador and southern Colombia. He has investigated the interactions of stress, glottalization, and morphosyntactic structure in A'ingae verbs. In 2020, Maksymilian worked as a lab manager for A'ingae Language Documentation Project, building a multimedia language corpus accessible to the communities of speakers. His other interests include semantics, language revitalization, logic, and psycholinguistics.
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}ko.png" alt="Edwin Ko"/>
 </div>
 
 [Edwin Ko's](http://eddersko.com/)  (Graduate Student, Linguistics) interests focus on the indigenous languages of North America, especially Crow (Siouan) and Northern Pomo (Pomoan). His research interests are broadly in (morpho)syntax, historical linguistics, language contact, language documentation, and language revitalization. Some of his recent work involves an analysis of active-stative agreement, multiple exponence and switch-reference system in Crow, as well as of the use of digital technology in the revitalization of Northern Pomo.
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}maier.jpg" alt="Erik Maier"/>
 </div>
 
 [Erik Maier](http://linguistics.berkeley.edu/~erikhmaier/) (Graduate Student, Linguistics) is part of the Karuk Research Unit, a group which conducts regular fieldwork with remaining Karuk speakers, manages an online dictionary and text corpus of the language, works with the Karuk community to support their language revitalization efforts, and is currently building a dependency grammar syntactic treebank of Karuk. His research interests include language documentation and revitalization, morphology, syntax, semantics, and verbal art.
 
-<div class="image left people_images">
-<img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano" style="padding-right:5px;"/>
+<div class="image right people_images">
+<img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano"/>
 </div>
 
 **Tzintia Montano Ramirez** (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee"/>
 </div>
 
 [Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (Graduate Student, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northerm Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
 
 
-<div class="image left people_images">
-<img src="{{ site.urlimg }}robertson.jpg" alt="Allegra Robertson" style="padding-right:5px;"/>
+<div class="image right people_images">
+<img src="{{ site.urlimg }}robertson.jpg" alt="Allegra Robertson"/>
 </div>
 
 [Allegra Robertson](https://sites.google.com/view/allegrarobertson) (Graduate Student, Linguistics) is interested in Amazonian languages, indigenous language revitalization, phonetics and phonology. She began conducting fieldwork in Guyana in 2017, where she documented Warao (isolate) with a focus on imperatives and morphology. Her current research focuses on contrastive phonation and gradient weight in Yanesha' (Arawak), from phonetic, phonological, and historical perspectives. Since 2017 she has also been involved in the Berkeley Comparative Arawakan Project, led by [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html).
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}wesley.jpeg" alt="Wesley dos Santos"/>
 </div>
 
