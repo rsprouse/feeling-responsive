@@ -652,13 +652,10 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
 
 /* Person page stuff -aeb*/
 
-.actual_ppl_img{
-  width:125px;
-}
-
 .left.people_images{
   display: flex;
   justify-content:left;
+  width:125px;
   padding-top:7px;
   padding-bottom:0px;
   padding-left:0px;
@@ -669,6 +666,7 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
 .right.people_images{
   display: flex;
   padding-top:7px;
+  width:125px;
   padding-bottom:0px;
   padding-left:10px;
   padding-right:0px;
