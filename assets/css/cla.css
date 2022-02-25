@@ -652,22 +652,22 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
 
 /* Person page stuff -aeb*/
 
-.left.people_images
-{
-  display: flex;
+.actual_ppl_img{
   width:125px;
+}
+
+.left.people_images{
+  display: flex;
   justify-content:left;
   padding-top:7px;
   padding-bottom:0px;
   padding-left:0px;
-  padding-right:5px;
+  padding-right:10px;
 }
 
 
-.right.people_images
-{
+.right.people_images{
   display: flex;
-  width:125px;
   padding-top:7px;
   padding-bottom:0px;
   padding-left:10px;
