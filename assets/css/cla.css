@@ -657,8 +657,10 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
   display: flex;
   width:125px;
   justify-content:left;
-  align-items:left;
-  
+  top-padding:0px;
+  bottom-padding:10px;
+  left-padding:0px;
+  right-padding:10px;
 }
 
 
@@ -668,5 +670,4 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
   width:125px;
   padding: 10px;
   justify-content: center;
-  align-items: center;
 }
