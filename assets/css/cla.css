@@ -655,7 +655,9 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
 .andrew
 {
   display: flex;
-  width:100px;
+  width:125px;
+  justify-content:left;
+  
 }
 
 
