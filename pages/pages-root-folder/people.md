@@ -90,7 +90,7 @@ sitemap: true
 <img src="{{ site.urlimg }}Arms-Nicolas-photo.jpg" alt="Nicolas Arms"/>
 </div>
 
-Nicolas Arms (Graduate Student, Anthropology) studies deixis and other indexical phenomena in language, focusing on the deictic systems of indigenous languages of the Americas, and on the contribution of deictic expressions to the multimodal dynamics of everyday communicative interaction. Since 2018, he has been carrying out fieldwork on 'Weenhayek, a Mataguayan language spoken in the Bolivian Chaco.
+**Nicolas Arms** (Graduate Student, Anthropology) studies deixis and other indexical phenomena in language, focusing on the deictic systems of indigenous languages of the Americas, and on the contribution of deictic expressions to the multimodal dynamics of everyday communicative interaction. Since 2018, he has been carrying out fieldwork on 'Weenhayek, a Mataguayan language spoken in the Bolivian Chaco.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}maks.jpg" alt="Maksymilian Dabkowski" />
@@ -111,10 +111,10 @@ Nicolas Arms (Graduate Student, Anthropology) studies deixis and other indexical
 [Erik Maier](http://linguistics.berkeley.edu/~erikhmaier/) (Graduate Student, Linguistics) is part of the Karuk Research Unit, a group which conducts regular fieldwork with remaining Karuk speakers, manages an online dictionary and text corpus of the language, works with the Karuk community to support their language revitalization efforts, and is currently building a dependency grammar syntactic treebank of Karuk. His research interests include language documentation and revitalization, morphology, syntax, semantics, and verbal art.
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano"/>
+<img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano" style="padding-right:5px;"/>
 </div>
 
-Tzintia Montano Ramirez (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
+**Tzintia Montano Ramirez** (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
 
 <div class="image right people_images">
@@ -125,7 +125,7 @@ Tzintia Montano Ramirez (Graduate Student, Linguistics) is interested in languag
 
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}robertson.jpg" alt="Allegra Robertson"/>
+<img src="{{ site.urlimg }}robertson.jpg" alt="Allegra Robertson" style="padding-right:5px;"/>
 </div>
 
 [Allegra Robertson](https://sites.google.com/view/allegrarobertson) (Graduate Student, Linguistics) is interested in Amazonian languages, indigenous language revitalization, phonetics and phonology. She began conducting fieldwork in Guyana in 2017, where she documented Warao (isolate) with a focus on imperatives and morphology. Her current research focuses on contrastive phonation and gradient weight in Yanesha' (Arawak), from phonetic, phonological, and historical perspectives. Since 2017 she has also been involved in the Berkeley Comparative Arawakan Project, led by [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html).
