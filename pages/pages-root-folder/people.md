@@ -131,7 +131,7 @@ sitemap: true
 [Allegra Robertson](https://sites.google.com/view/allegrarobertson) (Graduate Student, Linguistics) is interested in Amazonian languages, indigenous language revitalization, phonetics and phonology. She began conducting fieldwork in Guyana in 2017, where she documented Warao (isolate) with a focus on imperatives and morphology. Her current research focuses on contrastive phonation and gradient weight in Yanesha' (Arawak), from phonetic, phonological, and historical perspectives. Since 2017 she has also been involved in the Berkeley Comparative Arawakan Project, led by [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html).
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}wesley.jpeg" alt="Wesley dos Santos" style="padding-right:5px;"/>
+<img src="{{ site.urlimg }}wesley_new.jpeg" alt="Wesley dos Santos" style="padding-right:5px;"/>
 </div>
 
 [Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos) (Graduate Student, Linguistics)  is interested in Language Documentation and Description, Historical Linguistics and Linguistic Typology of South America Indigenous Languages. His current project focuses on a grammatical description of Kawahiva (a Tupi-Guarani language) based on the varieties spoken by the Karipuna and Uru-Eu-Wau-Wau peoples living in Southwestern Amazonia basin (State of Rondônia, Brazil), where dos Santos started conducting fieldwork in 2017.
