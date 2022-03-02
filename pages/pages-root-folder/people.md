@@ -134,7 +134,9 @@ sitemap: true
 <img src="{{ site.urlimg }}wesley_new.jpeg" alt="Wesley dos Santos" style="padding-right:5px;"/>
 </div>
 
-[Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos) (Graduate Student, Linguistics)  is interested in Language Documentation and Description, Historical Linguistics and Linguistic Typology of South America Indigenous Languages. His current project focuses on a grammatical description of Kawahiva (a Tupi-Guarani language) based on the varieties spoken by the Karipuna and Uru-Eu-Wau-Wau peoples living in Southwestern Amazonia basin (State of Rondônia, Brazil), where dos Santos started conducting fieldwork in 2017.
+[Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos) is interested on the documentation and analysis of grammatical phenomena of South American languages. His current work focuses on Kawahíva (Tupí-Guaraní), an endangered Amazonian language of Brazil spoken by some 550 speakers in the states of Amazonas, Mato Grosso and Rondônia. In particular, he has been documenting the differences and conditioning factors in constituent order, person-marking indexes and dependent clauses of Kawahíva varieties known as Juma (ISO code: jua) and Uru Eu Wau Wau (ISO code: urz).
+
+
 
 
 ## <a name="alumni"></a>Recent Alums
