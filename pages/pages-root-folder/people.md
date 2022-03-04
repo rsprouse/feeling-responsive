@@ -117,14 +117,6 @@ sitemap: true
 
 **Tzintia Montano Ramirez** (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" style="padding-right:7px; padding-top:10px;"/>
-</div>
-
-[Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (Graduate Student, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northerm Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
-
-
 <div class="image right people_images">
 <img src="{{ site.urlimg }}robertson.jpg" alt="Allegra Robertson"/>
 </div>
@@ -159,31 +151,38 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 
 
 <div class="image left people_images">
+<img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" style="padding-right:7px; padding-top:0px;"/>
+</div>
+
+[Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (Graduate Student, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northerm Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
+
+
+<div class="image right people_images">
 <img src="{{ site.urlimg }}neely.jpg" alt="Kelsey Neely"/>
 </div>
 
 [Kelsey Neely](http://lx.berkeley.edu/people/graduate-students) (PhD 2019) is an ELDP Postdoctoral Research Fellow at the University of Texas at Austin. She works on Yaminawa and Nahua (Yora), two closely related Panoan language varieties spoken in Peruvian Amazonia. She is currently interlinearizing and editing a book of traditional narratives and oral histories for the Yaminawa and Nahua communities. Her research interests include anthropological linguistics, sociolinguistics, prosody, morphosyntax, and the history of Amazonian languages and peoples. Kelsey is also producing a grammatical description and lexical database for the language.
 
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}sandy.jpg" alt="Clare Sandy"/>
 </div>
 
 [Clare Sandy](https://english.sfsu.edu/people/faculty/clare-sandy) (PhD 2017) is a Lecturer at San Jos&eacute; State University and has been part of the Karuk Research Unit group conducting fieldwork on Karuk, and managing an online dictionary and text corpus of the language, and working with the Karuk community to support their language revitalization efforts. She has also carried out team based linguistic fieldwork on Omagua, a highly endangered language of the Peruvian Amazon, and has worked with Sierra Miwok, Mono, and Eastern Pomo speakers and language learners at the Breath of Life Workshop. Her research interests include phonology, morphology, and language change, and her dissertation work focuses on the accentual system of Karuk. She is also interested in database development and in making archival linguistic materials accessible.
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}sardinha.png" height="150" width="125" alt="Katie Sardinha"/>
 </div>
 
 [Katie Sardinha](http://linguistics.berkeley.edu/~ksardinha/) (PhD 2017) began work on Kwak'wala, a Northern Wakashan language spoken on the central coast of British Columbia, in 2009. Her dissertation work investigated object case patterns in the language and the relationship between object case and event structure. More generally, her Kwak'wala research has focused on phenomena at the syntax-semantic interface and syntactic change within the Wakashan language family. Katie is interested in fieldwork methodology and creative language teaching tools, and has developed Story-builder, a visual story-telling card set which can be downloaded from her website, [www.story-builder.ca](http://www.story-builder.ca/).
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}skilton.jpg" alt="Amalia Skilton"/>
 </div>
 
 [Amalia Horan Skilton](http://linguistics.berkeley.edu/~amaliaskilton/) (PhD 2019) is an NSF SBE Postdoctoral Research Fellow affiliated with the Department of Linguistics at the University of Texas at Austin and the Language Development Department at the Max Planck Institute for Psycholinguistics, Austin. Since 2012, Amalia has conducted over 24 months of in situ fieldwork on Ticuna (isolate; Peru, Colombia, Brazil) and Máíhĩ̵̀kì (Tukanoan; Peru). Her research examines how speakers use language and gesture to manage one another's attention in conversation. Amalia's current project, titled "Language acquisition and joint attention," analyzes language development and the development of general interactive skills -- such as pointing and following adults' gaze -- in children, aged 1 to 4 years, acquiring Ticuna as their first language.
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}stark.jpg" alt="Tammy Stark"/>
 </div>
 
