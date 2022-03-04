@@ -57,7 +57,8 @@ sitemap: true
 <img src="{{ site.urlimg }}deal.jpg" alt="Amy Rose Deal" style="padding-top:5px;"/>
 </div>
 
-[Amy Rose Deal](http://linguistics.berkeley.edu/~ardeal/) (Associate Professor of Linguistics)  has carried out field research for the last 14 years on Nez Perce, a Sahaptian language of the Columbia River Plateau. As a formal syntactician and semanticist, she is particularly interested in consequences for universals and variation in grammar, meaning, and their connection. Particular interests include everything to do with attitude reporting, clause embedding, and perspective (e.g. shifty indexicals, de re reporting, raising to object, "relative embedding"); ergativity and/or morphological case; modality; countability (mass/count distinction); external possession and possessor raising; relative clauses; and agreement.
+[Amy Rose Deal](http://linguistics.berkeley.edu/~ardeal/) (Associate Professor of Linguistics) has worked for many years with speakers of Nez Perce, a Sahaptian language of the Columbia River plateau. Her interests are broadly in linguistic universals and variation as they relate to syntax and semantics, and ways that formal tools can be brought to bear to better understand linguistic phenomena. Particular interests include case and agreement; attitude reports; perspectival phenomena, especially indexical shift; possessor raising; and mass/count distinctions.
+
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}michael.jpg" alt="Lev Michael"/>
