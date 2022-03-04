@@ -12,7 +12,7 @@ sitemap: true
 
 ## <a name="personnel"></a>Personnel
 <div class="image left people_images">
-<img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
+<img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett" style="padding-right:5px;"/>
 </div>
 
 [Andrew Garrett](http://linguistics.berkeley.edu/~garrett/) (Director) is Professor of Linguistics and Nadine M. Tang and Bruce L. Smith Professor of Cross-Cultural Social Sciences. As a Californianist he has done linguistic fieldwork, archival work, and consulting work with the [Hupa](languages/hupa.php), [Karuk](languages/karuk.php), [Northern Paiute](languages/northern-paiute.php), [Rumsen Ohlone](languages/rumsen.php), and Sierra Miwok languages, but he mainly focuses on [Yurok](languages/yurok.php) and [Karuk](languages/karuk.php) (in northern California). His Yurok projects include articles on descriptive and historical linguistics, contributions to the tribal language program (including a practical dictionary compiled with Juliette Blevins and Lisa Conathan), ongoing work on Yurok texts, and a [digital text and lexical archive](http://linguistics.berkeley.edu/~yurok). In Yurok grammar, Garrett is especially interested in relations between lexical and morphological structures on the one hand, and between lexical and syntactic patterns on the other; his book [Basic Yurok](http://escholarship.org/uc/item/2vw609w4) appeared in 2014. His Karuk projects, in collaboration with [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen/) and several graduate students, include a database of texts, research on the language's interesting syntactic patterns, and a co-edited volume of ten texts recorded in 1901 and 1902. More generally, he studies the dialectology of languages of the west coast and the emergence of the distinctive California linguistic profile. Outside California, Garrett also worked on Indo-European historical linguistics, especially Anatolian, Greek, and Latin, and general problems of language change and linguistic reconstruction.
@@ -26,7 +26,7 @@ sitemap: true
 
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}sprouse.jpg" alt="Ronald Sprouse"/>
+<img src="{{ site.urlimg }}sprouse.jpg" alt="Ronald Sprouse" style="padding-right:5px;"/>
 </div>
 
 [Ronald Sprouse](https://github.com/rsprouse) (Programmer) has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
@@ -119,7 +119,7 @@ sitemap: true
 
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee"/>
+<img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" style="padding-right:7px; padding-top:10px;"/>
 </div>
 
 [Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (Graduate Student, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northerm Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
@@ -132,7 +132,7 @@ sitemap: true
 [Allegra Robertson](https://sites.google.com/view/allegrarobertson) (Graduate Student, Linguistics) is interested in Amazonian languages, indigenous language revitalization, phonetics and phonology. She began conducting fieldwork in Guyana in 2017, where she documented Warao (isolate) with a focus on imperatives and morphology. Her current research focuses on contrastive phonation and gradient weight in Yanesha' (Arawak), from phonetic, phonological, and historical perspectives. Since 2017 she has also been involved in the Berkeley Comparative Arawakan Project, led by [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html).
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}wesley_new.jpeg" alt="Wesley dos Santos" style="padding-right:10px;"/>
+<img src="{{ site.urlimg }}wesley_new.jpeg" alt="Wesley dos Santos" style="padding-right:7px; padding-top:10px;"/>
 </div>
 
 [Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos) is interested on the documentation and analysis of grammatical phenomena of South American languages. His current work focuses on Kawahíva (Tupí-Guaraní), an endangered Amazonian language of Brazil spoken by some 550 speakers in the states of Amazonas, Mato Grosso and Rondônia. In particular, he has been documenting the differences and conditioning factors in constituent order, person-marking indexes and dependent clauses of Kawahíva varieties known as Juma (ISO code: jua) and Uru Eu Wau Wau (ISO code: urz).
