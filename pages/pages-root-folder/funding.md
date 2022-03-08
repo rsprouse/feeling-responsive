@@ -8,7 +8,7 @@ header:
 sitemap: true
 ---
 
-## Oswalt Endangered Language Grants
+## Oswalt Endangered Language Grants <br>
 
 <p><b>Deadline</b>: February 28, 2022<br>
 <b>Award</b>: typical grants will be no more than $6,000.
@@ -22,7 +22,7 @@ sitemap: true
 
 <br>For more details and how to apply, click <a href="https://forms.gle/Mkm28qpAjiZ1p6Ap7">here</a>.</p>  
 
-## Other Sources of Funding
+## Other Sources of Funding <br>
 
 <ul>
 <li><a href="http://www.eldp.net/en/our+grants/documentation+grants/">Endangered Language Documentation Programme (ELDP)</a>
