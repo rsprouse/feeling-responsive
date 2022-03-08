@@ -66,6 +66,5 @@ sitemap: true
 <br><b>Deadline</b>: TBA
 <li><a href="https://clas.berkeley.edu/indigenous-languages-latin-america-illa-travel-fund">Indigenous Languages of Latin America Travel Fund</a>
 <br><b>Deadline</b>: Applications are accepted on a rolling basis and are due at least 3 weeks before the conference date for travel within the US, and 2 months before the conference date for travel outside of the US.
-
-		</ul>
+</ul>
 
