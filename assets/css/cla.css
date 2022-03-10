@@ -678,10 +678,10 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
   justify-content:left;
   width:300px;
   border-width:0px;
-  padding-top:7px;
+  padding-top:0px;
   padding-bottom:0px;
   padding-left:0px;
-  padding-right:12px;
+  padding-right:0px;
 }
 
 
