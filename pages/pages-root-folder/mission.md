@@ -29,9 +29,11 @@ No language documentation project is worthwhile when its results are lost, or wh
 
 ## Access and outreach
 
-<div class="image fit right" style="width: 1200px;">
+<div class="image right mission_images">
+   <figure class="right mission_fig">
 <img src="{{ site.urlimg }}northern-pomo-workshop-2019.jpg" alt="Northern Pomo" width="1200px"/>
-<div class="caption">Northern Pomo language camp, Redwood Valley Rancheria, CA, 2019 (photo courtesy of Edwin Ko)</div>
+<figcaption>Northern Pomo language camp, Redwood Valley Rancheria, CA, 2019 (photo courtesy of Edwin Ko)</figcaption>
+   </figure>
 </div>
 
 
