@@ -5,7 +5,7 @@ permalink: /projects/:year/:title.html
 ---
 
 <div class="image left project_images">
-<img src="{{ site.urlimg }}atchan1.png" alt="Katie Russel, Becky Jarvis, and Archan speakers" width="400"/>
+<img src="{{ site.urlimg }}atchan1.png" alt="Katie Russel, Becky Jarvis, and Atchan speakers" width="400"/>
 </div>
 
 During the summer of 2021, we began a language-documentation project with speakers of the language Atchan (ISO: ebr), a Kwa language spoken in Côte d’Ivoire. We are working with speakers of Atchan (whose ethnicity, in the Atchan language, is called Tchaman) in documenting this endangered language. Abidjan, the economic capital of Côte d'Ivoire, is built upon the traditional Tchaman homeland. French colonizers claimed the land as their own in the mid-19th century, due to its favorable location on the coast, and officially declared Abidjan a town in 1903, expelling many indigenous Tchaman people from their land. Colonial French rule, which emphasized assimilation to French culture and language, continued until 1960, at which point Côte d'Ivoire achieved independence. Abidjan, as the urban center of the country, experienced explosive population growth after independence. Today, the Tchaman people mainly live in village enclaves within the city.
