@@ -17,7 +17,7 @@ widget1:
 widget2:
   title: "Project spotlight"
   teaser: subtitle
-  url: blog/2021/projectspot.html
+  url: blog/2022/projectspot.html
   image: eva_aikana.jpg
   text: 'We want to highlight the YYY project.'
 widget3:
