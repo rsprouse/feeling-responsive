@@ -692,9 +692,9 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
 }
 
 
-.right.mission_images{
+.center.mission_images{
   display: flex;
-  justify-content:left;
+  justify-content:center;
   width:600px;
   border-width:0px;
   padding-top:0px;
@@ -703,7 +703,7 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
   padding-right:0px;
 }
 
-.right.mission_fig{
+.center.mission_fig{
   padding-top:0px;
   padding-bottom:8px;
   padding-left:8px;
