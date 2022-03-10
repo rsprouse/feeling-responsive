@@ -2,7 +2,7 @@
 permalink: mission.html
 layout: page
 title: Our mission
-sidebar: left
+sidebar: none
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
