@@ -42,7 +42,7 @@ In recent decades, language documentation has continued as one of our core missi
 
 <div image left mission_images>
 <figure class="left mission_fig">
-  <img class="image fit" width="260px" src="{{site.url}}/images/leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965" />
+  <img class="image fit" width="260px" margin="0px" src="{{site.url}}/images/leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965" />
   <figcaption>Leanne Hinton, Supai, Arizona, 1965 (Photo courtesy of Matt Hinton)</figcaption>
 </figure>
 </div>
