@@ -16,23 +16,19 @@ A Department of Linguistics was created at the University of California in 1901,
 
 ## The 1950s, 1960s, and 1970s
 
-<div class="image left mission_images">
 <figure class="left mission_fig">
   <img width="160px" src="{{site.url}}/images/mary-haas-1930.jpg" alt="Mary Haas, Earlham College, 1930" style="padding-top:7px !important;padding-right:5px !important;"/>
   <figcaption>Mary Haas, Earlham College, 1930</figcaption>
 </figure>
-</div>
    
 During this period, Americanist linguistic work at Berkeley focused mainly on documentation, especially of the many poorly described languages of California, and on areal and historical analysis. The leading figure was Mary Haas, the first Director of the Survey. A student of Edward Sapir's at Chicago and then Yale, Haas came to Berkeley in 1943 and secured a regular academic position beginning in 1946. From then until her retirement in 1978 (and afterwards), as her student Karl Teeter put it, "she trained more Americanist linguists than did Boas and Sapir put together."
 
 Guided by Haas and by her colleague and eventual successor as Survey Director, Wallace Chafe, Berkeley dissertations in the 1950s, 1960s, and 1970s include over 40 grammatical descriptions and dictionaries of American Indian languages.
 
-<div class = "image right mission_images">
 <figure class="right mission_fig">
   <img class="image fit" width="300px" src="{{site.url}}/images/wallace-chafe-1957.jpg" alt="Wallace Chafe, ethnobotaniucal fieldwork, 1957" />
   <figcaption>Wallace Chafe (right), ethnobotanical fieldwork, 1957, with Stanley Smith and Oscar Nephew</figcaption>
-</figure>
-</div>   
+</figure> 
    
 The areal and historical questions of interest to many Californianists in this period concerned genealogical relationships and language contact. As a result of new documentation sponsored by the Survey, a previously conjectural relationship between Algonquian languages and the northwest California languages [Wiyot](languages/wiyot.html) and [Yurok](languages/yurok.html) was proven to the satisfaction of linguists, and the (still controversial) connections among the Hokan and the Penutian languages of California were intensively scrutinized. The formation of language areas through long-term language contact and linguistic diffusion was explored for several areas of the state, notably by Haas herself in well-known 1967 and 1970 studies of northern California.
 
@@ -40,12 +36,10 @@ The areal and historical questions of interest to many Californianists in this p
 
 In recent decades, language documentation has continued as one of our core missions. But we have also paid more attention to research projects involving language typology and linguistic theory, and throughout our work to the interests of speaker and heritage communities. We have also sponsored more work on languages outside California, especially in Latin America.
 
-<div class="image left mission_images">
 <figure class="left mission_fig">
   <img class="image fit" width="260px" src="{{site.url}}/images/leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965" style="padding-top:7px !important;padding-right:5px !important;"/>
   <figcaption>Leanne Hinton, Supai, Arizona, 1965 (Photo courtesy of Matt Hinton)</figcaption>
 </figure>
-</div>
 
 The research shift toward typological and theoretical questions reflects the growth of linguistics and the difficulty of addressing every question of linguistic interest (from phonetics, through phonology and morphology, to syntax and semantics) in one research project. From Leonard Talmy's pathbreaking 1972 dissertation on [Atsugewi](languages/atsugewi.html) semantics to four 2008 and 2009 theses focusing on phonetics and phonology, or phonology and morphology, in individual languages of Mexico, student work in recent decades has more often investigated specific linguistic topics in greater depth. At the same time, the increasing number of languages with no speakers, or speakers who only rarely use their languages, has led to extensive student work on twentieth-century language change, language revitalization, or languages mainly accessible through archival materials. In at least two cases&mdash;Marc Okrand's dissertation on [Mutsun](languages/mutsun.html) (1977), and David Costa's on Miami-Illinois (1994)&mdash;this kind of archival work has led directly to active language revitalization programs.
 
