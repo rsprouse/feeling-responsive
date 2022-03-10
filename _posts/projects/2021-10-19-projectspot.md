@@ -24,7 +24,7 @@ With fieldwork travel still not possible that summer, we pivoted to begin fully 
 
 
 <div class="image left project_images">
-<img src="{{ site.urlimg }}atchan3.jpg" alt="Hannah Sande, Katie Russel, and Atchan speakers" style="width:250px;"/>
+<img src="{{ site.urlimg }}atchan3.jpg" alt="Hannah Sande, Katie Russel, and Atchan speakers" style="width:400px;"/>
 </div>
 
 In July, we began meeting 2-3 times per week with Mrs. Koutouan Evelyne and Mrs. Kouakou Jean, two Atchan speakers from Anono. Mrs. Koutouan has lived in this village since her childhood and shares a residence with her family members. As a source of economic income, she goes about her daily business of making attiéké, a staple similar to couscous made of cassava, and selling butane gas. The same goes for Mrs. Kouakou, who sells attiéké and fish at the Anono market and chicken in the evening on the roadside next to her house. Both native speakers have noted how uncommonly the Atchan language is spoken (overshadowed by French) in public spaces. Timothée has made elicitation possible by traveling to Anono for each session and connecting us to the consultants via Zoom (and by helping to translate when our French is less than perfect). Even though we are geographically located 7500 miles apart, remote elicitation has enabled us to collaborate as a team on the Atchan project, a feat which has been possible thanks to the Oswalt Grant, Zoom, and lots of dedication to the project on all sides. 
