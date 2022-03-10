@@ -15,7 +15,7 @@ widget1:
   image: steele_notes.jpg
   text: 'CLA blog posts for you to read.'
 widget2:
-  title: Revitalizing an ISO lang
+  title: "Project spotlight"
   teaser: subtitle
   url: blog/2021/revitalizing-iso-lang.html
   image: eva_aikana.jpg
