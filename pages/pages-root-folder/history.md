@@ -18,7 +18,7 @@ A Department of Linguistics was created at the University of California in 1901,
 
 <div image left mission_images>
 <figure class="left mission_fig">
-  <img width="160px" src="{{site.url}}/images/mary-haas-1930.jpg" alt="Mary Haas, Earlham College, 1930" style="padding-top:7px !important;padding-right=5px !important;"/>
+  <img width="160px" src="{{site.url}}/images/mary-haas-1930.jpg" alt="Mary Haas, Earlham College, 1930" style="padding-top:7px !important;padding-right:5px !important;"/>
   <figcaption>Mary Haas, Earlham College, 1930</figcaption>
 </figure>
 </div>
@@ -42,7 +42,7 @@ In recent decades, language documentation has continued as one of our core missi
 
 <div image left mission_images>
 <figure class="left mission_fig">
-  <img class="image fit" width="260px" src="{{site.url}}/images/leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965" style="padding-top:7px !important;padding-right=5px !important;"/>
+  <img class="image fit" width="260px" src="{{site.url}}/images/leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965" style="padding-top:7px !important;padding-right:5px !important;"/>
   <figcaption>Leanne Hinton, Supai, Arizona, 1965 (Photo courtesy of Matt Hinton)</figcaption>
 </figure>
 </div>
