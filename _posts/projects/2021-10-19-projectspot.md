@@ -1,6 +1,6 @@
 ---
 layout: spotlight
-title:  Sample project spotlight
+title:  Atchan language spotlight
 permalink: /projects/:year/:title.html
 ---
 
