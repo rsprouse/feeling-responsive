@@ -12,7 +12,7 @@ sitemap: true
 
 ## <a name="personnel"></a>Personnel
 <div class="image left people_images">
-<img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett" style="padding-right:5px;"/>
+<img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
 </div>
 
 [Andrew Garrett](http://linguistics.berkeley.edu/~garrett/) (Director) is Professor of Linguistics and Nadine M. Tang and Bruce L. Smith Professor of Cross-Cultural Social Sciences. As a Californianist he has done linguistic fieldwork, archival work, and consulting work with the [Hupa](languages/hupa.php), [Karuk](languages/karuk.php), [Northern Paiute](languages/northern-paiute.php), [Rumsen Ohlone](languages/rumsen.php), and Sierra Miwok languages, but he mainly focuses on [Yurok](languages/yurok.php) and [Karuk](languages/karuk.php) (in northern California). His Yurok projects include articles on descriptive and historical linguistics, contributions to the tribal language program (including a practical dictionary compiled with Juliette Blevins and Lisa Conathan), ongoing work on Yurok texts, and a [digital text and lexical archive](http://linguistics.berkeley.edu/~yurok). In Yurok grammar, Garrett is especially interested in relations between lexical and morphological structures on the one hand, and between lexical and syntactic patterns on the other; his book [Basic Yurok](http://escholarship.org/uc/item/2vw609w4) appeared in 2014. His Karuk projects, in collaboration with [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen/) and several graduate students, include a database of texts, research on the language's interesting syntactic patterns, and a co-edited volume of ten texts recorded in 1901 and 1902. More generally, he studies the dialectology of languages of the west coast and the emergence of the distinctive California linguistic profile. Outside California, Garrett also worked on Indo-European historical linguistics, especially Anatolian, Greek, and Latin, and general problems of language change and linguistic reconstruction.
@@ -26,7 +26,7 @@ sitemap: true
 
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}sprouse.jpg" alt="Ronald Sprouse" style="padding-right:5px;"/>
+<img src="{{ site.urlimg }}sprouse.jpg" alt="Ronald Sprouse"/>
 </div>
 
 [Ronald Sprouse](https://github.com/rsprouse) (Programmer) has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
@@ -54,7 +54,7 @@ sitemap: true
 [Christine Beier](https://lx.berkeley.edu/christine-beier) (Assistant Adjunct Professor of Linguistics) dedicates her research and field activities to the documentation, description, revitalization, and revalorization of small and endangered languages, primarily in Peruvian Amazonia. She is particularly interested in the social life of language, text-driven research, and the value of diversified collaboration in addressing language vitality and endangerment. Thus far, she has worked with inheritors and speakers of Andoa (also: Katsak&aacute;ti; Zaparoan), A&#660;<strike>i</strike>wa (isolate), Iquito (also: Ik&iacute;itu; Zaparoan), Matsigenka (Arawak), Máíhĩ̵̀kì (also: Orej&oacute;n, Tukanoan), Nanti (Arawak), Muniche (isolate), Omagua (Tup&iacute;-Guaran&iacute;), and Z&aacute;paro (also: S&aacute;para; Zaparoan). She is also co-founder, with [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html), and secretary/treasurer of [Cabeceras Aid Project](http://www.cabeceras.org/), a 501(c)(3) organization whose humanitarian work supports the social and physical well-being of communities whose languages, cultures, and ways of life are endangered.
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}deal.jpg" alt="Amy Rose Deal" style="padding-top:0px;"/>
+<img src="{{ site.urlimg }}deal.jpg" alt="Amy Rose Deal"/>
 </div>
 
 [Amy Rose Deal](http://linguistics.berkeley.edu/~ardeal/) (Associate Professor of Linguistics) has worked for many years with speakers of Nez Perce, a Sahaptian language of the Columbia River plateau. Her interests are broadly in linguistic universals and variation as they relate to syntax and semantics, and ways that formal tools can be brought to bear to better understand linguistic phenomena. Particular interests include case and agreement; attitude reports; perspectival phenomena, especially indexical shift; possessor raising; and mass/count distinctions.
@@ -105,7 +105,7 @@ sitemap: true
 
 [Edwin Ko's](http://eddersko.com/)  (Graduate Student, Linguistics) interests focus on the indigenous languages of North America, especially Crow (Siouan) and Northern Pomo (Pomoan). His research interests are broadly in (morpho)syntax, historical linguistics, language contact, language documentation, and language revitalization. Some of his recent work involves an analysis of active-stative agreement, multiple exponence and switch-reference system in Crow, as well as of the use of digital technology in the revitalization of Northern Pomo.
 
-<div class="image left people_images" style="padding-top:4px;">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}maier.jpg" alt="Erik Maier"/>
 </div>
 
