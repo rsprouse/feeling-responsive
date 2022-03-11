@@ -16,7 +16,7 @@ A Department of Linguistics was created at the University of California in 1901,
 
 ## The 1950s, 1960s, and 1970s
 
-<figure class="between_images">
+<figure>
   <img src="{{site.url}}/images/mary-haas-1930.jpg" alt="Mary Haas, Earlham College, 1930"/>
   <figcaption>Mary Haas, Earlham College, 1930</figcaption>
 </figure>
@@ -25,7 +25,7 @@ During this period, Americanist linguistic work at Berkeley focused mainly on do
 
 Guided by Haas and by her colleague and eventual successor as Survey Director, Wallace Chafe, Berkeley dissertations in the 1950s, 1960s, and 1970s include over 40 grammatical descriptions and dictionaries of American Indian languages.
 
-<figure class="between_images">
+<figure>
   <img src="{{site.url}}/images/wallace-chafe-1957.jpg" alt="Wallace Chafe, ethnobotaniucal fieldwork, 1957" />
   <figcaption>Wallace Chafe (right), ethnobotanical fieldwork, 1957, with Stanley Smith and Oscar Nephew</figcaption>
 </figure> 
@@ -34,7 +34,7 @@ The areal and historical questions of interest to many Californianists in this p
 
 ## The 1980s, 1990s, and 2000s
 
-<figure class="between_images">
+<figure>
   <img src="{{site.url}}/images/leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965">
   <figcaption>Leanne Hinton, Supai, Arizona, 1965 (Photo courtesy of Matt Hinton)</figcaption>
 </figure>
