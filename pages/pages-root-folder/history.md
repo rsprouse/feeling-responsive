@@ -29,7 +29,7 @@ Guided by Haas and by her colleague and eventual successor as Survey Director, W
 
 <div class="between_images">
 <figure>
-  <img src="{{site.url}}/images/wallace-chafe-1957.jpg" alt="Wallace Chafe, ethnobotaniucal fieldwork, 1957" style="width:300px;"/>
+  <img src="{{site.url}}/images/wallace-chafe-1957.jpg" alt="Wallace Chafe, ethnobotaniucal fieldwork, 1957" style="width:400px;"/>
   <figcaption>Wallace Chafe (right), ethnobotanical fieldwork, 1957, with Stanley Smith and Oscar Nephew</figcaption>
 </figure> 
  </div>
@@ -40,7 +40,7 @@ The areal and historical questions of interest to many Californianists in this p
 
 <div class="between_images">
 <figure>
-  <img src="{{site.url}}/images/leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965" style="width:300px;">
+  <img src="{{site.url}}/images/leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965" style="width:400px;">
   <figcaption>Leanne Hinton, Supai, Arizona, 1965 (Photo courtesy of Matt Hinton)</figcaption>
 </figure>
    </div>
