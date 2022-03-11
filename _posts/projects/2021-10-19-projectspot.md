@@ -1,5 +1,5 @@
 ---
-layout: spotlight
+layout: page
 title:  Atchan language spotlight
 permalink: /projects/:year/:title.html
 ---
