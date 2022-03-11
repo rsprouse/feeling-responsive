@@ -36,7 +36,7 @@ En décembre 2021, Katie et Hannah sont retournées en Côte d'Ivoire pour un co
 
 Grâce à la flexibilité de l'élicitation par Zoom, nous avons pu nous rencontrer plusieurs fois par semaine pendant plus de sept mois, et avons construit une base solide pour le travail futur sur Atchan. En même temps, nous attendons avec impatience l'été prochain, au cours duquel nous espérons organiser un voyage de recherche pour travailler davantage sur la documentation de divers aspects d'Atchan (Katie travaille sur la phonologie d'Atchan, Becky sur la syntaxe et la sémantique; Julianne Kapner, une sociolinguiste, nous rejoindra également cet été)- et pour que toute l'équipe de recherche se réunisse enfin en personne. En ce qui concerne le projet de langue Atchan, Timothée pense que ce travail jette les bases d'une collaboration continue. Au fur et à mesure de son évolution, il espère qu'il renforcera la compréhension mutuelle et apaisera les craintes ou les pensées de méfiance qui assombrissent tout projet impliquant des personnes de cultures différentes. Il espère que c'est le début d'une merveilleuse entreprise visant à découvrir davantage cette belle langue et son peuple. Bien que nous attendions avec impatience le moment où toute notre équipe pourra travailler à Anono, le fait de commencer ce projet à distance nous a donné l'occasion inestimable de créer des liens à travers le monde. 
 
-## In English {#english}
+## In English <a name="english"></a>
 
 <div class="image left project_images">
 <img src="{{ site.urlimg }}atchan1.png" alt="Katie Russel, Becky Jarvis, and Atchan speakers" style="width:400px;"/>
