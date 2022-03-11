@@ -18,7 +18,7 @@ A Department of Linguistics was created at the University of California in 1901,
 
 <div class="between_images">
 <figure>
-  <img src="{{site.url}}/images/mary-haas-1930.jpg" alt="Mary Haas, Earlham College, 1930"/>
+  <img src="{{site.url}}/images/mary-haas-1930.jpg" alt="Mary Haas, Earlham College, 1930" style="width:200px;"/>
   <figcaption>Mary Haas, Earlham College, 1930</figcaption>
 </figure>
    </div>
@@ -27,19 +27,23 @@ During this period, Americanist linguistic work at Berkeley focused mainly on do
 
 Guided by Haas and by her colleague and eventual successor as Survey Director, Wallace Chafe, Berkeley dissertations in the 1950s, 1960s, and 1970s include over 40 grammatical descriptions and dictionaries of American Indian languages.
 
+<div class="between_images">
 <figure>
   <img src="{{site.url}}/images/wallace-chafe-1957.jpg" alt="Wallace Chafe, ethnobotaniucal fieldwork, 1957" />
   <figcaption>Wallace Chafe (right), ethnobotanical fieldwork, 1957, with Stanley Smith and Oscar Nephew</figcaption>
 </figure> 
+ </div>
    
 The areal and historical questions of interest to many Californianists in this period concerned genealogical relationships and language contact. As a result of new documentation sponsored by the Survey, a previously conjectural relationship between Algonquian languages and the northwest California languages [Wiyot](languages/wiyot.html) and [Yurok](languages/yurok.html) was proven to the satisfaction of linguists, and the (still controversial) connections among the Hokan and the Penutian languages of California were intensively scrutinized. The formation of language areas through long-term language contact and linguistic diffusion was explored for several areas of the state, notably by Haas herself in well-known 1967 and 1970 studies of northern California.
 
 ## The 1980s, 1990s, and 2000s
 
+<div class="between_images">
 <figure>
   <img src="{{site.url}}/images/leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965">
   <figcaption>Leanne Hinton, Supai, Arizona, 1965 (Photo courtesy of Matt Hinton)</figcaption>
 </figure>
+   </div>
 
 In recent decades, language documentation has continued as one of our core missions. But we have also paid more attention to research projects involving language typology and linguistic theory, and throughout our work to the interests of speaker and heritage communities. We have also sponsored more work on languages outside California, especially in Latin America.
 
