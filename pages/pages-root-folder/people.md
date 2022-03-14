@@ -2,6 +2,8 @@
 permalink: people.html
 layout: page
 title: "People: Survey affiliates and Americanist linguists"
+sidebar: left
+sidebar_include: _people_sidebar.html
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
