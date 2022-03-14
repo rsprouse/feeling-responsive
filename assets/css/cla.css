@@ -763,13 +763,13 @@ input[name="checkbox-coll"], input[name="checkbox-bndl"] {
 .people_sidebar{
 
   display: flex;
-  width:75%;
-
+  width:50%;
+  justify-content: center;
+  align-items: center;
 }
 
 .people_sidebar_img{
 
   max-width: 100%;
-  justify-content: center;
 
 }
