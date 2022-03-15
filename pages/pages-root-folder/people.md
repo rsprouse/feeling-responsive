@@ -76,13 +76,13 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 
 [Amy Rose Deal](http://linguistics.berkeley.edu/~ardeal/) (Associate Professor of Linguistics) has worked for many years with speakers of Nez Perce, a Sahaptian language of the Columbia River plateau. Her interests are broadly in linguistic universals and variation as they relate to syntax and semantics, and ways that formal tools can be brought to bear to better understand linguistic phenomena. Particular interests include case and agreement; attitude reports; perspectival phenomena, especially indexical shift; possessor raising; and mass/count distinctions.
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}maks.jpg" alt="Maksymilian Dabkowski" />
 </div>
 
 [Maksymilian Dabkowski](https://maksymilian-dabkowski.github.io/) (Graduate Student, Linguistics) is interested in phonological interfaces and language documentation. Since 2017, he has been carrying out fieldwork on A'ingae (or Cofán, ISO 639-3: con), an Amazonian language isolate spoken in northeast Ecuador and southern Colombia. He has investigated the interactions of stress, glottalization, and morphosyntactic structure in A'ingae verbs. In 2020, Maksymilian worked as a lab manager for A'ingae Language Documentation Project, building a multimedia language corpus accessible to the communities of speakers. His other interests include semantics, language revitalization, logic, and psycholinguistics.
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}ko.png" alt="Edwin Ko"/>
 </div>
 
@@ -113,13 +113,13 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 
 [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen) (Professor of Linguistics) has a long-standing interest in indigenous languages of California. She currently works with Karuk language teacher Florrine Super to develop language teaching and learning materials for Karuk. She also works with Vincent Medina, Louis Trevino and language learners and activists to keep Chochenyo, the first language of the East Bay, strong. Most recently, she has developed an interest in Kalaallisut, the official language of Greenland.
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" style="padding-right:5px; padding-top:0px;"/>
 </div>
 
 [Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (Graduate Student, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northerm Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}neely.jpg" alt="Kelsey Neely"/>
 </div>
 
@@ -131,14 +131,14 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 
 [Beth H. Piatote](http://ethnicstudies.berkeley.edu/faculty/profile.php?person=13) (Associate Professor of Comparative Literature and English) is affiliated faculty in the Department of Linguistics at the University of California, Berkeley. She is the author of two award-winning books: a scholarly monograph, Domestic Subjects: Gender, Citizenship, and Law in Native American Literature (Yale 2013); and a mixed-genre collection, The Beadworkers: Stories (Counterpoint 2019). She has published numerous scholarly articles, short stories, poems, and plays in journals and anthologies. Her research interests include Native American/Indigenous Literature, law, and culture; Nez Perce literature and language; Indigenous Language Revitalization; and creative writing. She is currently the chair of the Designated Emphasis in Indigenous Language Revitalization. She is Nez Perce, enrolled with the Confederated Tribes of the Colville Reservation, and works on various Nez Perce language projects with fellow tribal members at Lapwai, ID; Nespelem, WA; Pendleton, OR; and elsewhere. She is a founding member of luk'upsíimey/North Star Collective, a Nez Perce group dedicated to language revitalization through the arts.
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano"/>
 </div>
 
 **Tzintia Montano Ramirez** (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}rhodes.jpeg" alt="Richard Rhodes"/>
 </div>
 
@@ -150,13 +150,13 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 
 [Allegra Robertson](https://sites.google.com/view/allegrarobertson) (Graduate Student, Linguistics) is interested in Amazonian languages, indigenous language revitalization, phonetics and phonology. She began conducting fieldwork in Guyana in 2017, where she documented Warao (isolate) with a focus on imperatives and morphology. Her current research focuses on contrastive phonation and gradient weight in Yanesha' (Arawak), from phonetic, phonological, and historical perspectives. Since 2017 she has also been involved in the Berkeley Comparative Arawakan Project, led by [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html).
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}sandy.jpg" alt="Clare Sandy"/>
 </div>
 
 [Clare Sandy](https://english.sfsu.edu/people/faculty/clare-sandy) (PhD 2017) is a Lecturer at San Jos&eacute; State University and has been part of the Karuk Research Unit group conducting fieldwork on Karuk, and managing an online dictionary and text corpus of the language, and working with the Karuk community to support their language revitalization efforts. She has also carried out team based linguistic fieldwork on Omagua, a highly endangered language of the Peruvian Amazon, and has worked with Sierra Miwok, Mono, and Eastern Pomo speakers and language learners at the Breath of Life Workshop. Her research interests include phonology, morphology, and language change, and her dissertation work focuses on the accentual system of Karuk. She is also interested in database development and in making archival linguistic materials accessible.
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}wesley_new.jpeg" alt="Wesley dos Santos" style="padding-right:7px; padding-top:10px;"/>
 </div>
 
