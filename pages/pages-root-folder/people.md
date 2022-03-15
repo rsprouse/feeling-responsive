@@ -1,7 +1,7 @@
 ---
 permalink: people.html
 layout: page
-title: "People: Survey affiliates and Americanist linguists"
+title: "People"
 sidebar: left
 sidebar_include: _people_sidebar.html
 header:
@@ -10,9 +10,9 @@ header:
 sitemap: true
 ---
 
-[Personnel](#personnel) \| [Affiliated Faculty](#faculty) \| [Affiliated Students](#students) \| [Recent Alums](#alumni)
+[Staff](#staff) \| [Affiliates](#affiliates) \
 
-## <a name="personnel"></a>Personnel
+## <a name="staff"></a>Staff
 
 <div class="image left people_images">
 <img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
@@ -38,7 +38,7 @@ sitemap: true
 <img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
 </div>
 
-<a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Graduate Student, Survey Assistant) </a> is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. Since 2020, she has worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, including co-teaching a weekly class as well as archival research.
+<a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Graduate Student, Assistant) </a> is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. Since 2020, she has worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, including co-teaching a weekly class as well as archival research.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}hinton.jpg" alt="Leanne Hinton"/>
@@ -62,7 +62,7 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 <img src="{{ site.urlimg }}carpenter.jpg" alt="Kayla Carpenter"/>
 </div>
 
-[Kayla Begay](http://www.kaylabegay.com/) (Hupa) received a BA from Stanford and wrote her 2017 Berkeley PhD dissertation <a href="https://escholarship.org/uc/item/76x3h5kg"><i>Wailaki Grammar</i></a> on a Dene language spoken along the Eel River in northern California. Now an Assistant Professor of Native American Studies at Humboldt State University, her research focuses on Dene languages, and on historical-comparative linguistics for language revitalization within the Wailaki and Hupa communities. While at Berkeley she also worked with speakers of Karuk. Begay is a coauthor of "<i>Xoch Na:nahsdetl-te:</i> Survivance, resilience and unbroken traditions in northwest California" (2019, with Cutcha Risling Baldy, in <i>Ka'm-t'em: A Journey Toward Healing</i>), and has contributed to the Hupa Online Dictionary and Texts project (at UC Davis). She is also a member of the board of the Advocates for Indigenous California Language Survival.
+[Kayla Begay](http://www.kaylabegay.com/) (Hupa, PhD 2017) received a BA from Stanford and wrote her dissertation <a href="https://escholarship.org/uc/item/76x3h5kg"><i>Wailaki Grammar</i></a> on a Dene language spoken along the Eel River in northern California. Now an Assistant Professor of Native American Studies at Humboldt State University, her research focuses on Dene languages, and on historical-comparative linguistics for language revitalization within the Wailaki and Hupa communities. While at Berkeley she also worked with speakers of Karuk. Begay is a coauthor of "<i>Xoch Na:nahsdetl-te:</i> Survivance, resilience and unbroken traditions in northwest California" (2019, with Cutcha Risling Baldy, in <i>Ka'm-t'em: A Journey Toward Healing</i>), and has contributed to the Hupa Online Dictionary and Texts project (at UC Davis). She is also a member of the board of the Advocates for Indigenous California Language Survival.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}beier.jpg" alt="Christine Beier"/>
@@ -117,7 +117,7 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 <img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" style="padding-right:5px; padding-top:0px;"/>
 </div>
 
-[Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (Graduate Student, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northerm Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
+[Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (PhD 2021, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northerm Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}neely.jpg" alt="Kelsey Neely"/>
