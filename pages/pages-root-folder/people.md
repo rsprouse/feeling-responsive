@@ -10,7 +10,7 @@ header:
 sitemap: true
 ---
 
-[Staff](#staff) \| [Affiliates](#affiliates) \
+[Staff](#staff) \| [Affiliates](#affiliates)
 
 ## <a name="staff"></a>Staff
 
