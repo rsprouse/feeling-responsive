@@ -40,14 +40,6 @@ sitemap: true
 
 <a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Graduate Student, Assistant) </a> is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. Since 2020, she has worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, including co-teaching a weekly class as well as archival research.
 
-<div class="image left people_images">
-<img src="{{ site.urlimg }}hinton.jpg" alt="Leanne Hinton"/>
-</div>
-
-[Leanne Hinton](http://linguistics.berkeley.edu/people/person_detail.php?person=17) (Director Emerita) specializes in endangered languages and language revitalization, especially for American Indian languages. She is one of the founders and an advisory board member for the Advocates for Indigenous California Language Survival, and a co-designer of their two main programs, the Master-Apprentice Language Learning Program (MAP), and the Breath of Life archival workshops and institutes for indigenous language recovery, in Berkeley and Washington D.C. (BOL). Her books include Flutes of Fire: Essays on California Indian Languages (Heyday Books, 1994), The Green Book of Language Revitalization in Practice (ed. with Ken Hale, Academic Press, 2001), How to Keep Your Language Alive: A commonsense approach to one-on-one language learning (Heyday Books, 2002), and Bringing Our Languages Home: Language revitalization for Families (Heyday Books, 2013). Her most recent book is The Routledge Handbook of Language Revitalization (co-edited with Leena Huss and Gerald Roche, 2018).  Hinton consults around the world for tribes and organizations doing language revitalization.
-
-
-
 ## <a name="affiliates"></a>Affiliates
 
 For a list of earlier students working in the Survey, see our [Dissertations page](dissertations.php).
@@ -84,6 +76,13 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}ko.png" alt="Edwin Ko"/>
+
+<div class="image left people_images">
+<img src="{{ site.urlimg }}hinton.jpg" alt="Leanne Hinton"/>
+</div>
+
+[Leanne Hinton]<a name="leanne">(http://linguistics.berkeley.edu/people/person_detail.php?person=17) (Director Emerita)</a> specializes in endangered languages and language revitalization, especially for American Indian languages. She is one of the founders and an advisory board member for the Advocates for Indigenous California Language Survival, and a co-designer of their two main programs, the Master-Apprentice Language Learning Program (MAP), and the Breath of Life archival workshops and institutes for indigenous language recovery, in Berkeley and Washington D.C. (BOL). Her books include Flutes of Fire: Essays on California Indian Languages (Heyday Books, 1994), The Green Book of Language Revitalization in Practice (ed. with Ken Hale, Academic Press, 2001), How to Keep Your Language Alive: A commonsense approach to one-on-one language learning (Heyday Books, 2002), and Bringing Our Languages Home: Language revitalization for Families (Heyday Books, 2013). Her most recent book is The Routledge Handbook of Language Revitalization (co-edited with Leena Huss and Gerald Roche, 2018).  Hinton consults around the world for tribes and organizations doing language revitalization.
+
 </div>
 
 [Edwin Ko's](http://eddersko.com/)  (Graduate Student, Linguistics) interests focus on the indigenous languages of North America, especially Crow (Siouan) and Northern Pomo (Pomoan). His research interests are broadly in (morpho)syntax, historical linguistics, language contact, language documentation, and language revitalization. Some of his recent work involves an analysis of active-stative agreement, multiple exponence and switch-reference system in Crow, as well as of the use of digital technology in the revitalization of Northern Pomo.
