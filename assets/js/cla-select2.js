@@ -204,9 +204,10 @@ function do_page_entry() {
   } else {
     populate_form_from_query_string(history.state);
   }
-  const s = do_search();
+  $('#cla-search-form').submit();
+  //const s = do_search();
 // TODO: remove hardcoded url
-  history.replaceState(s, '', '/dev_static/list/index.html');
+  //history.replaceState(s, '', '/dev_static/list/index.html');
   paginate();
 }
 
@@ -230,7 +231,37 @@ function do_submit() {
  *
  */
 function do_search() {
-  const s = $.param($('#cla-search-form').serializeArray());
+  //const s = $.param($('#cla-search-form').serializeArray());
+  const query = get_query_from_form('cla-search-form');
+  $.ajax({
+      method: 'POST',
+      url: aws_endpoint + 'sq',
+      data: JSON.stringify(query),
+      dataType: 'json',
+      success: function(data) {
+          // Put 'showall' controls into proper state.
+          $('#show-all-caret-' + tab).toggleClass('fa-caret-right', true);
+          $('#show-all-caret-' + tab).toggleClass('fa-caret-down', false);
+          const sel = '[name="checkbox-' + tab + '"]';
+          $(sel).prop('checked', true);
+          showall[tab] = true;
+
+//          collpg = get_pagination('coll', query, data);
+//          bndlpg = get_pagination('bndl', query, data);
+//          update_counts('coll', collpg);
+//          update_counts('bndl', bndlpg);
+          update_coll_list(query, data["coll"]["hits"]["hits"]);
+          update_bndl_list(query, data["bndl"]["hits"]["hits"]);
+          $('#tablist').show();
+          $('label.showall').show();
+//          update_pagination('coll', collpg);
+//          update_pagination('bndl', bndlpg);
+          // Add event handlers for all <a href=""> metadata elements that
+          // should be handled by a POST instead of a GET, if possible.
+          //$("a.post").on('click', handleMetadataLinkClick);
+      }
+  });
+
   $('#results').html(`Query results would be for ${s}`);
   return s;
 }
@@ -248,11 +279,13 @@ function popstate(e) {
 function tabclick(e) {
   const u = new URL(e.target.href);
   const clicktab = u.hash.substring(1);
+// TODO: foundation tab has its own way of tracking tab; should we not duplicate it in the form?
   const curtab = $('#cla-search-form > input[name="tab"]').val();
   if (clicktab !== curtab) {
     $('#cla-search-form > input[name="tab"]').val(clicktab);
     const s = do_search();
-    history.pushState(s, '', 'two.html');
+// TODO: remove hardcoded url
+    history.pushState(s, '', '/dev_static/list/index.html');
     paginate();
   } else {
     e.preventDefault();
@@ -522,7 +555,8 @@ function handlePaginationClick() {
 }
 
 function paginate() {
-    const params = $('#cla-search-form').serializeArray();
+//    const params = $('#cla-search-form').serializeArray();
+  const query = get_query_from_form('cla-search-form');
     const curtab = $('#cla-search-form > input[name="tab"]').val();
     if (curtab === 'coll') {
       $(`#collpagination`).html("");
