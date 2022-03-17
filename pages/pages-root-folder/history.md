@@ -22,7 +22,7 @@ A Department of Linguistics was created at the University of California in 1901,
   <figcaption>Mary Haas, Earlham College, 1930</figcaption>
 </figure>
    </div>
-   
+
 During this period, Americanist linguistic work at Berkeley focused mainly on documentation, especially of the many poorly described languages of California, and on areal and historical analysis. The leading figure was Mary Haas, the first Director of the Survey. A student of Edward Sapir's at Chicago and then Yale, Haas came to Berkeley in 1943 and secured a regular academic position beginning in 1946. From then until her retirement in 1978 (and afterwards), as her student Karl Teeter put it, "she trained more Americanist linguists than did Boas and Sapir put together."
 
 Guided by Haas and by her colleague and eventual successor as Survey Director, Wallace Chafe, Berkeley dissertations in the 1950s, 1960s, and 1970s include over 40 grammatical descriptions and dictionaries of American Indian languages.
@@ -31,9 +31,9 @@ Guided by Haas and by her colleague and eventual successor as Survey Director, W
 <figure>
   <img src="{{site.url}}/images/wallace-chafe-1957.jpg" alt="Wallace Chafe, ethnobotaniucal fieldwork, 1957" style="width:400px;"/>
   <figcaption>Wallace Chafe (right), ethnobotanical fieldwork, 1957, with Stanley Smith and Oscar Nephew</figcaption>
-</figure> 
+</figure>
  </div>
-   
+
 The areal and historical questions of interest to many Californianists in this period concerned genealogical relationships and language contact. As a result of new documentation sponsored by the Survey, a previously conjectural relationship between Algonquian languages and the northwest California languages [Wiyot](languages/wiyot.html) and [Yurok](languages/yurok.html) was proven to the satisfaction of linguists, and the (still controversial) connections among the Hokan and the Penutian languages of California were intensively scrutinized. The formation of language areas through long-term language contact and linguistic diffusion was explored for several areas of the state, notably by Haas herself in well-known 1967 and 1970 studies of northern California.
 
 ## The 1980s, 1990s, and 2000s
@@ -59,6 +59,7 @@ For over 100 years, the academic study of California languages and linguistics h
 
 The danger was real; half of California’s languages have no native speakers today. But it is important to add that California's Native people and languages are resilient and adaptive; that languages are being learned, transformed, and revived in the face of tremendous obstacles; and that so far, every generation of scholars has been wrong in its prediction that California languages are on the verge of extinction.
 
+<!--
 <table>
   <caption>Survey Directors</caption>
   <colgroup>
@@ -90,3 +91,4 @@ The danger was real; half of California’s languages have no native speakers to
     </tr>
   </tbody>
 </table>
+-->
