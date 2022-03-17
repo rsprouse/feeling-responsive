@@ -192,6 +192,39 @@ function toggle_showall() {
 }
 
 /*
+ * On entry, populate the form from the query string in the url, then
+ * submit the form as normal.
+ *
+ */
+function do_page_entry() {
+  // If we re-entered page via forward/back button rather
+  // than submitting the form from the homepage, then use history state.
+  if (history.state == null) {
+    populate_form_from_query_string(window.location.search);
+  } else {
+    populate_form_from_query_string(history.state);
+  }
+  const s = do_search();
+// TODO: remove hardcoded url
+  history.replaceState(s, '', 'list/index.html');
+  paginate();
+}
+
+/*
+ * When the submit button is clicked, reset page-related values and submit
+ * the form.
+ *
+ */
+function do_submit() {
+  $('#collpgidx').val('1');
+  $('#bndlpgidx').val('1');
+  $('#cla-search-form > input[name="tab"]').val('bndl');
+  const s = do_search();
+  history.pushState(s, '', 'two.html');
+  paginate();
+}
+
+/*
  * Do a catalog search based on current form values and
  * update results <div>.
  *
@@ -406,11 +439,13 @@ function populate_form_from_state() {
   $('#search_button').click();
 }
 
-function populate_form_from_query_string(formid) {
-  const formsel = '#' + formid;
-  const qsparams = new URLSearchParams(window.location.search);
-  populate_form_from_params(qsparams);
+function populate_form_from_query_string(qs) {
+  const params = new URLSearchParams(qs);
+  $.each(Array.from(params.entries()), function(i, p) {
+    $(`#cla-search-form > input[name="${p[0]}"]`).val(p[1]);
+  });
 }
+
 
   // Use `JSON.stringify()` to make the output valid, human-readable JSON.
   // E.g. {"q":"basket song","langid":["3","1256"],"repoid":["45"],"size":"10","from":"0"}
