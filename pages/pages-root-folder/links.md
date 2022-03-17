@@ -21,7 +21,7 @@ sitemap: true
 <li><a href="http://libguides.stanford.edu/NativeAmerican">Native American Studies guide at Stanford University</a></li>
 <li><a href="http://www.nativeculturelinks.com/natlang.html">Native Languages Page</a> (maintained by Lisa Mitten)</li>
 <li><a href="http://rosettaproject.org/">Rosetta Project</a></li>
-<li><a href="http://www.unesco.org/culture/languages-atlas/">UNESCO atlas of the worlds languages in danger</a></li>
+<li><a href="http://www.unesco.org/culture/languages-atlas/">UNESCO atlas of the world's languages in danger</a></li>
 <li><a href="http://repositories.cdlib.org/ucpress/ucpl/">University of California Publications in Linguistics</a></li>
 </ul>
 
