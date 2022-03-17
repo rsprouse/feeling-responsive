@@ -48,19 +48,22 @@ $('audio,video').mediaelementplayer();
 
 {% if page.search_results %}
 <script type="application/javascript">
+  window.onpopstate = function(event) {
+    popstate(event);
+  }
   $('a.post').on('click', handleMetadataLinkClick);
+  $('a.paginate').on('click', handlePaginationClick);
+  $('li.tab-title > a').on('click', tabclick);
   $('#collshowall').on('click', toggle_showall);
   $('#bndlshowall').on('click', toggle_showall);
   $('#search_button').on('click', handleSearchButtonClick);
+/*
   populate_form_from_query_string('cla-search-form');
   const s = $.param($('#cla-search-form').serializeArray());
   history.pushState(s, '{{ site.title }}', '{{ site.baseurl }}list');
   $('#search_button').click();
   toggle_showall('coll');
-  window.onpopstate = function(event) {
-    alert(`location: ${document.location}, state: ${JSON.stringify(event.state)}`)
-    populate_form_from_state();
-  }
+*/
 </script>
 {% endif %}
 

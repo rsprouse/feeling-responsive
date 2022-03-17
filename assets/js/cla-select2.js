@@ -191,6 +191,27 @@ function toggle_showall() {
     $('#show-all-caret-' + tab).toggleClass('fa-caret-right fa-caret-down');
 }
 
+/*
+ * Do a catalog search based on current form values and
+ * update results <div>.
+ *
+ */
+function do_search() {
+  const s = $.param($('#cla-search-form').serializeArray());
+  $('#results').html(`Query results would be for ${s}`);
+  return s;
+}
+
+
+/*
+ * Handle resubmitting searches when forward/back buttons are clicked.
+ *
+ */
+function popstate(e) {
+  populate_form_from_query_string(e.state);
+  do_search();
+}
+
 function onclickSearch(idSearch, title) {
     $('#cla-search-select').val(null).trigger('change');
     idSearch = idSearch.replace("[", "");
