@@ -464,3 +464,38 @@ function get_query_from_form(formid) {
   return query;
 }
 
+function handlePaginationClick() {
+  let a = 1;
+}
+
+function paginate() {
+    const params = $('#cla-search-form').serializeArray();
+    const curtab = $('#cla-search-form > input[name="tab"]').val();
+    if (curtab === 'coll') {
+      $(`#collpagination`).html("");
+      $(`#collpagination`).show();
+      $(`#bndlpagination`).hide();
+    } else {
+      $(`#bndlpagination`).html("");
+      $(`#bndlpagination`).show();
+      $(`#collpagination`).hide();
+    }
+    let pgidx = -1;
+    $.each(params, function(i, p) {
+        if (p["name"] === `${curtab}page`) {
+            pgidx = i;
+        }
+    });
+    if (pgidx === -1) {
+        params.push({"name": `${curtab}page`, "value": '1'});
+        pgidx = params.length - 1;
+    }
+    const nump = 20;
+    $.each(Array.from({length: nump}, (_, i) => 0 + i + 1), function(n, i) {
+        params[pgidx]["value"] = i;
+        const s = $.param(params);
+        const newa = `<a class="paginate" href="two.html?${s}">&nbsp;${i}&nbsp;</a>`;
+        $(`#${curtab}pagination`).append(newa);
+    });
+    $('a.paginate').on('click', simulate_a_click);
+}
