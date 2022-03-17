@@ -206,7 +206,7 @@ function do_page_entry() {
   }
   const s = do_search();
 // TODO: remove hardcoded url
-  history.replaceState(s, '', 'list/index.html');
+  history.replaceState(s, '', '/dev_static/list/index.html');
   paginate();
 }
 
