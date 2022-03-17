@@ -441,9 +441,13 @@ function populate_form_from_state() {
 
 function populate_form_from_query_string(qs) {
   const params = new URLSearchParams(qs);
+  populate_form_from_params(params);
+/*
+ * TODO: remove this section
   $.each(Array.from(params.entries()), function(i, p) {
     $(`#cla-search-form > input[name="${p[0]}"]`).val(p[1]);
   });
+ */
 }
 
 
