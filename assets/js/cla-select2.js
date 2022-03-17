@@ -212,6 +212,20 @@ function popstate(e) {
   do_search();
 }
 
+function tabclick(e) {
+  const u = new URL(e.target.href);
+  const clicktab = u.hash.substring(1);
+  const curtab = $('#cla-search-form > input[name="tab"]').val();
+  if (clicktab !== curtab) {
+    $('#cla-search-form > input[name="tab"]').val(clicktab);
+    const s = do_search();
+    history.pushState(s, '', 'two.html');
+    paginate();
+  } else {
+    e.preventDefault();
+  }
+}
+
 function onclickSearch(idSearch, title) {
     $('#cla-search-select').val(null).trigger('change');
     idSearch = idSearch.replace("[", "");
