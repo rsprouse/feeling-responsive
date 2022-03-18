@@ -21,15 +21,14 @@ sitemap: true
 <li><a href="http://libguides.stanford.edu/NativeAmerican">Native American Studies guide at Stanford University</a></li>
 <li><a href="http://www.nativeculturelinks.com/natlang.html">Native Languages Page</a> (maintained by Lisa Mitten)</li>
 <li><a href="http://rosettaproject.org/">Rosetta Project</a></li>
-<li><a href="http://www.unesco.org/culture/languages-atlas/">UNESCO atlas of the worlds languages in danger</a></li>
+<li><a href="http://www.unesco.org/culture/languages-atlas/">UNESCO atlas of the world's languages in danger</a></li>
 <li><a href="http://repositories.cdlib.org/ucpress/ucpl/">University of California Publications in Linguistics</a></li>
 </ul>
 
 ## Bibliographies
 <ul class="bullets">
 <li><a href="http://www.rock-art.com/jph/">John Peabody Harrington Resource Page</a></li>
-<li><a href="http://linguistics.berkeley.edu/simple_archive/brightbib">William Bright's (1999) <em>Bibliography of the Languages of Native California</a></em>				
-</li>
+<li><a href="http://linguistics.berkeley.edu/simple_archive/brightbib">William Bright's (1999) <em>Bibliography of the Languages of Native California</em></a></li>
 <li><a href="http://linguistics.berkeley.edu/~yurok/web/bibliography.php">Yurok language bibliography</a></li>
 <li><a href="http://depts.washington.edu/wll2/bibliography.html">Wakashan Bibliography</a></li>	
 </ul>
