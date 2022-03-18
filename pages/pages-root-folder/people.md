@@ -32,7 +32,7 @@ sitemap: true
 <img src="{{ site.urlimg }}sprouse.jpg" alt="Ronald Sprouse"/>
 </div>
 
-<a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (Programmer) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
+<a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (It Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
@@ -54,7 +54,7 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 <img src="{{ site.urlimg }}carpenter.jpg" alt="Kayla Carpenter"/>
 </div>
 
-[Kayla Begay](http://www.kaylabegay.com/) (Hupa, PhD 2017) received a BA from Stanford and wrote her dissertation <a href="https://escholarship.org/uc/item/76x3h5kg"><i>Wailaki Grammar</i></a> on a Dene language spoken along the Eel River in northern California. Now an Assistant Professor of Native American Studies at Humboldt State University, her research focuses on Dene languages, and on historical-comparative linguistics for language revitalization within the Wailaki and Hupa communities. While at Berkeley she also worked with speakers of Karuk. Begay is a coauthor of "<i>Xoch Na:nahsdetl-te:</i> Survivance, resilience and unbroken traditions in northwest California" (2019, with Cutcha Risling Baldy, in <i>Ka'm-t'em: A Journey Toward Healing</i>), and has contributed to the Hupa Online Dictionary and Texts project (at UC Davis). She is also a member of the board of the Advocates for Indigenous California Language Survival.
+<a name="kayla">[Kayla Begay](http://www.kaylabegay.com/) (Hupa, PhD 2017)</a> received a BA from Stanford and wrote her dissertation <a href="https://escholarship.org/uc/item/76x3h5kg"><i>Wailaki Grammar</i></a> on a Dene language spoken along the Eel River in northern California. Now an Assistant Professor of Native American Studies at Humboldt State University, her research focuses on Dene languages, and on historical-comparative linguistics for language revitalization within the Wailaki and Hupa communities. While at Berkeley she also worked with speakers of Karuk. Begay is a coauthor of "<i>Xoch Na:nahsdetl-te:</i> Survivance, resilience and unbroken traditions in northwest California" (2019, with Cutcha Risling Baldy, in <i>Ka'm-t'em: A Journey Toward Healing</i>), and has contributed to the Hupa Online Dictionary and Texts project (at UC Davis). She is also a member of the board of the Advocates for Indigenous California Language Survival.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}beier.jpg" alt="Christine Beier"/>
@@ -72,20 +72,19 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 <img src="{{ site.urlimg }}maks.jpg" alt="Maksymilian Dabkowski" />
 </div>
 
-[Maksymilian Dabkowski](https://maksymilian-dabkowski.github.io/) (Graduate Student, Linguistics) is interested in phonological interfaces and language documentation. Since 2017, he has been carrying out fieldwork on A'ingae (or Cofán, ISO 639-3: con), an Amazonian language isolate spoken in northeast Ecuador and southern Colombia. He has investigated the interactions of stress, glottalization, and morphosyntactic structure in A'ingae verbs. In 2020, Maksymilian worked as a lab manager for A'ingae Language Documentation Project, building a multimedia language corpus accessible to the communities of speakers. His other interests include semantics, language revitalization, logic, and psycholinguistics.
+[Maksymilian Dąbkowski](https://maksymilian-dabkowski.github.io/) (Graduate Student, Linguistics) is interested in phonological interfaces and language documentation. Since 2017, he has been carrying out fieldwork on A'ingae (or Cofán, ISO 639-3: con), an Amazonian language isolate spoken in northeast Ecuador and southern Colombia. He has investigated the interactions of stress, glottalization, and morphosyntactic structure in A'ingae verbs. In 2020, Maksymilian worked as a lab manager for A'ingae Language Documentation Project, building a multimedia language corpus accessible to the communities of speakers. His other interests include semantics, language revitalization, logic, and psycholinguistics.
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}ko.png" alt="Edwin Ko"/>
-</div>
-
-[Edwin Ko's](http://eddersko.com/)  (Graduate Student, Linguistics) interests focus on the indigenous languages of North America, especially Crow (Siouan) and Northern Pomo (Pomoan). His research interests are broadly in (morpho)syntax, historical linguistics, language contact, language documentation, and language revitalization. Some of his recent work involves an analysis of active-stative agreement, multiple exponence and switch-reference system in Crow, as well as of the use of digital technology in the revitalization of Northern Pomo.
-
-<div class="image right people_images">
 <img src="{{ site.urlimg }}hinton.jpg" alt="Leanne Hinton"/>
 </div>
 
 <a name="leanne">[Leanne Hinton](http://linguistics.berkeley.edu/people/person_detail.php?person=17) (Director Emerita)</a> specializes in endangered languages and language revitalization, especially for American Indian languages. She is one of the founders and an advisory board member for the Advocates for Indigenous California Language Survival, and a co-designer of their two main programs, the Master-Apprentice Language Learning Program (MAP), and the Breath of Life archival workshops and institutes for indigenous language recovery, in Berkeley and Washington D.C. (BOL). Her books include Flutes of Fire: Essays on California Indian Languages (Heyday Books, 1994), The Green Book of Language Revitalization in Practice (ed. with Ken Hale, Academic Press, 2001), How to Keep Your Language Alive: A commonsense approach to one-on-one language learning (Heyday Books, 2002), and Bringing Our Languages Home: Language revitalization for Families (Heyday Books, 2013). Her most recent book is The Routledge Handbook of Language Revitalization (co-edited with Leena Huss and Gerald Roche, 2018).  Hinton consults around the world for tribes and organizations doing language revitalization.
 
+<div class="image right people_images">
+<img src="{{ site.urlimg }}ko.png" alt="Edwin Ko"/>
+</div>
+
+[Edwin Ko's](http://eddersko.com/)  (Graduate Student, Linguistics) interests focus on the indigenous languages of North America, especially Crow (Siouan) and Northern Pomo (Pomoan). His research interests are broadly in (morpho)syntax, historical linguistics, language contact, language documentation, and language revitalization. Some of his recent work involves an analysis of active-stative agreement, multiple exponence and switch-reference system in Crow, as well as of the use of digital technology in the revitalization of Northern Pomo.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}lapierre.jpg" alt="Myriam Lapierre"/>
@@ -113,29 +112,28 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen) (Professor of Linguistics) has a long-standing interest in indigenous languages of California. She currently works with Karuk language teacher Florrine Super to develop language teaching and learning materials for Karuk. She also works with Vincent Medina, Louis Trevino and language learners and activists to keep Chochenyo, the first language of the East Bay, strong. Most recently, she has developed an interest in Kalaallisut, the official language of Greenland.
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" style="padding-right:5px; padding-top:0px;"/>
-</div>
-
-[Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (PhD 2021, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northerm Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
-
-<div class="image right people_images">
-<img src="{{ site.urlimg }}neely.jpg" alt="Kelsey Neely"/>
-</div>
-
-[Kelsey Neely](http://lx.berkeley.edu/people/graduate-students) (PhD 2019) is an ELDP Postdoctoral Research Fellow at the University of Texas at Austin. She works on Yaminawa and Nahua (Yora), two closely related Panoan language varieties spoken in Peruvian Amazonia. She is currently interlinearizing and editing a book of traditional narratives and oral histories for the Yaminawa and Nahua communities. Her research interests include anthropological linguistics, sociolinguistics, prosody, morphosyntax, and the history of Amazonian languages and peoples. Kelsey is also producing a grammatical description and lexical database for the language.
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}beth_crop.jpg" alt="Beth Piatote"/>
-</div>
-
-[Beth H. Piatote](http://ethnicstudies.berkeley.edu/faculty/profile.php?person=13) (Associate Professor of Comparative Literature and English) is affiliated faculty in the Department of Linguistics at the University of California, Berkeley. She is the author of two award-winning books: a scholarly monograph, Domestic Subjects: Gender, Citizenship, and Law in Native American Literature (Yale 2013); and a mixed-genre collection, The Beadworkers: Stories (Counterpoint 2019). She has published numerous scholarly articles, short stories, poems, and plays in journals and anthologies. Her research interests include Native American/Indigenous Literature, law, and culture; Nez Perce literature and language; Indigenous Language Revitalization; and creative writing. She is currently the chair of the Designated Emphasis in Indigenous Language Revitalization. She is Nez Perce, enrolled with the Confederated Tribes of the Colville Reservation, and works on various Nez Perce language projects with fellow tribal members at Lapwai, ID; Nespelem, WA; Pendleton, OR; and elsewhere. She is a founding member of luk'upsíimey/North Star Collective, a Nez Perce group dedicated to language revitalization through the arts.
-
-<div class="image right people_images">
 <img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano"/>
 </div>
 
 **Tzintia Montano Ramirez** (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
+<div class="image right people_images">
+<img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" style="padding-right:5px; padding-top:0px;"/>
+</div>
+
+[Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (PhD 2021, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northerm Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
+
+<div class="image left people_images">
+<img src="{{ site.urlimg }}neely.jpg" alt="Kelsey Neely"/>
+</div>
+
+[Kelsey Neely](http://lx.berkeley.edu/people/graduate-students) (PhD 2019) is an ELDP Postdoctoral Research Fellow at the University of Texas at Austin. She works on Yaminawa and Nahua (Yora), two closely related Panoan language varieties spoken in Peruvian Amazonia. She is currently interlinearizing and editing a book of traditional narratives and oral histories for the Yaminawa and Nahua communities. Her research interests include anthropological linguistics, sociolinguistics, prosody, morphosyntax, and the history of Amazonian languages and peoples. Kelsey is also producing a grammatical description and lexical database for the language.
+
+<div class="image right people_images">
+<img src="{{ site.urlimg }}beth_crop.jpg" alt="Beth Piatote"/>
+</div>
+
+<a name="beth">[Beth H. Piatote](http://ethnicstudies.berkeley.edu/faculty/profile.php?person=13) (Associate Professor of Comparative Literature and English)</a> is affiliated faculty in the Department of Linguistics at the University of California, Berkeley. She is the author of two award-winning books: a scholarly monograph, Domestic Subjects: Gender, Citizenship, and Law in Native American Literature (Yale 2013); and a mixed-genre collection, The Beadworkers: Stories (Counterpoint 2019). She has published numerous scholarly articles, short stories, poems, and plays in journals and anthologies. Her research interests include Native American/Indigenous Literature, law, and culture; Nez Perce literature and language; Indigenous Language Revitalization; and creative writing. She is currently the chair of the Designated Emphasis in Indigenous Language Revitalization. She is Nez Perce, enrolled with the Confederated Tribes of the Colville Reservation, and works on various Nez Perce language projects with fellow tribal members at Lapwai, ID; Nespelem, WA; Pendleton, OR; and elsewhere. She is a founding member of luk'upsíimey/North Star Collective, a Nez Perce group dedicated to language revitalization through the arts.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}rhodes.jpeg" alt="Richard Rhodes"/>
@@ -172,7 +170,7 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 <img src="{{ site.urlimg }}skilton.jpg" alt="Amalia Skilton"/>
 </div>
 
-[Amalia Horan Skilton](http://blogs.cornell.edu/amaliaskilton) (PhD 2019), a linguist and linguistic anthropologist, currently holds a Klarman Postdoctoral Fellowship at Cornell University. After receiving her PhD from Berkeley Linguistics in 2019, she began her career with an NSF SBE Postdoctoral Research Fellowship held at UT Austin and the Max Planck Institute for Psycholinguistics, Nijmegen. Amalia's research on language, cognition, and social interaction is based on over two years of fieldwork in the Amazon Basin with speakers of Ticuna (isolate) and Máíhɨ̃ki (Tukanoan). Her current project examines the language and communicative development of young children learning Ticuna, and her recent articles have appeared in Language, Journal of Pragmatics, Language Documentation & Conservation, and Liames/Línguas Indígenas Americanas. 
+[Amalia Horan Skilton](http://blogs.cornell.edu/amaliaskilton) (PhD 2019), a linguist and linguistic anthropologist, currently holds a Klarman Postdoctoral Fellowship at Cornell University. After receiving her PhD, she began her career with an NSF SBE Postdoctoral Research Fellowship held at UT Austin and the Max Planck Institute for Psycholinguistics, Nijmegen. Amalia's research on language, cognition, and social interaction is based on over two years of fieldwork in the Amazon Basin with speakers of Ticuna (isolate) and Máíhɨ̃ki (Tukanoan). Her current project examines the language and communicative development of young children learning Ticuna, and her recent articles have appeared in Language, Journal of Pragmatics, Language Documentation & Conservation, and Liames/Línguas Indígenas Americanas.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}stark.jpg" alt="Tammy Stark"/>
