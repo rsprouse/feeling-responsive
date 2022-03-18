@@ -19,7 +19,7 @@ A Department of Linguistics was created at the University of California in 1901,
 <div class="between_images">
 <figure>
   <img src="{{site.url}}/images/mary-haas-1930.jpg" alt="Mary Haas, Earlham College, 1930" style="width:200px;"/>
-  <figcaption> Mary Haas, Earlham College, 1930</figcaption>
+  <figcaption class="caption"> Mary Haas, Earlham College, 1930</figcaption>
 </figure>
 </div>
 
