@@ -171,8 +171,9 @@ const handleSelect2FormSubmit = event => {
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
           $('#tablist').show();
           $('label.showall').show();
-          update_pagination('coll', collpg);
-          update_pagination('bndl', bndlpg);
+	  paginate();
+          //update_pagination('coll', collpg);
+          //update_pagination('bndl', bndlpg);
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
           //$("a.post").on('click', handleMetadataLinkClick);
@@ -207,10 +208,23 @@ function do_page_entry() {
   }
   const s = $.param($('#cla-search-form').serializeArray());
 // TODO: remove hardcoded url
-  history.replaceState(s, '', `/dev_static/list/index.html${s}`);
+  history.replaceState(s, '', `/dev_static/list/index.html?${s}`);
   $('#cla-search-form').submit();
   //const s = do_search();
   paginate();
+}
+
+/*
+ * Handle click on a pagination link.
+ *
+ */
+function pagination_click(e) {
+  e.preventDefault();
+  populate_form_from_query_string(e.target.href);
+  do_search();
+  const s = $.param($('#cla-search-form').serializeArray());
+// TODO: remove hardcoded url
+  history.pushState(s, '', `/dev_static/list/index.html?${s}`);
 }
 
 /*
@@ -273,16 +287,24 @@ function do_search() {
  *
  */
 function popstate(e) {
+  // The hash links in pagination will fire off a popstate event, and
+  // we don't want to handle that here.
+  if(e.state === null) {
+    e.preventDefault();
+    return false;
+  }
 // TODO: foundation tab has its own way of tracking tab; should we not duplicate it in the form?
-//  const curtab = $('#cla-search-form > input[name="tab"]').val();
+  const curtab = $('#cla-search-form > input[name="tab"]').val();
   populate_form_from_query_string(e.state);
-//  const histtab = $('#cla-search-form > input[name="tab"]').val();
-//  if (histtab !== curtab) {
+  const histtab = $('#cla-search-form > input[name="tab"]').val();
+  if (histtab !== curtab) {
+    $(`li.tab-title[data-tabname="${histtab}"] > a`).click();
+  } else {
+    do_search();
+    paginate();
+  }
 //  const u = new URL(e.state);  // from popstate event
 //  const curtab = $('#tablist > li.active').data('tabname');
-  do_search();
-  paginate();
-//  }
 }
 
 function tabclick(e) {
@@ -298,10 +320,10 @@ function tabclick(e) {
   const clicktab = u.hash.substring(1);
   if (clicktab !== curtab) {
 // TODO: it's possible the right data for the tab is already loaded, in which case it is not necessary to submit a new search
-    const oldsearch = $.param($('#cla-search-form').serializeArray());
-// TODO: remove hardcoded url
-    history.pushState(oldsearch, '', '/dev_static/list/index.html');
     $('#cla-search-form > input[name="tab"]').val(clicktab);
+    const s = $.param($('#cla-search-form').serializeArray());
+// TODO: remove hardcoded url
+    history.pushState(s, '', '/dev_static/list/index.html');
     do_search();
     paginate();
   } else {
@@ -444,6 +466,20 @@ function update_bndl_list(q, recs) {
  * Update the pagination <div> for 'bndl' and 'coll' tabs.
 */
 function update_pagination(tab, pg)  {
+    if (pg === null) {
+	    // from, end, total, size
+        const from = parseInt(
+            $(`#cla-search-form > input[name="${tab}from"]`).val()
+        );
+        const total = parseInt(
+            $(`#${tab}resultscnt >> span[name="total"]`).html()
+        );
+        const end = from + total -  1;
+        const size = parseInt(
+            $(`#cla-search-form > input[name="size"]`).val()
+        );
+        pg = { from, end, total, size };
+    }
     const dlen = 10; // display length (number of pages to display in paginator).
     const numpages = Math.ceil(pg.total / pg.size);
     const curpage = Math.ceil(pg.from / pg.size);
@@ -451,35 +487,31 @@ function update_pagination(tab, pg)  {
     let last = (curpage <= dlen ? first + dlen - 1 : first + dlen);
     last = (last > numpages ? numpages : last);
     let html = '';
+    const s = $.param($('#cla-search-form').serializeArray());
+    const href = `/dev_static/list/index.html?${s}`;
     if (first > 1) {
-        html += '<a href="#" id="' + tab + 'laquo" data-page="1">&laquo;</a>';
+        html += `<a href="${href}" id="${tab}laquo" data-page="1">&laquo;</a>`;
         const dest = (first - dlen < 1 ? 1 : first - dlen);
-        html += '<a href="#" id="' + tab + 'lhellip" data-page="' + dest + '">&hellip;</a>';
+        html += `<a href="${href}" id="${tab}lhellip" data-page="${dest}">&hellip;</a>`;
     }
     if (numpages > 1) {
         for (let n = first; n <= last; n++) {
             let add = '';
             if (n == 1) {
-                add = ' id="' + tab + 'page1paginate"';
+                add = ` id="${tab}page1paginate"`;
             }
             if (n == curpage) {
                 add = ' class="active"';
             }
-            html += '<a href="#"' + add + ' data-page="' + n + '">' + n + '</a>';
+            html += `<a href="${href}"${add} data-page="${n}">${n}</a>`;
         }
     }
     if (last < numpages) {
-        html += '<a href="#" id="' + tab + 'rhellip" data-page="' + (last + 1) + '">&hellip;</a>';
-        html += '<a href="#" id="' + tab + 'raquo" data-page="' + numpages + '">&raquo;</a>';
+        html += `<a href="${href}" id="${tab}rhellip" data-page="${last + 1}">&hellip;</a>`;
+        html += `<a href="${href}" id="${tab}raquo" data-page="${numpages}">&raquo;</a>`;
     }
 
-    $('#' + tab + 'paginator').html(html);
-    $('#' + tab + 'paginator > a').on('click', function(event) {
-        const page = parseInt(event.target.dataset.page);
-        const pgsize = parseInt($('#cla-search-form > input[name="size"]').val());
-        const tab = $('#tablist > li.active').data('tabname');
-        changefrom(tab, (page - 1) * pgsize);
-    });
+    $(`#${tab}paginator`).html(html);
 }
 
 function populate_form_from_state() {
@@ -567,39 +599,48 @@ function get_query_from_form(formid) {
   return query;
 }
 
-function handlePaginationClick() {
+function handlePaginationClick(e) {
   let a = 1;
 }
 
 function paginate() {
-//    const params = $('#cla-search-form').serializeArray();
-  const query = get_query_from_form('cla-search-form');
-    const curtab = $('#cla-search-form > input[name="tab"]').val();
-    if (curtab === 'coll') {
-      $(`#collpagination`).html("");
-      $(`#collpagination`).show();
-      $(`#bndlpagination`).hide();
-    } else {
-      $(`#bndlpagination`).html("");
-      $(`#bndlpagination`).show();
-      $(`#collpagination`).hide();
-    }
+  paginate_tab('coll');
+  paginate_tab('bndl');
+  const curtab = $('#cla-search-form > input[name="tab"]').val();
+  if (curtab === 'coll') {
+    $(`#collpagination`).html("");
+    $(`#collpagination`).show();
+    $(`#bndlpagination`).hide();
+  } else {
+    $(`#bndlpagination`).html("");
+    $(`#bndlpagination`).show();
+    $(`#collpagination`).hide();
+  }
+}
+
+function paginate_tab(tab) {
+    const params = $('#cla-search-form').serializeArray();
+//  const query = get_query_from_form('cla-search-form');
     let pgidx = -1;
     $.each(params, function(i, p) {
-        if (p["name"] === `${curtab}page`) {
+        if (p["name"] === `${tab}page`) {
             pgidx = i;
         }
     });
     if (pgidx === -1) {
-        params.push({"name": `${curtab}page`, "value": '1'});
-        pgidx = params.length - 1;
+        const hsel = `#cla-search-form > input[name="${tab}page"]`;
+        $(hsel).val('1');
     }
-    const nump = 20;
-    $.each(Array.from({length: nump}, (_, i) => 0 + i + 1), function(n, i) {
-        params[pgidx]["value"] = i;
-        const s = $.param(params);
-        const newa = `<a class="paginate" href="two.html?${s}">&nbsp;${i}&nbsp;</a>`;
-        $(`#${curtab}pagination`).append(newa);
+    update_pagination(tab, null);
+// TODO: is it necessary to repeat this?
+    $('div.paginate > a').on('click', handlePaginationClick);
+// TODO: is the following used?
+/*
+    $(`#${tab}paginator > a`).on('click', function(event) {
+        const page = parseInt(event.target.dataset.page);
+        const pgsize = parseInt($('#cla-search-form > input[name="size"]').val());
+        const tab = $('#tablist > li.active').data('tabname');
+        changefrom(tab, (page - 1) * pgsize);
     });
-    $('a.paginate').on('click', simulate_a_click);
+*/
 }
