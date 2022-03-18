@@ -75,6 +75,7 @@ const handleMetadataLinkClick = event => {
  * TODO: whitelist filts
 */
 function populate_form_from_params(params) {
+    $('#cla-search-select').empty().trigger('change');
     const hparams = ['tab', 'with_js', 'size', 'bndlfrom', 'collfrom', 'bndlsort', 'collsort'];
     const filts = ['bndlid', 'collid', 'langid', 'pplid', 'placeid', 'repoid'];
     const sep = '=';
@@ -204,10 +205,11 @@ function do_page_entry() {
   } else {
     populate_form_from_query_string(history.state);
   }
+  const s = $.param($('#cla-search-form').serializeArray());
+// TODO: remove hardcoded url
+  history.replaceState(s, '', `/dev_static/list/index.html${s}`);
   $('#cla-search-form').submit();
   //const s = do_search();
-// TODO: remove hardcoded url
-  //history.replaceState(s, '', '/dev_static/list/index.html');
   paginate();
 }
 
@@ -233,6 +235,7 @@ function do_submit() {
 function do_search() {
   //const s = $.param($('#cla-search-form').serializeArray());
   const query = get_query_from_form('cla-search-form');
+  const tab = $('#cla-search-form > input[name="tab"]').val();
   $.ajax({
       method: 'POST',
       url: aws_endpoint + 'sq',
@@ -262,8 +265,6 @@ function do_search() {
       }
   });
 
-  $('#results').html(`Query results would be for ${s}`);
-  return s;
 }
 
 
@@ -272,20 +273,36 @@ function do_search() {
  *
  */
 function popstate(e) {
+// TODO: foundation tab has its own way of tracking tab; should we not duplicate it in the form?
+//  const curtab = $('#cla-search-form > input[name="tab"]').val();
   populate_form_from_query_string(e.state);
+//  const histtab = $('#cla-search-form > input[name="tab"]').val();
+//  if (histtab !== curtab) {
+//  const u = new URL(e.state);  // from popstate event
+//  const curtab = $('#tablist > li.active').data('tabname');
   do_search();
+  paginate();
+//  }
 }
 
 function tabclick(e) {
-  const u = new URL(e.target.href);
-  const clicktab = u.hash.substring(1);
+// TODO: sometimes the target is the coll/bndl cnt element, and not the <a> element, and the .href value is not there
+  let u = null;
+  try {
+    u = new URL(e.target.href);  // direct click on <a>
+  } catch (error) {
+    return; // popstate event
+  }
 // TODO: foundation tab has its own way of tracking tab; should we not duplicate it in the form?
   const curtab = $('#cla-search-form > input[name="tab"]').val();
+  const clicktab = u.hash.substring(1);
   if (clicktab !== curtab) {
-    $('#cla-search-form > input[name="tab"]').val(clicktab);
-    const s = do_search();
+// TODO: it's possible the right data for the tab is already loaded, in which case it is not necessary to submit a new search
+    const oldsearch = $.param($('#cla-search-form').serializeArray());
 // TODO: remove hardcoded url
-    history.pushState(s, '', '/dev_static/list/index.html');
+    history.pushState(oldsearch, '', '/dev_static/list/index.html');
+    $('#cla-search-form > input[name="tab"]').val(clicktab);
+    do_search();
     paginate();
   } else {
     e.preventDefault();
