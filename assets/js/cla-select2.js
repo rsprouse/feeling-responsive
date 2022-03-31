@@ -263,10 +263,10 @@ function do_search() {
           $(sel).prop('checked', true);
           showall[tab] = true;
 
-//          collpg = get_pagination('coll', query, data);
-//          bndlpg = get_pagination('bndl', query, data);
-//          update_counts('coll', collpg);
-//          update_counts('bndl', bndlpg);
+          collpg = get_pagination('coll', query, data);
+          bndlpg = get_pagination('bndl', query, data);
+          update_counts('coll', collpg);
+          update_counts('bndl', bndlpg);
           update_coll_list(query, data["coll"]["hits"]["hits"]);
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
           $('#tablist').show();
@@ -341,12 +341,13 @@ function onclickSearch(idSearch, title) {
     //return false;
 }
 
+/*
 function changefrom(type, val) {
-//    var from = type + 'from';
-//    var query = $('#results').data('query');
-//    $('#'+from).prop('value', val);
-//    query[from] = val;
-//    $('#results').data('query', query);
+    var from = type + 'from';
+    var query = $('#results').data('query');
+    $('#'+from).prop('value', val);
+    query[from] = val;
+    $('#results').data('query', query);
     //document.getElementById('go').click({formid: formid});
     if (type == 'coll') {
         $('#cla-search-form > input[name="collfrom"]').val().toString();
@@ -355,6 +356,7 @@ function changefrom(type, val) {
     }
     $('#cla-search-form').submit();
 }
+*/
 
 /*
  * Get the pagination info and return in an object.
@@ -488,6 +490,7 @@ function update_pagination(tab, pg)  {
     last = (last > numpages ? numpages : last);
     let html = '';
     const s = $.param($('#cla-search-form').serializeArray());
+// TODO: don't hardcode href
     const href = `/dev_static/list/index.html?${s}`;
     if (first > 1) {
         html += `<a href="${href}" id="${tab}laquo" data-page="1">&laquo;</a>`;
@@ -500,7 +503,7 @@ function update_pagination(tab, pg)  {
             if (n == 1) {
                 add = ` id="${tab}page1paginate"`;
             }
-            if (n == curpage) {
+            if (n == curpage + 1) {
                 add = ' class="active"';
             }
             html += `<a href="${href}"${add} data-page="${n}">${n}</a>`;
@@ -600,12 +603,28 @@ function get_query_from_form(formid) {
 }
 
 function handlePaginationClick(e) {
-  let a = 1;
+  e.preventDefault();
+  const page = parseInt(e.target.dataset.page);
+  const pgsize = parseInt($('#cla-search-form > input[name="size"]').val());
+// TODO: which way of getting tab is better here?
+  const tab = $('#tablist > li.active').data('tabname');
+//  const tab = $('#cla-search-form > input[name="tab"]').val();
+  const fromsel = `#cla-search-form > input[name="${tab}from"]`;
+  $(fromsel).val((page - 1) * pgsize);
+  const s = $.param($('#cla-search-form').serializeArray());
+// TODO: remove hardcoded url
+  history.pushState(s, '', `/dev_static/list/index.html?${s}`);
+
+  //$('#cla-search-form').submit();
+  do_search();
+  //const s = do_search();
+  paginate();
 }
 
 function paginate() {
   paginate_tab('coll');
   paginate_tab('bndl');
+  $('div.pagination > a').on('click', handlePaginationClick);
   const curtab = $('#cla-search-form > input[name="tab"]').val();
   if (curtab === 'coll') {
     $(`#collpagination`).html("");
@@ -632,15 +651,4 @@ function paginate_tab(tab) {
         $(hsel).val('1');
     }
     update_pagination(tab, null);
-// TODO: is it necessary to repeat this?
-    $('div.paginate > a').on('click', handlePaginationClick);
-// TODO: is the following used?
-/*
-    $(`#${tab}paginator > a`).on('click', function(event) {
-        const page = parseInt(event.target.dataset.page);
-        const pgsize = parseInt($('#cla-search-form > input[name="size"]').val());
-        const tab = $('#tablist > li.active').data('tabname');
-        changefrom(tab, (page - 1) * pgsize);
-    });
-*/
 }
