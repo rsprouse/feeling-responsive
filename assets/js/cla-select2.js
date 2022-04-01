@@ -236,8 +236,10 @@ function do_submit() {
   $('#collpgidx').val('1');
   $('#bndlpgidx').val('1');
   $('#cla-search-form > input[name="tab"]').val('bndl');
-  const s = do_search();
-  history.pushState(s, '', 'two.html');
+  const s = $.param($('#cla-search-form').serializeArray());
+// TODO: remove hardcoded url
+  history.pushState(s, '', `/dev_static/list/index.html?${s}`);
+  do_search();
   paginate();
 }
 
@@ -373,10 +375,11 @@ function get_pagination(tab, q, data) {
  * Update the display elements for coll/bndl counts.
  */
 function update_counts(tab, pg) {
-    let results = (tab == 'bndl' ? 'Item' : 'Collection');
-    if (pg.total != 1) {
-        results += "s";
-    }
+    const results = (pg.total == 1 ? 'Result ' : 'Results ');
+//    let results = (tab == 'bndl' ? 'Item' : 'Collection');
+//    if (pg.total != 1) {
+//        results += "s";
+//    }
     /* Update the tab labels with number of Colls/Bndls. */
     $('#' + tab + 'cnt').html( " (" + pg.total + ")" );
 
@@ -619,6 +622,7 @@ function handlePaginationClick(e) {
   do_search();
   //const s = do_search();
   paginate();
+  $('#cla-search-form')[0].scrollIntoView(true);
 }
 
 function paginate() {
