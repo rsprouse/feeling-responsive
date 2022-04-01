@@ -301,6 +301,7 @@ function popstate(e) {
   populate_form_from_query_string(e.state);
   const histtab = $('#cla-search-form > input[name="tab"]').val();
   if (histtab !== curtab) {
+    $('#cla-search-form')[0].scrollIntoView(true);
     $(`li.tab-title[data-tabname="${histtab}"] > a`).click();
   } else {
     do_search();
