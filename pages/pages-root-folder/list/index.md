@@ -20,7 +20,7 @@ sitemap: false
 <!-- TODO: content and active classes are for Foundation tabs. The sectiontab
 class is a holdover from old CLA website.  Clean this up later, if desired. -->
   <div class="content active sectiontab" id="coll">
-    <p id="collresultscnt">&nbsp;<b><span name="start" class="counts"></span></b> &ndash; <b><span name="end"></span></b> of <b><span name="total"></span></b> <span name="results"></span></p>
+    <p id="collresultscnt">&nbsp;<span name="results"></span> <b><span name="start" class="counts"></span></b> &ndash; <b><span name="end"></span></b></p>
     <label id="collshowall" class="showall">Show All/Collapse All&nbsp;<i id="show-all-caret-coll" class="icon fa-caret-right"></i></label>
     <ol id="colllist" class="alt" start="0">
     </ol>
