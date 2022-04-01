@@ -32,7 +32,7 @@ $('audio,video').mediaelementplayer();
 <script type="application/javascript">
   baseurl = '{{ site.baseurl }}';
   {% if page.search_results %}
-    $('#cla-search-form').on('submit', handleSelect2FormSubmit);
+    $('#cla-search-form').on('submit', do_submit);
   {% else %}
     $('#search_button').on('click', function (e) {
       e.preventDefault();
