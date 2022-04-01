@@ -179,7 +179,7 @@ const handleSelect2FormSubmit = event => {
           //$("a.post").on('click', handleMetadataLinkClick);
       }
   });
-};
+}
 
 /*
 * Show full metadata for all coll/bndl records in display list.
@@ -210,8 +210,6 @@ function do_page_entry() {
 // TODO: remove hardcoded url
   history.replaceState(s, '', `/dev_static/list/index.html?${s}`);
   $('#cla-search-form').submit();
-  //const s = do_search();
-  paginate();
 }
 
 /*
@@ -232,9 +230,12 @@ function pagination_click(e) {
  * the form.
  *
  */
-function do_submit() {
-  $('#collpgidx').val('1');
-  $('#bndlpgidx').val('1');
+function do_submit(e) {
+  if(e !== null) {
+    e.preventDefault();
+  }
+  $('#collpgidx').val('0');
+  $('#bndlpgidx').val('0');
   $('#cla-search-form > input[name="tab"]').val('bndl');
   const s = $.param($('#cla-search-form').serializeArray());
 // TODO: remove hardcoded url
@@ -273,14 +274,14 @@ function do_search() {
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
           $('#tablist').show();
           $('label.showall').show();
-//          update_pagination('coll', collpg);
-//          update_pagination('bndl', bndlpg);
+          update_pagination('coll', collpg);
+          update_pagination('bndl', bndlpg);
+          $('div.pagination > a').on('click', handlePaginationClick);
           // Add event handlers for all <a href=""> metadata elements that
           // should be handled by a POST instead of a GET, if possible.
           //$("a.post").on('click', handleMetadataLinkClick);
       }
   });
-
 }
 
 
@@ -304,6 +305,7 @@ function popstate(e) {
   } else {
     do_search();
     paginate();
+    $('#cla-search-form')[0].scrollIntoView(true);
   }
 //  const u = new URL(e.state);  // from popstate event
 //  const curtab = $('#tablist > li.active').data('tabname');
@@ -328,6 +330,7 @@ function tabclick(e) {
     history.pushState(s, '', '/dev_static/list/index.html');
     do_search();
     paginate();
+    $('#cla-search-form')[0].scrollIntoView(true);
   } else {
     e.preventDefault();
   }
@@ -506,7 +509,7 @@ function update_pagination(tab, pg)  {
             if (n == 1) {
                 add = ` id="${tab}page1paginate"`;
             }
-            if (n == curpage + 1) {
+            if (n == curpage) {
                 add = ' class="active"';
             }
             html += `<a href="${href}"${add} data-page="${n}">${n}</a>`;
