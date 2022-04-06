@@ -51,14 +51,15 @@ $('audio,video').mediaelementplayer();
   window.onpopstate = function(event) {
     popstate(event);
   }
-  $('a.post').on('click', handleMetadataLinkClick);
   $('a.paginate').on('click', handlePaginationClick);
   $('li.tab-title > a').on('click', tabclick);
   $('#collshowall').on('click', toggle_showall);
   $('#bndlshowall').on('click', toggle_showall);
   $('#search_button').on('click', handleSearchButtonClick);
 
-  do_page_entry();
+  {% unless page.collbndlrec %}
+    do_page_entry();
+  {% endunless %}
 /*
   populate_form_from_query_string('cla-search-form');
   const s = $.param($('#cla-search-form').serializeArray());
