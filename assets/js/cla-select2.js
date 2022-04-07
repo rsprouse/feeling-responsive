@@ -101,17 +101,19 @@ function populate_form_from_params(params) {
 
 function display_collrec(recid) {
   const query = get_query_from_form('cla-search-form');
-  query['collid'] = recid;
+  query['collid'] = [recid];
   $.ajax({
       method: 'POST',
       url: aws_endpoint + 'sq',
       data: JSON.stringify(query),
       dataType: 'json',
         success: function(data) {
-          set_showall_defaults(tab);
+          set_showall_defaults('coll');
+          set_showall_defaults('bndl');
 
 //          collpg = get_pagination('coll', query, data);
 //          update_counts('coll', collpg);
+          $(`#colltab_title`).html('Collection description');
           update_coll_list(null, data["coll"]["hits"]["hits"]);
 //          update_pagination('coll', collpg);
 
@@ -419,10 +421,11 @@ function get_pagination(tab, q, data) {
  */
 function update_counts(tab, pg) {
     const results = (pg.total == 1 ? 'Result ' : 'Results ');
-//    let results = (tab == 'bndl' ? 'Item' : 'Collection');
-//    if (pg.total != 1) {
-//        results += "s";
-//    }
+    let tabtitle = (tab == 'bndl' ? 'Item' : 'Collection');
+    if (pg.total != 1) {
+        tabtitle += "s";
+    }
+    $(`#${tab}tab_title`).html(`${tabtitle} `);
     /* Update the tab labels with number of Colls/Bndls. */
     $('#' + tab + 'cnt').html( " (" + pg.total + ")" );
 
