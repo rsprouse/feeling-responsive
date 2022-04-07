@@ -99,17 +99,50 @@ function populate_form_from_params(params) {
     });
 }
 
-function display_collbndlrec(rectype, recid) {
+function display_collrec(recid) {
+  const query = get_query_from_form('cla-search-form');
+  query['collid'] = recid;
+  $.ajax({
+      method: 'POST',
+      url: aws_endpoint + 'sq',
+      data: JSON.stringify(query),
+      dataType: 'json',
+        success: function(data) {
+          set_showall_defaults(tab);
+
+//          collpg = get_pagination('coll', query, data);
+//          update_counts('coll', collpg);
+          update_coll_list(null, data["coll"]["hits"]["hits"]);
+//          update_pagination('coll', collpg);
+
+          bndlpg = get_pagination('bndl', query, data);
+          update_counts('bndl', bndlpg);
+          update_bndl_list(query, data["bndl"]["hits"]["hits"]);
+          update_pagination('bndl', bndlpg);
+
+          $('#tablist').show();
+          $('label.showall').show();
+          $('div.pagination > a').on('click', handlePaginationClick);
+      }
+  });
+}
+
+function display_bndlrec(recid) {
   const action = rectype == 'coll' ? 'collection' : 'item';
   $.ajax({
       method: 'GET',
       url: aws_endpoint + action + '/' + recid,
       success: function(data) {
-          const rsource = data['hits']['hits'][0]['_source'];
-          $('#collbndlrec').html(get_bndllicontent(rsource, -1));
-          // Add event handlers for all <a href=""> metadata elements that
-          // should be handled by a POST instead of a GET, if possible.
-          //$("a.post").on('click', handleMetadataLinkClick);
+          if (rectype === 'coll') {
+            const query = get_query_from_form('cla-search-form');
+            query['collid'] = recid;
+            query['q'] = [];
+            query['qstr'] = [];
+            update_tab_content(data, query, 'coll', false);
+	  } else if (rectype === 'bndl') {
+            const rsource = data['hits']['hits'][0]['_source'];
+            $('#collbndlrec').html(get_bndllicontent(rsource, -1));
+	  }
       }
   });
 }
@@ -245,6 +278,18 @@ function do_submit(e) {
 }
 
 /*
+ * Set showall controls to default values for tab.
+ *
+ */
+function set_showall_defaults(tab) {
+  $('#show-all-caret-' + tab).toggleClass('fa-caret-right', true);
+  $('#show-all-caret-' + tab).toggleClass('fa-caret-down', false);
+  const sel = '[name="checkbox-' + tab + '"]';
+  $(sel).prop('checked', true);
+  showall[tab] = true;
+}
+
+/*
  * Do a catalog search based on current form values and
  * update results <div>.
  *
@@ -258,28 +303,22 @@ function do_search() {
       url: aws_endpoint + 'sq',
       data: JSON.stringify(query),
       dataType: 'json',
-      success: function(data) {
-          // Put 'showall' controls into proper state.
-          $('#show-all-caret-' + tab).toggleClass('fa-caret-right', true);
-          $('#show-all-caret-' + tab).toggleClass('fa-caret-down', false);
-          const sel = '[name="checkbox-' + tab + '"]';
-          $(sel).prop('checked', true);
-          showall[tab] = true;
+        success: function(data) {
+          set_showall_defaults(tab);
 
           collpg = get_pagination('coll', query, data);
-          bndlpg = get_pagination('bndl', query, data);
           update_counts('coll', collpg);
-          update_counts('bndl', bndlpg);
           update_coll_list(query, data["coll"]["hits"]["hits"]);
+          update_pagination('coll', collpg);
+
+          bndlpg = get_pagination('bndl', query, data);
+          update_counts('bndl', bndlpg);
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
+          update_pagination('bndl', bndlpg);
+
           $('#tablist').show();
           $('label.showall').show();
-          update_pagination('coll', collpg);
-          update_pagination('bndl', bndlpg);
           $('div.pagination > a').on('click', handlePaginationClick);
-          // Add event handlers for all <a href=""> metadata elements that
-          // should be handled by a POST instead of a GET, if possible.
-          //$("a.post").on('click', handleMetadataLinkClick);
       }
   });
 }
@@ -397,12 +436,13 @@ function update_counts(tab, pg) {
 }
 
 function update_coll_list(q, recs) {
-    const collfirst = parseInt(q['collfrom']) + 1;
+    const collfirst = (q === null ? 1 : parseInt(q['collfrom']) + 1);
+    const liclass = (q === null ? "nocount" : "itemlist");
     $('#colllist').prop('start', collfirst);
     let collhtml = '';
     $.each(recs, function(i, r) {
         let count = collfirst + i;
-        collhtml += '<li class="itemlist">';
+        collhtml += `<li class="${liclass}">`;
         collhtml += '<input id="_coll' +  count + '" type="checkbox" name="checkbox-coll">';
         collhtml += '<label class="showmore" for="_coll' +  count + '">';
         collhtml += '<a href="' + baseurl + 'collection?collid=' + r['_source']['collid'] + '" class="post">' + r['_source']['title'] +'</a>';
