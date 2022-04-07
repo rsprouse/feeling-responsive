@@ -77,7 +77,7 @@ $('audio,video').mediaelementplayer();
   const paramname = rectype + 'id';
   if (sp.has(paramname)) {
     const recid = sp.get(paramname);
-    {% if page.collbndlrec = 'coll' %}
+    {% if page.collbndlrec == 'coll' %}
       display_collrec(recid);
     {% else %}
       display_bndlrec(recid);
