@@ -14,7 +14,7 @@ sitemap: false
 {% include _search_form.html %}
 
 <ul id="tablist" class="tabs" data-tab>
-  <li class="tab-title active" data-tabname="coll"><a href="#coll">Collections<span id="collcnt"></span></a></li>
+  <li class="tab-title active" data-tabname="coll"><a href="#coll">Collection description<span id="collcnt"></span></a></li>
   <li class="tab-title" data-tabname="bndl"><a href="#item">Collection items<span id="bndlcnt"></span></a></li>
 </ul>
 <div class="tabs-content">
