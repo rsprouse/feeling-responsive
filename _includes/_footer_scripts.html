@@ -77,7 +77,11 @@ $('audio,video').mediaelementplayer();
   const paramname = rectype + 'id';
   if (sp.has(paramname)) {
     const recid = sp.get(paramname);
-    display_collbndlrec(rectype, recid);
+    {% if page.collbndlrec = 'coll' %}
+      display_collrec(recid);
+    {% else %}
+      display_bndlrec(recid);
+    {% endif %}
   } else {
     $('#collbndlrec').html('<p>The ' + paramname + ' parameter was not included in the url.</p>');
   }
