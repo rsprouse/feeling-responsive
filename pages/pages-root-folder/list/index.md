@@ -14,7 +14,7 @@ sitemap: false
 
 <ul id="tablist" class="tabs" data-tab>
   <li class="tab-title active" data-tabname="coll"><a id="colltab_title" href="#coll">Collections<span id="collcnt"></span></a></li>
-  <li class="tab-title" data-tabname="bndl"><a id="colltab_title" href="#bndl">Items</a><span id="bndlcnt"></span></li>
+  <li class="tab-title" data-tabname="bndl"><a id="colltab_title" href="#bndl">Items<span id="bndlcnt"></span></a></li>
 </ul>
 <div class="tabs-content">
 <!-- TODO: content and active classes are for Foundation tabs. The sectiontab
