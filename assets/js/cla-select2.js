@@ -93,6 +93,7 @@ function populate_form_from_params(params) {
             }
 //            if (title !== '\u2006' && title !== '') {
 // TODO: sanitize title (or does select2 do that automatically)?
+// TODO: maybe hide option if title is empty?
                 newOption = new Option(title, p[1], true, true);
                 $('#cla-search-select').append(newOption).trigger('change');
 //            }
@@ -394,7 +395,7 @@ function tabclick(e) {
     const s = $.param($('#cla-search-form').serializeArray());
 // TODO: remove hardcoded url
     history.pushState(s, '', e.target.href);
-    if (u.search.includes('collid=') {
+    if (u.search.includes('collid=')) {
       const params = new URLSearchParams(u.search);
       do_search(collid=params.get('collid'));
     } else {
