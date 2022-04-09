@@ -78,7 +78,7 @@ $('audio,video').mediaelementplayer();
   if (sp.has(paramname)) {
     const recid = sp.get(paramname);
     {% if page.collbndlrec == 'coll' %}
-      display_collrec(recid);
+      do_search(collid=recid);
     {% else %}
       display_bndlrec(recid);
     {% endif %}

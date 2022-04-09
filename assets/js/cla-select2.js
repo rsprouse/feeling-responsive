@@ -83,7 +83,7 @@ function populate_form_from_params(params) {
         if (hparams.includes(p[0])) {
             const hsel = '#cla-search-form > input[name="' + p[0] + '"]';
             $(hsel).val(p[1]);
-        } else if (p[0] == 'sparams[]') {
+        } else if (p[0] === 'sparams[]') {
             let title = p[1];
             const parts = p[1].split(sep);
             if (parts.length > 1 && filts.includes(parts[0])) {
@@ -91,23 +91,30 @@ function populate_form_from_params(params) {
                     title = parts[2] + '\u2006';
                 }
             }
-            if (title !== '\u2006' && title !== '') {
+//            if (title !== '\u2006' && title !== '') {
+// TODO: sanitize title (or does select2 do that automatically)?
                 newOption = new Option(title, p[1], true, true);
                 $('#cla-search-select').append(newOption).trigger('change');
-            }
+//            }
         }
     });
 }
 
 function display_collrec(recid) {
+  populate_form_from_query_string(`?sparams%5B%5D=collid%3D${recid}=`)
   const query = get_query_from_form('cla-search-form');
-  query['collid'] = [recid];
   $.ajax({
       method: 'POST',
       url: aws_endpoint + 'sq',
       data: JSON.stringify(query),
       dataType: 'json',
         success: function(data) {
+          const title = data["coll"]["hits"]["hits"][0]['_source'].title;
+          const selval = $('#cla-search-form').find(':selected').first().val();
+          $('#cla-search-select').val(null).trigger('change');
+          const newOption = new Option(title, `${selval}=${title}=`, true, true);
+          $('#cla-search-select').append(newOption).trigger('change');
+          $('#tablist').show();
           set_showall_defaults('coll');
           set_showall_defaults('bndl');
 
@@ -117,12 +124,11 @@ function display_collrec(recid) {
           update_coll_list(null, data["coll"]["hits"]["hits"]);
 //          update_pagination('coll', collpg);
 
-          bndlpg = get_pagination('bndl', query, data);
-          update_counts('bndl', bndlpg);
+          const bndlpg = get_pagination('bndl', query, data);
+          update_counts('bndl', bndlpg, true);
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
           update_pagination('bndl', bndlpg);
 
-          $('#tablist').show();
           $('label.showall').show();
           $('div.pagination > a').on('click', handlePaginationClick);
       }
@@ -296,8 +302,11 @@ function set_showall_defaults(tab) {
  * update results <div>.
  *
  */
-function do_search() {
+function do_search(collid=null) {
   //const s = $.param($('#cla-search-form').serializeArray());
+  if (collid !== null) {
+    populate_form_from_query_string(`?sparams%5B%5D=collid%3D${collid}=`)
+  }
   const query = get_query_from_form('cla-search-form');
   const tab = $('#cla-search-form > input[name="tab"]').val();
   $.ajax({
@@ -306,19 +315,34 @@ function do_search() {
       data: JSON.stringify(query),
       dataType: 'json',
         success: function(data) {
+          $('#tablist').show();
+          if (collid != null) {
+            const title = data["coll"]["hits"]["hits"][0]['_source'].title;
+            const selval = $('#cla-search-form').find(':selected').first().val();
+            $('#cla-search-select').val(null).trigger('change');
+            const newOption = new Option(title, `${selval}=${title}=`, true, true);
+            $('#cla-search-select').append(newOption).trigger('change');
+//            set_showall_defaults('coll');
+//            set_showall_defaults('bndl');
+	  }
           set_showall_defaults(tab);
 
-          collpg = get_pagination('coll', query, data);
-          update_counts('coll', collpg);
-          update_coll_list(query, data["coll"]["hits"]["hits"]);
-          update_pagination('coll', collpg);
+          if (collid != null) {
+            $(`#colltab_title`).html('Collection description');
+            update_coll_list(null, data["coll"]["hits"]["hits"]);
+	  } else {
+            collpg = get_pagination('coll', query, data);
+            update_counts('coll', collpg);
+            update_coll_list(query, data["coll"]["hits"]["hits"]);
+            update_pagination('coll', collpg);
+	  }
 
-          bndlpg = get_pagination('bndl', query, data);
+          const bndlpg = get_pagination('bndl', query, data);
           update_counts('bndl', bndlpg);
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
           update_pagination('bndl', bndlpg);
 
-          $('#tablist').show();
+//          $('#tablist').show();
           $('label.showall').show();
           $('div.pagination > a').on('click', handlePaginationClick);
       }
@@ -369,8 +393,13 @@ function tabclick(e) {
     $('#cla-search-form > input[name="tab"]').val(clicktab);
     const s = $.param($('#cla-search-form').serializeArray());
 // TODO: remove hardcoded url
-    history.pushState(s, '', '/dev_static/list/index.html');
-    do_search();
+    history.pushState(s, '', e.target.href);
+    if (u.search.includes('collid=') {
+      const params = new URLSearchParams(u.search);
+      do_search(collid=params.get('collid'));
+    } else {
+      do_search();
+    }
     paginate();
     $('#cla-search-form')[0].scrollIntoView(true);
   } else {
@@ -419,13 +448,16 @@ function get_pagination(tab, q, data) {
 /*
  * Update the display elements for coll/bndl counts.
  */
-function update_counts(tab, pg) {
+function update_counts(tab, pg, colldetail=false) {
     const results = (pg.total == 1 ? 'Result ' : 'Results ');
     let tabtitle = (tab == 'bndl' ? 'Item' : 'Collection');
-    if (pg.total != 1) {
-        tabtitle += "s";
+    if (tab == 'bndl' && colldetail == true) {
+      tabtitle = "Collection item";
     }
-    $(`#${tab}tab_title`).html(`${tabtitle} `);
+    if (pg.total != 1) {
+      tabtitle += "s";
+    }
+    $(`#${tab}tab_title`).html(`${tabtitle}`);
     /* Update the tab labels with number of Colls/Bndls. */
     $('#' + tab + 'cnt').html( " (" + pg.total + ")" );
 
@@ -517,9 +549,8 @@ function update_bndl_list(q, recs) {
 /*
  * Update the pagination <div> for 'bndl' and 'coll' tabs.
 */
-function update_pagination(tab, pg)  {
+function update_pagination(tab, pg, collbndl=false)  {
     if (pg === null) {
-	    // from, end, total, size
         const from = parseInt(
             $(`#cla-search-form > input[name="${tab}from"]`).val()
         );
@@ -539,9 +570,12 @@ function update_pagination(tab, pg)  {
     let last = (curpage <= dlen ? first + dlen - 1 : first + dlen);
     last = (last > numpages ? numpages : last);
     let html = '';
-    const s = $.param($('#cla-search-form').serializeArray());
+    const params = collbndl ?
+      {'sparams[]': 'collid=' + r['_source'].collid + '=' + r['_source'].title} :
+      $('#cla-search-form');
+    const s = $.param(params.serializeArray());
 // TODO: don't hardcode href
-    const href = `/dev_static/list/index.html?${s}`;
+    const href = collbndl ? `/dev_static/collection/?collid=${s}` : `/dev_static/list/index.html?${s}`;
     if (first > 1) {
         html += `<a href="${href}" id="${tab}laquo" data-page="1">&laquo;</a>`;
         const dest = (first - dlen < 1 ? 1 : first - dlen);
