@@ -13,10 +13,10 @@ sitemap: true
 <b>Deadline</b>: February 28, 2022<br>
 <b>Award</b>: typical grants will be no more than $6,000.
 
-<div class "between_images">
+<div class="between_images">
 <figure>
   <img src="{{site.url}}/images/oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" style="width:300px;"/>
-  <figcaption class="caption">Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
+  <figcaption class="caption"> Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
 </figure>
 </div>
 
