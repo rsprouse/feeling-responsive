@@ -40,7 +40,7 @@ We have included a selection of maps of California languages, both contemporary 
 </div>
 
 <div class="gallery_item gallery_img">
-<a href="https://berkeley.box.com/v/koreber-map"><img src="{{ site.urlimg }}kroeber-map-small.jpg" " width="300px" alt="Map from Alfred L. Kroeber's (1925) Handbook of the Indians of California"/></a>
+<a href="https://berkeley.box.com/v/koreber-map"><img src="{{ site.urlimg }}kroeber-map-small.jpg" width="300px" alt="Map from Alfred L. Kroeber's (1925) Handbook of the Indians of California"/></a>
 <div class="caption">Map from Alfred L. Kroeber's <em>Handbook of the Indians of California</em> (Washington: Smithsonian Institution, 1925)</div>
 </div>
 
