@@ -21,17 +21,17 @@
 - name: Facebook
   url: http://www.facebook.com/pages/Survey-of-California-and-Other-Indian-Languages/370115324487
   class: icon-facebook
-  title: "Join our Facebook group!"
+  title: "Follow us on Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+ - name: Instagram
+   url: http://instagram.com/surveycla
+   class: icon-instagram
+   title: "Follow us on Instagram"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
