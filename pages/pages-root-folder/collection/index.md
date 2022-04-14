@@ -14,8 +14,8 @@ sitemap: false
 {% include _search_form.html %}
 
 <ul id="tablist" class="tabs" data-tab>
-  <li class="tab-title active" data-tabname="coll"><a id="colltab_title" href="#coll">Collection description<span id="collcnt"></span></a></li>
-  <li class="tab-title" data-tabname="bndl"><a id="bndltab_title" href="#item">Collection items<span id="bndlcnt"></span></a></li>
+  <li class="tab-title active" data-tabname="coll"><a href="#coll"><span id="colltab_title">Collection description</span><span id="collcnt"></span></a></li>
+  <li class="tab-title" data-tabname="bndl"><a href="#item"><span id="bndltab_title">Collection items</span><span id="bndlcnt"></span></a></li>
 </ul>
 <div class="tabs-content">
 <!-- TODO: content and active classes are for Foundation tabs. The sectiontab
