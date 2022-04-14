@@ -10,7 +10,7 @@ sitemap: true
 
 We have included a selection of maps of California languages, both contemporary and historical, below. Click on the image to download a larger image.
 
-<div class="gallery"
+<div class="gallery">
 
 <div class="gallery_item gallery_item--1">
 <a href="https://berkeley.box.com/v/golla-map"><img src="{{ site.urlimg }}golla-map-small.jpg" class="gallery__img" width="300px" alt="Hand-drawn map by Victor Golla"/></a>
