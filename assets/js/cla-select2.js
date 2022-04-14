@@ -321,7 +321,8 @@ function do_search(collid=null) {
             const title = data["coll"]["hits"]["hits"][0]['_source'].title;
             const selval = $('#cla-search-form').find(':selected').first().val();
             $('#cla-search-select').val(null).trigger('change');
-            const newOption = new Option(title, `${selval}=${title}=`, true, true);
+            const sep = selval.endsWith('=') ? '' : '=';
+            const newOption = new Option(title, `${selval}${sep}${title}`, true, true);
             $('#cla-search-select').append(newOption).trigger('change');
 //            set_showall_defaults('coll');
 //            set_showall_defaults('bndl');
