@@ -14,7 +14,7 @@ Established over half a century ago as the first state-funded institution specif
 
 <div class="between_images">
    <figure>
-<img src="{{ site.urlimg }}ohagan-salazar.jpg" alt="Zachary O'Hagan and Antonina Salazar Torres, reviewing handwritten Caquinte stories, 2016" style="width:200px;/>
+<img src="{{ site.urlimg }}ohagan-salazar.jpg" alt="Zachary O'Hagan and Antonina Salazar Torres, reviewing handwritten Caquinte stories, 2016" style="width:200px;"/>
 <figcaption>Zachary O'Hagan and Antonina Salazar Torres, reviewing handwritten Caquinte stories, Peru, 2016 (photo courtesy of Rachel Keynton)</figcaption>
    </figure>
 </div>
