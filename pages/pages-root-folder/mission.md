@@ -12,8 +12,8 @@ Established over half a century ago as the first state-funded institution specif
 
 ## Documentation
 
-<div class="image left mission_images">
-   <figure class="left mission_fig">
+<div class="between_images">
+   <figure>
 <img src="{{ site.urlimg }}ohagan-salazar.jpg" alt="Zachary O'Hagan and Antonina Salazar Torres, reviewing handwritten Caquinte stories, 2016"/>
 <figcaption>Zachary O'Hagan and Antonina Salazar Torres, reviewing handwritten Caquinte stories, Peru, 2016 (photo courtesy of Rachel Keynton)</figcaption>
    </figure>
@@ -29,8 +29,8 @@ No language documentation project is worthwhile when its results are lost, or wh
 
 ## Access and outreach
 
-<div class="image center mission_images">
-   <figure class="center mission_fig">
+<div class="between_images">
+   <figure>
 <img src="{{ site.urlimg }}northern-pomo-workshop-2019.jpg" alt="Northern Pomo" width="1200px"/>
 <figcaption>Northern Pomo language camp, Redwood Valley Rancheria, CA, 2019 (photo courtesy of Edwin Ko)</figcaption>
    </figure>
