@@ -6,6 +6,13 @@
 
 /* Coll and Bndl metadata */
 
+/*
+ * Collection detail page.
+ */
+li.nocount {
+  list-style-type: none;
+}
+
 /* Show <p> of restricted digital assets only when on Bndl detail page,
  * i.e. hide it when Bndl is in a list of search results.
  */

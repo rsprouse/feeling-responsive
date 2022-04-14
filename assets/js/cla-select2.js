@@ -339,9 +339,14 @@ function do_search(collid=null) {
 	  }
 
           const bndlpg = get_pagination('bndl', query, data);
-          update_counts('bndl', bndlpg);
+          update_counts('bndl', bndlpg, (collid !== null));
           update_bndl_list(query, data["bndl"]["hits"]["hits"]);
-          update_pagination('bndl', bndlpg);
+          if (collid !== null) {
+            const title = data["coll"]["hits"]["hits"][0]['_source'].title;
+            update_pagination('bndl', bndlpg, {'collid': collid, 'title': title});
+	  } else {
+            update_pagination('bndl', bndlpg);
+	  }
 
 //          $('#tablist').show();
           $('label.showall').show();
@@ -370,7 +375,11 @@ function popstate(e) {
     $('#cla-search-form')[0].scrollIntoView(true);
     $(`li.tab-title[data-tabname="${histtab}"] > a`).click();
   } else {
-    do_search();
+    if (window.location.pathname.includes('/collection')) {
+      do_search(collid=sp.get('collid'));
+    } else {
+      do_search();
+    }
     paginate();
     $('#cla-search-form')[0].scrollIntoView(true);
   }
@@ -451,9 +460,13 @@ function get_pagination(tab, q, data) {
  */
 function update_counts(tab, pg, colldetail=false) {
     const results = (pg.total == 1 ? 'Result ' : 'Results ');
-    let tabtitle = (tab == 'bndl' ? 'Item' : 'Collection');
-    if (tab == 'bndl' && colldetail == true) {
-      tabtitle = "Collection item";
+    let tabtitle = ''
+    if (tab == 'bndl' && colldetail) {
+      tabtitle = 'Collection item';
+    } else if (tab == 'bndl') {
+      tabtitle = 'Item';
+    } else if (tab == 'coll') {
+      tabtitle = 'Collection';
     }
     if (pg.total != 1) {
       tabtitle += "s";
@@ -474,16 +487,19 @@ function update_counts(tab, pg, colldetail=false) {
 function update_coll_list(q, recs) {
     const collfirst = (q === null ? 1 : parseInt(q['collfrom']) + 1);
     const liclass = (q === null ? "nocount" : "itemlist");
+    const lblclass = (q === null ? "showall" : "showmore");
     $('#colllist').prop('start', collfirst);
     let collhtml = '';
     $.each(recs, function(i, r) {
-        let count = collfirst + i;
-        collhtml += `<li class="${liclass}">`;
-        collhtml += '<input id="_coll' +  count + '" type="checkbox" name="checkbox-coll">';
-        collhtml += '<label class="showmore" for="_coll' +  count + '">';
-        collhtml += '<a href="' + baseurl + 'collection?collid=' + r['_source']['collid'] + '" class="post">' + r['_source']['title'] +'</a>';
-        collhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
-        collhtml += r['_source']['ul_md'];
+         let count = collfirst + i;
+         collhtml += `<li class="${liclass}">`;
+         collhtml += '<input id="_coll' +  count + '" type="checkbox" name="checkbox-coll">';
+         collhtml += `<label class="${lblclass}" for="_coll${count}">`;
+         collhtml += '<a href="' + baseurl + 'collection?collid=' + r['_source']['collid'] + '" class="post">' + r['_source']['title'] +'</a>';
+        if (q !== null) {
+          collhtml += '&nbsp;<i class="icon fa-caret-right"></i>';
+        }
+        collhtml += '</label>' + r['_source']['ul_md'];
     });
     $('#colllist').html(collhtml);
 }
@@ -550,7 +566,7 @@ function update_bndl_list(q, recs) {
 /*
  * Update the pagination <div> for 'bndl' and 'coll' tabs.
 */
-function update_pagination(tab, pg, collbndl=false)  {
+function update_pagination(tab, pg, coll=null)  {
     if (pg === null) {
         const from = parseInt(
             $(`#cla-search-form > input[name="${tab}from"]`).val()
@@ -571,12 +587,12 @@ function update_pagination(tab, pg, collbndl=false)  {
     let last = (curpage <= dlen ? first + dlen - 1 : first + dlen);
     last = (last > numpages ? numpages : last);
     let html = '';
-    const params = collbndl ?
-      {'sparams[]': 'collid=' + r['_source'].collid + '=' + r['_source'].title} :
-      $('#cla-search-form');
-    const s = $.param(params.serializeArray());
+    const params = coll ?
+      {'sparams[]': 'collid=' + coll['collid'] + '=' + coll['title']} :
+      $('#cla-search-form').serializeArray();
+    const s = $.param(params);
 // TODO: don't hardcode href
-    const href = collbndl ? `/dev_static/collection/?collid=${s}` : `/dev_static/list/index.html?${s}`;
+    const href = coll ? `/dev_static/collection/?collid=${s}` : `/dev_static/list/index.html?${s}`;
     if (first > 1) {
         html += `<a href="${href}" id="${tab}laquo" data-page="1">&laquo;</a>`;
         const dest = (first - dlen < 1 ? 1 : first - dlen);
@@ -698,10 +714,14 @@ function handlePaginationClick(e) {
   $(fromsel).val((page - 1) * pgsize);
   const s = $.param($('#cla-search-form').serializeArray());
 // TODO: remove hardcoded url
-  history.pushState(s, '', `/dev_static/list/index.html?${s}`);
+  history.pushState(s, '', `${window.location.pathname}?${s}`);
 
   //$('#cla-search-form').submit();
-  do_search();
+  if (window.location.pathname.includes('/collection')) {
+    do_search(collid=sp.get('collid'));
+  } else {
+    do_search();
+  }
   //const s = do_search();
   paginate();
   $('#cla-search-form')[0].scrollIntoView(true);
