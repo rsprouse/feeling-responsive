@@ -101,41 +101,6 @@ function populate_form_from_params(params) {
     });
 }
 
-function display_collrec(recid) {
-  populate_form_from_query_string(`?sparams%5B%5D=collid%3D${recid}=`)
-  const query = get_query_from_form('cla-search-form');
-  $.ajax({
-      method: 'POST',
-      url: aws_endpoint + 'sq',
-      data: JSON.stringify(query),
-      dataType: 'json',
-        success: function(data) {
-          const title = data["coll"]["hits"]["hits"][0]['_source'].title;
-          const selval = $('#cla-search-form').find(':selected').first().val();
-          $('#cla-search-select').val(null).trigger('change');
-          const newOption = new Option(title, `${selval}=${title}=`, true, true);
-          $('#cla-search-select').append(newOption).trigger('change');
-          $('#tablist').show();
-          set_showall_defaults('coll');
-          set_showall_defaults('bndl');
-
-//          collpg = get_pagination('coll', query, data);
-//          update_counts('coll', collpg);
-          $(`#colltab_title`).html('Collection description');
-          update_coll_list(null, data["coll"]["hits"]["hits"]);
-//          update_pagination('coll', collpg);
-
-          const bndlpg = get_pagination('bndl', query, data);
-          update_counts('bndl', bndlpg, true);
-          update_bndl_list(query, data["bndl"]["hits"]["hits"]);
-          update_pagination('bndl', bndlpg);
-
-          $('label.showall').show();
-          $('div.pagination > a').on('click', handlePaginationClick);
-      }
-  });
-}
-
 function display_bndlrec(recid) {
   const action = rectype == 'coll' ? 'collection' : 'item';
   $.ajax({
