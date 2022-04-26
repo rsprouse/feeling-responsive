@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "CLA Requests"
+#title: "CLA Requests"
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
