@@ -8,17 +8,19 @@ header:
 sitemap: true
 ---
 
-## Oswalt Endangered Language Grants 
+## Oswalt Endangered Language Grants
 
 <b>Deadline</b>: February 28, 2022<br>
 <b>Award</b>: typical grants will be no more than $6,000.
 
-<figure class="right mission_fig">
-  <img class="image fit" width="310px" src="{{site.url}}/images/oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" />
-  <figcaption>Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
+<div class="between_images">
+<figure>
+  <img src="{{site.url}}/images/oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" style="width:300px;"/>
+  <figcaption class="caption"> Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
 </figure>
+</div>
 
-Berkeley graduate students (in any department) are invited to apply for funding for linguistic fieldwork on endangered languages. This funding comes through the Robert L. Oswalt Graduate Student Support Endowment for Endangered Language Documentation, given in memory of Robert L. Oswalt (Ph.D. UC Berkeley 1961) by his widow and sons. It is restricted to Berkeley graduate students, for linguistic fieldwork on endangered languages (anywhere in the world). 
+Berkeley graduate students (in any department) are invited to apply for funding for linguistic fieldwork on endangered languages. This funding comes through the Robert L. Oswalt Graduate Student Support Endowment for Endangered Language Documentation, given in memory of Robert L. Oswalt (Ph.D. UC Berkeley 1961) by his widow and sons. It is restricted to Berkeley graduate students, for linguistic fieldwork on endangered languages (anywhere in the world).
 
 For more details and how to apply, click <a href="https://forms.gle/Mkm28qpAjiZ1p6Ap7">here</a>.
 
@@ -66,5 +68,3 @@ For more details and how to apply, click <a href="https://forms.gle/Mkm28qpAjiZ1
 <br><b>Deadline</b>: TBA
 <li><a href="https://clas.berkeley.edu/indigenous-languages-latin-america-illa-travel-fund">Indigenous Languages of Latin America Travel Fund</a>
 <br><b>Deadline</b>: Applications are accepted on a rolling basis and are due at least 3 weeks before the conference date for travel within the US, and 2 months before the conference date for travel outside of the US.
-
-
