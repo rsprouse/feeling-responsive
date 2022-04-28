@@ -6,7 +6,7 @@ teaser: Katie Russell, Becky Jarvis, and Kouadio Timothée
 permalink: /projects/:year/:title.html
 ---
 
-## En français / [In English](#in-english)
+### En français / [In English](#in-english)
 
 <div class="image left project_images">
 <img src="{{ site.urlimg }}atchan1.png" alt="Katie Russel, Becky Jarvis, and Atchan speakers" style="width:400px;"/>
