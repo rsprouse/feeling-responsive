@@ -1,6 +1,8 @@
 ---
 layout: page
+subheadline: Project spotlight
 title:  Atchan language spotlight
+teaser: Katie Russel, Becky Jarvis, and Kouadio Timothée
 permalink: /projects/:year/:title.html
 ---
 
