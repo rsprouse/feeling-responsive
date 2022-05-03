@@ -6,7 +6,7 @@ teaser: Katie Russell, Becky Jarvis, and Kouadio Timothée
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
-permalink: /projects/:year/:title.html
+permalink: /projects/atchan.html
 ---
 
 #### En français / [In English](#in-english)
