@@ -16,7 +16,7 @@ widget1:
   text: 'CLA blog posts for you to read.'
 widget2:
   title: "Project spotlight"
-  url: projects/2021/atchan.html
+  url: atchan.html
   image: atchan3.jpg
   text: 'The Atchan language project.'
 widget3:
