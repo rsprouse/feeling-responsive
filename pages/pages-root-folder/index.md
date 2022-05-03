@@ -16,10 +16,9 @@ widget1:
   text: 'CLA blog posts for you to read.'
 widget2:
   title: "Project spotlight"
-  teaser: subtitle
-  url: projects/2021/projectspot.html
+  url: projects/2021/atchan.html
   image: atchan3.jpg
-  text: 'We want to highlight the YYY project.'
+  text: 'The Atchan language project.'
 widget3:
   title: "Collection spotlight"
   url: blog/2021/collspot2.html
