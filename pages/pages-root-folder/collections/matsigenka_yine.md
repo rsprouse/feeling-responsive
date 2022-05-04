@@ -6,8 +6,8 @@ breadcrumb: false
 permalink: /collections/matsigenka_yine.html
 ---
 
-No archival collection is too small! Our first collection accessioned this year was the [Colección de grabaciones en matsigenka y yine de Anna Lewington](http://dx.doi.org/doi:10.7297/X2542MB5) (Lewington 2022+). It consists of digitized, edited sound recordings from two cassettes made by [Anna Lewington](http://www.anna-lewington.co.uk/) in the Urubamba River valley, in the Peruvian Amazon, in November and December 1981. Ms. Lewington's research at this time formed the basis of her master's thesis at the University of St. Andrews in Scotland (Lewington 1985). She graciously donated the recordings, which she had digitized and edited in England, after I emailed her in May 2021 asking whether she was in possession of documentary materials from her fieldwork. I was familiar with Ms. Lewington's work in the context of my work with speakers of Caquinte (O'Hagan 2020). Caquinte is related most closely to Matsigenka (Snell 2011; see Mihas 2017 for subfamily), and more distantly to Yine; all three belong to the Arawak language family, one of the most widespread in the Americas (see Aikhenvald 1999). All three languages are vital, but people who speak them live in regions undergoing rapid socioeconomic and cultural changes that make the documentation of these genres &mdash; and the preservation of existing documentation &mdash; critical. Because Ms. Lewington is not a linguist, the preservation of her recordings is especially critical for the accurate representation of the voices of the speakers of Matsigenka and Yine that collaborated with her. I give specific examples of this in this post. My aim is not to criticize Ms. Lewington's thesis, but simply to show what more can be learned from these archival materials.
-The recordings were made in the Yine community of Miaría and in the Matsigenka communities of Nueva Luz, Chokoriari, and Timpia. They feature the voices of at least 14 Matsigenka and Yine people (whose voices, to my knowledge, have not been recorded elsewhere), and include stories, songs, and flute and drum music. Ms. Lewington was interested in different versions of the traditional story of the origin of manioc, a staple food in many Amazonian societies. (Indeed in Matsigenka the word for 'manioc,' sekatsi, is polysemous: it also means 'food.' The verb root seka also means 'eat.') While her representations of Matsigenka words are on the right track, there are many errors related to word boundaries, the segmentation of verbal affixes, and, understandably, translation, among others. As she herself describes her process in her thesis (Lewington 1985:83-84):
+No archival collection is too small! Our first collection accessioned this year was the [ColecciÃ³n de grabaciones en matsigenka y yine de Anna Lewington](http://dx.doi.org/doi:10.7297/X2542MB5) (Lewington 2022+). It consists of digitized, edited sound recordings from two cassettes made by [Anna Lewington](http://www.anna-lewington.co.uk/) in the Urubamba River valley, in the Peruvian Amazon, in November and December 1981. Ms. Lewington's research at this time formed the basis of her master's thesis at the University of St. Andrews in Scotland (Lewington 1985). She graciously donated the recordings, which she had digitized and edited in England, after I emailed her in May 2021 asking whether she was in possession of documentary materials from her fieldwork. I was familiar with Ms. Lewington's work in the context of my work with speakers of Caquinte (O'Hagan 2020). Caquinte is related most closely to Matsigenka (Snell 2011; see Mihas 2017 for subfamily), and more distantly to Yine; all three belong to the Arawak language family, one of the most widespread in the Americas (see Aikhenvald 1999). All three languages are vital, but people who speak them live in regions undergoing rapid socioeconomic and cultural changes that make the documentation of these genres &mdash; and the preservation of existing documentation &mdash; critical. Because Ms. Lewington is not a linguist, the preservation of her recordings is especially critical for the accurate representation of the voices of the speakers of Matsigenka and Yine that collaborated with her. I give specific examples of this in this post. My aim is not to criticize Ms. Lewington's thesis, but simply to show what more can be learned from these archival materials.
+The recordings were made in the Yine community of MiarÃ­a and in the Matsigenka communities of Nueva Luz, Chokoriari, and Timpia. They feature the voices of at least 14 Matsigenka and Yine people (whose voices, to my knowledge, have not been recorded elsewhere), and include stories, songs, and flute and drum music. Ms. Lewington was interested in different versions of the traditional story of the origin of manioc, a staple food in many Amazonian societies. (Indeed in Matsigenka the word for 'manioc,' sekatsi, is polysemous: it also means 'food.' The verb root seka also means 'eat.') While her representations of Matsigenka words are on the right track, there are many errors related to word boundaries, the segmentation of verbal affixes, and, understandably, translation, among others. As she herself describes her process in her thesis (Lewington 1985:83-84):
 
 > The most useful aid to this work [transcription and translation] was the volume of Machiguenga [sic] myths recorded by Dr [Gerhard] Baer, a number of which were made available to me in the original Machiguenga with their German and/or Spanish translations. Amongst these was Baer's version of the manioc myth, referred to by Baer as 'Mythe vom Mond' (1984: 423). A careful study of the linguistic structuring presented by this myth in particular and a process of cross-checking to identify form and meaning, enabled me to transcribe and translate a good deal of my own myth version.
 
@@ -19,7 +19,7 @@ The recordings were made in the Yine community of Miaría and in the Matsigenka c
 
 > It is stressed that the analytical work was undertaken without the help of a Machiguenga informant (to whom it was impossible to return at the end of my first field trip), thus the thesis is concerned not to present an article of linguistic perfection, but rather to present the evidence of the myth itself, the lore surrounding manioc and all that this represents to the Machiguenga.
 
-As a result, the original recordings are critical for the accurate transcription (and translation, of course) of the texts Ms. Lewington recorded. In what follows, I show how the transcription and translation can be improved, using the example of an excerpt from Bartolomé Ríos Corral's "The Manioc Myth," recorded on November 28, 1981 in Nueva Luz (catalogue item [2022-01.003](http://dx.doi.org/doi:10.7297/X2RX99WG)). First, listen to the excerpt, following along with Ms. Lewington's transcription and translation below (ibid.:95-96).
+As a result, the original recordings are critical for the accurate transcription (and translation, of course) of the texts Ms. Lewington recorded. In what follows, I show how the transcription and translation can be improved, using the example of an excerpt from BartolomÃ© RÃ­os Corral's "The Manioc Myth," recorded on November 28, 1981 in Nueva Luz (catalogue item [2022-01.003](http://dx.doi.org/doi:10.7297/X2RX99WG)). First, listen to the excerpt, following along with Ms. Lewington's transcription and translation below (ibid.:95-96).
 
 A full transcription and translation are given below. Relisten to the excerpt, following along here.
 
@@ -31,7 +31,7 @@ Now I segment the seven sentences comprising this excerpt, providing interlinear
 
 > Agaka kutagiteri ipokake kashiri.
 
-> ag-ak-a-ø kutagiteri i-pok-ak-i kashiri
+> ag-ak-a-Ã¸ kutagiteri i-pok-ak-i kashiri
 > arrive(.day)-PFV-MR-3 day 3M-come-PFV-AR moon
 
 > One day, Moon came.
@@ -61,7 +61,7 @@ In (3), there are three relatively straightforward verbal words preceding the qu
 
 > Okantiri, "Atake age sekatsi."
 
-> o-kant-i-ri a-t-ak-i-ø o-ag-e seka-tsi
+> o-kant-i-ri a-t-ak-i-Ã¸ o-ag-e seka-tsi
 > 3F-say-AR-3M go-EP-PFV-AR-3 3F-get-IRR food-AL
 
 > She said to him, "She's gone to get food."
@@ -84,7 +84,7 @@ In (5), we observe a new kind of segmentation error, including active realis -i 
 
 > She showed him, "Here it is."
 
-Example (6) shows the same segmentation error involving -i, and for the first time Ms. Lewington misidentifies a prefix-root boundary. The verb root is in fact okotag, with an initial /o/. In these cases, third person feminine is expressed by the null allomorph ø-. Then, what goes unsegmented as "NEROK" is in fact two words: the presentative particle ne, which inflects for the gender of its complement, and the proximal demonstrative ka, which also inflects (differently) for gender.
+Example (6) shows the same segmentation error involving -i, and for the first time Ms. Lewington misidentifies a prefix-root boundary. The verb root is in fact okotag, with an initial /o/. In these cases, third person feminine is expressed by the null allomorph Ã¸-. Then, what goes unsegmented as "NEROK" is in fact two words: the presentative particle ne, which inflects for the gender of its complement, and the proximal demonstrative ka, which also inflects (differently) for gender.
 
 > Ikanti, "Oka tera iro sekatsi, onti kipatsi, pogavagetakara onti kipatsi."
 
@@ -105,7 +105,7 @@ The California Language Archive recently received a larger donation from anthrop
 Aikhenvald, Alexandra Y. 1999. The Arawak Language Family. In The Amazonian Languages, ed. R.M.W. Dixon and Alexandra Y. Aikhenvald, 65-106. Cambridge: Cambridge University Press.
 Baer, Gerhard. 1984. Die Religion der Matsigenka, Ost-Peru. Basel: Wepf.
 Lewington, Anna. 1985. The Implications of Manioc Cultivation in the Culture and Mythology of the Machiguenga of South Eastern Peru. MA thesis, University of St. Andrews.
-Lewington, Anna. 2022+. Colección de grabaciones en matsigenka y yine de Anna Lewington, 2022-01, California Language Archive, Survey of California and Other Indian Languages, University of California, Berkeley. DOI: http://dx.doi.org/doi:10.7297/X2542MB5.
+Lewington, Anna. 2022+. ColecciÃ³n de grabaciones en matsigenka y yine de Anna Lewington, 2022-01, California Language Archive, Survey of California and Other Indian Languages, University of California, Berkeley. DOI: http://dx.doi.org/doi:10.7297/X2542MB5.
 Michael, Lev. 2014. The Nanti Reality Status System: Implications for the Typological Validity of the Realis/Irrealis Contrast. Linguistic Typology 18(2):251-288. DOI: https://doi.org/10.1515/lingty-2014-0011.
 Mihas, Elena. 2017. The Kampa Subgroup of the Arawak Language Family. In The Cambridge Handbook of Linguistic Typology, ed. Alexandra Y. Aikhenvald and R.M.W. Dixon, 782-814. Cambridge: Cambridge University Press. DOI: https://doi.org/10.1017/9781316135716.025.
 O'Hagan, Zachary. 2020. Focus in Caquinte. PhD dissertation, University of California, Berkeley. URL: https://escholarship.org/uc/item/9640m1fg.
