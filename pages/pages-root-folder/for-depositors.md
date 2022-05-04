@@ -7,7 +7,7 @@ header:
 sitemap: true
 ---
 
-<a href="https://cla.berkeley.edu/pa" class="button">Depositor Login</a>
+<center><a href="https://cla.berkeley.edu/pa" class="button">Depositor Login</a></center>
 
 ## Donating Materials to the Survey
 
