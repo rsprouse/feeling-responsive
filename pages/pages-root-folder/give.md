@@ -8,7 +8,7 @@ header:
 sitemap: true
 ---
 
-To donate with a credit card to the California Language Archive (Survey of California and Other Indian Languages), please call UC Berkeley Gift Services at 510-643-9789 and inform them that your donation is for Regents fund #54097, Survey of California and Other Indian Languages. Otherwise, please mail checks to:
+To donate with a credit card to the California Language Archive (Survey of California and Other Indian Languages), please click [here](http://give.berkeley.edu/fund/FN7677000), or on the "Make a Gift" link below. To donate by check, fill out [this form](https://storage.googleapis.com/giveadmin/filer_public/c8/8e/c88e80f4-d972-4257-893f-8175b67429ae/uc_berkeley_mail-in_donation_form.pdf), indicating "California Language Archive, FN7677000" under "Please designate my gift/pledge to." Mail the check and form to: University of California, Berkeley, Gift Services, 1995 University Avenue, Suite 400, Berkeley, CA 94704-1070.
 
 <div style="width: 380px; height: 50px; position: relative;
 font-family: sans-serif; background-color: transparent; display:
@@ -21,14 +21,6 @@ text-transform: uppercase; line-height: 33px; text-decoration: none;
 text-align: center; border-radius: 5px;"
 href="http://give.berkeley.edu/fund/FN7677000">Make a gift</a></p>
 </div>
-
-<p style="text-align: center;">
-Survey of California and Other Indian Languages<br />
-Department of Linguistics<br />
-University of California, Berkeley<br />
-1203 Dwinelle Hall<br />
-Berkeley, CA 94720-2650
-</p>
 
 The United Nations has declared 2022-2032 to be the International Decade of Indigenous Languages, in order to bring attention to the state of Indigenous languages around the world. The Survey, as both a research center and archive, supports the documentation, analysis, reclamation, and revitalization of these languages, many of which are endangered. Given that there are often exceedingly few early records of these languages, and that they can be in fragile condition or stored on obsolete media, language archives can be responsible for preserving the only physical documentation of some speech communities, and as such are critical to historical and cultural continuity.
 
