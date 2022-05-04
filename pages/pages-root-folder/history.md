@@ -30,7 +30,7 @@ Guided by Haas and by her colleague and eventual successor as Survey Director, W
 
 <div class="between_images">
 <figure>
-  <img src="{{site.url}}/images/wallace-chafe-1957.jpg" alt="Wallace Chafe, ethnobotaniucal fieldwork, 1957" style="width:400px;"/>
+  <img src="{{site.url}}/images/wallace-chafe-1957.jpg" alt="Wallace Chafe, ethnobotanical fieldwork, 1957" style="width:400px;"/>
   <figcaption class="caption"> Wallace Chafe (right), ethnobotanical fieldwork, 1957, with Stanley Smith and Oscar Nephew</figcaption>
 </figure>
  </div>
