@@ -21,9 +21,9 @@ widget2:
   text: 'The Atchan language project.'
 widget3:
   title: "Collection spotlight"
-  url: blog/2021/collspot2.html
+  url: collections/matsigenka_yine.html
   image: xavante_coll.png
-  text: 'We are pointing our spotlight at the XXX Collection.'
+  text: 'Colección de grabaciones en matsigenka y yine de Anna Lewington'
 #
 # Use the call for action to show a button on the frontpage
 #
