@@ -12,14 +12,7 @@ sitemap: true
 
 [Staff](#staff) \| [Affiliates](#affiliates)
 
-## <a name="staff"></a>Staff
-
-<div class="image left people_images">
-<img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
-</div>
-
-<a name="andrew">[Andrew Garrett](http://linguistics.berkeley.edu/~garrett/) (Director)</a> is Professor of Linguistics and Nadine M. Tang and Bruce L. Smith Professor of Cross-Cultural Social Sciences. As a Californianist he has done linguistic fieldwork, archival work, and consulting work with the [Hupa](languages/hupa.php), [Karuk](languages/karuk.php), [Northern Paiute](languages/northern-paiute.php), [Rumsen Ohlone](languages/rumsen.php), and Sierra Miwok languages, but he mainly focuses on [Yurok](languages/yurok.php) and [Karuk](languages/karuk.php) (in northern California). His Yurok projects include articles on descriptive and historical linguistics, contributions to the tribal language program (including a practical dictionary compiled with Juliette Blevins and Lisa Conathan), ongoing work on Yurok texts, and a [digital text and lexical archive](http://linguistics.berkeley.edu/~yurok). In Yurok grammar, Garrett is especially interested in relations between lexical and morphological structures on the one hand, and between lexical and syntactic patterns on the other; his book [Basic Yurok](http://escholarship.org/uc/item/2vw609w4) appeared in 2014. His Karuk projects, in collaboration with [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen/) and several graduate students, include a database of texts, research on the language's interesting syntactic patterns, and a co-edited volume of ten texts recorded in 1901 and 1902. More generally, he studies the dialectology of languages of the west coast and the emergence of the distinctive California linguistic profile. Outside California, Garrett also worked on Indo-European historical linguistics, especially Anatolian, Greek, and Latin, and general problems of language change and linguistic reconstruction.
-
+### <a name="staff"></a>Staff
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}zjo.jpg" alt="Zachary O'Hagan"/>
@@ -27,12 +20,11 @@ sitemap: true
 
 <a name="zacho">[Zachary O'Hagan](http://linguistics.berkeley.edu/~zjohagan/) (Postdoctoral Scholar, Manager)</a> received his PhD in linguistics from the University of California, Berkeley in 2020, with a dissertation titled <a href="https://escholarship.org/uc/item/9640m1fg"><i>Focus in Caquinte</i></a>, an Arawak language of Peru. His research centers on the documentation of Amazonian indigenous languages, on the people who speak them, and their history and culture. He is a generalist and arealist, with theoretical interests in morphosyntax, semantics, information structure, and historical linguistics. Since 2010 he has carried out fieldwork in Peru on Omagua (Tupí-Guaraní), Caquinte (Arawak), Taushiro (isolate), and Omurano (isolate). In 2019 he edited <a href="http://linguistics.berkeley.edu/~zjohagan/pdflinks/salazar-et-al_caquinte-stories_2019_official-ortho"><i>Tsabetsatsarentsipae itionkantajitakaroka igenketsatsare kakinte</i></a>, a monolingual volume of stories in Caquinte.
 
-
 <div class="image left people_images">
 <img src="{{ site.urlimg }}sprouse.jpg" alt="Ronald Sprouse"/>
 </div>
 
-<a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (It Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
+<a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (IT Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
@@ -40,7 +32,13 @@ sitemap: true
 
 <a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Graduate Student, Assistant) </a> is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. Since 2020, she has worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, including co-teaching a weekly class as well as archival research.
 
-## <a name="affiliates"></a>Affiliates
+<div class="image left people_images">
+<img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
+</div>
+
+<a name="andrew">[Andrew Garrett](http://linguistics.berkeley.edu/~garrett/) (Director)</a> is Professor of Linguistics and Nadine M. Tang and Bruce L. Smith Professor of Cross-Cultural Social Sciences. As a Californianist he has done linguistic fieldwork, archival work, and consulting work with the [Hupa](languages/hupa.php), [Karuk](languages/karuk.php), [Northern Paiute](languages/northern-paiute.php), [Rumsen Ohlone](languages/rumsen.php), and Sierra Miwok languages, but he mainly focuses on [Yurok](languages/yurok.php) and [Karuk](languages/karuk.php) (in northern California). His Yurok projects include articles on descriptive and historical linguistics, contributions to the tribal language program (including a practical dictionary compiled with Juliette Blevins and Lisa Conathan), ongoing work on Yurok texts, and a [digital text and lexical archive](http://linguistics.berkeley.edu/~yurok). In Yurok grammar, Garrett is especially interested in relations between lexical and morphological structures on the one hand, and between lexical and syntactic patterns on the other; his book [Basic Yurok](http://escholarship.org/uc/item/2vw609w4) appeared in 2014. His Karuk projects, in collaboration with [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen/) and several graduate students, include a database of texts, research on the language's interesting syntactic patterns, and a co-edited volume of ten texts recorded in 1901 and 1902. More generally, he studies the dialectology of languages of the west coast and the emergence of the distinctive California linguistic profile. Outside California, Garrett also worked on Indo-European historical linguistics, especially Anatolian, Greek, and Latin, and general problems of language change and linguistic reconstruction.
+
+### <a name="affiliates"></a>Affiliates
 
 For a list of earlier students working in the Survey, see our [Dissertations page](dissertations.php).
 
