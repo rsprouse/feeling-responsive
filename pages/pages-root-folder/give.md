@@ -10,9 +10,9 @@ sitemap: true
 
 To donate with a credit card, please click [here](http://give.berkeley.edu/fund/FN7677000), or on the "Make a Gift" link below. To donate by check, fill out [this form](https://storage.googleapis.com/giveadmin/filer_public/c8/8e/c88e80f4-d972-4257-893f-8175b67429ae/uc_berkeley_mail-in_donation_form.pdf), indicating "California Language Archive, FN7677000" under "Please designate my gift/pledge to." Mail the check and form to: University of California, Berkeley, Gift Services, 1995 University Avenue, Suite 400, Berkeley, CA 94704-1070.
 
-<div style="width: 380px; height: 50px; position: relative;
+<div style="width: auto; height: auto; position: relative;
 font-family: sans-serif; background-color: transparent; display:
-flex; align-items: center; justify-content: space-around;">
+flex; align-items: center; justify-content: center;">
 <p style="margin: 0; padding: 0; max-width: 300px; color:
 #3062b3; font-size: 18px;"></p>
 <p><a style="display: inline-block; width: 124px; height: 33px;
