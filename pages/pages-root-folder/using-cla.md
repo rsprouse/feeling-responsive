@@ -1,12 +1,13 @@
 ---
 permalink: using-cla.html
 layout: page
-title: Terms and conditions of use
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
 sitemap: true
 ---
+
+### Terms and conditions of use
 
 Resources available through the California Language Archive (CLA) are the physical property of the University of California, Berkeley. Intellectual rights, including copyright, belong to resource creators or their legal heirs and assigns.
 
