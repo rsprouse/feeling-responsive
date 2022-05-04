@@ -19,7 +19,7 @@ urlimg: 'https://trill.linguistics.berkeley.edu/assets/images/'
 urlaudio: 'https://trill.linguistics.berkeley.edu/assets/audio/'
 
 # JSON source data for map.
-clamap: https://trill.linguistics.berkeley.edu/cla-map.json
+clamap: https://trill.linguistics.berkeley.edu/browse/cla-map.json
 
 search:
   aws_endpoint: https://vuuf8mlr15.execute-api.us-east-1.amazonaws.com/devapi/

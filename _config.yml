@@ -64,7 +64,7 @@ plugins:
     - jekyll-paginate
 
 # JSON source data for map.
-clamap: https://cla.berkeley.edu/cla-map.json
+clamap: https://cla.berkeley.edu/browse/cla-map.json
 
 # CLA search elements.
 search:
