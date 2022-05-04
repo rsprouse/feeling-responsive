@@ -1,12 +1,13 @@
 ---
 permalink: give.html
 layout: page
-title: Donate to the California Language Archive
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
 sitemap: true
 ---
+
+###Donate to the California Language Archive
 
 To donate with a credit card, please click [here](http://give.berkeley.edu/fund/FN7677000), or on the "Make a Gift" link below. To donate by check, fill out [this form](https://storage.googleapis.com/giveadmin/filer_public/c8/8e/c88e80f4-d972-4257-893f-8175b67429ae/uc_berkeley_mail-in_donation_form.pdf), indicating "California Language Archive, FN7677000" under "Please designate my gift/pledge to." Mail the check and form to: University of California, Berkeley, Gift Services, 1995 University Avenue, Suite 400, Berkeley, CA 94704-1070.
 
