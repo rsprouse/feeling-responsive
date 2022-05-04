@@ -9,7 +9,7 @@ sitemap: true
 
 <center><a href="https://cla.berkeley.edu/pa" class="button">Depositor Login</a></center>
 
-### Donating Materials to the CLA
+### Donating materials to the CLA
 
 The California Language Archive (Survey of California and Other Indian Languages) supports the documentation, documentation, analysis, maintenance, reclamation, and revitalization of the Indigenous languages of the Americas. We hold sound recordings, field notes, photographs, and other documentary materials, some of it digitized and available online. Donations of materials within the scope of our collections are welcome. If you have materials you would like to donate, please contact Dr. [Zachary O'Hagan](https://linguistics.berkeley.edu/~zjohagan/) (Manager) by email at scoil-ling@berkeley.edu, by phone at 510-642-8891, or by sending a letter to 1203 Dwinelle Hall, Berkeley, CA 94720.
 
@@ -25,8 +25,8 @@ The CLA collects materials related to all Indigenous languages of the Americas, 
 
 1. Contact Dr. [Zachary O'Hagan](https://linguistics.berkeley.edu/~zjohagan/) (Manager) to discuss whether your material is within the scope of our collections (scoil-ling@berkeley.edu; 510-642-8891).
 1. Complete the [gift agreement](https://berkeley.box.com/v/survey-gift-agreement).
-1. Package the material well and mail it or bring it personally to 1311 Dwinelle Hall, Berkeley, CA.
+1. Package the material well and ship it or have us ship it to 1203 Dwinelle Hall, Berkeley, CA; or bring it personally to 1311 Dwinelle Hall.
 
-### Pre-archiving for depositors with born-digital materials
+### Pre-archiving for born-digital materials
 
 Potential depositors with born-digital materials are able to use our pre-archive interface to deposit their materials, with easy online metadata creation and file upload with [Box](https://www.box.com/home). We have a pre-archive [quick-guide](https://berkeley.box.com/v/prearchive-quick-guide), and a separate [form](https://goo.gl/forms/VGfFDyMxNyFr6lIl1) for you to fill out. The latter constitutes your request for the creation of a collection, and allows us to create records for the people, places, and languages that will be part of the controlled vocabulary in the metadata of the collection.
