@@ -14,7 +14,7 @@ To donate with a credit card to the California Language Archive (Survey of Calif
 font-family: sans-serif; background-color: transparent; display:
 flex; align-items: center; justify-content: space-around;">
 <p style="margin: 0; padding: 0; max-width: 300px; color:
-#3062b3; font-size: 18px;">California Language Archive</p>
+#3062b3; font-size: 18px;"></p>
 <p><a style="display: inline-block; width: 124px; height: 33px;
 background-color: #003057; color: #f2a900; font-size: 14px;
 text-transform: uppercase; line-height: 33px; text-decoration: none;
