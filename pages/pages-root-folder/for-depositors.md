@@ -1,7 +1,6 @@
 ---
 permalink: for-depositors.html
 layout: page
-title: For depositors
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
