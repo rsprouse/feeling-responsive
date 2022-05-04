@@ -215,7 +215,7 @@ function do_page_entry() {
   }
   const s = $.param($('#cla-search-form').serializeArray());
 // TODO: remove hardcoded url
-  history.replaceState(s, '', `/dev_static/list/index.html?${s}`);
+  history.replaceState(s, '', `/list/index.html?${s}`);
   $('#cla-search-form').submit();
 }
 
@@ -229,7 +229,7 @@ function pagination_click(e) {
   do_search();
   const s = $.param($('#cla-search-form').serializeArray());
 // TODO: remove hardcoded url
-  history.pushState(s, '', `/dev_static/list/index.html?${s}`);
+  history.pushState(s, '', `/list/index.html?${s}`);
 }
 
 /*
@@ -246,7 +246,7 @@ function do_submit(e) {
   $('#cla-search-form > input[name="tab"]').val('bndl');
   const s = $.param($('#cla-search-form').serializeArray());
 // TODO: remove hardcoded url
-  history.pushState(s, '', `/dev_static/list/index.html?${s}`);
+  history.pushState(s, '', `/list/index.html?${s}`);
   do_search();
   paginate();
 }
@@ -558,7 +558,7 @@ function update_pagination(tab, pg, coll=null)  {
       $('#cla-search-form').serializeArray();
     const s = $.param(params);
 // TODO: don't hardcode href
-    const href = coll ? `/dev_static/collection/?collid=${s}` : `/dev_static/list/index.html?${s}`;
+    const href = coll ? `/collection/?collid=${s}` : `/list/index.html?${s}`;
     if (first > 1) {
         html += `<a href="${href}" id="${tab}laquo" data-page="1">&laquo;</a>`;
         const dest = (first - dlen < 1 ? 1 : first - dlen);
