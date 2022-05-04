@@ -26,7 +26,7 @@ The United Nations has declared 2022-2032 to be the International Decade of Indi
 
 We gratefully welcome donations in any amount to support our core missions, especially preservation, access, and outreach, for which we depend on outside gifts and grants. Your contribution will help sustain the following activities, among many others.
 
-## Donation-supported activities
+### Donation-supported activities
 
 * digitizing at-risk analog materials such as sound recordings of Indigenous languages, and paper field notes
 * cataloging new collections, including born-digital materials, and making them publicly accessible through our online catalog, the California Language Archive
