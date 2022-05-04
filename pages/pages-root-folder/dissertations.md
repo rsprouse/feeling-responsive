@@ -7,7 +7,9 @@ header:
 sitemap: true
 ---
 
-## Berkeley PhD dissertations on Indigenous languages of the Americas
+## Berkeley PhD dissertations in linguistics on Indigenous languages of the Americas
+
+For a complete listing of Berkeley PhD dissertations in linguistics, see [here](https://lx.berkeley.edu/publications?topics=All&pubtype=22&keywords=&author=&order=field_openberkeley_pubs_pdate&sort=asc).
 
 <table class="theses">
 
@@ -689,5 +691,19 @@ sitemap: true
 <td><em>Focus in Caquinte</em> [<a href="https://escholarship.org/uc/item/9640m1fg">PDF</a>]</td>
 <td>Lev Michael and Line Mikkelsen</td>
 </tr>
-
+   
+<tr>
+<td>2021</td>
+<td>Julia Nee</td>
+<td><em>Participatory Action Research in Teotitlán del Valle Zapotec Language Revitalization</em> [<a href="http://escholarship.org/uc/item/26v6d2k7">PDF</a>]</td>
+<td>Andrew Garrett and Leanne Hinton</td>
+</tr>
+   
+<tr>
+<td>2021</td>
+<td>Myriam Lapierre</td>
+<td><em>Towards a Theory of Subsegmental and Subfeatural Representations: The Phonology and Typology of Nasality</em> [<a href="http://escholarship.org/uc/item/9x90w7c9">PDF</a>]</td>
+<td>Sharon Inkelas and Lev Michael</td>
+</tr>
+   
 </table>
