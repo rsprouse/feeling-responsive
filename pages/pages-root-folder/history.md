@@ -1,7 +1,7 @@
 ---
 permalink: history.html
 layout: page
-title: History of the Survey
+title: History
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
@@ -10,11 +10,11 @@ sitemap: true
 
 The Survey of California Indian Languages was set up informally in 1949, and on January 1, 1953 it was formally established with a permanent budget. Our research partly continues the earlier linguistic work of the Archaeological and Ethnographic Survey of California, established by A. L. Kroeber in 1901. The modern Survey's name was eventually changed&mdash;it is now the Survey of California <strong>and Other</strong> Indian Languages&mdash;to reflect the reality that our work, though traditionally focused on California, has always also had a broader scope.
 
-## Earlier language documentation at Berkeley
+### Earlier language documentation at Berkeley
 
 A Department of Linguistics was created at the University of California in 1901, a few months before the Department of Anthropology. In both departments, the work of A. L. Kroeber, Pliny Earle Goddard, and their colleagues and students laid the foundations of our modern understanding of California's rich linguistic texture. At the beginning of the twentieth century, scholars knew relatively little about Native people of California or their languages. Early goals thus included identifying and mapping the state's languages, documenting traditional speech genres (such as myths and ritual language), and assessing the likely relationships among languages. Two kinds of project were especially important: dialect surveys, recording information from a variety of locations in the area of a language (this became much more difficult later when the number of speakers of any California language had been greatly reduced); and texts recorded from elderly people who had grown up without English (and often still spoke little English). This period also saw the last documentation of some of the languages most adversely affected by Spanish and English, for example on the south and central California coast.
 
-## The 1950s, 1960s, and 1970s
+### The 1950s, 1960s, and 1970s
 
 <div class="between_images">
 <figure>
@@ -22,7 +22,6 @@ A Department of Linguistics was created at the University of California in 1901,
   <figcaption class="caption"> Mary Haas, Earlham College, 1930</figcaption>
 </figure>
 </div>
-
 
 During this period, Americanist linguistic work at Berkeley focused mainly on documentation, especially of the many poorly described languages of California, and on areal and historical analysis. The leading figure was Mary Haas, the first Director of the Survey. A student of Edward Sapir's at Chicago and then Yale, Haas came to Berkeley in 1943 and secured a regular academic position beginning in 1946. From then until her retirement in 1978 (and afterwards), as her student Karl Teeter put it, "she trained more Americanist linguists than did Boas and Sapir put together."
 
@@ -37,7 +36,7 @@ Guided by Haas and by her colleague and eventual successor as Survey Director, W
 
 The areal and historical questions of interest to many Californianists in this period concerned genealogical relationships and language contact. As a result of new documentation sponsored by the Survey, a previously conjectural relationship between Algonquian languages and the northwest California languages [Wiyot](languages/wiyot.html) and [Yurok](languages/yurok.html) was proven to the satisfaction of linguists, and the (still controversial) connections among the Hokan and the Penutian languages of California were intensively scrutinized. The formation of language areas through long-term language contact and linguistic diffusion was explored for several areas of the state, notably by Haas herself in well-known 1967 and 1970 studies of northern California.
 
-## The 1980s, 1990s, and 2000s
+### The 1980s, 1990s, and 2000s
 
 <div class="between_images">
 <figure>
@@ -52,7 +51,7 @@ The research shift toward typological and theoretical questions reflects the gro
 
 Under the leadership of Leanne Hinton, the third Survey Director, we have been engaged in active outreach to California Indian communities. This includes workshops (on documentation, revitalization, and language learning) for communities through the state, visits to our archive, and the biennial [Breath of Life Archival Institute](https://aicls.org/breath-of-life-institute), a workshop for California Indians whose languages have few or no remaining native speakers.
 
-## The 2010s
+### The 2010s
 
 In the last ten years, we have focused on digital repatriation: scanning and digitizing legacy materials, and making them accessible through a new online tool, the California Language Archive, which facilitates distant access to cultural and linguistic heritage materials. This also includes the indigenous language collections (from as early as 1901) in the Berkeley Language Center and the Phoebe A. Hearst Museum of Anthropology. As of September 2019, the California Language Archive indexes over 18,000 items on over 450 languages, with over 30,500 digital files.
 
