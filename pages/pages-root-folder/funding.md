@@ -8,9 +8,9 @@ header:
 sitemap: true
 ---
 
-## Oswalt Endangered Language Grants
+### Oswalt Endangered Language Grants
 
-<b>Deadline</b>: February 28, 2022<br>
+<b>Deadline</b>: late 2022 (TBA)<br>
 <b>Award</b>: typical grants will be no more than $6,000.
 
 <div class="between_images">
@@ -24,7 +24,7 @@ Berkeley graduate students (in any department) are invited to apply for funding 
 
 For more details and how to apply, click <a href="https://forms.gle/Mkm28qpAjiZ1p6Ap7">here</a>.
 
-## Other Sources of Funding <br>
+### Other sources of funding <br>
 
 <ul>
 <li><a href="http://www.eldp.net/en/our+grants/documentation+grants/">Endangered Language Documentation Programme (ELDP)</a>
