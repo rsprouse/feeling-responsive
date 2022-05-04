@@ -21,5 +21,5 @@ urlaudio: 'https://trill.linguistics.berkeley.edu/assets/audio/'
 # JSON source data for map.
 clamap: https://trill.linguistics.berkeley.edu/cla-map.json
 
-#search:
-#  aws_endpoint: https://vixs9xkhdc.execute-api.us-east-1.amazonaws.com/devapi/
+search:
+  aws_endpoint: https://vuuf8mlr15.execute-api.us-east-1.amazonaws.com/devapi/
