@@ -1,8 +1,11 @@
 ---
 layout: page
+subheadline: Collection spotlight
 title:  Colección de grabaciones en matsigenka y yine de Anna Lewington
 teaser: by Zachary O'Hagan, Manager
-breadcrumb: false
+header:
+   image_fullwidth: salinan_lands.jpg
+   title: California Language Archive
 permalink: /collections/matsigenka_yine.html
 ---
 
