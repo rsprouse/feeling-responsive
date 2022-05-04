@@ -10,22 +10,16 @@ sitemap: true
 
 To donate with a credit card to the California Language Archive (Survey of California and Other Indian Languages), please call UC Berkeley Gift Services at 510-643-9789 and inform them that your donation is for Regents fund #54097, Survey of California and Other Indian Languages. Otherwise, please mail checks to:
 
-<div style="background-color: #d2e1f4; width: 220px; height: 150px;
-text-align: center; border-radius: 5px;">
-<div style="height: 100px; width: 100%; position: relative;">
-<p style="position: absolute; top: 30%; margin: 0; padding: 0
-26px; color: #003057; font-family: sans-serif; font-size: 20px;">California Language Archive</p>
-</div>
-<div style="width: 100%;">
-<p style="margin: 0; padding: 0; color: #003057; font-family:
-sans-serif; font-size: 14px; text-transform: uppercase;">
-<a style="display: block; height: 50px; width: 100%;
-background-color: #2b7de1; color: #ffffff; line-height: 50px;
-text-decoration: none; border-bottom-left-radius: 5px;
-border-bottom-right-radius: 5px;" href="http://give.berkeley.edu/fund/FN7677000">Support
-Fund</a>
-</p>
-</div>
+<div style="width: 380px; height: 50px; position: relative;
+font-family: sans-serif; background-color: transparent; display:
+flex; align-items: center; justify-content: space-around;">
+<p style="margin: 0; padding: 0; max-width: 198px; color:
+#3062b3; font-size: 18px;">California Language Archive</p>
+<p><a style="display: inline-block; width: 124px; height: 33px;
+background-color: #003057; color: #f2a900; font-size: 14px;
+text-transform: uppercase; line-height: 33px; text-decoration: none;
+text-align: center; border-radius: 5px;"
+href="http://give.berkeley.edu/fund/FN7677000">Make a gift</a></p>
 </div>
 
 <p style="text-align: center;">
