@@ -1,12 +1,13 @@
 ---
 permalink: dissertations.html
 layout: page
-title: Berkeley dissertations on Indigenous languages of the Americas
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
 sitemap: true
 ---
+
+## Berkeley PhD dissertations on Indigenous languages of the Americas
 
 <table class="theses">
 
