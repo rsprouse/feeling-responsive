@@ -10,7 +10,7 @@ sitemap: true
 
 To donate with a credit card to the California Language Archive (Survey of California and Other Indian Languages), please call UC Berkeley Gift Services at 510-643-9789 and inform them that your donation is for Regents fund #54097, Survey of California and Other Indian Languages. Otherwise, please mail checks to:
 
-<div style="width: 380px; height: 50px; position: center;
+<div style="width: 420px; height: 50px; position: relative;
 font-family: sans-serif; background-color: transparent; display:
 flex; align-items: center; justify-content: space-around;">
 <p style="margin: 0; padding: 0; max-width: 198px; color:
