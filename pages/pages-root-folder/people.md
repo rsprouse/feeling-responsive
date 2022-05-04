@@ -12,7 +12,25 @@ sitemap: true
 
 [Staff](#staff) \| [Affiliates](#affiliates)
 
-## <a name="staff"></a>Staff
+### <a name="staff"></a>Staff
+
+<div class="image right people_images">
+<img src="{{ site.urlimg }}zjo.jpg" alt="Zachary O'Hagan"/>
+</div>
+
+<a name="zacho">[Zachary O'Hagan](http://linguistics.berkeley.edu/~zjohagan/) (Manager)</a> received his PhD in linguistics from the University of California, Berkeley in 2020, with a dissertation titled <a href="https://escholarship.org/uc/item/9640m1fg"><i>Focus in Caquinte</i></a>, an Arawak language of Peru. His research centers on the documentation of Amazonian indigenous languages, on the people who speak them, and their history and culture. He is a generalist and arealist, with theoretical interests in morphosyntax, semantics, information structure, and historical linguistics. Since 2010 he has carried out fieldwork in Peru on Omagua (Tupí-Guaraní), Caquinte (Arawak), Taushiro (isolate), and Omurano (isolate). In 2019 he edited <a href="http://linguistics.berkeley.edu/~zjohagan/pdflinks/salazar-et-al_caquinte-stories_2019_official-ortho"><i>Tsabetsatsarentsipae itionkantajitakaroka igenketsatsare kakinte</i></a>, a monolingual volume of stories in Caquinte.
+
+<div class="image left people_images">
+<img src="{{ site.urlimg }}sprouse.jpg" alt="Ronald Sprouse"/>
+</div>
+
+<a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (IT Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
+
+<div class="image right people_images">
+<img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
+</div>
+
+<a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Assistant; Graduate Student, Linguistics) </a> is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. Since 2020, she has worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, including co-teaching a weekly class as well as archival research.
 
 <div class="image left people_images">
 <img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
@@ -20,27 +38,7 @@ sitemap: true
 
 <a name="andrew">[Andrew Garrett](http://linguistics.berkeley.edu/~garrett/) (Director)</a> is Professor of Linguistics and Nadine M. Tang and Bruce L. Smith Professor of Cross-Cultural Social Sciences. As a Californianist he has done linguistic fieldwork, archival work, and consulting work with the [Hupa](languages/hupa.php), [Karuk](languages/karuk.php), [Northern Paiute](languages/northern-paiute.php), [Rumsen Ohlone](languages/rumsen.php), and Sierra Miwok languages, but he mainly focuses on [Yurok](languages/yurok.php) and [Karuk](languages/karuk.php) (in northern California). His Yurok projects include articles on descriptive and historical linguistics, contributions to the tribal language program (including a practical dictionary compiled with Juliette Blevins and Lisa Conathan), ongoing work on Yurok texts, and a [digital text and lexical archive](http://linguistics.berkeley.edu/~yurok). In Yurok grammar, Garrett is especially interested in relations between lexical and morphological structures on the one hand, and between lexical and syntactic patterns on the other; his book [Basic Yurok](http://escholarship.org/uc/item/2vw609w4) appeared in 2014. His Karuk projects, in collaboration with [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen/) and several graduate students, include a database of texts, research on the language's interesting syntactic patterns, and a co-edited volume of ten texts recorded in 1901 and 1902. More generally, he studies the dialectology of languages of the west coast and the emergence of the distinctive California linguistic profile. Outside California, Garrett also worked on Indo-European historical linguistics, especially Anatolian, Greek, and Latin, and general problems of language change and linguistic reconstruction.
 
-
-<div class="image right people_images">
-<img src="{{ site.urlimg }}zjo.jpg" alt="Zachary O'Hagan"/>
-</div>
-
-<a name="zacho">[Zachary O'Hagan](http://linguistics.berkeley.edu/~zjohagan/) (Postdoctoral Scholar, Manager)</a> received his PhD in linguistics from the University of California, Berkeley in 2020, with a dissertation titled <a href="https://escholarship.org/uc/item/9640m1fg"><i>Focus in Caquinte</i></a>, an Arawak language of Peru. His research centers on the documentation of Amazonian indigenous languages, on the people who speak them, and their history and culture. He is a generalist and arealist, with theoretical interests in morphosyntax, semantics, information structure, and historical linguistics. Since 2010 he has carried out fieldwork in Peru on Omagua (Tupí-Guaraní), Caquinte (Arawak), Taushiro (isolate), and Omurano (isolate). In 2019 he edited <a href="http://linguistics.berkeley.edu/~zjohagan/pdflinks/salazar-et-al_caquinte-stories_2019_official-ortho"><i>Tsabetsatsarentsipae itionkantajitakaroka igenketsatsare kakinte</i></a>, a monolingual volume of stories in Caquinte.
-
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}sprouse.jpg" alt="Ronald Sprouse"/>
-</div>
-
-<a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (It Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
-
-<div class="image right people_images">
-<img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
-</div>
-
-<a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Graduate Student, Assistant) </a> is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. Since 2020, she has worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, including co-teaching a weekly class as well as archival research.
-
-## <a name="affiliates"></a>Affiliates
+### <a name="affiliates"></a>Affiliates
 
 For a list of earlier students working in the Survey, see our [Dissertations page](dissertations.php).
 
@@ -54,7 +52,7 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 <img src="{{ site.urlimg }}carpenter.jpg" alt="Kayla Carpenter"/>
 </div>
 
-<a name="kayla">[Kayla Begay](http://www.kaylabegay.com/) (Hupa, PhD 2017)</a> received a BA from Stanford and wrote her dissertation <a href="https://escholarship.org/uc/item/76x3h5kg"><i>Wailaki Grammar</i></a> on a Dene language spoken along the Eel River in northern California. Now an Assistant Professor of Native American Studies at Humboldt State University, her research focuses on Dene languages, and on historical-comparative linguistics for language revitalization within the Wailaki and Hupa communities. While at Berkeley she also worked with speakers of Karuk. Begay is a coauthor of "<i>Xoch Na:nahsdetl-te:</i> Survivance, resilience and unbroken traditions in northwest California" (2019, with Cutcha Risling Baldy, in <i>Ka'm-t'em: A Journey Toward Healing</i>), and has contributed to the Hupa Online Dictionary and Texts project (at UC Davis). She is also a member of the board of the Advocates for Indigenous California Language Survival.
+<a name="kayla">[Kayla Begay](http://www.kaylabegay.com/) (Hupa; PhD 2017, Linguistics)</a> received a BA from Stanford and wrote her dissertation <a href="https://escholarship.org/uc/item/76x3h5kg"><i>Wailaki Grammar</i></a> on a Dene language spoken along the Eel River in northern California. Now an Assistant Professor of Native American Studies at Humboldt State University, her research focuses on Dene languages, and on historical-comparative linguistics for language revitalization within the Wailaki and Hupa communities. While at Berkeley she also worked with speakers of Karuk. Begay is a coauthor of "<i>Xoch Na:nahsdetl-te:</i> Survivance, resilience and unbroken traditions in northwest California" (2019, with Cutcha Risling Baldy, in <i>Ka'm-t'em: A Journey Toward Healing</i>), and has contributed to the Hupa Online Dictionary and Texts project (at UC Davis). She is also a member of the board of the Advocates for Indigenous California Language Survival.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}beier.jpg" alt="Christine Beier"/>
@@ -127,13 +125,13 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 <img src="{{ site.urlimg }}neely.jpg" alt="Kelsey Neely"/>
 </div>
 
-[Kelsey Neely](http://lx.berkeley.edu/people/graduate-students) (PhD 2019) is an ELDP Postdoctoral Research Fellow at the University of Texas at Austin. She works on Yaminawa and Nahua (Yora), two closely related Panoan language varieties spoken in Peruvian Amazonia. She is currently interlinearizing and editing a book of traditional narratives and oral histories for the Yaminawa and Nahua communities. Her research interests include anthropological linguistics, sociolinguistics, prosody, morphosyntax, and the history of Amazonian languages and peoples. Kelsey is also producing a grammatical description and lexical database for the language.
+[Kelsey Neely](http://lx.berkeley.edu/people/graduate-students) (PhD 2019, Linguistics) is an ELDP Postdoctoral Research Fellow at the University of Texas at Austin. She works on Yaminawa and Nahua (Yora), two closely related Panoan language varieties spoken in Peruvian Amazonia. She is currently interlinearizing and editing a book of traditional narratives and oral histories for the Yaminawa and Nahua communities. Her research interests include anthropological linguistics, sociolinguistics, prosody, morphosyntax, and the history of Amazonian languages and peoples. Kelsey is also producing a grammatical description and lexical database for the language.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}beth_crop.jpg" alt="Beth Piatote"/>
 </div>
 
-<a name="beth">[Beth H. Piatote](http://ethnicstudies.berkeley.edu/faculty/profile.php?person=13) (Associate Professor of Comparative Literature and English)</a> is affiliated faculty in the Department of Linguistics at the University of California, Berkeley. She is the author of two award-winning books: a scholarly monograph, Domestic Subjects: Gender, Citizenship, and Law in Native American Literature (Yale 2013); and a mixed-genre collection, The Beadworkers: Stories (Counterpoint 2019). She has published numerous scholarly articles, short stories, poems, and plays in journals and anthologies. Her research interests include Native American/Indigenous Literature, law, and culture; Nez Perce literature and language; Indigenous Language Revitalization; and creative writing. She is currently the chair of the Designated Emphasis in Indigenous Language Revitalization. She is Nez Perce, enrolled with the Confederated Tribes of the Colville Reservation, and works on various Nez Perce language projects with fellow tribal members at Lapwai, ID; Nespelem, WA; Pendleton, OR; and elsewhere. She is a founding member of luk'upsíimey/North Star Collective, a Nez Perce group dedicated to language revitalization through the arts.
+<a name="beth">[Beth H. Piatote](https://complit.berkeley.edu/people/faculty/beth-piatote) (Associate Professor of Comparative Literature and English)</a> is affiliated faculty in the Department of Linguistics at the University of California, Berkeley. She is the author of two award-winning books: a scholarly monograph, Domestic Subjects: Gender, Citizenship, and Law in Native American Literature (Yale 2013); and a mixed-genre collection, The Beadworkers: Stories (Counterpoint 2019). She has published numerous scholarly articles, short stories, poems, and plays in journals and anthologies. Her research interests include Native American/Indigenous Literature, law, and culture; Nez Perce literature and language; Indigenous Language Revitalization; and creative writing. She is currently the chair of the Designated Emphasis in Indigenous Language Revitalization. She is Nez Perce, enrolled with the Confederated Tribes of the Colville Reservation, and works on various Nez Perce language projects with fellow tribal members at Lapwai, ID; Nespelem, WA; Pendleton, OR; and elsewhere. She is a founding member of luk'upsíimey/North Star Collective, a Nez Perce group dedicated to language revitalization through the arts.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}rhodes.jpeg" alt="Richard Rhodes"/>
@@ -151,29 +149,29 @@ For a list of earlier students working in the Survey, see our [Dissertations pag
 <img src="{{ site.urlimg }}sandy.jpg" alt="Clare Sandy"/>
 </div>
 
-[Clare Sandy](https://english.sfsu.edu/people/faculty/clare-sandy) (PhD 2017) is a Lecturer at San Jos&eacute; State University and has been part of the Karuk Research Unit group conducting fieldwork on Karuk, and managing an online dictionary and text corpus of the language, and working with the Karuk community to support their language revitalization efforts. She has also carried out team based linguistic fieldwork on Omagua, a highly endangered language of the Peruvian Amazon, and has worked with Sierra Miwok, Mono, and Eastern Pomo speakers and language learners at the Breath of Life Workshop. Her research interests include phonology, morphology, and language change, and her dissertation work focuses on the accentual system of Karuk. She is also interested in database development and in making archival linguistic materials accessible.
+[Clare Sandy](https://english.sfsu.edu/people/faculty/clare-sandy) (PhD 2017, Linguistics) is a Lecturer at San Jos&eacute; State University and has been part of the Karuk Research Unit group conducting fieldwork on Karuk, and managing an online dictionary and text corpus of the language, and working with the Karuk community to support their language revitalization efforts. She has also carried out team based linguistic fieldwork on Omagua, a highly endangered language of the Peruvian Amazon, and has worked with Sierra Miwok, Mono, and Eastern Pomo speakers and language learners at the Breath of Life Workshop. Her research interests include phonology, morphology, and language change, and her dissertation work focuses on the accentual system of Karuk. She is also interested in database development and in making archival linguistic materials accessible.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}wesley_new.jpeg" alt="Wesley dos Santos" style="padding-right:7px; padding-top:10px;"/>
 </div>
 
-[Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos) is interested on the documentation and analysis of grammatical phenomena of South American languages. His current work focuses on Kawahíva (Tupí-Guaraní), an endangered Amazonian language of Brazil spoken by some 550 speakers in the states of Amazonas, Mato Grosso and Rondônia. In particular, he has been documenting the differences and conditioning factors in constituent order, person-marking indexes and dependent clauses of Kawahíva varieties known as Juma (ISO code: jua) and Uru Eu Wau Wau (ISO code: urz).
+[Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos) (Graduate Student, Linguistics) is interested on the documentation and analysis of grammatical phenomena of South American languages. His current work focuses on Kawahíva (Tupí-Guaraní), an endangered Amazonian language of Brazil spoken by some 550 speakers in the states of Amazonas, Mato Grosso and Rondônia. In particular, he has been documenting the differences and conditioning factors in constituent order, person-marking indexes and dependent clauses of Kawahíva varieties known as Juma (ISO code: jua) and Uru Eu Wau Wau (ISO code: urz).
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}sardinha.png" height="150" width="125" alt="Katie Sardinha"/>
 </div>
 
-[Katie Sardinha](http://linguistics.berkeley.edu/~ksardinha/) (PhD 2017) began work on Kwak'wala, a Northern Wakashan language spoken on the central coast of British Columbia, in 2009. Her dissertation work investigated object case patterns in the language and the relationship between object case and event structure. More generally, her Kwak'wala research has focused on phenomena at the syntax-semantic interface and syntactic change within the Wakashan language family. Katie is interested in fieldwork methodology and creative language teaching tools, and has developed Story-builder, a visual story-telling card set which can be downloaded from her website, [www.story-builder.ca](http://www.story-builder.ca/).
+[Katie Sardinha](http://linguistics.berkeley.edu/~ksardinha/) (PhD 2017, Linguistics) began work on Kwak'wala, a Northern Wakashan language spoken on the central coast of British Columbia, in 2009. Her dissertation work investigated object case patterns in the language and the relationship between object case and event structure. More generally, her Kwak'wala research has focused on phenomena at the syntax-semantic interface and syntactic change within the Wakashan language family. Katie is interested in fieldwork methodology and creative language teaching tools, and has developed Story-builder, a visual story-telling card set which can be downloaded from her website, [www.story-builder.ca](http://www.story-builder.ca/).
 
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}amalia.jpeg" alt="Amalia Skilton"/>
 </div>
 
-[Amalia Horan Skilton](http://blogs.cornell.edu/amaliaskilton) (PhD 2019), a linguist and linguistic anthropologist, currently holds a Klarman Postdoctoral Fellowship at Cornell University. After receiving her PhD, she began her career with an NSF SBE Postdoctoral Research Fellowship held at UT Austin and the Max Planck Institute for Psycholinguistics, Nijmegen. Amalia's research on language, cognition, and social interaction is based on over two years of fieldwork in the Amazon Basin with speakers of Ticuna (isolate) and Máíhɨ̃ki (Tukanoan). Her current project examines the language and communicative development of young children learning Ticuna, and her recent articles have appeared in Language, Journal of Pragmatics, Language Documentation & Conservation, and Liames/Línguas Indígenas Americanas.
+[Amalia Skilton](http://blogs.cornell.edu/amaliaskilton) (PhD 2019, Linguistics), a linguist and linguistic anthropologist, currently holds a Klarman Postdoctoral Fellowship at Cornell University. After receiving her PhD, she began her career with an NSF SBE Postdoctoral Research Fellowship held at UT Austin and the Max Planck Institute for Psycholinguistics, Nijmegen. Amalia's research on language, cognition, and social interaction is based on over two years of fieldwork in the Amazon Basin with speakers of Ticuna (isolate) and Máíhɨ̃ki (Tukanoan). Her current project examines the language and communicative development of young children learning Ticuna, and her recent articles have appeared in Language, Journal of Pragmatics, Language Documentation & Conservation, and Liames/Línguas Indígenas Americanas.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}stark.jpg" alt="Tammy Stark"/>
 </div>
 
-[Tammy Stark's](http://lx.berkeley.edu/people/graduate-students) (PhD 2018) dissertation work investigated agreement in Northern Caribbean Arawak. She has carried out team-based linguistic fieldwork on the Tupí-Guaraní language, Omagua. She has also studied the Arawak languages Yanesha and Garifuna. Her research broadly focuses on the theoretical linguistic issues presented by indigenous languages of South America.
+[Tammy Stark's](http://lx.berkeley.edu/people/graduate-students) (PhD 2018, Linguistics) dissertation work investigated agreement in Northern Caribbean Arawak. She has carried out team-based linguistic fieldwork on the Tupí-Guaraní language, Omagua. She has also studied the Arawak languages Yanesha and Garifuna. Her research broadly focuses on the theoretical linguistic issues presented by indigenous languages of South America.

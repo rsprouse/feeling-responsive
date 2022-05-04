@@ -7,7 +7,7 @@ header:
    title: California Language Archive
 sitemap: true
 ---
-## General information
+### General information
 
 <ul class="bullets">
 <li><a href="http://www.lat-mpi.eu/tools/">Language archiving technology</a></li>
@@ -15,20 +15,16 @@ sitemap: true
 <li><a href="http://www.hrelp.org/documentation/whatisit/">What is language documentation? The Hans Rausing Endangered Languages Project</a></li>
 <li><a href="http://www.cabeceras.org/selfsufficientfieldworker.htm">The Self-Sufficient Fieldworker: Tips, tricks, and lists for successful longish-term field research trips</a></li>
                         <li><a href="https://www.iasa-web.org/tc03/ethics-principles-preservation-strategy">The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy (IASA-TC 03)</a></li>
-
-
-
 </ul>
 
-## Elicitation tools
+### Elicitation tools
 
 <ul class="bullets">
 <li>Original (1960s, 20-page) "Survey sheet" for California language documentation [<a href="https://berkeley.box.com/v/survey-sheet">PDF</a>]</li>
 <li><a href="http://www.eva.mpg.de/lingua/tools-at-lingboard/tools.php">Typological tools for field linguists, Max Planck Institute for Evolutionary Anthropology, Leipzig</a></li>
 </ul>
 
-
-## Books on linguistic fieldwork
+### Books on linguistic fieldwork
 
 <ul class="bullets">
 <li>Bowern, Claire. 2008. <em>Linguistic fieldwork: A practical guide.</em> New York: Palgrave Macmillan. [<a href="http://www.palgrave-usa.com/catalog/product.aspx?isbn=0230545386">publication link</a>]</li>
@@ -37,9 +33,8 @@ sitemap: true
 <li>Vaux, Bert and Justin Cooper. 1999. <em>Introduction to linguistic field methods.</em> Lincom Europa.</li>
 </ul>
 
-## Guides to recording equipment
+### Guides to recording equipment
 <ul class="bullets">
 <li><a href="http://www.vermontfolklifecenter.org/archive/res_audioequip.htm">Digital audio field recording equipment guide, Vermont Folklife Center</a></li>
 <li><a href="http://transom.org/?p=30163">Recorder reviews, transom.org</a></li>
 </ul>
-
