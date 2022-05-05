@@ -11,7 +11,7 @@ header:
 search_include: true
 widget1:
   title: "The CLA Blog"
-  url: 'blog/2022/northern-paiute-natches.html'
+  url: 'blog/2021/northern-paiute-natches.html'
   image: steele_notes.jpg
   text: 'Gilbert Natches's Northern Paiute documentation'
 widget2:
