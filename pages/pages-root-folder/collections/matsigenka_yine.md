@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Collection spotlight
-title:  Colección de grabaciones en matsigenka y yine de Anna Lewington
+headline:  Colección de grabaciones en matsigenka y yine de Anna Lewington
 teaser: by Zachary O'Hagan, Manager
 header:
    image_fullwidth: salinan_lands.jpg
@@ -10,6 +10,7 @@ permalink: /collections/matsigenka_yine.html
 ---
 
 No archival collection is too small! Our first collection accessioned this year was the [Colección de grabaciones en matsigenka y yine de Anna Lewington](http://dx.doi.org/doi:10.7297/X2542MB5) (Lewington 2022+). It consists of digitized, edited sound recordings from two cassettes made by [Anna Lewington](http://www.anna-lewington.co.uk/) in the Urubamba River valley, in the Peruvian Amazon, in November and December 1981. Ms. Lewington's research at this time formed the basis of her master's thesis at the University of St. Andrews in Scotland (Lewington 1985). She graciously donated the recordings, which she had digitized and edited in England, after I emailed her in May 2021 asking whether she was in possession of documentary materials from her fieldwork. I was familiar with Ms. Lewington's work in the context of my work with speakers of Caquinte (O'Hagan 2020). Caquinte is related most closely to Matsigenka (Snell 2011; see Mihas 2017 for subfamily), and more distantly to Yine; all three belong to the Arawak language family, one of the most widespread in the Americas (see Aikhenvald 1999). All three languages are vital, but people who speak them live in regions undergoing rapid socioeconomic and cultural changes that make the documentation of these genres &mdash; and the preservation of existing documentation &mdash; critical. Because Ms. Lewington is not a linguist, the preservation of her recordings is especially critical for the accurate representation of the voices of the speakers of Matsigenka and Yine that collaborated with her. I give specific examples of this in this post. My aim is not to criticize Ms. Lewington's thesis, but simply to show what more can be learned from these archival materials.
+
 The recordings were made in the Yine community of Miaría and in the Matsigenka communities of Nueva Luz, Chokoriari, and Timpia. They feature the voices of at least 14 Matsigenka and Yine people (whose voices, to my knowledge, have not been recorded elsewhere), and include stories, songs, and flute and drum music. Ms. Lewington was interested in different versions of the traditional story of the origin of manioc, a staple food in many Amazonian societies. (Indeed in Matsigenka the word for 'manioc,' sekatsi, is polysemous: it also means 'food.' The verb root seka also means 'eat.') While her representations of Matsigenka words are on the right track, there are many errors related to word boundaries, the segmentation of verbal affixes, and, understandably, translation, among others. As she herself describes her process in her thesis (Lewington 1985:83-84):
 
 <blockquote>
@@ -45,60 +46,44 @@ Upon arrival, he transformed into a person, he was a person.
 
 In (2), there are two verb phrases describing the Moon's transformation into a person. The first zero-verbalizes the noun matsigenka 'person' (n.b., the 'upon arrival' translation comes from allative -apa); the second involves the same noun followed by the copular verb n 'be' (cf. nti below). In addition, in this example we also encounter epenthesis for the first time: underlying vowel sequences are broken up by -t; underlying consonant sequences are broken up by -a (the latter not shown here). There is no epenthesis between the allative and the perfective because the allative historically ended in /h/ (cf. Caquinte -(a)poj). In contrast, Ms. Lewington does not recognize the verbalized matsigenka as a single word (nor the vowel length at the boundary of the allative and perfective), and she is unable to identify the copula.
 
-> Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?"
-
-> o-ne-ak-i-ri i-ken-apa-ak-i i-kant-apa-i-ro
-> 3F-see-PFV-AR-3M 3M-go-PFV-AR 3M-say-ALL-AR-3F
-
-> tya=ra o-ken-an-ak-i pi-niro
-> WH=SUB 3F-go-ABL-PFV-AR 2-mother
-
-> She saw him, he came, and he said to her, "Where did your mother go?"
+3\. Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?"  
+o-ne-ak-i-ri i-ken-apa-ak-i i-kant-apa-i-ro tya=ra o-ken-an-ak-i pi-niro  
+3F-see-PFV-AR-3M 3M-go-PFV-AR 3M-say-ALL-AR-3F WH=SUB 3F-go-ABL-PFV-AR 2-mother  
+She saw him, he came, and he said to her, "Where did your mother go?"
 
 In (3), there are three relatively straightforward verbal words preceding the quote, the second two marked with allative -apa. The verb ken 'go' warrants mention, its gloss being somewhat misleading: with -apa it means 'come,' but with ablative -an, as occurs in the quote, it means 'go.' Ms. Lewington did not recognize that ken appears twice in this sentence. In addition, she continues as in (2) to include vowels as parts of roots (i.e., "O/NEA/KE/RI" and "I/KYENA/PAKE/") that in fact belong to the following suffixes (in addition to other morpheme boundary errors, as with the perfective and reality status suffixes), and there are errors in word boundaries. Notably, the "PAIROTYE" she glosses as 'already' consists of material belonging to the preceding verb in addition to a following interrogative pronoun tya.
 
-> Okantiri, "Atake age sekatsi."
-
-> o-kant-i-ri a-t-ak-i-ø o-ag-e seka-tsi
-> 3F-say-AR-3M go-EP-PFV-AR-3 3F-get-IRR food-AL
-
-> She said to him, "She's gone to get food."
+4\. Okantiri, "Atake age sekatsi."  
+o-kant-i-ri a-t-ak-i-ø o-ag-e seka-tsi  
+3F-say-AR-3M go-EP-PFV-AR-3 3F-get-IRR food-AL  
+She said to him, "She's gone to get food."
 
 The principal new kind of error in (4) concerns adding a prefix to atake that is in fact absent; instead the third person feminine subject is expressed by a suffix. This is part of a pattern of split marking of subjects found in many Arawak languages (see O'Hagan 2021 for comparison with Caquinte).
 
-> Ikantiro, "Tyati maika sekatsi?"
-
-> i-kant-i-ro tya-ti maika seka-tsi
-> 3M-say-AR-3F WH-INAN now food -AL
-
-> He said to her, "What now is food?"
+5\. Ikantiro, "Tyati maika sekatsi?"  
+i-kant-i-ro tya-ti maika seka-tsi  
+3M-say-AR-3F WH-INAN now food -AL  
+He said to her, "What now is food?"
 
 In (5), we observe a new kind of segmentation error, including active realis -i as part of the verb root kant 'say.' Moreover, Ms. Lewington misidentifies the interrogative pronoun as tata instead of tyati, which is inflected for animacy (see animate -ni vs. inanimate -ti). Note by now the double entendre, as it were, of sekatsi 'food, manioc.'
 
-> Okotagiri, "Nero oka."
-
-> o-okotag-i-ri ne-ro o-ka
-> 3F-show-AR-3M PRES-F 3F-PROX
-
-> She showed him, "Here it is."
+6\. Okotagiri, "Nero oka."  
+o-okotag-i-ri ne-ro o-ka  
+3F-show-AR-3M PRES-F 3F-PROX  
+She showed him, "Here it is."
 
 Example (6) shows the same segmentation error involving -i, and for the first time Ms. Lewington misidentifies a prefix-root boundary. The verb root is in fact okotag, with an initial /o/. In these cases, third person feminine is expressed by the null allomorph ø-. Then, what goes unsegmented as "NEROK" is in fact two words: the presentative particle ne, which inflects for the gender of its complement, and the proximal demonstrative ka, which also inflects (differently) for gender.
 
-> Ikanti, "Oka tera iro sekatsi, onti kipatsi, pogavagetakara onti kipatsi."
-
-> i-kant-i	o-ka tera iro seka-tsi o-nti kipatsi
-> 3M-say-AR 3F-PROX NEG 3F.PRO food-AL 3F-COP dirt
-
-> pi-og-a-vage-t-ak-a=ra o-nti kipatsi
-> 2-eat-EP-DUR-EP-PFV-MR=SUB 3F-COP dirt
-
-> He said, "This isn't food, it's dirt, when you've been eating it's dirt."
+7\. Ikanti, "Oka tera iro sekatsi, onti kipatsi, pogavagetakara onti kipatsi."  
+i-kant-i	o-ka tera iro seka-tsi o-nti kipatsi pi-og-a-vage-t-ak-a=ra o-nti kipatsi  
+3M-say-AR 3F-PROX NEG 3F.PRO food-AL 3F-COP dirt 2-eat-EP-DUR-EP-PFV-MR=SUB 3F-COP dirt  
+He said, "This isn't food, it's dirt, when you've been eating it's dirt."
 
 Example (7) shows multiple nonverbal clauses, first a negated one, consisting of a topicalized oka 'this,' followed by the third person feminine focus pronoun iro and the predicate, which is negated. The correction involves the positive polarity defective copula nti, which inflects only for a subject. (See O'Hagan 2020:33-48 for parallel forms in Caquinte.) The verb includes what is known in studies of these languages as the durative -vage, here expressing that the addressee has been eating dirt for a long time.
 
 The California Language Archive recently received a larger donation from anthropologist Allen Johnson, Professor Emeritus of Anthropology at UCLA, of field notes, sound recordings, films, and photographs from his fieldwork in Matsigenka communities in the Urubamba valley, especially in Shimaa, so stay tuned for more archival materials related to Matsigenka!
 
-#### References
+### References
 
 Aikhenvald, Alexandra Y. 1999. The Arawak Language Family. In The Amazonian Languages, ed. R.M.W. Dixon and Alexandra Y. Aikhenvald, 65-106. Cambridge: Cambridge University Press.
 Baer, Gerhard. 1984. Die Religion der Matsigenka, Ost-Peru. Basel: Wepf.
