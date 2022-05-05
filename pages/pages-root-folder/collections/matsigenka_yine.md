@@ -24,9 +24,10 @@ As a result, the original recordings are critical for the accurate transcription
 
 A full transcription and translation are given below. Relisten to the excerpt, following along here.
 
-> Agaka kutagiteri ipokake kashiri. Imatsigenkatapaake, matsigenka inake. Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?" Okantiri, "Atake age sekatsi." Ikantiro, "Tyati maika sekatsi?" Okotagiri, "Nero oka." Ikanti, "Oka tera iro sekatsi, onti kipatsi, pogavagetakara onti kipatsi."
-
-> One day, Moon came. Upon arrival, he transformed into a person, he was a person. She saw him, he came, and he said to her, "Where did your mother go?" She said to him, "She's gone to get food." He said to her, "What now is food?" She showed him, "Here it is." He said, "This isn't food, it's dirt, when you've been eating it's dirt."
+<blockquote>
+   <p>Agaka kutagiteri ipokake kashiri. Imatsigenkatapaake, matsigenka inake. Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?" Okantiri, "Atake age sekatsi." Ikantiro, "Tyati maika sekatsi?" Okotagiri, "Nero oka." Ikanti, "Oka tera iro sekatsi, onti kipatsi, pogavagetakara onti kipatsi."</p>
+   <p>One day, Moon came. Upon arrival, he transformed into a person, he was a person. She saw him, he came, and he said to her, "Where did your mother go?" She said to him, "She's gone to get food." He said to her, "What now is food?" She showed him, "Here it is." He said, "This isn't food, it's dirt, when you've been eating it's dirt."</p>
+</blockquote>
 
 Now I segment the seven sentences comprising this excerpt, providing interlinear glosses. I discuss sentence by sentence how this analysis differs from Ms. Lewington's nascent one, noting a handful of differences and leaving some for the reader to notice. In this part of the story, a young Matsigenka girl who has been confined to her menarche seclusion hut is visited by Moon. Up to this point, the girl believes the substance her mother has been bringing her for sustenance is food, but in fact it's dirt (because humans do not yet have real food), a fact that Moon reveals to the girl. (Note AR = active realis; MR = middle realis. These suffixes express both voice and reality status. See Michael 2014 for the category of reality status in this branch of Arawak. AL = alienator, a suffix that allows inalienable nouns to occur without a possessor.)
 
@@ -37,12 +38,10 @@ One day, Moon came.
 
 The word for 'day' is kutagiteri, a lexicalized stem based on the stative verb kuta 'be white,' -gite, a classifier for nouns referring to spaces in the natural world (e.g., forest, sky), and the nominalizer -ri (cf. Ms. Lewington's "KUTA/GYITERI"). The middle verb ag 'arrive,' said of days, is productive, but the collocation agaka kutagiteri is a relatively fixed expression, akin to English one day. In the remainder of the sentence, we find another verb phrase with the same verb-subject order. Ms. Lewington misidentifies the root as /poka/ 'come' (cf. "I/POKA/KE"); the perfective and voice-reality status suffixes follow.
 
-> Imatsigenkatapaake, matsigenka inake.
-
-> i-matsigenka-t-apa-ak-i matsigenka i-n-ak-i
-> 3M-person-EP-ALL-PFV-AR person 3M-be-PFV-AR
-
-> Upon arrival, he transformed into a person, he was a person.
+2. Imatsigenkatapaake, matsigenka inake.  
+i-matsigenka-t-apa-ak-i matsigenka i-n-ak-i  
+3M-person-EP-ALL-PFV-AR person 3M-be-PFV-AR  
+Upon arrival, he transformed into a person, he was a person.
 
 In (2), there are two verb phrases describing the Moon's transformation into a person. The first zero-verbalizes the noun matsigenka 'person' (n.b., the 'upon arrival' translation comes from allative -apa); the second involves the same noun followed by the copular verb n 'be' (cf. nti below). In addition, in this example we also encounter epenthesis for the first time: underlying vowel sequences are broken up by -t; underlying consonant sequences are broken up by -a (the latter not shown here). There is no epenthesis between the allative and the perfective because the allative historically ended in /h/ (cf. Caquinte -(a)poj). In contrast, Ms. Lewington does not recognize the verbalized matsigenka as a single word (nor the vowel length at the boundary of the allative and perfective), and she is unable to identify the copula.
 
