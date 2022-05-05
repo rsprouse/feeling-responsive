@@ -114,13 +114,13 @@ The California Language Archive recently received a larger donation from anthrop
 
 ### References
 
-* Aikhenvald, Alexandra Y. 1999. The Arawak Language Family. In The Amazonian Languages, ed. R.M.W. Dixon and Alexandra Y. Aikhenvald, 65-106. Cambridge: Cambridge University Press.
-* Baer, Gerhard. 1984. Die Religion der Matsigenka, Ost-Peru. Basel: Wepf.  
-* Lewington, Anna. 1985. The Implications of Manioc Cultivation in the Culture and Mythology of the Machiguenga of South Eastern Peru. MA thesis, University of St. Andrews.  
+* Aikhenvald, Alexandra Y. 1999. The Arawak Language Family. In *The Amazonian Languages*, ed. R.M.W. Dixon and Alexandra Y. Aikhenvald, 65-106. Cambridge: Cambridge University Press.
+* Baer, Gerhard. 1984. *Die Religion der Matsigenka, Ost-Peru*. Basel: Wepf.  
+* Lewington, Anna. 1985. *The Implications of Manioc Cultivation in the Culture and Mythology of the Machiguenga of South Eastern Peru*. MA thesis, University of St. Andrews.  
 * Lewington, Anna. 2022+. Colección de grabaciones en matsigenka y yine de Anna Lewington, 2022-01, California Language Archive, Survey of California and Other Indian Languages, University of California, Berkeley. DOI: [http://dx.doi.org/doi:10.7297/X2542MB5](http://dx.doi.org/doi:10.7297/X2542MB5).  
-* Michael, Lev. 2014. The Nanti Reality Status System: Implications for the Typological Validity of the Realis/Irrealis Contrast. Linguistic Typology 18(2):251-288. DOI: [https://doi.org/10.1515/lingty-2014-0011](https://doi.org/10.1515/lingty-2014-0011).  
-* Mihas, Elena. 2017. The Kampa Subgroup of the Arawak Language Family. In The Cambridge Handbook of Linguistic Typology, ed. Alexandra Y. Aikhenvald and R.M.W. Dixon, 782-814. Cambridge: Cambridge University Press. DOI: [https://doi.org/10.1017/9781316135716.025](https://doi.org/10.1017/9781316135716.025).  
-* O'Hagan, Zachary. 2020. Focus in Caquinte. PhD dissertation, University of California, Berkeley. URL: [https://escholarship.org/uc/item/9640m1fg](https://escholarship.org/uc/item/9640m1fg).
-* O'Hagan, Zachary. 2021. Split Subject Marking in Caquinte. Berkeley: Talk at Syntax and Semantics Circle, December 3. URL: [https://linguistics.berkeley.edu/~zjohagan/pdflinks/ohagan\_cot\_sscircle\_subject-marking\_v1.pdf](https://linguistics.berkeley.edu/~zjohagan/pdflinks/ohagan\_cot\_sscircle\_subject-marking\_v1.pdf).  
-* Snell, Betty A. 1978[1974]. Machiguenga: Fonología y vocabulario breve. Yarinacocha: SIL.  
-* Snell, Betty A. 2011. Diccionario matsigenka-castellano con índice castellano, notas enciclopédicas y apuntes gramaticales. Lima: SIL.
+* Michael, Lev. 2014. The Nanti Reality Status System: Implications for the Typological Validity of the Realis/Irrealis Contrast. *Linguistic Typology* 18(2):251-288. DOI: [https://doi.org/10.1515/lingty-2014-0011](https://doi.org/10.1515/lingty-2014-0011).  
+* Mihas, Elena. 2017. The Kampa Subgroup of the Arawak Language Family. In *The Cambridge Handbook of Linguistic Typology*, ed. Alexandra Y. Aikhenvald and R.M.W. Dixon, 782-814. Cambridge: Cambridge University Press. DOI: [https://doi.org/10.1017/9781316135716.025](https://doi.org/10.1017/9781316135716.025).  
+* O'Hagan, Zachary. 2020. *Focus in Caquinte*. PhD dissertation, University of California, Berkeley. URL: [https://escholarship.org/uc/item/9640m1fg](https://escholarship.org/uc/item/9640m1fg).
+* O'Hagan, Zachary. 2021. *Split Subject Marking in Caquinte*. Berkeley: Talk at Syntax and Semantics Circle, December 3. URL: [https://linguistics.berkeley.edu/~zjohagan/pdflinks/ohagan\_cot\_sscircle\_subject-marking\_v1.pdf](https://linguistics.berkeley.edu/~zjohagan/pdflinks/ohagan\_cot\_sscircle\_subject-marking\_v1.pdf).  
+* Snell, Betty A. 1978[1974]. *Machiguenga: Fonología y vocabulario breve*. Yarinacocha: SIL.  
+* Snell, Betty A. 2011. *Diccionario matsigenka-castellano con índice castellano, notas enciclopédicas y apuntes gramaticales*. Lima: SIL.
