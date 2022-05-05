@@ -13,7 +13,7 @@ No archival collection is too small! Our first collection accessioned this year 
 
 <div class="between_images">
    <figure>
-<img src="{{ site.urlimg }}lewingtonmap.png" alt="matsicomm" width="600px"/>
+<img src="{{ site.urlimg }}lewingtonmap.jpg" alt="matsicomm" width="600px"/>
 <figcaption class="caption">Map of Matsigenka Communities (Lewington 1985:xi)</figcaption>
    </figure>
 </div>
