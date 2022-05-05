@@ -48,7 +48,8 @@ In (2), there are two verb phrases describing the Moon's transformation into a p
 
 3\. Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?"  
 o-ne-ak-i-ri i-ken-apa-ak-i i-kant-apa-i-ro  
-3F-see-PFV-AR-3M 3M-go-PFV-AR 3M-say-ALL-AR-3F &nbsp;  
+3F-see-PFV-AR-3M 3M-go-PFV-AR 3M-say-ALL-AR-3F  
+&nbsp;  
 tya=ra o-ken-an-ak-i pi-niro  
 WH=SUB 3F-go-ABL-PFV-AR 2-mother  
 She saw him, he came, and he said to her, "Where did your mother go?"
