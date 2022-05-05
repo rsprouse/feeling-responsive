@@ -6,7 +6,7 @@ teaser: "by Andrew Garrett, Director"
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
-permalink: /posts/news/northern-paiute-natches.html
+permalink: /blog/2022/northern-paiute-natches.html
 ---
 
 Text
