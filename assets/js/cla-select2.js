@@ -647,7 +647,7 @@ function get_query_from_form(formid) {
       const val = $(this).val();
       if (val.includes(sep)) {
           const parts = val.split(sep);
-          if ((parts.length == 3) && ($.inArray(parts[0], filts) >= 0)) {
+          if ((parts.length >= 2) && ($.inArray(parts[0], filts) >= 0)) {
               query[parts[0]].push(parts[1]);
           }
           else {
