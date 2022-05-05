@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Collection spotlight
-title:  Colección de grabaciones en matsigenka y yine de Anna Lewington
+subtitle:  Colección de grabaciones en matsigenka y yine de Anna Lewington
 author: by Zachary O'Hagan, Manager
 header:
    image_fullwidth: salinan_lands.jpg
