@@ -98,8 +98,8 @@ Example (6) shows the same segmentation error involving -i, and for the first ti
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i-kant-i	o-ka tera iro seka-tsi o-nti kipatsi  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3M-say-AR 3F-PROX NEG 3F.PRO food-AL 3F-COP dirt  
 &nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-eat-EP-DUR-EP-PFV-MR=SUB 3F-COP dirt  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pi-og-a-vage-t-ak-a=ra o-nti kipatsi  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-eat-EP-DUR-EP-PFV-MR=SUB 3F-COP dirt  
 &nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He said, "This isn't food, it's dirt, when you've been eating it's dirt."
 
