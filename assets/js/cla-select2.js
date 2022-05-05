@@ -523,7 +523,7 @@ function get_bndllicontent(bsource, count) {
     }
     bndlhtml += bsource['ul_md'];
     if (count < 0 & 'boxurl' in bsource) {
-        bndlhtml += '<p>By using digital assets, you accept our <a href="using-cla.html">Terms and Conditions</a>.<br />';
+        bndlhtml += '<p>By using digital assets, you accept our <a href="/using-cla.html">Terms and Conditions</a>.<br />';
         bndlhtml += 'If files do not appear below, you may also <a href="' + bsource['boxurl'] + '">go directly to the asset folder</a>.</p>';
         bndlhtml += '<iframe src="' + bsource['boxurl'] + '" width="100%" height="1250" frameborder="1" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>';
     }
