@@ -11,12 +11,12 @@ permalink: /collections/matsigenka_yine.html
 
 No archival collection is too small! Our first collection accessioned this year was the [Colección de grabaciones en matsigenka y yine de Anna Lewington](http://dx.doi.org/doi:10.7297/X2542MB5) (Lewington 2022+). It consists of digitized, edited sound recordings from two cassettes made by [Anna Lewington](http://www.anna-lewington.co.uk/) in the Urubamba River valley, in the Peruvian Amazon, in November and December 1981. Ms. Lewington's research at this time formed the basis of her master's thesis at the University of St. Andrews in Scotland (Lewington 1985). She graciously donated the recordings, which she had digitized and edited in England, after I emailed her in May 2021 asking whether she was in possession of documentary materials from her fieldwork. I was familiar with Ms. Lewington's work in the context of my work with speakers of Caquinte (O'Hagan 2020). Caquinte is related most closely to Matsigenka (Snell 2011; see Mihas 2017 for subfamily), and more distantly to Yine; all three belong to the Arawak language family, one of the most widespread in the Americas (see Aikhenvald 1999). All three languages are vital, but people who speak them live in regions undergoing rapid socioeconomic and cultural changes that make the documentation of these genres &mdash; and the preservation of existing documentation &mdash; critical. Because Ms. Lewington is not a linguist, the preservation of her recordings is especially critical for the accurate representation of the voices of the speakers of Matsigenka and Yine that collaborated with her. I give specific examples of this in this post. My aim is not to criticize Ms. Lewington's thesis, but simply to show what more can be learned from these archival materials.
 
-<div class="between_images">
+<!--<div class="between_images">
    <figure>
 <img src="{{ site.urlimg }}lewingtonmap.jpg" alt="matsicomm" width="400px"/>
 <figcaption class="caption">Map of Matsigenka Communities (Lewington 1985:xi)</figcaption>
    </figure>
-</div>
+</div>-->
 
 The recordings were made in the Yine community of Miaría and in the Matsigenka communities of Nueva Luz, Chokoriari, and Timpia. They feature the voices of at least 14 Matsigenka and Yine people (whose voices, to my knowledge, have not been recorded elsewhere), and include stories, songs, and flute and drum music. Ms. Lewington was interested in different versions of the traditional story of the origin of manioc, a staple food in many Amazonian societies. (Indeed in Matsigenka the word for 'manioc,' *sekatsi*, is polysemous: it also means 'food.' The verb root seka also means 'eat.') While her representations of Matsigenka words are on the right track, there are many errors related to word boundaries, the segmentation of verbal affixes, and, understandably, translation, among others. As she herself describes her process in her thesis (Lewington 1985:83-84):
 
@@ -33,6 +33,18 @@ As a result, the original recordings are critical for the accurate transcription
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1257545848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-881486930" title="California Language Archive" target="_blank" style="color: #cccccc; text-decoration: none;">California Language Archive</a> · <a href="https://soundcloud.com/user-881486930/excerpt-of-the-manioc-myth-in-matsigenka-by-bartolome-rios-corral" title="Excerpt of &quot;The Manioc Myth&quot; in Matsigenka, by Bartolomé Ríos Corral (1981)" target="_blank" style="color: #cccccc; text-decoration: none;">Excerpt of &quot;The Manioc Myth&quot; in Matsigenka, by Bartolomé Ríos Corral (1981)</a></div>  
 &nbsp;  
 A full transcription and translation are given below. Relisten to the excerpt, following along here.
+
+<div class="between_images">
+   <figure>
+<img src="{{ site.urlimg }}lewington01.jpg" alt="matsicomm" width="400px"/>
+   </figure>
+</div>
+
+<div class="between_images">
+   <figure>
+<img src="{{ site.urlimg }}lewington02.jpg" alt="matsicomm" width="400px"/>
+   </figure>
+</div>
 
 <blockquote>
    <p>Agaka kutagiteri ipokake kashiri. Imatsigenkatapaake, matsigenka inake. Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?" Okantiri, "Atake age sekatsi." Ikantiro, "Tyati maika sekatsi?" Okotagiri, "Nero oka." Ikanti, "Oka tera iro sekatsi, onti kipatsi, pogavagetakara onti kipatsi."</p>
