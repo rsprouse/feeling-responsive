@@ -47,7 +47,7 @@ Upon arrival, he transformed into a person, he was a person.
 In (2), there are two verb phrases describing the Moon's transformation into a person. The first zero-verbalizes the noun matsigenka 'person' (n.b., the 'upon arrival' translation comes from allative -apa); the second involves the same noun followed by the copular verb n 'be' (cf. nti below). In addition, in this example we also encounter epenthesis for the first time: underlying vowel sequences are broken up by -t; underlying consonant sequences are broken up by -a (the latter not shown here). There is no epenthesis between the allative and the perfective because the allative historically ended in /h/ (cf. Caquinte -(a)poj). In contrast, Ms. Lewington does not recognize the verbalized matsigenka as a single word (nor the vowel length at the boundary of the allative and perfective), and she is unable to identify the copula.
 
 3\. Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?"  
-o-ne-ak-i-ri i-ken-apa-ak-i i-kant-apa-i-ro tya=ra o-ken-an-ak-i pi-niro  
+o-ne-ak-i-ri i-ken-apa-ak-i i-kant-apa-i-ro tya=ra o-ken-an-ak-i pi-niro
 <font size="2">3F-see-PFV-AR-3M 3M-go-PFV-AR 3M-say-ALL-AR-3F WH=SUB 3F-go-ABL-PFV-AR 2-mother</font>   
 She saw him, he came, and he said to her, "Where did your mother go?"
 
