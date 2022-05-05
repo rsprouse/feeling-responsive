@@ -18,7 +18,7 @@ No archival collection is too small! Our first collection accessioned this year 
    </figure>
 </div>
 
-The recordings were made in the Yine community of Miaría and in the Matsigenka communities of Nueva Luz, Chokoriari, and Timpia. They feature the voices of at least 14 Matsigenka and Yine people (whose voices, to my knowledge, have not been recorded elsewhere), and include stories, songs, and flute and drum music. Ms. Lewington was interested in different versions of the traditional story of the origin of manioc, a staple food in many Amazonian societies. (Indeed in Matsigenka the word for 'manioc,' sekatsi, is polysemous: it also means 'food.' The verb root seka also means 'eat.') While her representations of Matsigenka words are on the right track, there are many errors related to word boundaries, the segmentation of verbal affixes, and, understandably, translation, among others. As she herself describes her process in her thesis (Lewington 1985:83-84):
+The recordings were made in the Yine community of Miaría and in the Matsigenka communities of Nueva Luz, Chokoriari, and Timpia. They feature the voices of at least 14 Matsigenka and Yine people (whose voices, to my knowledge, have not been recorded elsewhere), and include stories, songs, and flute and drum music. Ms. Lewington was interested in different versions of the traditional story of the origin of manioc, a staple food in many Amazonian societies. (Indeed in Matsigenka the word for 'manioc,' *sekatsi*, is polysemous: it also means 'food.' The verb root seka also means 'eat.') While her representations of Matsigenka words are on the right track, there are many errors related to word boundaries, the segmentation of verbal affixes, and, understandably, translation, among others. As she herself describes her process in her thesis (Lewington 1985:83-84):
 
 <blockquote>
    <p>The most useful aid to this work [transcription and translation] was the volume of Machiguenga [sic] myths recorded by Dr [Gerhard] Baer, a number of which were made available to me in the original Machiguenga with their German and/or Spanish translations. Amongst these was Baer's version of the manioc myth, referred to by Baer as 'Mythe vom Mond' (1984: 423). A careful study of the linguistic structuring presented by this myth in particular and a process of cross-checking to identify form and meaning, enabled me to transcribe and translate a good deal of my own myth version.</p>
@@ -48,7 +48,7 @@ Now I segment the seven sentences comprising this excerpt, providing interlinear
 &nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One day, Moon came.
 
-The word for 'day' is kutagiteri, a lexicalized stem based on the stative verb kuta 'be white,' -gite, a classifier for nouns referring to spaces in the natural world (e.g., forest, sky), and the nominalizer -ri (cf. Ms. Lewington's "KUTA/GYITERI"). The middle verb ag 'arrive,' said of days, is productive, but the collocation agaka kutagiteri is a relatively fixed expression, akin to English one day. In the remainder of the sentence, we find another verb phrase with the same verb-subject order. Ms. Lewington misidentifies the root as /poka/ 'come' (cf. "I/POKA/KE"); the perfective and voice-reality status suffixes follow.
+The word for 'day' is *kutagiteri*, a lexicalized stem based on the stative verb *kuta* 'be white,' -*gite*, a classifier for nouns referring to spaces in the natural world (e.g., forest, sky), and the nominalizer -*ri* (cf. Ms. Lewington's "KUTA/GYITERI"). The middle verb *ag* 'arrive,' said of days, is productive, but the collocation *agaka kutagiteri* is a relatively fixed expression, akin to English *one day*. In the remainder of the sentence, we find another verb phrase with the same verb-subject order. Ms. Lewington misidentifies the root as /poka/ 'come' (cf. "I/POKA/KE"); the perfective and voice-reality status suffixes follow.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2\. Imatsigenkatapaake, matsigenka inake.  
 &nbsp;  
@@ -57,7 +57,7 @@ The word for 'day' is kutagiteri, a lexicalized stem based on the stative verb k
 &nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon arrival, he transformed into a person, he was a person.
 
-In (2), there are two verb phrases describing the Moon's transformation into a person. The first zero-verbalizes the noun matsigenka 'person' (n.b., the 'upon arrival' translation comes from allative -apa); the second involves the same noun followed by the copular verb n 'be' (cf. nti below). In addition, in this example we also encounter epenthesis for the first time: underlying vowel sequences are broken up by -t; underlying consonant sequences are broken up by -a (the latter not shown here). There is no epenthesis between the allative and the perfective because the allative historically ended in /h/ (cf. Caquinte -(a)poj). In contrast, Ms. Lewington does not recognize the verbalized matsigenka as a single word (nor the vowel length at the boundary of the allative and perfective), and she is unable to identify the copula.
+In (2), there are two verb phrases describing the Moon's transformation into a person. The first zero-verbalizes the noun *matsigenka* 'person' (n.b., the 'upon arrival' translation comes from allative -*apa*); the second involves the same noun followed by the copular verb *n* 'be' (cf. nti below). In addition, in this example we also encounter epenthesis for the first time: underlying vowel sequences are broken up by -*t*; underlying consonant sequences are broken up by -*a* (the latter not shown here). There is no epenthesis between the allative and the perfective because the allative historically ended in /h/ (cf. Caquinte -*(a)poj*). In contrast, Ms. Lewington does not recognize the verbalized *matsigenka* as a single word (nor the vowel length at the boundary of the allative and perfective), nor does she identify the copula.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3\. Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?"  
 &nbsp;  
@@ -69,7 +69,7 @@ In (2), there are two verb phrases describing the Moon's transformation into a p
 &nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She saw him, he came, and he said to her, "Where did your mother go?"
 
-In (3), there are three relatively straightforward verbal words preceding the quote, the second two marked with allative -apa. The verb ken 'go' warrants mention, its gloss being somewhat misleading: with -apa it means 'come,' but with ablative -an, as occurs in the quote, it means 'go.' Ms. Lewington did not recognize that ken appears twice in this sentence. In addition, she continues as in (2) to include vowels as parts of roots (i.e., "O/NEA/KE/RI" and "I/KYENA/PAKE/") that in fact belong to the following suffixes (in addition to other morpheme boundary errors, as with the perfective and reality status suffixes), and there are errors in word boundaries. Notably, the "PAIROTYE" she glosses as 'already' consists of material belonging to the preceding verb in addition to a following interrogative pronoun tya.
+In (3), there are three relatively straightforward verbal words preceding the quote, the second two marked with allative -*apa*. The verb *ken* 'go' warrants mention, its gloss being somewhat misleading: with -*apa* it means 'come,' but with ablative -*an*, as occurs in the quote, it means 'go'; it means to follow a particular route. Ms. Lewington did not recognize that *ken* appears twice in this sentence. In addition, she continues as in (2) to include vowels as parts of roots (i.e., "O/NEA/KE/RI" and "I/KYENA/PAKE/") that in fact belong to the following suffixes (in addition to other morpheme boundary errors, as with the perfective and reality status suffixes), and there are errors in word boundaries. Notably, the "PAIROTYE" she glosses as 'already' consists of material belonging to the preceding verb in addition to a following interrogative pronoun *tya*.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4\. Okantiri, "Atake age sekatsi."  
 &nbsp;  
@@ -87,7 +87,7 @@ The principal new kind of error in (4) concerns adding a prefix to atake that is
 &nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He said to her, "What now is food?"
 
-In (5), we observe a new kind of segmentation error, including active realis -i as part of the verb root kant 'say.' Moreover, Ms. Lewington misidentifies the interrogative pronoun as tata instead of tyati, which is inflected for animacy (see animate -ni vs. inanimate -ti). Note by now the double entendre, as it were, of sekatsi 'food, manioc.'
+In (5), we observe a new kind of segmentation error, including active realis -*i* as part of the verb root *kant* 'say.' Moreover, Ms. Lewington misidentifies the interrogative pronoun as *tata* instead of *tyati*, which is inflected for animacy (see animate -*ni* vs. inanimate -*ti*). Note by now the double entendre, as it were, of *sekatsi* 'food, manioc.'
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6\. Okotagiri, "Nero oka."  
 &nbsp;  
@@ -96,7 +96,7 @@ In (5), we observe a new kind of segmentation error, including active realis -i 
 &nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She showed him, "Here it is."
 
-Example (6) shows the same segmentation error involving -i, and for the first time Ms. Lewington misidentifies a prefix-root boundary. The verb root is in fact okotag, with an initial /o/. In these cases, third person feminine is expressed by the null allomorph ø-. Then, what goes unsegmented as "NEROK" is in fact two words: the presentative particle ne, which inflects for the gender of its complement, and the proximal demonstrative ka, which also inflects (differently) for gender.
+Example (6) shows the same segmentation error involving -*i*, and for the first time Ms. Lewington misidentifies a prefix-root boundary. The verb root is in fact okotag, with an initial /o/. In these cases, third person feminine is expressed by the null allomorph *ø*-. Then, what goes unsegmented as "NEROK" is in fact two words: the presentative particle *ne*, which inflects for the gender of its complement, and the proximal demonstrative *ka*, which also inflects (differently) for gender.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7\. Ikanti, "Oka tera iro sekatsi, onti kipatsi, pogavagetakara onti kipatsi."  
 &nbsp;  
@@ -108,7 +108,7 @@ Example (6) shows the same segmentation error involving -i, and for the first ti
 &nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He said, "This isn't food, it's dirt, when you've been eating it's dirt."
 
-Example (7) shows multiple nonverbal clauses, first a negated one, consisting of a topicalized oka 'this,' followed by the third person feminine focus pronoun iro and the predicate, which is negated. The correction involves the positive polarity defective copula nti, which inflects only for a subject. (See O'Hagan 2020:33-48 for parallel forms in Caquinte.) The verb includes what is known in studies of these languages as the durative -vage, here expressing that the addressee has been eating dirt for a long time.
+Example (7) shows multiple nonverbal clauses, first a negated one, consisting of a topicalized *oka* 'this,' followed by the third person feminine focus pronoun *iro* and the predicate, which is negated. The correction involves the positive polarity defective copula *nti*, which inflects only for a subject. (See O'Hagan 2020:33-48 for parallel forms in Caquinte.) The verb includes what is known in studies of these languages as the durative -*vage*, here expressing that the addressee has been eating dirt for a long time.
 
 The California Language Archive recently received a larger donation from anthropologist Allen Johnson, Professor Emeritus of Anthropology at UCLA, of field notes, sound recordings, films, and photographs from his fieldwork in Matsigenka communities in the Urubamba valley, especially in Shimaa, so stay tuned for more archival materials related to Matsigenka!
 
