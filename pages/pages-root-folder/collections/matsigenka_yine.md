@@ -41,63 +41,63 @@ Now I segment the seven sentences comprising this excerpt, providing interlinear
 
 The word for 'day' is kutagiteri, a lexicalized stem based on the stative verb kuta 'be white,' -gite, a classifier for nouns referring to spaces in the natural world (e.g., forest, sky), and the nominalizer -ri (cf. Ms. Lewington's "KUTA/GYITERI"). The middle verb ag 'arrive,' said of days, is productive, but the collocation agaka kutagiteri is a relatively fixed expression, akin to English one day. In the remainder of the sentence, we find another verb phrase with the same verb-subject order. Ms. Lewington misidentifies the root as /poka/ 'come' (cf. "I/POKA/KE"); the perfective and voice-reality status suffixes follow.
 
-2\. Imatsigenkatapaake, matsigenka inake.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2\. Imatsigenkatapaake, matsigenka inake.  
 &nbsp;  
-i-matsigenka-t-apa-ak-i matsigenka i-n-ak-i  
-3M-person-EP-ALL-PFV-AR person 3M-be-PFV-AR  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i-matsigenka-t-apa-ak-i matsigenka i-n-ak-i  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3M-person-EP-ALL-PFV-AR person 3M-be-PFV-AR  
 &nbsp;  
-Upon arrival, he transformed into a person, he was a person.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upon arrival, he transformed into a person, he was a person.
 
 In (2), there are two verb phrases describing the Moon's transformation into a person. The first zero-verbalizes the noun matsigenka 'person' (n.b., the 'upon arrival' translation comes from allative -apa); the second involves the same noun followed by the copular verb n 'be' (cf. nti below). In addition, in this example we also encounter epenthesis for the first time: underlying vowel sequences are broken up by -t; underlying consonant sequences are broken up by -a (the latter not shown here). There is no epenthesis between the allative and the perfective because the allative historically ended in /h/ (cf. Caquinte -(a)poj). In contrast, Ms. Lewington does not recognize the verbalized matsigenka as a single word (nor the vowel length at the boundary of the allative and perfective), and she is unable to identify the copula.
 
-3\. Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?"  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3\. Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?"  
 &nbsp;  
-o-ne-ak-i-ri i-ken-apa-ak-i i-kant-apa-i-ro  
-3F-see-PFV-AR-3M 3M-go-PFV-AR 3M-say-ALL-AR-3F  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o-ne-ak-i-ri i-ken-apa-ak-i i-kant-apa-i-ro  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3F-see-PFV-AR-3M 3M-go-PFV-AR 3M-say-ALL-AR-3F  
 &nbsp;  
-tya=ra o-ken-an-ak-i pi-niro  
-WH=SUB 3F-go-ABL-PFV-AR 2-mother  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tya=ra o-ken-an-ak-i pi-niro  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WH=SUB 3F-go-ABL-PFV-AR 2-mother  
 &nbsp;  
-She saw him, he came, and he said to her, "Where did your mother go?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She saw him, he came, and he said to her, "Where did your mother go?"
 
 In (3), there are three relatively straightforward verbal words preceding the quote, the second two marked with allative -apa. The verb ken 'go' warrants mention, its gloss being somewhat misleading: with -apa it means 'come,' but with ablative -an, as occurs in the quote, it means 'go.' Ms. Lewington did not recognize that ken appears twice in this sentence. In addition, she continues as in (2) to include vowels as parts of roots (i.e., "O/NEA/KE/RI" and "I/KYENA/PAKE/") that in fact belong to the following suffixes (in addition to other morpheme boundary errors, as with the perfective and reality status suffixes), and there are errors in word boundaries. Notably, the "PAIROTYE" she glosses as 'already' consists of material belonging to the preceding verb in addition to a following interrogative pronoun tya.
 
-4\. Okantiri, "Atake age sekatsi."  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4\. Okantiri, "Atake age sekatsi."  
 &nbsp;  
-o-kant-i-ri a-t-ak-i-ø o-ag-e seka-tsi  
-3F-say-AR-3M go-EP-PFV-AR-3 3F-get-IRR food-AL  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o-kant-i-ri a-t-ak-i-ø o-ag-e seka-tsi  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3F-say-AR-3M go-EP-PFV-AR-3 3F-get-IRR food-AL  
 &nbsp;  
-She said to him, "She's gone to get food."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She said to him, "She's gone to get food."
 
 The principal new kind of error in (4) concerns adding a prefix to atake that is in fact absent; instead the third person feminine subject is expressed by a suffix. This is part of a pattern of split marking of subjects found in many Arawak languages (see O'Hagan 2021 for comparison with Caquinte).
 
-5\. Ikantiro, "Tyati maika sekatsi?"  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5\. Ikantiro, "Tyati maika sekatsi?"  
 &nbsp;  
-i-kant-i-ro tya-ti maika seka-tsi  
-3M-say-AR-3F WH-INAN now food -AL  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i-kant-i-ro tya-ti maika seka-tsi  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3M-say-AR-3F WH-INAN now food -AL  
 &nbsp;  
-He said to her, "What now is food?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He said to her, "What now is food?"
 
 In (5), we observe a new kind of segmentation error, including active realis -i as part of the verb root kant 'say.' Moreover, Ms. Lewington misidentifies the interrogative pronoun as tata instead of tyati, which is inflected for animacy (see animate -ni vs. inanimate -ti). Note by now the double entendre, as it were, of sekatsi 'food, manioc.'
 
-6\. Okotagiri, "Nero oka."  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6\. Okotagiri, "Nero oka."  
 &nbsp;  
-o-okotag-i-ri ne-ro o-ka  
-3F-show-AR-3M PRES-F 3F-PROX  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o-okotag-i-ri ne-ro o-ka  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3F-show-AR-3M PRES-F 3F-PROX  
 &nbsp;  
-She showed him, "Here it is."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She showed him, "Here it is."
 
 Example (6) shows the same segmentation error involving -i, and for the first time Ms. Lewington misidentifies a prefix-root boundary. The verb root is in fact okotag, with an initial /o/. In these cases, third person feminine is expressed by the null allomorph ø-. Then, what goes unsegmented as "NEROK" is in fact two words: the presentative particle ne, which inflects for the gender of its complement, and the proximal demonstrative ka, which also inflects (differently) for gender.
 
-7\. Ikanti, "Oka tera iro sekatsi, onti kipatsi, pogavagetakara onti kipatsi."  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7\. Ikanti, "Oka tera iro sekatsi, onti kipatsi, pogavagetakara onti kipatsi."  
 &nbsp;  
-i-kant-i	o-ka tera iro seka-tsi o-nti kipatsi  
-3M-say-AR 3F-PROX NEG 3F.PRO food-AL 3F-COP dirt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i-kant-i	o-ka tera iro seka-tsi o-nti kipatsi  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3M-say-AR 3F-PROX NEG 3F.PRO food-AL 3F-COP dirt  
 &nbsp;  
-2-eat-EP-DUR-EP-PFV-MR=SUB 3F-COP dirt  
-pi-og-a-vage-t-ak-a=ra o-nti kipatsi  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-eat-EP-DUR-EP-PFV-MR=SUB 3F-COP dirt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pi-og-a-vage-t-ak-a=ra o-nti kipatsi  
 &nbsp;  
-He said, "This isn't food, it's dirt, when you've been eating it's dirt."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He said, "This isn't food, it's dirt, when you've been eating it's dirt."
 
 Example (7) shows multiple nonverbal clauses, first a negated one, consisting of a topicalized oka 'this,' followed by the third person feminine focus pronoun iro and the predicate, which is negated. The correction involves the positive polarity defective copula nti, which inflects only for a subject. (See O'Hagan 2020:33-48 for parallel forms in Caquinte.) The verb includes what is known in studies of these languages as the durative -vage, here expressing that the addressee has been eating dirt for a long time.
 
@@ -105,13 +105,16 @@ The California Language Archive recently received a larger donation from anthrop
 
 ### References
 
-Aikhenvald, Alexandra Y. 1999. The Arawak Language Family. In The Amazonian Languages, ed. R.M.W. Dixon and Alexandra Y. Aikhenvald, 65-106. Cambridge: Cambridge University Press.
-Baer, Gerhard. 1984. Die Religion der Matsigenka, Ost-Peru. Basel: Wepf.
-Lewington, Anna. 1985. The Implications of Manioc Cultivation in the Culture and Mythology of the Machiguenga of South Eastern Peru. MA thesis, University of St. Andrews.
-Lewington, Anna. 2022+. Colección de grabaciones en matsigenka y yine de Anna Lewington, 2022-01, California Language Archive, Survey of California and Other Indian Languages, University of California, Berkeley. DOI: http://dx.doi.org/doi:10.7297/X2542MB5.
-Michael, Lev. 2014. The Nanti Reality Status System: Implications for the Typological Validity of the Realis/Irrealis Contrast. Linguistic Typology 18(2):251-288. DOI: https://doi.org/10.1515/lingty-2014-0011.
-Mihas, Elena. 2017. The Kampa Subgroup of the Arawak Language Family. In The Cambridge Handbook of Linguistic Typology, ed. Alexandra Y. Aikhenvald and R.M.W. Dixon, 782-814. Cambridge: Cambridge University Press. DOI: https://doi.org/10.1017/9781316135716.025.
+<div style=“text-indent: -36px; padding-left: 36px;”>
+
+<p>Aikhenvald, Alexandra Y. 1999. The Arawak Language Family. In The Amazonian Languages, ed. R.M.W. Dixon and Alexandra Y. Aikhenvald, 65-106. Cambridge: Cambridge University Press.</p>  
+Baer, Gerhard. 1984. Die Religion der Matsigenka, Ost-Peru. Basel: Wepf.  
+Lewington, Anna. 1985. The Implications of Manioc Cultivation in the Culture and Mythology of the Machiguenga of South Eastern Peru. MA thesis, University of St. Andrews.  
+Lewington, Anna. 2022+. Colección de grabaciones en matsigenka y yine de Anna Lewington, 2022-01, California Language Archive, Survey of California and Other Indian Languages, University of California, Berkeley. DOI: http://dx.doi.org/doi:10.7297/X2542MB5.  
+Michael, Lev. 2014. The Nanti Reality Status System: Implications for the Typological Validity of the Realis/Irrealis Contrast. Linguistic Typology 18(2):251-288. DOI: https://doi.org/10.1515/lingty-2014-0011.  
+Mihas, Elena. 2017. The Kampa Subgroup of the Arawak Language Family. In The Cambridge Handbook of Linguistic Typology, ed. Alexandra Y. Aikhenvald and R.M.W. Dixon, 782-814. Cambridge: Cambridge University Press. DOI: https://doi.org/10.1017/9781316135716.025.  
 O'Hagan, Zachary. 2020. Focus in Caquinte. PhD dissertation, University of California, Berkeley. URL: https://escholarship.org/uc/item/9640m1fg.
-O'Hagan, Zachary. 2021. Split Subject Marking in Caquinte. Berkeley: Talk at Syntax and Semantics Circle, December 3. URL: https://linguistics.berkeley.edu/~zjohagan/pdflinks/ohagan\_cot\_sscircle\_subject-marking\_v1.pdf.
-Snell, Betty A. 1978[1974]. Machiguenga: Fonología y vocabulario breve. Yarinacocha: SIL.
+O'Hagan, Zachary. 2021. Split Subject Marking in Caquinte. Berkeley: Talk at Syntax and Semantics Circle, December 3. URL: https://linguistics.berkeley.edu/~zjohagan/pdflinks/ohagan\_cot\_sscircle\_subject-marking\_v1.pdf.  
+Snell, Betty A. 1978[1974]. Machiguenga: Fonología y vocabulario breve. Yarinacocha: SIL.  
 Snell, Betty A. 2011. Diccionario matsigenka-castellano con índice castellano, notas enciclopédicas y apuntes gramaticales. Lima: SIL.
+</div>
