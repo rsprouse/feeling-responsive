@@ -15,8 +15,8 @@ The recordings were made in the Yine community of Miaría and in the Matsigenka 
 > The most useful aid to this work [transcription and translation] was the volume of Machiguenga [sic] myths recorded by Dr [Gerhard] Baer, a number of which were made available to me in the original Machiguenga with their German and/or Spanish translations. Amongst these was Baer's version of the manioc myth, referred to by Baer as 'Mythe vom Mond' (1984: 423). A careful study of the linguistic structuring presented by this myth in particular and a process of cross-checking to identify form and meaning, enabled me to transcribe and translate a good deal of my own myth version.
 
 > Circumstances beyond my control unfortunately prevented me from either transcribing or translating the myth in the field. Both tasks were therefore undertaken in England.
-
-> The translation of the Machiguenga text is regrettably incomplete. This is due to my own unfamiliarity with the language itself and the inevitable problems presented by the lack of a reliable grammar or vocabulary from Machiguenga into any other language.
+</br>
+The translation of the Machiguenga text is regrettably incomplete. This is due to my own unfamiliarity with the language itself and the inevitable problems presented by the lack of a reliable grammar or vocabulary from Machiguenga into any other language.
 
 > Though I have attempted to follow Baer's (1984: 52) notes, and the observations of Snell (1978), the transcription and subsequent translation of the myth are not necessarily accurate or, with regard to the Machiguenga language, consistent phonemically.
 
