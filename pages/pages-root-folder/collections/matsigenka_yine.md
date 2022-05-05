@@ -31,14 +31,14 @@ A full transcription and translation are given below. Relisten to the excerpt, f
 
 Now I segment the seven sentences comprising this excerpt, providing interlinear glosses. I discuss sentence by sentence how this analysis differs from Ms. Lewington's nascent one, noting a handful of differences and leaving some for the reader to notice. In this part of the story, a young Matsigenka girl who has been confined to her menarche seclusion hut is visited by Moon. Up to this point, the girl believes the substance her mother has been bringing her for sustenance is food, but in fact it's dirt (because humans do not yet have real food), a fact that Moon reveals to the girl. (Note AR = active realis; MR = middle realis. These suffixes express both voice and reality status. See Michael 2014 for the category of reality status in this branch of Arawak. AL = alienator, a suffix that allows inalienable nouns to occur without a possessor.)
 
-1. Agaka kutagiteri ipokake kashiri.  
+1\. Agaka kutagiteri ipokake kashiri.  
 ag-ak-a-ø kutagiteri i-pok-ak-i kashiri  
 arrive(.day)-PFV-MR-3 day 3M-come-PFV-AR moon  
 One day, Moon came.
 
 The word for 'day' is kutagiteri, a lexicalized stem based on the stative verb kuta 'be white,' -gite, a classifier for nouns referring to spaces in the natural world (e.g., forest, sky), and the nominalizer -ri (cf. Ms. Lewington's "KUTA/GYITERI"). The middle verb ag 'arrive,' said of days, is productive, but the collocation agaka kutagiteri is a relatively fixed expression, akin to English one day. In the remainder of the sentence, we find another verb phrase with the same verb-subject order. Ms. Lewington misidentifies the root as /poka/ 'come' (cf. "I/POKA/KE"); the perfective and voice-reality status suffixes follow.
 
-2. Imatsigenkatapaake, matsigenka inake.  
+2\. Imatsigenkatapaake, matsigenka inake.  
 i-matsigenka-t-apa-ak-i matsigenka i-n-ak-i  
 3M-person-EP-ALL-PFV-AR person 3M-be-PFV-AR  
 Upon arrival, he transformed into a person, he was a person.
