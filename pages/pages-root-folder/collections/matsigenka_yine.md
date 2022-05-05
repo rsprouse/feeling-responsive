@@ -47,8 +47,10 @@ Upon arrival, he transformed into a person, he was a person.
 In (2), there are two verb phrases describing the Moon's transformation into a person. The first zero-verbalizes the noun matsigenka 'person' (n.b., the 'upon arrival' translation comes from allative -apa); the second involves the same noun followed by the copular verb n 'be' (cf. nti below). In addition, in this example we also encounter epenthesis for the first time: underlying vowel sequences are broken up by -t; underlying consonant sequences are broken up by -a (the latter not shown here). There is no epenthesis between the allative and the perfective because the allative historically ended in /h/ (cf. Caquinte -(a)poj). In contrast, Ms. Lewington does not recognize the verbalized matsigenka as a single word (nor the vowel length at the boundary of the allative and perfective), and she is unable to identify the copula.
 
 3\. Oneakeri, ikenapaake, ikantapairo, "Tyara okenanake piniro?"  
-o-ne-ak-i-ri i-ken-apa-ak-i i-kant-apa-i-ro tya=ra o-ken-an-ak-i pi-niro
-<font size="2">3F-see-PFV-AR-3M 3M-go-PFV-AR 3M-say-ALL-AR-3F WH=SUB 3F-go-ABL-PFV-AR 2-mother</font>   
+o-ne-ak-i-ri i-ken-apa-ak-i i-kant-apa-i-ro  
+3F-see-PFV-AR-3M 3M-go-PFV-AR 3M-say-ALL-AR-3F &nbsp;  
+tya=ra o-ken-an-ak-i pi-niro  
+WH=SUB 3F-go-ABL-PFV-AR 2-mother  
 She saw him, he came, and he said to her, "Where did your mother go?"
 
 In (3), there are three relatively straightforward verbal words preceding the quote, the second two marked with allative -apa. The verb ken 'go' warrants mention, its gloss being somewhat misleading: with -apa it means 'come,' but with ablative -an, as occurs in the quote, it means 'go.' Ms. Lewington did not recognize that ken appears twice in this sentence. In addition, she continues as in (2) to include vowels as parts of roots (i.e., "O/NEA/KE/RI" and "I/KYENA/PAKE/") that in fact belong to the following suffixes (in addition to other morpheme boundary errors, as with the perfective and reality status suffixes), and there are errors in word boundaries. Notably, the "PAIROTYE" she glosses as 'already' consists of material belonging to the preceding verb in addition to a following interrogative pronoun tya.
