@@ -13,7 +13,7 @@ widget1:
   title: "The CLA Blog"
   url: blog/2022/northern_paiute_natches.html
   image: steele_notes.jpg
-  text: 'Gilbert Natches's Northern Paiute documentation'
+  text: Gilbert Natches's Northern Paiute documentation
 widget2:
   title: "Project spotlight"
   url: projects/atchan.html
