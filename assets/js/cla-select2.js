@@ -97,6 +97,20 @@ function populate_form_from_params(params) {
                 newOption = new Option(title, p[1], true, true);
                 $('#cla-search-select').append(newOption).trigger('change');
 //            }
+        } else if (filts.includes(p[0])) {
+            let title = p[1];
+            const parts = p[1].split(sep);
+            if (parts.length > 1 && filts.includes(parts[0])) {
+                if (parts.length == 3) {
+                    title = parts[2] + '\u2006';
+                }
+            }
+//            if (title !== '\u2006' && title !== '') {
+// TODO: sanitize title (or does select2 do that automatically)?
+// TODO: maybe hide option if title is empty?
+                newOption = new Option(title, p[1], true, true);
+                $('#cla-search-select').append(newOption).trigger('change');
+//            }
         }
     });
 }
