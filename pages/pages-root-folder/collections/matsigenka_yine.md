@@ -13,7 +13,7 @@ No archival collection is too small! Our first collection accessioned this year 
 
 <div class="between_images">
    <figure>
-<img src="{{ site.urlimg }}lewingtonmap.jpg" alt="matsicomm" width="600px"/>
+<img src="{{ site.urlimg }}lewingtonmap.jpg" alt="matsicomm" width="400px"/>
 <figcaption class="caption">Map of Matsigenka Communities (Lewington 1985:xi)</figcaption>
    </figure>
 </div>
@@ -29,6 +29,8 @@ The recordings were made in the Yine community of Miaría and in the Matsigenka 
 </blockquote>
 
 As a result, the original recordings are critical for the accurate transcription (and translation, of course) of the texts Ms. Lewington recorded. In what follows, I show how the transcription and translation can be improved, using the example of an excerpt from Bartolomé Ríos Corral's "The Manioc Myth," recorded on November 28, 1981 in Nueva Luz (catalogue item [2022-01.003](http://dx.doi.org/doi:10.7297/X2RX99WG)). First, listen to the excerpt, following along with Ms. Lewington's transcription and translation below (ibid.:95-96).
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1257545848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-881486930" title="California Language Archive" target="_blank" style="color: #cccccc; text-decoration: none;">California Language Archive</a> · <a href="https://soundcloud.com/user-881486930/excerpt-of-the-manioc-myth-in-matsigenka-by-bartolome-rios-corral" title="Excerpt of &quot;The Manioc Myth&quot; in Matsigenka, by Bartolomé Ríos Corral (1981)" target="_blank" style="color: #cccccc; text-decoration: none;">Excerpt of &quot;The Manioc Myth&quot; in Matsigenka, by Bartolomé Ríos Corral (1981)</a></div>  
 
 A full transcription and translation are given below. Relisten to the excerpt, following along here.
 
