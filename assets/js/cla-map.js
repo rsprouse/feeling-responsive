@@ -29,7 +29,7 @@ function createMap(data) {
             parseFloat(lang.lat),
             parseFloat(lang.lng)
         );
-        var href = 'list.php?langid=' + lang.cla_id + '=' + lang.name;
+        var href = '/list/?langid=' + lang.cla_id + '=' + lang.name;
         var a = '<a href="' + encodeURI(href) + '">' + lang.name + '</a>';
         var infowincontent = '<strong>' + a + '</strong><br />';
         infowincontent += lang.info;
