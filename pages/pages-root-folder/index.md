@@ -18,11 +18,11 @@ widget2:
   title: "Project spotlight"
   url: projects/atchan.html
   image: atchan3.jpg
-  text: 'The Atchan language project.'
+  text: 'The Atchan language project'
 widget3:
   title: "Collection spotlight"
   url: collections/matsigenka_yine.html
-  image: xavante_coll.png
+  image: lewingtonmap.jpg
   text: 'Colección de grabaciones en matsigenka y yine de Anna Lewington'
 #
 # Use the call for action to show a button on the frontpage
