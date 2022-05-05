@@ -40,8 +40,6 @@ sitemap: true
 
 ### <a name="affiliates"></a>Affiliates
 
-For a list of earlier students working in the Survey, see our [Dissertations page](dissertations.php).
-
 <div class="image right people_images">
 <img src="{{ site.urlimg }}Arms-Nicolas-photo.jpg" alt="Nicolas Arms"/>
 </div>

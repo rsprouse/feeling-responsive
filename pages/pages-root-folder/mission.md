@@ -1,7 +1,7 @@
 ---
 permalink: mission.html
 layout: page
-title: Our mission
+title: Mission
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
@@ -10,7 +10,7 @@ sitemap: true
 
 Established over half a century ago as the first state-funded institution specifically devoted to California's Indigenous languages, the Survey of California and Other Indian Languages has evolved into a twenty-first-century research center. We combine a traditional archive of paper materials and other analog media (now increasingly available online) with born-digital materials, ongoing documentation projects, and a commitment to making our resources, and the knowledge we are privileged to preserve, accessible to all people.
 
-## Documentation
+### Documentation
 
 <div class="between_images">
    <figure>
@@ -23,11 +23,11 @@ The central mission of the Survey has always been language documentation, focusi
 
 Thanks to the generosity of the late Robert L. Oswalt and his family, since 2011 the Survey has administered a grant program comparable in scope to that of the [Endangered Language Fund](http://www.endangeredlanguagefund.org/). The [Oswalt Fund](funding.html) supports well designed small projects that seek to document endangered languages. Application deadlines for annual Oswalt Fund grants are announced in the fall.
 
-## Preservation
+### Preservation
 
 No language documentation project is worthwhile when its results are lost, or when they languish in a moldy closet or hot garage. We are committed to ensuring that documentary materials donated to us (whether collected in projects we sponsored or by other researchers) are preserved securely, in good condition, and with sufficient metadata to enable interested people to find them.  All our paper materials are archived in a locked, climate-controlled room; most items are available for use by researchers, but especially fragile material is transferred to the [Bancroft Library](http://bancroft.berkeley.edu/) on campus. Born-digital materials, and digital copies of analog originals, are stored on campus storage systems and backed up in AWS Deep Glacier. Our archive is a member of the Digital Endangered Languages and Musics Archives Network (DELAMAN).
 
-## Access and outreach
+### Access and outreach
 
 <div class="between_images">
    <figure>
