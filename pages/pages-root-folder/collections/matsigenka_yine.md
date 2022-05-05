@@ -7,6 +7,10 @@ header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
 permalink: /collections/matsigenka_yine.html
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
 ---
 
 No archival collection is too small! Our first collection accessioned this year was the [Colección de grabaciones en matsigenka y yine de Anna Lewington](http://dx.doi.org/doi:10.7297/X2542MB5) (Lewington 2022+). It consists of digitized, edited sound recordings from two cassettes made by [Anna Lewington](http://www.anna-lewington.co.uk/) in the Urubamba River valley, in the Peruvian Amazon, in November and December 1981. Ms. Lewington's research at this time formed the basis of her master's thesis at the University of St. Andrews in Scotland (Lewington 1985). She graciously donated the recordings, which she had digitized and edited in England, after I emailed her in May 2021 asking whether she was in possession of documentary materials from her fieldwork. I was familiar with Ms. Lewington's work in the context of my work with speakers of Caquinte (O'Hagan 2020). Caquinte is related most closely to Matsigenka (Snell 2011; see Mihas 2017 for subfamily), and more distantly to Yine; all three belong to the Arawak language family, one of the most widespread in the Americas (see Aikhenvald 1999). All three languages are vital, but people who speak them live in regions undergoing rapid socioeconomic and cultural changes that make the documentation of these genres &mdash; and the preservation of existing documentation &mdash; critical. Because Ms. Lewington is not a linguist, the preservation of her recordings is especially critical for the accurate representation of the voices of the speakers of Matsigenka and Yine that collaborated with her. I give specific examples of this in this post. My aim is not to criticize Ms. Lewington's thesis, but simply to show what more can be learned from these archival materials.
@@ -107,7 +111,7 @@ The California Language Archive recently received a larger donation from anthrop
 
 <div style=“text-indent: -36px; padding-left: 36px;”>
 
-<p>Aikhenvald, Alexandra Y. 1999. The Arawak Language Family. In The Amazonian Languages, ed. R.M.W. Dixon and Alexandra Y. Aikhenvald, 65-106. Cambridge: Cambridge University Press.</p>  
+<p class="hangingindent">Aikhenvald, Alexandra Y. 1999. The Arawak Language Family. In The Amazonian Languages, ed. R.M.W. Dixon and Alexandra Y. Aikhenvald, 65-106. Cambridge: Cambridge University Press.</p>  
 Baer, Gerhard. 1984. Die Religion der Matsigenka, Ost-Peru. Basel: Wepf.  
 Lewington, Anna. 1985. The Implications of Manioc Cultivation in the Culture and Mythology of the Machiguenga of South Eastern Peru. MA thesis, University of St. Andrews.  
 Lewington, Anna. 2022+. Colección de grabaciones en matsigenka y yine de Anna Lewington, 2022-01, California Language Archive, Survey of California and Other Indian Languages, University of California, Berkeley. DOI: http://dx.doi.org/doi:10.7297/X2542MB5.  
