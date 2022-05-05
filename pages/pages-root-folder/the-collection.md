@@ -20,8 +20,6 @@ In addition to familiar genres such as notes, file slips, and manuscripts, our c
 
 ### Some notable collections
 
-Our collections of primary and secondary materials include the following, among many others:
-
 The [Jaime de Angulo Collection](list.html?collid=11) contains notebooks, file slips and handwritten manuscripts from de Angulos early twentieth century work on a wide range of North American languages including [Achumawi](languages/achumawi.html), some Miwokan languages, and [Shasta](languages/shasta.html).
 
 The [S. A. Barrett Collection](list.html?collid=7) contains 41 files of field notebooks, manuscripts and index cards documenting at least 11 different languages and dating from 1902 through 1908. The collection includes a large amount of material on Pomoan languages and is invaluable for the comparative and historical study of this language family.
