@@ -258,7 +258,8 @@ blockquote {
     blockquote p {font-style: italic; color: $grey-10; }
 
     blockquote:before {
-        display:block;content:"\00BB";
+        display:block;
+//	content:"\00BB";
         font-size:80px;
         line-height: 0;
         position:absolute;
@@ -268,7 +269,7 @@ blockquote {
     }
     blockquote:after {
         display:block;
-        content:"\00AB";
+//        content:"\00AB";
         font-size:80px;
         line-height: 0;
         position:absolute;
