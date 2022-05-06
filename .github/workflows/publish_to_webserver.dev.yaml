@@ -65,8 +65,6 @@ jobs:
         run:
           echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH }}" >> $GITHUB_ENV
           if [ "$DEPLOY_PATH" = "" ]; then echo "empty"; else echo "not empty"; fi
-          if [ "$DEPLOY_PATH" = "/home/sites/cla_public_trill" ]; then echo "cla_public_trill"; else echo "not cla_public_trill"; fi
-          if [ "$DEPLOY_PATH" = "/home/sites/cla_public_trill/" ]; then echo "cla_public_trill/"; else echo "not cla_public_trill/"; fi
       - name: Publish to public web server with rsync over ssh
         run: |
           pwd
