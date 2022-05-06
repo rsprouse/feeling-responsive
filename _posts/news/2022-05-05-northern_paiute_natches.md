@@ -2,14 +2,14 @@
 layout: page
 subheadline: "CLA Blog"
 title: "Gilbert Natches's Northern Paiute documentation"
-teaser: "by <a href="{{ site.url }}/people.html#andrew">Andrew Garrett</a>"
+teaser: "by Andrew Garrett"
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
 permalink: /blog/:year/:title.html
 ---
 
- item archived in the Survey of California and Other Indian Languages tells a story. One that especially moves me, weaving together language and history, concerns the documentation created by Gilbert Natches for the Northern Paiute language, a Uto-Aztecan language spoken across a wide area in eastern California, Nevada, Idaho, and Oregon. Born in the 1880s, Natches (or Natchez) was a member of a prominent Paiute family in Nevada and a landscape painter who exhibited in Reno and San Francisco. (One of his landscapes is online [here](https://www.onlinenevada.org/articles/gilbert-natches).)
+Every item archived in the Survey of California and Other Indian Languages tells a story. One that especially moves me, weaving together language and history, concerns the documentation created by Gilbert Natches for the Northern Paiute language, a Uto-Aztecan language spoken across a wide area in eastern California, Nevada, Idaho, and Oregon. Born in the 1880s, Natches (or Natchez) was a member of a prominent Paiute family in Nevada and a landscape painter who exhibited in Reno and San Francisco. (One of his landscapes is online [here](https://www.onlinenevada.org/articles/gilbert-natches).)
 
 Natches got involved in language documentation through his relationship with the Berkeley anthropologist and linguist Alfred Kroeber (1876-1960). Kroeber himself had a correspondence with W. L. Marsden, a doctor in Burns, Oregon who had learned to speak Northern Paiute well, was writing a grammar, and had assembled a collection of texts. When Marsden died in 1913, his widow Clara sent his manuscripts to Kroeber, who expressed an interest in seeing them published. But as he put it in a letter to her, this would mean “getting a Paiute Indian to come down here” to help check the spellings in the texts.
 
