@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: Project spotlight
-title:  Atchan language
-teaser: Katie Russell, Becky Jarvis, and Kouadio Timothée
+title:  Atchan language project
+teaser: by Rebecca Jarvis, Timothée Kouadio & Katherine Russell
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
