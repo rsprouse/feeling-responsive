@@ -12,18 +12,18 @@ search_include: true
 widget1:
   title: "The CLA Blog"
   url: blog/2022/northern_paiute_natches.html
-  image: steele_notes.jpg
+  image: natches0202.png
   text: Gilbert Natches's Northern Paiute documentation
 widget2:
   title: "Project spotlight"
   url: projects/atchan.html
   image: atchan3.jpg
-  text: 'The Atchan language project'
+  text: The Atchan language project
 widget3:
   title: "Collection spotlight"
   url: collections/matsigenka_yine.html
   image: lewington02.jpg
-  text: 'Colección de grabaciones en matsigenka y yine de Anna Lewington'
+  text: Anna Lewington Collection of Matsigenka and Yine Recordings
 #
 # Use the call for action to show a button on the frontpage
 #
