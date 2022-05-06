@@ -9,9 +9,9 @@
 #    be copied via rsync, e.g. linguistics.berkeley.edu
 # DEPLOY_USER: username to be used for rsync on DEPLOY_HOST,
 #    e.g. saphon_deployer
-# DEPLOY_PATH: filepath on DEPLOY_HOST where the release website will be
-#    copied, e.g. /home/sites/saphon
-# DEPLOY_PATH_PRERELEASE: filepath on DEPLOY_HOST where the prerelease
+# DEPLOY_PATH_PROD: filepath on DEPLOY_HOST where the production release
+#    website will be copied, e.g. /home/sites/saphon
+# DEPLOY_PATH_DEV: filepath on DEPLOY_HOST where the development
 #    website will be copied, e.g. /home/sites/saphon/prerelease
 # GOOGLE_MAPS_API_KEY: developer key for Google Maps API, to be inserted
 #    into website code
@@ -33,7 +33,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-20.04
-    environment: dev
     env:
       DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
       DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
@@ -63,8 +62,7 @@ jobs:
       - name: Set deployment path
         if: "!github.event.release.prerelease"
         run:
-          echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH }}" >> $GITHUB_ENV
-          if [ "$DEPLOY_PATH" = "" ]; then echo "empty"; else echo "not empty"; fi
+          echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH_DEV }}" >> $GITHUB_ENV
       - name: Publish to public web server with rsync over ssh
         run: |
           pwd
