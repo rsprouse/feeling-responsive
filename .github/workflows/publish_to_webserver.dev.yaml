@@ -24,7 +24,7 @@
 #    be copied to DEPLOY_HOST.
 
 
-name: Build CLA website with Jekyll and deploy to server
+name: Build Dev CLA website with Jekyll and deploy to server
 
 on:
   push:
@@ -60,14 +60,11 @@ jobs:
         with:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
-      - name: Set deployment path to release path
+      - name: Set deployment path
         if: "!github.event.release.prerelease"
         run:
           echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH }}" >> $GITHUB_ENV
-      - name: Set deployment path to prerelease path
-        #if: "github.event.release.prerelease"
-        run:
-          echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH_PRERELEASE }}" >> $GITHUB_ENV
+          echo Deploying to $DEPLOY_PATH
       - name: Publish to public web server with rsync over ssh
         run: |
           pwd
