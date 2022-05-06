@@ -17,7 +17,7 @@ That help came from Gilbert Natches. It is not clear how Kroeber and Natches fir
 
 <div class="between_images">
    <figure>
-<img src="{{ site.urlimg }}natches01.png" alt="matsicomm" width="600px"/>
+<img src="{{ site.urlimg }}natches01.png" alt="natches01" width="500px"/>
 <figcaption class="caption">Northern Paiute story about *tabu'u* 'cottontail' recorded and then transcribed by Gilbert Natches, [Marsden.015](http://dx.doi.org/doi:10.7297/X2FJ2DRP). This is from the first page; ink additions are Alfred Kroeber's annotations.</figcaption>
    </figure>
 </div>
@@ -28,7 +28,7 @@ One outcome of the collaboration was an article by Natches, edited by Kroeber (a
 
 <div class="between_images">
    <figure>
-<img src="{{ site.urlimg }}natches02.png" alt="matsicomm" width="600px"/>
+<img src="{{ site.urlimg }}natches02.png" alt="natches02" width="500px"/>
 <figcaption class="caption">Northern Paiute “Indian New Words for New Things” (mostly English loans), transcribed by Gilbert Natches, [Marsden.015](http://dx.doi.org/doi:10.7297/X2FJ2DRP) (from the first of four pages). 'E' stands for a high central vowel; capitalized vowel symbols are devoiced.</figcaption>
    </figure>
 </div>
@@ -45,7 +45,6 @@ Two decades after Natches's Berkeley work, the anthropologist Saul Riesenberg me
 One day he startled me by saying, “You know, I wrote a paper with Alfred Kroeber on Northern Paiute verbs, and I've lost my last copy; can you get me one?” Only half-believing him I went to see Kroeber when I got back from that trip …. Kroeber gave me a reprint, and I brought it to Gilbert the next trip, and found myself unable to do any work with him for the next hour, because Gilbert sat there oblivious of me, holding that paper about an inch from his nearly blind eyes, while the most beatific smile hovered over his lips the whole time.
 </blockquote>
 
-Gilbert Natches died in 1942 at the hospital of the Stewart Indian School in Carson City. His legacy of Northern Paiute language documentation is profound.. 
+Gilbert Natches died in 1942 at the hospital of the Stewart Indian School in Carson City. His legacy of Northern Paiute language documentation is profound.
 
 (This post is adapted from part of a chapter of a book, *The Unnaming of Kroeber Hall: Language, Memory, and Iconoclasm*, to be published by [MIT Press](https://mitpress.mit.edu/) in 2023.)
-
