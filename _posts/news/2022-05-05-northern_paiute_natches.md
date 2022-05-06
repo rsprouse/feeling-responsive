@@ -2,7 +2,7 @@
 layout: page
 subheadline: "CLA Blog"
 title: "Gilbert Natches's Northern Paiute documentation"
-teaser: "by [Andrew Garrett](https://trill.linguistics.berkeley.edu/people.html#andrew)"
+teaser: "by <a href="{{ site.url }}/people.html#andrew">Andrew Garrett</a>"
 header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
@@ -17,7 +17,7 @@ That help came from Gilbert Natches. It is not clear how Kroeber and Natches fir
 
 <div class="between_images">
    <figure>
-<img src="{{ site.urlimg }}natches01.png" alt="natches01" width="500px"/>
+<img src="{{ site.urlimg }}natches01.PNG" alt="natches01" width="500px"/>
 <figcaption class="caption">Northern Paiute story about *tabu'u* 'cottontail' recorded and then transcribed by Gilbert Natches, [Marsden.015](http://dx.doi.org/doi:10.7297/X2FJ2DRP). This is from the first page; ink additions are Alfred Kroeber's annotations.</figcaption>
    </figure>
 </div>  
@@ -28,7 +28,7 @@ One outcome of the collaboration was an article by Natches, edited by Kroeber (a
 &nbsp;  
 <div class="between_images">
    <figure>
-<img src="{{ site.urlimg }}natches02.png" alt="natches02" width="500px"/>
+<img src="{{ site.urlimg }}natches02.PNG" alt="natches02" width="500px"/>
 <figcaption class="caption">Northern Paiute “Indian New Words for New Things” (mostly English loans), transcribed by Gilbert Natches, [Marsden.015](http://dx.doi.org/doi:10.7297/X2FJ2DRP) (from the first of four pages). 'E' stands for a high central vowel; capitalized vowel symbols are devoiced.</figcaption>
    </figure>
 </div>
