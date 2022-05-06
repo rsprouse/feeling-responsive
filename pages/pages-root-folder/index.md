@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "Collection spotlight"
   url: collections/matsigenka_yine.html
-  image: lewington02.jpg
+  image: lewingtonmap02.jpg
   text: Anna Lewington Collection of Matsigenka and Yine Recordings
 #
 # Use the call for action to show a button on the frontpage
