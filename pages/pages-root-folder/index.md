@@ -36,7 +36,7 @@ widget3:
 #
 callforaction:
   url: give.html
-  text: Support the Survey
+  text: Support the CLA
   style: alert
 permalink: /index.html
 #
