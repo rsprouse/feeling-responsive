@@ -12,7 +12,7 @@ search_include: true
 widget1:
   title: "The CLA Blog"
   url: blog/2022/northern_paiute_natches.html
-  image: natches0202.png
+  image: natches0201.png
   text: Gilbert Natches's Northern Paiute documentation
 widget2:
   title: "Project spotlight"
