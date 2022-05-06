@@ -34,13 +34,13 @@ As a result, the original recordings are critical for the accurate transcription
 
 <div class="between_images">
    <figure>
-<img src="{{ site.urlimg }}lewington01.jpg" alt="matsicomm" width="400px"/>
+<img src="{{ site.urlimg }}lewington01.png" alt="matsicomm" width="400px"/>
    </figure>
 </div>
 
 <div class="between_images">
    <figure>
-<img src="{{ site.urlimg }}lewington02.jpg" alt="matsicomm" width="400px"/>
+<img src="{{ site.urlimg }}lewington02.png" alt="matsicomm" width="400px"/>
    </figure>
 </div>
 
