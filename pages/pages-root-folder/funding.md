@@ -15,7 +15,7 @@ sitemap: true
 
 <div class="between_images">
 <figure>
-  <img src="{{site.url}}/images/oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" style="width:300px;"/>
+  <img src="{{site.urlimg}}oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" style="width:300px;"/>
   <figcaption class="caption"> Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
 </figure>
 </div>

@@ -44,7 +44,7 @@ Some content is not easily handled by markdown and should be entered as plain ht
 ```
 {::nomarkdown}
 <figure>
-  <img class="image fit right" width="310px" src="{{site.url}}/images/oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" />
+  <img class="image fit right" width="310px" src="{{site.urlimg}}oswalt.jpeg" alt="Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960" />
   <figcaption>Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
 </figure>
 {:/nomarkdown}
