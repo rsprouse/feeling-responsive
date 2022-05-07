@@ -48,11 +48,11 @@ improve_content: https://github.com/rsprouse/feeling-responsive/edit/gh-pages
 #
 #urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 #urlimg: 'images/'
-urlimg: 'https://cla.berkeley.edu/assets/images/'
+urlimg: '/assets/images/'
 
 # and audio:
 #
-urlaudio: 'https://cla.berkeley.edu/assets/audio/'
+urlaudio: '/assets/audio/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

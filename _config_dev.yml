@@ -12,11 +12,11 @@ baseurl: '/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://trill.linguistics.berkeley.edu/assets/images/'
+urlimg: '/assets/images/'
 
 # and audio:
 #
-urlaudio: 'https://trill.linguistics.berkeley.edu/assets/audio/'
+urlaudio: '/assets/audio/'
 
 # JSON source data for map.
 clamap: https://trill.linguistics.berkeley.edu/browse/cla-map.json
