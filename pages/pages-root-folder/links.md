@@ -7,6 +7,19 @@ header:
 sitemap: true
 ---
 
+### Other Indigenous language archives
+<ul class="bullets">
+<li><a href="http://www.ailla.utexas.org/site/welcome.html">Archive of the Indigenous Language of Latin America</a></li> (AILLA), University of Texas at Austin
+<li><a href="https://www.amphilsoc.org/library/CNAIR">Center for Native American and Indigenous Research, American Philosophical Society</a></li> (APS, Philadelphia)
+<li><a href="https://www.elararchive.org/">Endangered Languages Archive</a></li> (ELAR, Berlin)
+<li><a href="https://www.paradisec.org.au/">Pacific and Regional Archive for Digital Sources in Endangered Cultures</a></li> (PARADISEC, Australia)
+<li><a href="http://www.uaf.edu/anlc/">Alaska Native Language Center</a></li> (ANLC), University of Alaska Fairbanks
+<li><a href="http://ling.hawaii.edu/kaipuleohone-language-archive/">Kaipuleohone</a></li>, University of Hawaiʻi at Mānoa (Honolulu)
+<li><a href="https://www.sil.org/resources/language-culture-archives">Language and Culture Archives</a></li> (Dallas)
+<li><a href="https://libraries.indiana.edu/archives-traditional-music">Archives of Traditional Music</a></li>, Indiana University Bloomington
+<li><a href="https://sova.si.edu/">Smithsonian Online Virtual Archives</a></li> (Washington, DC)
+</ul>
+
 ### Linguistic resources on Native American languages
 <ul class="bullets">
 <li><a href="http://anthrohub.lib.berkeley.edu/">Anthrohub</a></li>
@@ -70,14 +83,4 @@ sitemap: true
 <ul class="bullets">
 <li><a href="http://www.journals.uchicago.edu/toc/ijal/current">International Journal of American Linguistics</a></li>
 <li><a href="http://www.sfu.ca/nwjl/">Northwest Journal of Linguistics</a></li>
-</ul>
-
-### Other archives for Native American languages
-<ul class="bullets">
-<li><a href="http://www.ailla.utexas.org/site/welcome.html">The Archive of the Indigenous Language of Latin America</a></li>
-<li><a href="http://www.uaf.edu/anlc/">Alaska Native Language Center</a></li>
-<li><a href="http://www.amphilsoc.org/natam/search">Daythal Kendall Guide to Native American Collections at the American Philosophical Society</a></li>
-<li><a href="http://www.libraries.iub.edu/index.php?pageId=329">Folklore Collection at the Indiana University</a></li>
-<li><a href="http://www.loc.gov/">Library of Congress</a></li>
-<li><a href="http://www.siris.si.edu/">Smithsonian Institution Research Information System</a></li>
 </ul>
