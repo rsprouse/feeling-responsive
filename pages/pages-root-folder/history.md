@@ -16,14 +16,14 @@ A Department of Linguistics [was created](https://lx.berkeley.edu/about/history-
 
 ### The 1950s, 1960s & 1970s
 
+During this period, Americanist linguistic work at Berkeley focused mainly on documentation, especially of the many poorly described languages of California, and on areal and historical analysis. The leading figure was Mary Haas, the first Director of the Survey. A student of Edward Sapir's at the University of Chicago and then Yale, Haas came to Berkeley in 1943 and secured a regular academic position beginning in 1946. From then until her retirement in 1978 (and afterwards), as her student Karl Teeter put it, "she trained more Americanist linguists than did Boas and Sapir put together."
+
 <div class="between_images">
 <figure>
   <img src="{{site.urlimg}}mary-haas-1930.jpg" alt="Mary Haas, Earlham College, 1930" style="width:200px;"/>
   <figcaption class="caption"> Mary Haas, Earlham College, 1930</figcaption>
 </figure>
 </div>
-
-During this period, Americanist linguistic work at Berkeley focused mainly on documentation, especially of the many poorly described languages of California, and on areal and historical analysis. The leading figure was Mary Haas, the first Director of the Survey. A student of Edward Sapir's at the University of Chicago and then Yale, Haas came to Berkeley in 1943 and secured a regular academic position beginning in 1946. From then until her retirement in 1978 (and afterwards), as her student Karl Teeter put it, "she trained more Americanist linguists than did Boas and Sapir put together."
 
 Guided by Haas and by her colleague and eventual successor as Survey Director, Wallace Chafe, Berkeley dissertations in the 1950s, 1960s, and 1970s include over 40 grammatical descriptions and dictionaries of American Indian languages.
 
@@ -38,14 +38,14 @@ The areal and historical questions of interest to many Californianists in this p
 
 ### The 1980s, 1990s & 2000s
 
+In recent decades, language documentation has continued as one of our core missions. But we have also paid more attention to research projects involving language typology and linguistic theory, and throughout our work to the interests of speaker and heritage communities. We have also sponsored more work on languages outside California, especially in Latin America.
+
 <div class="between_images">
 <figure>
   <img src="{{site.urlimg}}leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965" style="width:400px;">
   <figcaption class="caption">Leanne Hinton, Supai, Arizona, 1965 (photograph courtesy of Matt Hinton)</figcaption>
 </figure>
    </div>
-
-In recent decades, language documentation has continued as one of our core missions. But we have also paid more attention to research projects involving language typology and linguistic theory, and throughout our work to the interests of speaker and heritage communities. We have also sponsored more work on languages outside California, especially in Latin America.
 
 The research shift toward typological and theoretical questions reflects the growth of linguistics and the difficulty of addressing every question of linguistic interest (from phonetics, through phonology and morphology, to syntax and semantics) in one research project. From Leonard Talmy's pathbreaking 1972 dissertation on [Atsugewi](languages/atsugewi.html) semantics to four 2008 and 2009 theses focusing on phonetics and phonology, or phonology and morphology, in individual languages of Mexico, student work in recent decades has more often investigated specific linguistic topics in greater depth. At the same time, the increasing number of languages with no speakers, or speakers who only rarely use their languages, has led to extensive student work on twentieth-century language change, language revitalization, or languages mainly accessible through archival materials. In at least two cases&mdash;Marc Okrand's dissertation on [Mutsun](languages/mutsun.html) (1977), and David Costa's on Miami-Illinois (1994)&mdash;this kind of archival work has led directly to active language revitalization programs.
 
