@@ -13,7 +13,7 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 
 - [Alaska Native Language Center](http://www.uaf.edu/anlc/) (ANLC), University of Alaska Fairbanks
 - [Archive of the Indigenous Language of Latin America](http://www.ailla.utexas.org/site/welcome.html) (AILLA), University of Texas at Austin
-- [Archives of Traditional Music](https://libraries.indiana.edu/archives-traditional-music) (Indiana University Bloomington)
+- [Archives of Traditional Music](https://libraries.indiana.edu/archives-traditional-music), Indiana University Bloomington
 - [Center for Native American and Indigenous Research](https://www.amphilsoc.org/library/CNAIR), American Philosophical Society (APS, Philadelphia)
 - [Endangered Languages Archive](https://www.elararchive.org/) (ELAR, Berlin)
 - [Kaipuleohone](http://ling.hawaii.edu/kaipuleohone-language-archive/), University of Hawaiʻi at Mānoa (Honolulu)
