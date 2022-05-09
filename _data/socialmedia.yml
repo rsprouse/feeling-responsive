@@ -23,10 +23,10 @@
   class: icon-facebook
   title: "Follow us on Facebook"
 
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
+- name: Soundcloud
+  url: https://soundcloud.com/user-881486930
+  class: icon-soundcloud
+  title: "Follow us on Soundcloud"
 
 - name: Instagram
   url: http://instagram.com/surveycla
