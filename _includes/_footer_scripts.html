@@ -31,7 +31,9 @@ $('audio,video').mediaelementplayer();
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/cla-select2.js"></script>
 <script type="application/javascript">
   baseurl = '{{ site.baseurl }}';
-  {% if not page.search_results or page.collbndlrec == 'bndl' %}
+  {% if page.search_results and page.collbndlrec != 'bndl' %}
+    $('#cla-search-form').on('submit', do_submit);
+  {% else %}
     $('#search_button').on('click', function (e) {
       e.preventDefault();
       if ($('#cla-search-form').find(':selected').length > 0) {
@@ -39,8 +41,6 @@ $('audio,video').mediaelementplayer();
         window.location.href = 'list/index.html?' + s;
       }
     });
-  {% else %}
-    $('#cla-search-form').on('submit', do_submit);
   {% endif %}
   configure_select2("{{ site.search.aws_endpoint }}", "{{ site.search.placeholder }}");
 </script>
