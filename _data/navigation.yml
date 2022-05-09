@@ -37,7 +37,7 @@
 - title: About Us
   side: right
   dropdown:
-  - title: Using the CLA
+  - title: Terms & Conditions
     url: "using-cla.html"
   - title: People
     url: "people.html"
