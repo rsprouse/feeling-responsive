@@ -123,7 +123,7 @@ sitemap: true
 <img src="{{ site.urlimg }}neely.jpg" alt="Kelsey Neely"/>
 </div>
 
-[Kelsey Neely](http://lx.berkeley.edu/people/graduate-students) (PhD 2019, Linguistics) is incoming Capacity Development Officer at the Endangered Languages Documentation Programme (ELDP). She works on Yaminawa and Nahua (Yora), two closely related Panoan language varieties spoken in Peruvian Amazonia. She is currently interlinearizing and editing a book of traditional narratives and oral histories for the Yaminawa and Nahua communities. Her research interests include anthropological linguistics, sociolinguistics, prosody, morphosyntax, and the history of Amazonian languages and peoples. Kelsey is also producing a grammatical description and lexical database for the language.
+[Kelsey Neely](http://www.kelseycneely.com/) (PhD 2019, Linguistics) is incoming Capacity Development Officer at the Endangered Languages Documentation Programme (ELDP). She works on Yaminawa and Nahua (Yora), two closely related Panoan language varieties spoken in Peruvian Amazonia. She is currently interlinearizing and editing a book of traditional narratives and oral histories for the Yaminawa and Nahua communities. Her research interests include anthropological linguistics, sociolinguistics, prosody, morphosyntax, and the history of Amazonian languages and peoples. Kelsey is also producing a grammatical description and lexical database for the language.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}beth_crop.jpg" alt="Beth Piatote"/>
