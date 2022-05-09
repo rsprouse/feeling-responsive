@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: fieldwork-tools.html
 layout: page
 title: Fieldwork tools
@@ -38,3 +38,4 @@ sitemap: true
 <li><a href="http://www.vermontfolklifecenter.org/archive/res_audioequip.htm">Digital audio field recording equipment guide, Vermont Folklife Center</a></li>
 <li><a href="http://transom.org/?p=30163">Recorder reviews, transom.org</a></li>
 </ul>
+-->
