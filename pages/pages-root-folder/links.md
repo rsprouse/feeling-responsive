@@ -9,20 +9,36 @@ sitemap: true
 
 ### Archives with major Indigenous language holdings
 
+See the website of the [Digital Endangered Languages and Musics Archives Network](https://www.delaman.org/) (DELAMAN) for listings of other similar repositories.
+
+- [Alaska Native Language Center](http://www.uaf.edu/anlc/) (ANLC), University of Alaska Fairbanks
 - [Archive of the Indigenous Language of Latin America](http://www.ailla.utexas.org/site/welcome.html) (AILLA), University of Texas at Austin
+- [Archives of Traditional Music](https://libraries.indiana.edu/archives-traditional-music) (Indiana University Bloomington)
 - [Center for Native American and Indigenous Research](https://www.amphilsoc.org/library/CNAIR), American Philosophical Society (APS, Philadelphia)
 - [Endangered Languages Archive](https://www.elararchive.org/) (ELAR, Berlin)
-- [The Language Archive](https://archive.mpi.nl/tla/) (TLA, Nijmegen)
-- [Pacific and Regional Archive for Digital Sources in Endangered Cultures](https://www.paradisec.org.au/) (PARADISEC, Australia)
-- [Native American Languages Collections](https://samnoblemuseum.ou.edu/collections-and-research/native-american-languages/native-american-languages-collections/), Sam Noble Museum, University of Oklahoma
-- [Alaska Native Language Center](http://www.uaf.edu/anlc/) (ANLC), University of Alaska Fairbanks
 - [Kaipuleohone](http://ling.hawaii.edu/kaipuleohone-language-archive/), University of Hawaiʻi at Mānoa (Honolulu)
 - [Language and Culture Archives](https://www.sil.org/resources/language-culture-archives) (Dallas)
-- [Archives of Traditional Music](https://libraries.indiana.edu/archives-traditional-music) (Indiana University Bloomington)
+- [Native American Languages Collections](https://samnoblemuseum.ou.edu/collections-and-research/native-american-languages/native-american-languages-collections/), Sam Noble Museum, University of Oklahoma
+- [Pacific and Regional Archive for Digital Sources in Endangered Cultures](https://www.paradisec.org.au/) (PARADISEC, Australia)
 - [Pangloss Collection](https://pangloss.cnrs.fr/index_en.html) (Paris)
 - [Smithsonian Online Virtual Archives](https://sova.si.edu/) (Washington, DC)
+- [The Language Archive](https://archive.mpi.nl/tla/) (TLA, Nijmegen)
 
-See the website of the [Digital Endangered Languages and Musics Archives Network](https://www.delaman.org/) (DELAMAN) for listings of other similar repositories.
+### Berkeley libraries and museums
+<ul class="bullets">	
+<li><a href="http://bancroft.berkeley.edu/">Bancroft Library</a></li>
+<li><a href="http://hearstmuseum.berkeley.edu/">Phoebe A. Hearst Museum of Anthropology</a></li>
+<li><a href="https://search.library.berkeley.edu/discovery/search?vid=01UCS_BER:UCB">Berkeley Library catalog</a></li>
+</ul>
+
+### Linguistic organizations
+<ul class="bullets">
+<li><a href="http://www.aicls.org">Advocates for Indigenous California Language Survival</a></li>
+<li><a href="https://www.delaman.org/">Digital Endangered Languages and Musics Archives Network</a></li>
+<li><a href="http://www.lsadc.org">Linguistic Society of America</a></li>
+<li><a href="http://www.language-archives.org/">Open Language Archives Community</a></li>
+<li><a href="http://www.ssila.org/">Society for the Study of the Indigenous Languages of the Americas</a></li>
+</ul>
 
 ### Linguistic resources on Native American languages
 <ul class="bullets">
@@ -49,24 +65,7 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 <li><a href="http://depts.washington.edu/wll2/bibliography.html">Wakashan Bibliography</a></li>	
 </ul> -->
 
-### Linguistic organizations
-<ul class="bullets">
-<li><a href="http://www.aicls.org">Advocates for Indigenous California Language Survival</a></li>
-<li><a href="http://www.coyotepress.com/index.html">Coyote Press</a> (publisher specializing in archaeology, history, prehistory, ethnography, linguistics, and Native American studies of California and western North America)</li>
-<li><a href="http://www.lsadc.org">Linguistic Society of America</a></li>
-<li><a href="http://www.language-archives.org/">Open Language Archives Community</a></li>
-<li><a href="http://www.ssila.org/">Society for the Study of the Indigenous Languages of the Americas (SSILA)</a></li>
-</ul>
-
-### Berkeley libraries and museums
-<ul class="bullets">	
-<li><a href="http://bancroft.berkeley.edu/">Bancroft Library</a></li>
-<li><a href="http://blc.berkeley.edu/">Berkeley Language Center</a></li>
-<li><a href="http://hearstmuseum.berkeley.edu/">Phoebe A. Hearst Museum of Anthropology</a></li>
-<li><a href="http://www.lib.berkeley.edu/">University of California, Berkeley online library catalogs</a></li>
-</ul>
-
-### General information on Indigenous people of California
+<!-- ### General information on Indigenous people of California
 <ul class="bullets">
 <li><a href="http://www.mip.berkeley.edu/cilc/bibs/lang.html">Tribal Language groups of Northern and Central California</a></li>
 <li><a href="http://www.mip.berkeley.edu/cilc/bibs/alternates.html">Alternate names and/or spellings for tribal groups</a></li>
@@ -75,16 +74,16 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 <li><a href="http://www.kstrom.net/isk/maps/ca/sacramento.html">Federally recognized California tribes</a></li>
 <li><a href="http://www.kstrom.net/isk/maps/tribesnonrec.html#california">Federally nonrecognized California Tribes</a></li>
 <li><a href="http://library.csus.edu/services/inst/California Native Americans.html">Selected resources on California Native Americans - Sacramento State University Library</a></li>
-</ul>
+</ul> -->
 
-### Materials on language revitalization
+<!-- ### Materials on language revitalization
 <ul class="bullets">
 <li><a href="http://jan.ucc.nau.edu/~jar/TIL.html">Teaching indigenous languages</a></li>
 <li><a href="http://jan.ucc.nau.edu/~jar/RIL_Contents.html">Revitalizing indigenous languages</a></li>
-</ul>	
+</ul>	-->
 
-### Linguistic journals
+<!-- ### Linguistic journals
 <ul class="bullets">
 <li><a href="http://www.journals.uchicago.edu/toc/ijal/current">International Journal of American Linguistics</a></li>
 <li><a href="http://www.sfu.ca/nwjl/">Northwest Journal of Linguistics</a></li>
-</ul>
+</ul> -->
