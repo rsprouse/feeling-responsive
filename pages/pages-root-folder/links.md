@@ -40,7 +40,7 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 <li><a href="http://www.ssila.org/">Society for the Study of the Indigenous Languages of the Americas</a></li>
 </ul>
 
-### Linguistic resources on Native American languages
+<!-- ### Linguistic resources on Native American languages
 <ul class="bullets">
 <li><a href="http://anthrohub.lib.berkeley.edu/">Anthrohub</a></li>
 <li><a href="http://www.etnolinguistica.org/">Etnoling&uuml;&iacute;stica</a></li>
@@ -55,7 +55,7 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 <li><a href="http://rosettaproject.org/">Rosetta Project</a></li>
 <li><a href="http://www.unesco.org/culture/languages-atlas/">UNESCO atlas of the world's languages in danger</a></li>
 <li><a href="http://repositories.cdlib.org/ucpress/ucpl/">University of California Publications in Linguistics</a></li>
-</ul>
+</ul> -->
 
 <!-- ### Bibliographies
 <ul class="bullets">
