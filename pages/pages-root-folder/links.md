@@ -7,17 +7,22 @@ header:
 sitemap: true
 ---
 
-### Other archives with major Indigenous language holdings
+### Archives with major Indigenous language holdings
 
 - [Archive of the Indigenous Language of Latin America](http://www.ailla.utexas.org/site/welcome.html) (AILLA), University of Texas at Austin
 - [Center for Native American and Indigenous Research](https://www.amphilsoc.org/library/CNAIR), American Philosophical Society (APS, Philadelphia)
 - [Endangered Languages Archive](https://www.elararchive.org/) (ELAR, Berlin)
+- [The Language Archive](https://archive.mpi.nl/tla/) (TLA, Nijmegen)
 - [Pacific and Regional Archive for Digital Sources in Endangered Cultures](https://www.paradisec.org.au/) (PARADISEC, Australia)
+- [Native American Languages Collections](https://samnoblemuseum.ou.edu/collections-and-research/native-american-languages/native-american-languages-collections/), Sam Noble Museum, University of Oklahoma
 - [Alaska Native Language Center](http://www.uaf.edu/anlc/) (ANLC), University of Alaska Fairbanks
 - [Kaipuleohone](http://ling.hawaii.edu/kaipuleohone-language-archive/), University of Hawaiʻi at Mānoa (Honolulu)
 - [Language and Culture Archives](https://www.sil.org/resources/language-culture-archives) (Dallas)
 - [Archives of Traditional Music](https://libraries.indiana.edu/archives-traditional-music) (Indiana University Bloomington)
+- [Pangloss Collection](https://pangloss.cnrs.fr/index_en.html), Paris
 - [Smithsonian Online Virtual Archives](https://sova.si.edu/)
+
+See the website of the [Digital Endangered Languages and Musics Archives Network](https://www.delaman.org/) (DELAMAN) for listings of other similar repositories.
 
 ### Linguistic resources on Native American languages
 <ul class="bullets">
