@@ -43,7 +43,7 @@ In recent decades, language documentation has continued as one of our core missi
 <div class="between_images">
 <figure>
   <img src="{{site.urlimg}}leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965" style="width:400px;">
-  <figcaption class="caption">Leanne Hinton, Supai, Arizona, 1965 (photograph courtesy of Matt Hinton)</figcaption>
+  <figcaption class="caption">Leanne Hinton, Supai, AZ, 1965 (photograph courtesy of Matt Hinton)</figcaption>
 </figure>
    </div>
 
