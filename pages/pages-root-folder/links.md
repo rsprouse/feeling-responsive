@@ -19,8 +19,8 @@ sitemap: true
 - [Kaipuleohone](http://ling.hawaii.edu/kaipuleohone-language-archive/), University of Hawaiʻi at Mānoa (Honolulu)
 - [Language and Culture Archives](https://www.sil.org/resources/language-culture-archives) (Dallas)
 - [Archives of Traditional Music](https://libraries.indiana.edu/archives-traditional-music) (Indiana University Bloomington)
-- [Pangloss Collection](https://pangloss.cnrs.fr/index_en.html), Paris
-- [Smithsonian Online Virtual Archives](https://sova.si.edu/)
+- [Pangloss Collection](https://pangloss.cnrs.fr/index_en.html) (Paris)
+- [Smithsonian Online Virtual Archives](https://sova.si.edu/) (Washington, DC)
 
 See the website of the [Digital Endangered Languages and Musics Archives Network](https://www.delaman.org/) (DELAMAN) for listings of other similar repositories.
 
@@ -41,13 +41,13 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 <li><a href="http://repositories.cdlib.org/ucpress/ucpl/">University of California Publications in Linguistics</a></li>
 </ul>
 
-### Bibliographies
+<!-- ### Bibliographies
 <ul class="bullets">
 <li><a href="http://www.rock-art.com/jph/">John Peabody Harrington Resource Page</a></li>
 <li><a href="http://linguistics.berkeley.edu/simple_archive/brightbib">William Bright's (1999) <em>Bibliography of the Languages of Native California</em></a></li>
 <li><a href="http://linguistics.berkeley.edu/~yurok/web/bibliography.php">Yurok language bibliography</a></li>
 <li><a href="http://depts.washington.edu/wll2/bibliography.html">Wakashan Bibliography</a></li>	
-</ul>
+</ul> -->
 
 ### Linguistic organizations
 <ul class="bullets">
