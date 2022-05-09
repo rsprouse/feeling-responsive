@@ -78,6 +78,17 @@
             {% endfor %}
             </ul>
           </section>
+          <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="no-bullet shadow-black">
+            {% for network_item in site.data.network %}
+              {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
+                <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
+<!--                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a> -->
+                  {{ network_item.name }}
+                </li>
+            {% endfor %}
+            </ul>
+          </section>
         </nav>
       </div><!-- /#subfooter -->
     </footer>
