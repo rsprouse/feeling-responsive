@@ -21,16 +21,14 @@
   dropdown:
   - title: California Languages
     url: "california-languages.html"
-  - title: Funding
-    url: "funding.html"
-  - title: Fieldwork
-    url: "fieldwork-tools.html"
-  - title: Language Maps
-    url: "language-maps.html"
-  - title: Dissertations
-    url: "dissertations.html"
-  - title: Publications
+  - title: Survey Publications
     url: "https://escholarship.org/uc/bling_survey"
+  - title: Affiliated Dissertations
+    url: "dissertations.html"
+  - title: CA Language Maps
+    url: "language-maps.html"
+  - title: Funding Sources
+    url: "funding.html"
   - title: Links
     url: "links.html"
 
@@ -43,8 +41,6 @@
     url: "history.html"
   - title: Mission
     url: "mission.html"
-  - title: Our Collection
-    url: "the-collection.html"
   - title: Breath of Life
     url: "https://aicls.org/breath-of-life-institute/"
   - title: Terms & Conditions

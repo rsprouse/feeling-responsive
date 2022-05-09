@@ -8,11 +8,11 @@ header:
 sitemap: true
 ---
 
-Established over half a century ago as the first state-funded institution specifically devoted to California's Indigenous languages, the Survey of California and Other Indian Languages has evolved into a twenty-first-century research center. We combine a traditional archive of paper materials and other analog media (now increasingly available online) with born-digital materials, ongoing documentation projects, and a commitment to making our resources, and the knowledge we are privileged to preserve, accessible to all people.
+Established over half a century ago as the first state-funded institution specifically devoted to California's Indigenous languages, the Survey of California and Other Indian Languages has evolved into a twenty-first-century research center. We combine a traditional archive of paper materials and other analog media (increasingly available online) with born-digital materials, ongoing documentation projects, and a commitment to making our resources, and the knowledge we are privileged to preserve, accessible to all people.
 
 ### Documentation
 
-The central mission of the Survey has always been language documentation, focusing on the dozens of Indigenous languages of California but also including other languages of the Americas. We have sponsored documentary linguistic work from Alaska and Canada in the north to Peru and Bolivia in the south, but the bulk of our work has been in California, elsewhere in the western and southwestern United States, and in Mexico. In the 1950s and 1960s, the Survey developed a series of elicitation protocols that students used for quick, survey-style linguistic work throughout the state; these are now a valuable part of our permanent collection. At present, support for Berkeley students includes limited financial and technical assistance, as well as permanent physical and digital storage space for the archiving of ongoing fieldwork projects. We also sponsor occasional workshops for California Indian communities with their own documentation programs, in which we give advice about good practices in documentation and archiving.
+The central mission of the Survey has always been language documentation, focusing on the dozens of Indigenous languages of California but also including other languages of the Americas. We have sponsored documentary linguistic work from Alaska and Canada in the north to Peru, Bolivia, and Brazil in the south, but the bulk of our work has been in California, elsewhere in the western and southwestern United States, and in Mexico. In the 1950s and 1960s, the Survey developed a series of elicitation protocols that students used for quick, survey-style linguistic work throughout the state; these are now a valuable part of our permanent collection. At present, support for Berkeley students includes limited financial and technical assistance, as well as permanent physical and digital storage space for the archiving of ongoing fieldwork projects. We also sponsor occasional workshops for California Indian communities with their own documentation programs, in which we give advice about good practices in documentation and archiving.
 
 <div class="between_images">
    <figure>
@@ -21,11 +21,11 @@ The central mission of the Survey has always been language documentation, focusi
    </figure>
 </div>
 
-Thanks to the generosity of the late Robert L. Oswalt and his family, since 2011 the Survey has administered a grant program comparable in scope to that of the [Endangered Language Fund](http://www.endangeredlanguagefund.org/). The [Oswalt Fund](funding.html) supports well designed small projects that seek to document endangered languages. Application deadlines for annual Oswalt Fund grants are announced in the fall.
+Thanks to the generosity of the late Robert L. Oswalt and his family, since 2011 the Survey has administered a grant program comparable in scope to that of the [Endangered Language Fund](http://www.endangeredlanguagefund.org/). The [Oswalt Fund](funding.html) supports well designed small projects that document endangered languages. Application deadlines for annual Oswalt Fund grants are announced in the fall.
 
 ### Preservation
 
-No language documentation project is worthwhile when its results are lost, or when they languish in a moldy closet or hot garage. We are committed to ensuring that documentary materials donated to us (whether collected in projects we sponsor or by other researchers) are preserved securely, in good condition, and with sufficient metadata to enable interested people to find them.  All our paper materials are archived in a locked, climate-controlled room. Born-digital materials, and digital copies of analog originals, are stored on campus storage systems and backed up in AWS Deep Glacier. The California Language Archive is a member of the [Digital Endangered Languages and Musics Archives Network](https://delaman.org/) (DELAMAN).
+No language documentation project is worthwhile when its results are lost, or when they languish in a moldy closet or hot garage. We are committed to ensuring that documentary materials donated to us (whether collected in projects we sponsor or by other researchers) are preserved securely, in good condition, and with sufficient metadata to enable interested people to find them.  All our paper materials are archived in a locked, climate-controlled room. Born-digital materials, and digital copies of analog originals, are stored on campus storage systems and backed up in [Amazon Simple Storage Service](https://aws.amazon.com/s3/) (Amazon S3). The California Language Archive is a member of the [Digital Endangered Languages and Musics Archives Network](https://delaman.org/) (DELAMAN).
 
 ### Access and outreach
 
@@ -34,7 +34,7 @@ An essential third part of our mission is to find ways of making our collection 
 <div class="between_images">
    <figure>
 <img src="{{ site.urlimg }}northern-pomo-workshop-2019.jpg" alt="Northern Pomo" width="1200px"/>
-<figcaption class="caption">Northern Pomo language camp, Redwood Valley Rancheria, CA, 2019 (photo courtesy of Edwin Ko)</figcaption>
+<figcaption class="caption">Northern Pomo language camp, Redwood Valley Rancheria, CA, 2019 (photograph courtesy of Edwin Ko)</figcaption>
    </figure>
 </div>
 
