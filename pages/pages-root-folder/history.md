@@ -38,12 +38,12 @@ The areal and historical questions of interest to many Californianists in this p
 
 ### The 1980s, 1990s & 2000s
 
-In recent decades, language documentation has continued as one of our core missions. But we have also paid more attention to research projects involving language typology and linguistic theory, and throughout our work to the interests of speaker and heritage communities. We have also sponsored more work on languages outside California, especially in Latin America.
+In recent decades, language documentation has continued as one of our core missions, most recently with the support of the Robert L. Oswalt Graduate Student Support Endowment for Endangered Language Documentation. But we have also paid more attention to research projects involving language typology and linguistic theory, and throughout our work to the interests of speaker and heritage communities. We have also sponsored more work on languages outside California, especially in Latin America.
 
 <div class="between_images">
 <figure>
   <img src="{{site.urlimg}}leanne-hinton-1965.jpg" alt="Leanne Hinton, Supai, Arizona, 1965" style="width:400px;">
-  <figcaption class="caption">Leanne Hinton, Supai, Arizona, 1965 (photograph courtesy of Matt Hinton)</figcaption>
+  <figcaption class="caption">Leanne Hinton, Supai, AZ, 1965 (photograph courtesy of Matt Hinton)</figcaption>
 </figure>
    </div>
 
