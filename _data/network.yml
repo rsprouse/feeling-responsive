@@ -1,21 +1,21 @@
 - menu_name: Contact
 
 - name: "scoil-ling@berkeley.edu"
-  url: "https://cla.berkeley.edu"
+#  url: "https://cla.berkeley.edu"
 #  class: "network-entypo"
 #  title: "Icons by Daniel Bruce"
 #
 - name: "510 642-8891"
-  url: "https://cla.berkeley.edu"
+#  url: "https://cla.berkeley.edu"
 #  class: "services-newsletter"
 #  title: "Built on Foundation"
 #
-- name: "Research room: 1311 Dwinelle Hall"
-  url: "https://cla.berkeley.edu"
+#- name: "Research room: 1311 Dwinelle Hall"
+#  url: "https://cla.berkeley.edu"
 #  class: "rss-link"
 #  title: "Images by Unsplash"
 #
-- name: "Mailing address: 1203 Dwinelle Hall, UC Berkeley, Berkeley, CA 94720-2650"
-  url: "https://cla.berkeley.edu"
+#- name: "Mailing address: 1203 Dwinelle Hall, UC Berkeley, Berkeley, CA 94720-2650"
+#  url: "https://cla.berkeley.edu"
 #  class: "sitemap-link"
 #  title: "Using Backstretch by Scott Robbin"
