@@ -29,8 +29,8 @@
     url: "language-maps.html"
   - title: Funding Sources
     url: "funding.html"
-  - title: Fieldwork Tools
-    url: "fieldwork-tools.html"
+  <!-- - title: Fieldwork Tools
+    url: "fieldwork-tools.html" -->
   - title: Links
     url: "links.html"
 
