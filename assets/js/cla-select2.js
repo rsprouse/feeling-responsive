@@ -475,7 +475,7 @@ function update_coll_list(q, recs) {
          collhtml += `<li class="${liclass}">`;
          collhtml += '<input id="_coll' +  count + '" type="checkbox" name="checkbox-coll">';
          collhtml += `<label class="${lblclass}" for="_coll${count}">`;
-         collhtml += '<a href="' + baseurl + 'collection?collid=' + r['_source']['collid'] + '=' + encodeURIComponent(r['_source']['title'] + '" class="post">' + r['_source']['title'] +'</a>';
+         collhtml += '<a href="' + baseurl + 'collection?collid=' + r['_source']['collid'] + '=' + encodeURIComponent(r['_source']['title']) + '" class="post">' + r['_source']['title'] +'</a>';
         if (q !== null) {
           collhtml += '&nbsp;<i class="icon fa-caret-right"></i>';
         }
