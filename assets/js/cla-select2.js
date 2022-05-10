@@ -116,6 +116,7 @@ function populate_form_from_params(params) {
 }
 
 function display_bndlrec() {
+  populate_form_from_query_string(window.location.search);
   const query = get_query_from_form('cla-search-form');
   $.ajax({
       method: 'GET',
@@ -123,6 +124,22 @@ function display_bndlrec() {
       success: function(data) {
           const rsource = data['hits']['hits'][0]['_source'];
           $('#collbndlrec').html(get_bndllicontent(rsource, -1));
+      }
+  });
+}
+
+function display_collrec() {
+  populate_form_from_query_string(window.location.search);
+  const query = get_query_from_form('cla-search-form');
+  $.ajax({
+      method: 'GET',
+      url: `${aws_endpoint}/item/${query["collid"]}`,
+      success: function(data) {
+          const query = get_query_from_form('cla-search-form');
+          query['collid'] = recid;
+          query['q'] = [];
+          query['qstr'] = [];
+          update_tab_content(data, query, 'coll', false);
       }
   });
 }
