@@ -115,22 +115,14 @@ function populate_form_from_params(params) {
     });
 }
 
-function display_bndlrec(recid) {
-  const action = rectype == 'coll' ? 'collection' : 'item';
+function display_bndlrec() {
+  const query = get_query_from_form('cla-search-form');
   $.ajax({
       method: 'GET',
-      url: aws_endpoint + action + '/' + recid,
+      url: `${aws_endpoint}/item/${query["bndlid"]}`,
       success: function(data) {
-          if (rectype === 'coll') {
-            const query = get_query_from_form('cla-search-form');
-            query['collid'] = recid;
-            query['q'] = [];
-            query['qstr'] = [];
-            update_tab_content(data, query, 'coll', false);
-	  } else if (rectype === 'bndl') {
-            const rsource = data['hits']['hits'][0]['_source'];
-            $('#collbndlrec').html(get_bndllicontent(rsource, -1));
-	  }
+          const rsource = data['hits']['hits'][0]['_source'];
+          $('#collbndlrec').html(get_bndllicontent(rsource, -1));
       }
   });
 }

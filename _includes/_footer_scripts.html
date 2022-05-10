@@ -58,7 +58,9 @@ $('audio,video').mediaelementplayer();
   $('#search_button').on('click', handleSearchButtonClick);
 
   {% unless page.collbndlrec == 'coll' %}
-    do_page_entry();
+    if (window.location.pathname.includes('list') {
+      do_page_entry();
+    }
   {% endunless %}
 /*
   populate_form_from_query_string('cla-search-form');
