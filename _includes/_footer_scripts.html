@@ -79,7 +79,8 @@ $('audio,video').mediaelementplayer();
   const paramname = rectype + 'id';
   if (sp.has(paramname)) {
     if (rectype == 'coll') {
-      display_collrec();
+      const recid = sp.get(paramname);
+      do_search(collid=recid);
     } else {
       display_bndlrec();
     }
