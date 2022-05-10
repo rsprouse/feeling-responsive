@@ -57,7 +57,7 @@ $('audio,video').mediaelementplayer();
   $('#bndlshowall').on('click', toggle_showall);
   $('#search_button').on('click', handleSearchButtonClick);
 
-  {% unless page.collbndlrec %}
+  {% unless page.collbndlrec == 'coll' %}
     do_page_entry();
   {% endunless %}
 /*
