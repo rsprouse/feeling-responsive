@@ -72,7 +72,8 @@ search:
   placeholder: Search languages, people, topics, identifiers.
   button_text: Search CLA
   url: list/index.html
-  aws_endpoint: https://xfhpwly456.execute-api.us-east-1.amazonaws.com/api/
+#  aws_endpoint: https://xfhpwly456.execute-api.us-east-1.amazonaws.com/api/
+  aws_endpoint: https://vuuf8mlr15.execute-api.us-east-1.amazonaws.com/devapi/
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
