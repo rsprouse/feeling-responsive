@@ -58,7 +58,7 @@ $('audio,video').mediaelementplayer();
   $('#search_button').on('click', handleSearchButtonClick);
 
   {% unless page.collbndlrec == 'coll' %}
-    if (window.location.pathname.includes('list') {
+    if (window.location.pathname.includes('list')) {
       do_page_entry();
     }
   {% endunless %}
