@@ -248,6 +248,16 @@ function do_submit(e) {
   if(e !== null) {
     e.preventDefault();
   }
+  /*
+   * Redirect to Bndl detail page if search is specifically for a
+   * single Bndl.
+   */
+  if ($('#cla-search-form').find(':selected').length == 1) {
+    const param = $('#cla-search-form').find(':selected').first().val();
+    if (param.startsWith('bndlid')) {
+      window.location.href = `/item/?${param}`;
+    }
+  }
   $('#collpgidx').val('0');
   $('#bndlpgidx').val('0');
   $('#cla-search-form > input[name="tab"]').val('bndl');
