@@ -116,7 +116,7 @@ function populate_form_from_params(params) {
 }
 
 function display_bndlrec() {
-  const params = URLSearchParams(window.location.search);
+  const params = new URLSearchParams(window.location.search);
   if (params.has("bndlid")) {
     const bndlid = params.get("bndlid");
     $.ajax({
