@@ -118,7 +118,7 @@ function populate_form_from_params(params) {
 function display_bndlrec() {
   const params = new URLSearchParams(window.location.search);
   if (params.has("bndlid")) {
-    const bndlid = params.get("bndlid");
+    const bndlid = params.get("bndlid").split("=")[0];
     $.ajax({
         method: 'GET',
         url: `${aws_endpoint}/item/${bndlid}`,
