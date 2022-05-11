@@ -28,6 +28,7 @@ name: Build production CLA website with Jekyll and deploy to server
 on:
   release:
     branches: [ main ]
+    types: [published]
 
 jobs:
   build:
