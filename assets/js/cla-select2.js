@@ -116,8 +116,6 @@ function populate_form_from_params(params) {
 }
 
 function display_bndlrec() {
-  populate_form_from_query_string(window.location.search);
-  const query = get_query_from_form('cla-search-form');
   const params = URLSearchParams(window.location.search);
   if (params.has("bndlid")) {
     const bndlid = params.get("bndlid");
