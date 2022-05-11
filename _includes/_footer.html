@@ -81,7 +81,11 @@
             </ul>
           </section>
           <section id="subfooter-right" class="small-6 medium-3 large-3 columns">
-            <h5 class="shadow-black">{{ site.data.contact.menu_name }}</h5>
+            {% for contact_item in site.data.contact %}
+              {% if forloop.first == true %}
+                <h5 class="shadow-black">{{ contact_item.menu_name }}</h5>
+              {% endif %}
+            {% endfor %}
             <ul class="no-bullet shadow-black">
             {% for contact_item in site.data.contact %}
                 <li>{{ contact_item.name }}</li>
