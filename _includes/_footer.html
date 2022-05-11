@@ -50,6 +50,7 @@
               {% endif %}
             {% endfor %}
 
+{% comment %}
             <ul class="no-bullet shadow-black">
             {% for network_item in site.data.network %}
               {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
@@ -59,6 +60,7 @@
                 </li>
             {% endfor %}
             </ul>
+{% endcomment %}
           </div><!-- /.large-3.columns -->
         </div><!-- /.row -->
 
@@ -67,14 +69,21 @@
 
       <div id="subfooter">
         <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+          <section id="subfooter-left" class="small-12 medium-6 large-5 columns credits">
             {{ site.credits }}
           </section>
 
-          <section id="subfooter-right" class="small-12 medium-6 columns">
+          <section id="subfooter-mid" class="small-6 medium-3 large-3 large-offset-1 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+            </ul>
+          </section>
+          <section id="subfooter-right" class="small-6 medium-3 large-3 columns">
+            <ul class="no-bullet shadow-black">
+            {% for network_item in site.data.network %}
+                <li>{{ network_item.name }}</li>
             {% endfor %}
             </ul>
           </section>
