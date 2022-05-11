@@ -12,6 +12,7 @@
           We acknowledge with respect the Ohlone people on whose traditional, ancestral, and unceded land we work and whose historical relationships with that land continue to this day.<br>
           &nbsp;<br>    
         </div>
+{% comment %}
         <div class="row">
           <div class="medium-6 large-5 columns">
 <!--
@@ -50,7 +51,6 @@
               {% endif %}
             {% endfor %}
 
-{% comment %}
             <ul class="no-bullet shadow-black">
             {% for network_item in site.data.network %}
               {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
@@ -60,9 +60,9 @@
                 </li>
             {% endfor %}
             </ul>
-{% endcomment %}
           </div><!-- /.large-3.columns -->
         </div><!-- /.row -->
+{% endcomment %}
 
       </div><!-- /#footer -->
 
@@ -82,8 +82,8 @@
           </section>
           <section id="subfooter-right" class="small-6 medium-3 large-3 columns">
             <ul class="no-bullet shadow-black">
-            {% for network_item in site.data.network %}
-                <li>{{ network_item.name }}</li>
+            {% for contact_item in site.data.contact %}
+                <li>{{ contact_item.name }}</li>
             {% endfor %}
             </ul>
           </section>
