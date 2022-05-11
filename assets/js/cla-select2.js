@@ -128,22 +128,6 @@ function display_bndlrec() {
   });
 }
 
-function display_collrec() {
-  populate_form_from_query_string(window.location.search);
-  const query = get_query_from_form('cla-search-form');
-  $.ajax({
-      method: 'GET',
-      url: `${aws_endpoint}/item/${query["collid"]}`,
-      success: function(data) {
-          const query = get_query_from_form('cla-search-form');
-          query['collid'] = recid;
-          query['q'] = [];
-          query['qstr'] = [];
-          update_tab_content(data, query, 'coll', false);
-      }
-  });
-}
-
 /**
  * A handler function for a click on the Search button.
  */
