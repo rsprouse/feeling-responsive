@@ -118,14 +118,18 @@ function populate_form_from_params(params) {
 function display_bndlrec() {
   populate_form_from_query_string(window.location.search);
   const query = get_query_from_form('cla-search-form');
-  $.ajax({
-      method: 'GET',
-      url: `${aws_endpoint}/item/${query["bndlid"]}`,
-      success: function(data) {
-          const rsource = data['hits']['hits'][0]['_source'];
-          $('#collbndlrec').html(get_bndllicontent(rsource, -1));
-      }
-  });
+  const params = URLSearchParams(window.location.search);
+  if (params.has("bndlid")) {
+    const bndlid = params.get("bndlid");
+    $.ajax({
+        method: 'GET',
+        url: `${aws_endpoint}/item/${bndlid}`,
+        success: function(data) {
+            const rsource = data['hits']['hits'][0]['_source'];
+            $('#collbndlrec').html(get_bndllicontent(rsource, -1));
+        }
+    });
+  }
 }
 
 /**
