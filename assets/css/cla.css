@@ -4,7 +4,7 @@
   display: none;
 }
 
-.cla-description p {
+p.cla-description {
   padding-left: 15px;
   padding-right: 15px;
 }
