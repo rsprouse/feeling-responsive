@@ -4,6 +4,11 @@
   display: none;
 }
 
+.cla-description p {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 /* Coll and Bndl metadata */
 
 /*
