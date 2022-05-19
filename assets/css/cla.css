@@ -4,6 +4,10 @@
   display: none;
 }
 
+#collbndlrec {
+  float: left;
+}
+
 p.cla-description {
   padding-left: 15px;
   padding-right: 15px;
