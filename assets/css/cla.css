@@ -40,7 +40,7 @@ div.detailonly p.title {
 
 ul.md {
   display: table-cell;
-  padding-bottom: 1.5em;
+  padding-bottom: 0.0em;
   padding-top: 1.5em;
   /* Hanging indent */
   padding-left: 10px;
@@ -70,7 +70,7 @@ li.itemlist > label.showmore {
 }
 
 li.itemlist {
-  padding-bottom: 0.4em;
+  padding-top: 0.4em;
 }
 
 /* Override font-size: 0.875rem inherited from _forms.scss line 163
