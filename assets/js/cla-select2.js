@@ -485,16 +485,15 @@ function update_coll_list(q, recs) {
          let count = collfirst + i;
          collhtml += `<li class="${liclass}">`;
          collhtml += '<input id="_coll' +  count + '" type="checkbox" name="checkbox-coll">';
-         collhtml += `<label class="${lblclass}" for="_coll${count}">`;
-         if (liclass === "itemlist") {
-           collhtml += '<a href="' + baseurl + 'collection?collid=' + r['_source']['collid'] + '=' + r['_source']['title'] + '" class="post">' + r['_source']['title'] +'</a>';
-         } else {
+         if (q === null) {
            collhtml += '<span class="title">' + r['_source']['title'] + '</span>';
+         } else {
+           collhtml += `<label class="${lblclass}" for="_coll${count}">`;
+           collhtml += '<a href="' + baseurl + 'collection?collid=' + r['_source']['collid'] + '=' + r['_source']['title'] + '" class="post">' + r['_source']['title'] +'</a>';
+           collhtml += '&nbsp;<i class="icon fa-caret-right"></i>';
+           collhtml += '</label>';
          }
-        if (q !== null) {
-          collhtml += '&nbsp;<i class="icon fa-caret-right"></i>';
-        }
-        collhtml += '</label>' + r['_source']['ul_md'];
+         collhtml += r['_source']['ul_md'];
     });
     $('#colllist').html(collhtml);
 }
