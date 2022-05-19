@@ -293,6 +293,9 @@ function do_search(collid=null) {
     populate_form_from_query_string(`?sparams%5B%5D=collid%3D${collid}=`)
   }
   const query = get_query_from_form('cla-search-form');
+  if (collid !== null) {
+    query['bndlsort'] = 'bndlident';
+  }
   const tab = $('#cla-search-form > input[name="tab"]').val();
   $.ajax({
       method: 'POST',
