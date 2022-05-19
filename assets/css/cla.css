@@ -29,7 +29,7 @@ li.itemlist > p.detailonly {
     display: none
 }
 
-div.detailonly > span.title {
+div.detailonly span.title {
   font-size: 1.5em;
 }
 
