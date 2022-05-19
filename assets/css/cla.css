@@ -23,7 +23,8 @@ li.nocount {
 }
 
 /* Show <p> of restricted digital assets only when on Bndl detail page,
- * i.e. hide it when Bndl is in a list of search results.
+ * i.e. hide it when Bndl is in a list of search results. The detailonly
+ * class is also used for Coll detail metadata.
  */
 li.itemlist > p.detailonly {
     display: none
@@ -31,6 +32,10 @@ li.itemlist > p.detailonly {
 
 div.detailonly span.title {
   font-size: 1.5em;
+}
+
+div.detailonly p.title {
+  padding-top: 15px;
 }
 
 ul.md {
