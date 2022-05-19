@@ -40,8 +40,8 @@ div.detailonly p.title {
 
 ul.md {
   display: table-cell;
-  padding-bottom: 0.0em;
-  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  padding-top: 0;
   /* Hanging indent */
   padding-left: 10px;
   text-indent: -10px;
