@@ -251,13 +251,16 @@ function do_submit(e) {
     e.preventDefault();
   }
   /*
-   * Redirect to Bndl detail page if search is specifically for a
-   * single Bndl.
+   * Redirect to Bndl/Coll detail page if search is specifically for a
+   * single Bndl/Coll.
    */
   if ($('#cla-search-form').find(':selected').length == 1) {
     const param = $('#cla-search-form').find(':selected').first().val();
     if (param.startsWith('bndlid')) {
       window.location.href = `/item/?${param}`;
+    }
+    if (param.startsWith('collid')) {
+      window.location.href = `/collection/?${param}`;
     }
   }
   $('#collpgidx').val('0');
