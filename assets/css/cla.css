@@ -8,6 +8,11 @@
   float: left;
 }
 
+/* Title on Bndl detail page */
+#collbndlrec span.title {
+  padding-bottom: 1.5em;
+}
+
 p.cla-description {
   padding-left: 15px;
   padding-right: 15px;
