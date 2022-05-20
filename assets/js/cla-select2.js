@@ -124,6 +124,7 @@ function display_bndlrec() {
         url: `${aws_endpoint}/item/${bndlid}`,
         success: function(data) {
             const rsource = data['hits']['hits'][0]['_source'];
+/* TODO: refactor this out of get_bndllicontent */
             $('#collbndlrec').html(get_bndllicontent(rsource, -1));
         }
     });
@@ -517,22 +518,22 @@ function get_bndllicontent(bsource, count) {
     } else {
         bndlhtml += '<span class="title">' + bsource['title'] + '</span>';
     }
-    let assetcnt = bsource['assetcnt'];
-    if (typeof(assetcnt) != 'undefined' && assetcnt > 0) {
-        bndlhtml += ' (' + assetcnt + '&nbsp;digital file';
-        if (assetcnt > 1) {
-            bndlhtml += 's';
-        }
-        let has_audio = bsource['has_audio'];
-        if (typeof(has_audio) != 'undefined' && has_audio) {
-            bndlhtml += ', with audio';
-        }
-        bndlhtml += ')';
-        if (typeof(has_audio) != 'undefined' && has_audio) {
-            bndlhtml += '&nbsp;<i class="icon fa-file-audio"></i>';
-        }
-    }
     if (count >= 0) {
+      let assetcnt = bsource['assetcnt'];
+      if (typeof(assetcnt) != 'undefined' && assetcnt > 0) {
+          bndlhtml += ' (' + assetcnt + '&nbsp;digital file';
+          if (assetcnt > 1) {
+              bndlhtml += 's';
+          }
+          let has_audio = bsource['has_audio'];
+          if (typeof(has_audio) != 'undefined' && has_audio) {
+              bndlhtml += ', with audio';
+          }
+          bndlhtml += ')';
+          if (typeof(has_audio) != 'undefined' && has_audio) {
+              bndlhtml += '&nbsp;<i class="icon fa-file-audio"></i>';
+          }
+      }
         bndlhtml += '&nbsp;<i class="icon fa-caret-right"></i></label>';
     }
     bndlhtml += bsource['ul_md'];
