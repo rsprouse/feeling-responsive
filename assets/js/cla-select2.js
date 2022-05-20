@@ -516,7 +516,7 @@ function get_bndllicontent(bsource, count) {
             bndlhtml += ' (' + datestr + ') ';
         }
     } else {
-        bndlhtml += '<span class="title">' + bsource['title'] + '</span>';
+        bndlhtml += '<p><span class="title">' + bsource['title'] + '</span></p>';
     }
     if (count >= 0) {
       let assetcnt = bsource['assetcnt'];
