@@ -8,10 +8,16 @@ header:
 sitemap: true
 ---
 
-### Oswalt Endangered Language Grants
+### Survey-sponsored Grants
 
-<b>Deadline</b>: late 2022 (TBA)<br>
+<b>Deadline</b>: December 7, 2022<br>
 <b>Award</b>: typical grants will be no more than $6,000.
+
+Berkeley students, faculty members, and staff (in any department) are invited to apply for an <b>Oswalt Endangered Language Grant</b>. This funding comes through the Robert L. Oswalt Graduate Student Support Endowment for Endangered Language Documentation, given in memory of Robert L. Oswalt (Ph.D. UC Berkeley 1961) by his widow and sons. It is restricted to Berkeley affiliates, for linguistic fieldwork on endangered languages (anywhere in the world).
+
+In 2022, Berkelely affiliates may also apply for separate <b>grants for language revitalization work</b>. These grants have a separate funding source, and are not subject to the terms of the Oswalt gift.
+
+For more details and how to apply, click <a href="https://forms.gle/vTYNbA2a1Xe6qnBFA">here</a>.
 
 <div class="between_images">
 <figure>
@@ -19,10 +25,6 @@ sitemap: true
   <figcaption class="caption"> Robert Oswalt with Essie Parrish, a speaker of Kashaya, 1960 (<a href="http://www.livewild.org/RLO/index.html">Image source</a>)</figcaption>
 </figure>
 </div>
-
-Berkeley graduate students (in any department) are invited to apply for funding for linguistic fieldwork on endangered languages. This funding comes through the Robert L. Oswalt Graduate Student Support Endowment for Endangered Language Documentation, given in memory of Robert L. Oswalt (Ph.D. UC Berkeley 1961) by his widow and sons. It is restricted to Berkeley graduate students, for linguistic fieldwork on endangered languages (anywhere in the world).
-
-For more details and how to apply, click <a href="https://forms.gle/Mkm28qpAjiZ1p6Ap7">here</a>.
 
 ### Other sources of funding <br>
 
