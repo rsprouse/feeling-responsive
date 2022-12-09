@@ -706,4 +706,11 @@ For a complete listing of Berkeley PhD dissertations in linguistics, see [here](
 <td>Sharon Inkelas and Lev Michael</td>
 </tr>
    
+<tr>
+<td>2021</td>
+<td>Erik Hans Maier</td>
+<td><em>A Treebank of the Karuk Language</em> [<a href="https://escholarship.org/uc/item/0w40v7sg?">PDF</a>]</td>
+<td>Line Mikkelsen</td>
+</tr>
+   
 </table>
