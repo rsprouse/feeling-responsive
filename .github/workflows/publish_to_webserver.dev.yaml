@@ -55,7 +55,7 @@ jobs:
 
       # Standard usage deploys to gh-pages branch
        - uses:  helaili/jekyll-action@v2
-        with:
+         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
 #      - name: Install SSH key
