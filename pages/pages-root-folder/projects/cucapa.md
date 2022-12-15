@@ -19,7 +19,7 @@ Al recopilar las publicaciones, tesis y diferentes tipos de registros de la leng
 
 El mes de agosto del 2022 realizamos el taller <i>Aprendiendo a enseñar la lengua cucapá</i>, dirigido a miembros de las comunidades cucapá, con la participación de diferentes instructores. Durante el taller se trataron temas importantes como (a) dar prioridad a la lengua oral sobre la escrita, (b) la inclusión de las diferentes formas de hablar la lengua, (c) la integración de las personas con diferentes tipos de bilingüismo para que sigan adquiriendo la lengua, (d) la relación inseparable de la lengua y la cultura y, (e) las diferentes posibilidades para usar y enseñar la lengua en espacios como la casa, la comunidad o la escuela. Todo esto, haciendo énfasis en que son los propios cucapá quienes deben dirigir la planificación lingüística y las acciones de enseñanza.
 
-<div class="image project_images">
+<div class="between_images">
 <img src="{{ site.urlimg }}cucapa.jpg" alt="taller cucapá" style="width:500px;"/>
 </div>
 
@@ -42,7 +42,7 @@ Upon gathering the publications, theses, and different types of records of the l
 
 In August of 2022 we carried out the workshop <i>Aprendiendo a enseñar la lengua cucapá</i> (<i>Learning to Teach the Cucupá Language</i>), directed by members of the Cucapá communities, with the participation of different instructors. During the workshop, important topics were dealt with like (a) giving priority to oral over written language, (b) the inclusion of different forms of speaking the language, (c) the integration of people with different types of bilingualism so that they keep acquiring the language, (d) the inseparable relation of language and culture, and (e) the different possibilities for using and teaching the language in spaces like the home, the community, or the school. All this, emphasizing that it is the Cucapá themselves who should direct language planning and teaching efforts.
 
-<div class="image project_images">
+<div class="between_images">
 <img src="{{ site.urlimg }}cucapa.jpg" alt="taller cucapá" style="width:500px;"/>
 </div>
 
