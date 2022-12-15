@@ -19,9 +19,10 @@ Al recopilar las publicaciones, tesis y diferentes tipos de registros de la leng
 
 El mes de agosto del 2022 realizamos el taller <i>Aprendiendo a enseñar la lengua cucapá</i>, dirigido a miembros de las comunidades cucapá, con la participación de diferentes instructores. Durante el taller se trataron temas importantes como (a) dar prioridad a la lengua oral sobre la escrita, (b) la inclusión de las diferentes formas de hablar la lengua, (c) la integración de las personas con diferentes tipos de bilingüismo para que sigan adquiriendo la lengua, (d) la relación inseparable de la lengua y la cultura y, (e) las diferentes posibilidades para usar y enseñar la lengua en espacios como la casa, la comunidad o la escuela. Todo esto, haciendo énfasis en que son los propios cucapá quienes deben dirigir la planificación lingüística y las acciones de enseñanza.
 
-<div class="image center project_images">
+<div class="image project_images">
 <img src="{{ site.urlimg }}cucapa.jpg" alt="taller cucapá" style="width:500px;"/>
 </div>
+
 
 En uno de los recesos del taller compartimos algunos audios de cucapá, entre los que estaban los archivos de Crawford del California Language Archive. Los audios que compartimos fueron la narración sobre el coyote de Crawford, otro con una plática y uno más con elicitación de palabras. Algunos de quienes escucharon los audios eran Alonso Pesado, Amelia Chan, Aronia Wilson, Aurelia Cañedo, Eronia Tambo y Rosa Tambo.
 
@@ -41,9 +42,10 @@ Upon gathering the publications, theses, and different types of records of the l
 
 In August of 2022 we carried out the workshop <i>Aprendiendo a enseñar la lengua cucapá</i> (<i>Learning to Teach the Cucupá Language</i>), directed by members of the Cucapá communities, with the participation of different instructors. During the workshop, important topics were dealt with like (a) giving priority to oral over written language, (b) the inclusion of different forms of speaking the language, (c) the integration of people with different types of bilingualism so that they keep acquiring the language, (d) the inseparable relation of language and culture, and (e) the different possibilities for using and teaching the language in spaces like the home, the community, or the school. All this, emphasizing that it is the Cucapá themselves who should direct language planning and teaching efforts.
 
-<div class="image center project_images">
+<div class="image project_images">
 <img src="{{ site.urlimg }}cucapa.jpg" alt="taller cucapá" style="width:500px;"/>
 </div>
+
 
 In one of the breaks during the workshop, we shared some Cucapá audio file from those that were among the Crawford files at the California Language Archive. The audio files that we shared  were Crawford's narrative about Coyote, another with a conversation, and one more with elicitation of words. Some of those who listened to the audio files were Alonso Pesado, Amelia Chan, Aronia Wilson, Aurelia Cañedo, Eronia Tambo, and Rosa Tambo.
 
