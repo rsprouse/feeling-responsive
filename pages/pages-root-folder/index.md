@@ -16,9 +16,9 @@ widget1:
   text: Gilbert Natches's Northern Paiute documentation
 widget2:
   title: "Project spotlight"
-  url: projects/atchan.html
-  image: atchan3.jpg
-  text: The Atchan language project
+  url: projects/cucapa.html
+  image: cucapa.jpg
+  text: El fortalecimiento de la lengua cucapá
 widget3:
   title: "Collection spotlight"
   url: collections/matsigenka_yine.html
