@@ -1,11 +1,10 @@
 # This action builds the CLA website and copies the files to the
 # gh-pages-dev branch when a commit is pushed to github.
 
-name: Build Dev CLA website with Jekyll and deploy to gh-pages-dev branch
+name: Build Dev CLA website with Jekyll and deploy to gh-pages-(dev|prod) branch
 
 on:
   release:
-    branches: [ main ]
     types: 
       - released
       - prereleased
@@ -25,14 +24,18 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      # Standard usage deploys to gh-pages branch
-      - uses:  helaili/jekyll-action@v2
+      - name:  dev_build
+        if: "github.event.release.prerelease"
+        uses:  helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          if: "github.event.release.prerelease"
-            jekyll_build_options: --config _config.yml,_config_dev.yml
-            target_branch: gh-pages-dev
-          if: "!github.event.release.prerelease"
-            target_branch: gh-pages-prod
+          jekyll_build_options: --config _config.yml,_config_dev.yml
+          target_branch: gh-pages-dev
           # Set to development env if you want to prevent minifying the output.
-#          jekyll_env: development
+#            jekyll_env: development
+      - name:  prod_build
+        if: "!github.event.release.prerelease"
+        uses:  helaili/jekyll-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: gh-pages-prod
