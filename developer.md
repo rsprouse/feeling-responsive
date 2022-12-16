@@ -32,7 +32,7 @@ public website, using branch `main`:
 
 1. Determine the version number of the new release.
 1. Publish a prerelease version of the website for testing.
-   * Go to the [repo releases page](releases).
+   * Go to the [repo releases page](./releases).
    * Click the 'Draft a new release' button.
    * Click the 'Choose a tag' button and enter the version, e.g. 'v1.0.15'. In the widget click on 'Create new tag: v1.0.15 on publish' option.
    * Enter the version as the title, e.g. 'v1.0.15'.
@@ -41,10 +41,10 @@ public website, using branch `main`:
    * Click the 'Publish release' button.
 1. Verify that the publishing action succeeded by reviewing the GitHub
 Actions build logs.
-1. View the [prerelease build result](tree/gh-pages-dev).
+1. View the [prerelease build result](./tree/gh-pages-dev).
 1. Pull the prerelease site to the ling server (see below).
 1. Review the
-['prerelease' website](https://trill.linguistics.berkeley.edu)
+['prerelease' website](./https://trill.linguistics.berkeley.edu)
 by visiting the site in your web browser.
   ***If the prerelease is not satisfactory and additional changes are required,
 make the needed changes and commit and push to github. Then reset the commit
@@ -52,12 +52,12 @@ referenced by the release to the latest commit so that the release includes
 your new changes. One way to do that is to delete the existing
 release and tag on github, then redo the preceding steps to re-create the new
 release. One way to delete the release is to visit the
-[releases page](releases), click on the release name, then click on the
-'Delete' button. Next visit the [tags page](tags), click on the corresponding
+[releases page](./releases), click on the release name, then click on the
+'Delete' button. Next visit the [tags page](./tags), click on the corresponding
 tag name, then click on the 'Delete' button to delete the tag.***
 1. If the prerelease website is satisfactory, edit the release on GitHub and
 remove the 'pre-release' qualifier. This will build the website again and
-push the result to the [gh-pages-prod branch](tree/gh-pages-prod).
+push the result to the [gh-pages-prod branch](./tree/gh-pages-prod).
 1. Pull the production release site to the ling server (see below).
 
 See the file [`.github/workflows/publish_to_branch_on_release.yaml`](../.github/workflows/publish_to_branch_on_release.yaml)
