@@ -35,7 +35,7 @@ jobs:
 #            jekyll_env: development
       - name:  prod_build
         if: "!github.event.release.prerelease"
-        uses:  helaili/jekyll-action@v2
+        uses:  helaili/jekyll-action@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: gh-pages-prod
