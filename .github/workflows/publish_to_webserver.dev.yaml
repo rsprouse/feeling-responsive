@@ -32,9 +32,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-20.04
-#    env:
-#      DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
-#      DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
  
     steps:
       - uses: actions/checkout@v2
@@ -47,33 +44,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
- #     - uses: ruby/setup-ruby@v1
- #       with:
- #         ruby-version: 2.7
- #         bundler-cache: true
- #     - run: bundle exec jekyll build --config _config.yml,_config_dev.yml
-
       # Standard usage deploys to gh-pages branch
       - uses:  helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: gh-pages-dev
+          jekyll_env: development
           jekyll_build_options: --config _config.yml,_config_dev.yml
-
-
-#      - name: Install SSH key
-#        uses: shimataro/ssh-key-action@v2
-#        with:
-#          key: ${{ secrets.SSH_PRIVATE_KEY }}
-#          known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
-#      - name: Set deployment path
-#        if: "!github.event.release.prerelease"
-#        run:
-#          echo "DEPLOY_PATH=${{ secrets.DEPLOY_PATH_DEV }}" >> $GITHUB_ENV
-#      - name: Publish to public web server with rsync over ssh
-#        run: |
-#          pwd
-#          ls -al
-#          ls -alR _site_dev
-#          rsync -a _site_dev/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
-
