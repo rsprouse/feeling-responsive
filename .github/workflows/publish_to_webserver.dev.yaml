@@ -23,7 +23,7 @@
 #    be copied to DEPLOY_HOST.
 
 
-name: Build Dev CLA website with Jekyll and deploy to server
+name: Build Dev CLA website with Jekyll and deploy to gh-pages-dev branch
 
 on:
   push:
@@ -32,31 +32,33 @@ on:
 jobs:
   build:
     runs-on: ubuntu-20.04
-    env:
-      DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
-      DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
+#    env:
+#      DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+#      DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
  
     steps:
       - uses: actions/checkout@v2
 
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
-#      - uses: actions/cache@v2
-#        with:
-#          path: vendor/bundle
-#          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-#          restore-keys: |
-#            ${{ runner.os }}-gems-
-
-      - uses: ruby/setup-ruby@v1
+      - uses: actions/cache@v2
         with:
-          ruby-version: 2.7
-          bundler-cache: true
-      - run: bundle exec jekyll build --config _config.yml,_config_dev.yml
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+ #     - uses: ruby/setup-ruby@v1
+ #       with:
+ #         ruby-version: 2.7
+ #         bundler-cache: true
+ #     - run: bundle exec jekyll build --config _config.yml,_config_dev.yml
 
       # Standard usage deploys to gh-pages branch
       - uses:  helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          jekyll_build_options: --config _config.yml,_config_dev.yml
+
 
 #      - name: Install SSH key
 #        uses: shimataro/ssh-key-action@v2
