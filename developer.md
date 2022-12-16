@@ -39,8 +39,8 @@ public website, using branch `main`:
    * Enter a description.
    * Select the 'This is a pre-release' checkbox.
    * Click the 'Publish release' button.
-1. Verify that the publishing action succeeded by reviewing the GitHub
-Actions build logs.
+1. Verify that the publishing action succeeded by reviewing the [GitHub
+Actions build logs](https://github.com/rsprouse/feeling-responsive/actions).
 1. View the [prerelease build result](https://github.com/rsprouse/feeling-responsive/tree/gh-pages-dev).
 1. Pull the prerelease site to the ling server (see below).
 1. Review the
@@ -58,8 +58,8 @@ tag name, then click on the 'Delete' button to delete the tag.***
 1. If the prerelease website is satisfactory, edit the release on GitHub and
 remove the 'pre-release' qualifier. This will build the website again and
 push the result to the [gh-pages-prod branch](https://github.com/rsprouse/feeling-responsive/tree/gh-pages-prod).
-1. Verify that the publishing action succeeded by reviewing the GitHub
-Actions build logs.
+1. Verify that the publishing action succeeded by reviewing the [GitHub
+Actions build logs](https://github.com/rsprouse/feeling-responsive/actions).
 1. View the [full release build result](https://github.com/rsprouse/feeling-responsive/tree/gh-pages-prod).
 1. Pull the production release site to the ling server (see below).
 
