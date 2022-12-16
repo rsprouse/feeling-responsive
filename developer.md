@@ -66,14 +66,15 @@ file for details on configuring the publishing action.
 ## Pulling the website to the ling server
 
 The dev and prod versions of the website have been set up on the ling
-server already. The gh-pages-dev and gh-pages-prod branches were cloned
+server already. The `gh-pages-dev` and `gh-pages-prod` branches were cloned
 to appropriate folders (via `git clone -b gh-pages-dev https://github.com/rsprouse/feeling-responsive` and `git clone -b gh-pages-prod https://github.com/rsprouse/feeling-responsive`). These locations were configured in the
 `200-cla.conf` apache configuration file.
 
 To update the contents of these folders, log in to the ling server and
-do the following from the folder root:
+`cd` to the appropriate directory for the `gh-page-dev` or `gh-page-prod`
+branch. Then do:
 
 `git pull origin --rebase --allow-unrelated-histories`
 
 Files are pulled from the appropriate branch, depending on whether you
-give this command from the dev or prod folder.
+give this command from the `gh-pages-dev` or `gh-pages-prod` folder.
