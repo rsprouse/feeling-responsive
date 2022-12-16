@@ -5,12 +5,14 @@
 <script type="text/javascript" src="assets/js/cla-map.js"></script>
 <script type="text/javascript">
   initMap('{{ site.clamap }}');
+
 </script>
 {% endif %}
 
 {% if page.mediaplayer == true %}
 <script>
 $('audio,video').mediaelementplayer();
+
 </script>
 {% endif %}
 
@@ -23,6 +25,7 @@ $('audio,video').mediaelementplayer();
 <script>
     $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
     $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
+
 </script>
 {% endif %}
 
@@ -49,6 +52,7 @@ $('audio,video').mediaelementplayer();
     });
   {% endif %}
   configure_select2("{{ site.search.aws_endpoint }}", "{{ site.search.placeholder }}");
+
 </script>
 {% endif %}
 
@@ -77,6 +81,7 @@ $('audio,video').mediaelementplayer();
   $('#search_button').click();
   toggle_showall('coll');
 */
+
 </script>
 {% endif %}
 
@@ -95,6 +100,7 @@ $('audio,video').mediaelementplayer();
   } else {
     $('#collbndlrec').html('<p>The ' + paramname + ' parameter was not included in the url.</p>');
   }
+
 </script>
 {% endif %}
 
@@ -102,12 +108,13 @@ $('audio,video').mediaelementplayer();
 {% comment %}
 Make tabs work correctly after content is loaded.
 {% endcomment %}
-  <script src="{{ site.url }}{{ site.baseurl }}assets/js/foundation.tab.min.js"></script>
-  <script type="application/javascript">
-    window.addEventListener('DOMContentLoaded', function(e) {
+<script src="{{ site.url }}{{ site.baseurl }}assets/js/foundation.tab.min.js"></script>
+<script type="application/javascript">
+  window.addEventListener('DOMContentLoaded', function(e) {
       $(document).foundation('tab', 'reflow');
   } );
-  </script>
+
+</script>
 {% endif %}
 
 {% if page.iframe_include %}
@@ -153,6 +160,7 @@ s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
+
 </script>
 {% endif %}
 
