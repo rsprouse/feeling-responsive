@@ -60,7 +60,7 @@ remove the 'pre-release' qualifier. This will build the website again and
 push the result to the [gh-pages-prod branch](https://github.com/rsprouse/feeling-responsive/tree/gh-pages-prod).
 1. Pull the production release site to the ling server (see below).
 
-See the file [`.github/workflows/publish_to_branch_on_release.yaml`](https://github.com/rsprouse/feeling-responsive/.github/workflows/publish_to_branch_on_release.yaml)
+See the file [`.github/workflows/publish_to_branch_on_release.yaml`](https://github.com/rsprouse/feeling-responsive/blog/main/.github/workflows/publish_to_branch_on_release.yaml)
 file for details on configuring the publishing action.
 
 ## Pulling the website to the ling server
