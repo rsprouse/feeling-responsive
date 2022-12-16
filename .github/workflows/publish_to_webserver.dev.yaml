@@ -4,8 +4,11 @@
 name: Build Dev CLA website with Jekyll and deploy to gh-pages-dev branch
 
 on:
-  push:
+  release:
     branches: [ main ]
+    types: 
+      - released
+      - prereleased
 
 jobs:
   build:
@@ -26,6 +29,10 @@ jobs:
       - uses:  helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: gh-pages-dev
-          jekyll_build_options: --config _config.yml,_config_dev.yml
+          if: "github.event.release.prerelease"
+            jekyll_build_options: --config _config.yml,_config_dev.yml
+            target_branch: gh-pages-dev
+          if: "!github.event.release.prerelease"
+            target_branch: gh-pages-prod
+          # Set to development env if you want to prevent minifying the output.
 #          jekyll_env: development
