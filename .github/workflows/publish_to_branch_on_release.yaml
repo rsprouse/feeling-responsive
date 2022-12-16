@@ -26,7 +26,7 @@ jobs:
 
       - name:  dev_build
         if: "github.event.release.prerelease"
-        uses:  helaili/jekyll-action@v2
+        uses:  helaili/jekyll-action@v2.4.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_build_options: --config _config.yml,_config_dev.yml
