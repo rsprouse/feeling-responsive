@@ -58,6 +58,9 @@ tag name, then click on the 'Delete' button to delete the tag.***
 1. If the prerelease website is satisfactory, edit the release on GitHub and
 remove the 'pre-release' qualifier. This will build the website again and
 push the result to the [gh-pages-prod branch](https://github.com/rsprouse/feeling-responsive/tree/gh-pages-prod).
+1. Verify that the publishing action succeeded by reviewing the GitHub
+Actions build logs.
+1. View the [full release build result](https://github.com/rsprouse/feeling-responsive/tree/gh-pages-prod).
 1. Pull the production release site to the ling server (see below).
 
 See the file [`.github/workflows/publish_to_branch_on_release.yaml`](https://github.com/rsprouse/feeling-responsive/blob/main/.github/workflows/publish_to_branch_on_release.yaml)
