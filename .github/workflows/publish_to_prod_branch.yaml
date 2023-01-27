@@ -1,0 +1,27 @@
+# This action builds the CLA website and copies the files to the
+# gh-pages-prod branch when a commit is pushed to github.
+
+name: Build Prod CLA website with Jekyll and deploy to gh-pages-prod branch
+
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+ 
+    steps:
+      - uses: actions/checkout@v3
+
+      # Use GitHub Actions' cache to shorten build times and decrease load on servers
+      - uses: actions/cache@v3
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name:  prod_build
+        uses:  helaili/jekyll-action@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: gh-pages-prod
