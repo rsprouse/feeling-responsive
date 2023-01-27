@@ -7,5 +7,6 @@ header:
    title: California Language Archive
 sitemap: true
 iframe_include: person-list.html
+iframe_aria_label: Alphabetical list of all identified contributors in the CLA
 ---
 
