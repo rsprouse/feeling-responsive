@@ -13,16 +13,19 @@ widget1:
   title: "The CLA Blog"
   url: blog/2022/northern_paiute_natches.html
   image: natches021.png
+  imgalt: Photo of field notebook
   text: Gilbert Natches's Northern Paiute documentation
 widget2:
   title: "Project spotlight"
   url: projects/cucapa.html
   image: cucapa.jpg
+  imgalt: Photo of Cucapá community members
   text: El fortalecimiento de la lengua cucapá
 widget3:
   title: "Collection spotlight"
   url: collections/matsigenka_yine.html
   image: lewingtonmap02.jpg
+  imgalt: Hand-drawn map of the river system in the area where Matsigenka is spoken
   text: Anna Lewington Collection of Matsigenka and Yine Recordings
 #
 # Use the call for action to show a button on the frontpage

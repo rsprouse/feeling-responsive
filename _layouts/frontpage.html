@@ -17,15 +17,15 @@ format: frontpage
 {% endcomment %}
 <div class="row t60">
 	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
-		{% include _frontpage-widget.html widget=page.widget1 %}
+		{% include _frontpage-widget.html widget=page.widget1 imgalt=page.widget1.imgalt %}
 	{% endif %}
 
 	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
-		{% include _frontpage-widget.html widget=page.widget2 %}
+		{% include _frontpage-widget.html widget=page.widget2 imgalt=page.widget2.imgalt %}
 	{% endif %}
 
 	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
+		{% include _frontpage-widget.html widget=page.widget3 imgalt=page.widget3.imgalt %}
 	{% endif %}
 </div><!-- /.row -->
 

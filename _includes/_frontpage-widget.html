@@ -3,7 +3,7 @@
 *   First the include captures the url and image in a
 *   separate variable to make the code better readable.
 *
-*   These variables are widget_url and widget_image
+*   These variables are widget_url, widget_image, and widget_imgalt
 *
 {% endcomment %}
 
@@ -11,6 +11,7 @@
 
 {% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
 
+{% capture widget_imgalt %}{% if include.widget.imgalt != NULL %}{{ include.widget.imgalt }}{% endif %}{% endcapture %}
 
 <div class="medium-4 columns frontpage-widget">
 	{% if include.widget.video %}
@@ -19,7 +20,7 @@
 		{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
 	{% else %}
 		<a href="{{ widget_url }}">
-			{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
+			{% if widget_image != empty %}<img src="{{ widget_image }}" alt="{{ widget_imgalt }}" />{% endif %}
 		</a>
 	{% endif %}
 	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
