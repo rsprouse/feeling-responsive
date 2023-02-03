@@ -33,12 +33,6 @@ sitemap: true
 **Anna Macknick's** (Assistant, Graduate Student, Linguistics) work focuses on language reclamation, dialectal variation, and morphology. They are working with Robert Geary (Elem Pomo) on building an online dictionary of Xaitsnue ([Southeastern Pomo](languages/southeastern-pomo.php)), along with other community-oriented language materials, to support language learners. Anna has also worked on Northern New Mexican Spanish, their heritage language, primarily with archival materials from UNM’s Center for Southwest Research.
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
-</div>
-
-<a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Assistant; Graduate Student, Linguistics) </a> is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. Since 2020, she has worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, including co-teaching a weekly class as well as archival research.
-
-<div class="image right people_images">
 <img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
 </div>
 
@@ -46,23 +40,29 @@ sitemap: true
 
 ### <a name="affiliates"></a>Affiliates
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}Arms-Nicolas-photo.jpg" alt="Nicolas Arms"/>
 </div>
 
 **Nicolas Arms** (Graduate Student, Anthropology) studies deixis and other indexical phenomena in language, focusing on the deictic systems of indigenous languages of the Americas, and on the contribution of deictic expressions to the multimodal dynamics of everyday communicative interaction. Since 2018, he has been carrying out fieldwork on 'Weenhayek, a Mataguayan language spoken in the Bolivian Chaco.
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}carpenter.jpg" alt="Kayla Carpenter"/>
 </div>
 
 <a name="kayla">[Kayla Begay](http://www.kaylabegay.com/) (Hupa; PhD 2017, Linguistics)</a> received a BA from Stanford and wrote her dissertation <a href="https://escholarship.org/uc/item/76x3h5kg"><i>Wailaki Grammar</i></a> on a Dene language spoken along the Eel River in northern California. Now an Assistant Professor of Native American Studies at Humboldt State University, her research focuses on Dene languages, and on historical-comparative linguistics for language revitalization within the Wailaki and Hupa communities. While at Berkeley she also worked with speakers of Karuk. Begay is a coauthor of "<i>Xoch Na:nahsdetl-te:</i> Survivance, resilience and unbroken traditions in northwest California" (2019, with Cutcha Risling Baldy, in <i>Ka'm-t'em: A Journey Toward Healing</i>), and has contributed to the Hupa Online Dictionary and Texts project (at UC Davis). She is also a member of the board of the Advocates for Indigenous California Language Survival.
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}beier.jpg" alt="Christine Beier"/>
 </div>
 
 [Christine Beier](https://lx.berkeley.edu/christine-beier) (Assistant Adjunct Professor of Linguistics) dedicates her research and field activities to the documentation, description, revitalization, and revalorization of small and endangered languages, primarily in Peruvian Amazonia. She is particularly interested in the social life of language, text-driven research, and the value of diversified collaboration in addressing language vitality and endangerment. Thus far, she has worked with inheritors and speakers of Andoa (also: Katsakáti; Zaparoan), Aʔiwa (isolate), Chamikuro (Arawakan), Iquito (also: Ikíìtù; Zaparoan), Matsigenka (Arawak), Máíhĩ̀kì (also: Orejón, Tukanoan), Nanti (Arawak), Muniche (isolate), Omagua (Tupí-Guaraní), and Záparo (also: Sápara; Zaparoan). She is also co-founder, with [Lev Michael](https://lx.berkeley.edu/lev-michael), and secretary/treasurer of [Cabeceras Aid Project](http://www.cabeceras.org/), a non-profit organization whose humanitarian work supports the social and physical well-being of communities whose languages, cultures, and ways of life are endangered.
+
+<div class="image left people_images">
+<img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
+</div>
+
+<a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Assistant; Graduate Student, Linguistics) </a> is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. Since 2020, she has worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, including co-teaching a weekly class as well as archival research.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}deal.jpg" alt="Amy Rose Deal"/>
@@ -104,7 +104,7 @@ sitemap: true
 <img src="{{ site.urlimg }}maier.jpg" alt="Erik Maier"/>
 </div>
 
-[Erik Maier](http://linguistics.berkeley.edu/~erikhmaier/) (Graduate Student, Linguistics) is part of the Karuk Research Unit, a group which conducts regular fieldwork with remaining Karuk speakers, manages an online dictionary and text corpus of the language, works with the Karuk community to support their language revitalization efforts, and is currently building a dependency grammar syntactic treebank of Karuk. His research interests include language documentation and revitalization, morphology, syntax, semantics, and verbal art.
+[Erik Maier](http://linguistics.berkeley.edu/~erikhmaier/) (PhD 2022, Linguistics) is part of the Karuk Research Unit, a group which conducts regular fieldwork with remaining Karuk speakers, manages an online dictionary and text corpus of the language, works with the Karuk community to support their language revitalization efforts, and is currently building a dependency grammar syntactic treebank of Karuk. His research interests include language documentation and revitalization, morphology, syntax, semantics, and verbal art.
 
 
 <div class="image left people_images">
@@ -156,23 +156,10 @@ sitemap: true
 [Allegra Robertson](https://sites.google.com/view/allegrarobertson) (Graduate Student, Linguistics) is interested in Amazonian languages, indigenous language revitalization, phonetics and phonology. She began conducting fieldwork in Guyana in 2017, where she documented Warao (isolate) with a focus on imperatives and morphology. Her current research focuses on contrastive phonation and gradient weight in Yanesha' (Arawak), from phonetic, phonological, and historical perspectives. Since 2017 she has also been involved in the Berkeley Comparative Arawakan Project, led by [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html).
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}sandy.jpg" alt="Clare Sandy"/>
-</div>
-
-[Clare Sandy](http://linguistics.berkeley.edu/~csandy/Site/Home.html) (PhD 2017, Linguistics) is a Lecturer at San Jos&eacute; State University and has been part of the Karuk Research Unit group conducting fieldwork on Karuk, and managing an online dictionary and text corpus of the language, and working with the Karuk community to support their language revitalization efforts. She has also carried out team based linguistic fieldwork on Omagua, a highly endangered language of the Peruvian Amazon, and has worked with Sierra Miwok, Mono, and Eastern Pomo speakers and language learners at the Breath of Life Workshop. Her research interests include phonology, morphology, and language change, and her dissertation work focuses on the accentual system of Karuk. She is also interested in database development and in making archival linguistic materials accessible.
-
-<div class="image right people_images">
 <img src="{{ site.urlimg }}wesley_new.jpeg" alt="Wesley dos Santos" style="padding-right:7px; padding-top:10px;"/>
 </div>
 
 [Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos) (Graduate Student, Linguistics) is interested on the documentation and analysis of grammatical phenomena of South American languages. His current work focuses on Kawahíva (Tupí-Guaraní), an endangered Amazonian language of Brazil spoken by some 550 speakers in the states of Amazonas, Mato Grosso and Rondônia. In particular, he has been documenting the differences and conditioning factors in constituent order, person-marking indexes and dependent clauses of Kawahíva varieties known as Juma (ISO code: jua) and Uru Eu Wau Wau (ISO code: urz).
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}sardinha.png" height="150" width="125" alt="Katie Sardinha"/>
-</div>
-
-[Katie Sardinha](https://www.kaotiva.ca/) (PhD 2017, Linguistics) began work on Kwak'wala, a Northern Wakashan language spoken on the central coast of British Columbia, in 2009. Her dissertation work investigated object case patterns in the language and the relationship between object case and event structure. More generally, her Kwak'wala research has focused on phenomena at the syntax-semantic interface and syntactic change within the Wakashan language family. Katie is interested in fieldwork methodology and creative language teaching tools, and has developed Story-builder, a visual story-telling card set which can be downloaded from her website, [www.story-builder.ca](http://www.story-builder.ca/).
-
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}amalia.jpeg" alt="Amalia Skilton"/>
