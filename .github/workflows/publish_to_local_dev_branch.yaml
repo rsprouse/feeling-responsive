@@ -25,6 +25,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_build_options: --config _config.yml,_config_local_dev.yml
-          target_branch: gh-pages-local_dev
+          target_branch: gh-pages-local-dev
           # Set to development env if you want to prevent minifying the output.
 #            jekyll_env: development
