@@ -1,7 +1,7 @@
 # This action builds the CLA website and copies the files to the
 # gh-pages-local-dev branch when a commit is pushed to github.
 
-name: Build Dev CLA website with Jekyll and deploy to gh-pages-local-dev branch
+name: Build Local Dev CLA website with Jekyll and deploy to gh-pages-local-dev branch
 
 on: workflow_dispatch
 
