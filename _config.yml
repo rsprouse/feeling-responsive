@@ -75,6 +75,10 @@ search:
   aws_endpoint: https://xfhpwly456.execute-api.us-east-1.amazonaws.com/api/
 #  aws_endpoint: https://vuuf8mlr15.execute-api.us-east-1.amazonaws.com/devapi/
 
+# Soundcloud styling. text_color sets sound cloud caption text color.
+soundcloud:
+  text_color: #4F4F4F
+
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
 #     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
