@@ -77,7 +77,7 @@ search:
 
 # Soundcloud styling. text_color sets sound cloud caption text color.
 soundcloud:
-  text_color: #4F4F4F
+  text_color: '#4F4F4F'
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
