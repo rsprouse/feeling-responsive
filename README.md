@@ -17,13 +17,11 @@ Subdirectories of `pages/pages-root-folder` will also be rendered as .html files
 
 ## Updating
 
-When the site is built, sync to the server with:
+When the site is built, `cd` to the destination server directory under `/home/sites` and do:
 
 ```bash
-rsync -rvzh --delete -e ssh _site/* username@server.berkeley.edu:/home/sites/scoil_dev_cla_public_static/
+git pull origin --rebase --allow-unrelated-histories
 ```
-
-The `--delete` option removes files on the server that are not in the new site.
 
 ## File organization
 
