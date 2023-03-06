@@ -8,7 +8,7 @@ header:
 sitemap: true
 ---
 
-<center><a href="https://cla.berkeley.edu/pa" class="button">Depositor Login</a></center>
+<div style="text-align:center"><a href="https://cla.berkeley.edu/pa" class="button">Depositor Login</a></div>
 
 ### Donating materials to the CLA
 

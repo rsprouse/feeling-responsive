@@ -15,7 +15,7 @@ The traditional Kumeyaay language area is the southern portions of what are now 
 
 The first grammar of Kumeyaay was written by Margaret Langdon, whose fieldnotes are now at the Bancroft Library at UC Berkeley. Langdon designed a practical Kumeyaay writing system which is in use today; we will also use it here. Kumeyaay has 26 consonants: bilabial *p*, *v*, *m*, *w*; dental *t*, *s*, *n*, *r* (flap); alveolar *tt*, *ss*, *nn*, *l*, *ll* (voiceless), *nn* and *rr* (trill); palatal *ch*, *ny*, *ly*, *lly* (voiceless), *y*; velar *k*, *x*; labiovelar *kw*, *xw*; postvelar *q*, and glottal stop (*'*).  It has four vowels (*a*, *i*, *o*, *u*) long and short, and the reduced vowel schwa, represented in the orthography as *e*. Besides basic noun stems, new stems can be formed through reduplication and compounding, or derivation from verbs. Nouns in Kumeyaay are marked for possession, with kinship terms, body parts and alienably possessed nouns marked differently from each other. Nouns have a relatively robust case system, including subject, object, indirect object, instrumental case, and a number of locationals and directionals. Like many other California languages, verbal morphology is very rich. Complex verb stems can be derived from over twenty classificatory prefixes indicating action upon or by means of various shapes, sizes, quantities and body parts. For example:
 
-<center>
+<div style="text-align:center">
 <table class="example">
 <tr>
 <td><em>aa-</em> long object, as in <em>aa-xwaarr</em> 'to scrape with a knife,' <em>aa-ull</em> 'to lay a long object on top of'</td>
@@ -27,11 +27,11 @@ The first grammar of Kumeyaay was written by Margaret Langdon, whose fieldnotes 
 <td><em>chuu-</em> by means of the mouth, as in <em>chuu-katt</em> 'to bite off', <em>chuu-kwarr</em> 'to preach'</td>
 </tr>
 </table>
-</center>
+</div>
 
 Kumeyaay also has plural forms of stems, with various formal processes used to mark a range of pluractionality concepts, including collective and distributive actions, subjects or objects. The processes include lengthening or shortening of nonplural stem, infixation of *–ch-* (with several allomorphs) or *–uu-*, prefixes *p-* and *n-*, suffixation of *–p* or *–ch*, reduplication and suppletion. Several of these can show up on the same form:
 
-<center>
+<div style="text-align:center">
 <table class="example">
 <tr><td><em>aaull</em> 'to lay a long object on top of' → <em>aachuull</em></td></tr>
 <tr><td><em>aa</em> 'to go' → <em>naa</em></td></tr>
@@ -39,11 +39,11 @@ Kumeyaay also has plural forms of stems, with various formal processes used to m
 <tr><td><em>aakekwii</em> 'ask a question' → <em>akechewiich</em></td></tr>
 <tr><td><em>pam</em> 'get there' → <em>nekemich</em> 'several get there'</td></tr>
 </table>
-</center>
+</div>
 
 There are a large number of reduplicated forms indicating repeated sounds, motions or designs, e.g.*'aatt 'aatt*,'to rock back and forth like a rocking horse'; *xekall xekall* 'to be scalloped'; *'exmirkexmirk*  'to chuckle'.  Kumeyaay has extensive sound symbolism expressed through consonant alternations, mainly between sonorants: e.g. *kwir* 'to spin (like a top)'; *xekwirr* 'to weave'; *kwilkwil* 'to flutter'; *kwillkwill* 'swinging, dangling'. Kumeyaay has portmanteau person prefixes marking both subject and object. There are a set of auxiliary verbs deriving from verbs for movement or position but utilized to indicate both position/movement and aspect.  Kumeyaay exhibits “switch-reference” marking, where if two verbs in sequence have the same subject, the first verb will use one suffix (*-ch*), and if they have different subjects, the first verb will use (*-m*). Example:
 
-<center>
+<div style="text-align:center">
 <table class="example">
 <tr>
 <td><em>nyatewaa<strong>-c</strong>,</em></td>
@@ -63,7 +63,7 @@ There are a large number of reduplicated forms indicating repeated sounds, motio
 <td colspan="5">'When he was there, he saw a man standing there.'</td>
 </tr>
 </table>
-</center>
+</div>
 
 #### Selected archival materials at Berkeley
 
