@@ -15,7 +15,6 @@ The traditional Karuk language area is along the Klamath River, between Seiad in
 
 Like many American Indian languages, Karuk carries most of its morphology on the verb. Nouns lack case and number. Verbs bear a complex person-marking system, where subject and object are marked in portmanteau prefixes. It has three different systems of these subject-object prefixes — one for positive indicatives, one for negative indicatives and one for the potential mood. For example:
 
-<div style="text-align:center">
 <table class="example">
 <tr>
 <td><strong>Positive indicative</strong></td>
@@ -42,7 +41,6 @@ Like many American Indian languages, Karuk carries most of its morphology on the
 <td><em>nú-mah</em> 'I see you'</td>
 </tr>
 </table>
-</div>
 
 Karuk is famous for its large system of directional suffixes on verbs of motion, yet the language lacks words for the cardinal directions. Instead, directionality is based on relation of point of reference to the landscape. Bright (1957) found 38 suffixes that translate in such ways as "uphill away from point of reference," "uphill toward point of reference," "upriver toward point of reference," "upriver away from point of reference," "from here across a body of water," "horizontally away from the center of a body of water," "in through a tubular space," and so forth. Karuk also marks number on verbs, with many verbs having suppletive forms for dual and plural action. As for the sound system, there is a fairly small set of phonemes — 16 consonants (without any of the plain, aspirated and ejective distinctions that mark some other California languages), and short and long *a*, *i*, and *u*.  It has 2 long vowels (*e:* and *o:*) that occur as a result of ablaut when *a* is juxtaposed to *i* or *u* through morphological processes. Karuk has complex morphophonemics, with an accentual system, where one vowel per word has either a high or a falling accent. There are processes of accent shift, consonant gemination, and vowel lengthening, shortening, deletion and ablaut. See also: Thumbnail sketch of Karuk by William Bright, July 1954 [[PDF](https://berkeley.box.com/v/sketch-karuk)] ([Haas.063]({{ site.url }}/item.html?bndlid=921))
 

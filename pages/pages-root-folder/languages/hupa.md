@@ -24,7 +24,6 @@ Hupa is a member of the Dene (Athabaskan) language family, spoken across North A
 
 Dene languages are well known for their elaborate verb morphology. Hupa is no exception: each verb consists of a stem preceded by a potentially large number of prefixes that participate in complex morphophonemic interactions. Subject agreement is split between two positions: first and second person subjects are marked close to the stem, while third person subject prefixes occur farther away, e.g. *ni<strong>wh</strong>kya:w* 'I'm big' versus *<strong>ch'i</strong>ningkya:w* 'he's big'. Derivational and inflectional morphemes are interleaved throughout the verbal template, leading to discontinuous lexical entries known as "themes" among Dene scholars. For example, the verb theme translated in English as 'stir' or 'move something back and forth' consists of a stem *-na* and a prefix *xi-*; this theme is inflected with aspect and agreement prefixes to make full words like *xe'iwhna'* 'I move it back and forth'. Moreover, Hupa verb stems change form depending on semantic properties of their arguments such as number, shape and texture. For example, the stem *-łiq'* is used in the word *ya'winłiq'* 'he picked up a dough-like object', whereas the stem *-kyo:s* is used in the word *ya'wiłkyo:s* 'he picked up a cloth-like object'. Most Dene languages have fairly rigid word order, requiring noun phrases to come before the verb. Hupa is exceptional in this respect: it allows noun phrases to appear to the right of the verb. Noun phrases are sometimes divided between preverbal and postverbal positions, as in the following example:
 
-<div style="text-align:center">
 <table>
 <tr>
 <td>
@@ -66,7 +65,6 @@ he saw
 </td>
 </tr>
 </table>
-</div>
 
 #### Selected archival materials at Berkeley
 
