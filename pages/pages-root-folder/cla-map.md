@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: 
+hide_title: true
 header: no
 clamap: true
 permalink: "/cla-map.html"
