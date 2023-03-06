@@ -4,6 +4,16 @@
 *  edit `_data/navigation.yml`.
 *
 {% endcomment %}
+{% assign do_left = false %}
+{% assign do_right = false %}
+{% for link in site.data.navigation %}
+    {% if link.side == 'right' %}
+        {% assign do_right = true %}
+    {% endif %}
+    {% if link.side == 'left' %}
+        {% assign do_left = true %}
+    {% endif %}
+{% endfor %}
 <div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
@@ -27,6 +37,7 @@
         /____/                                 /____/
 
 {% endcomment %}
+      {% if do_right == true %}
       <ul class="right">
         {% for link in site.data.navigation %}
 
@@ -78,6 +89,7 @@
         {% endfor %}
         {% comment %}   First loop finished 1   {% endcomment %}
       </ul>
+      {% endif %}
 {% comment %}
 
     __         ______     _   __            _             __  _
@@ -88,6 +100,7 @@
                                           /____/
 
 {% endcomment %}
+      {% if do_left == true %}
       <ul class="left">
         {% for link in site.data.navigation %}
 
@@ -136,6 +149,7 @@
         {% endfor %}
         {% comment %}   Second loop finished   {% endcomment %}
       </ul>
+      {% endif %}
     </section>
   </nav>
 </div><!-- /#navigation -->
