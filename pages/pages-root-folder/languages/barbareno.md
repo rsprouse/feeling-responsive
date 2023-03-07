@@ -30,8 +30,8 @@ Barbareño (also called "Shmuwich") is a member of the Chumashan language family
 
 #### Further reading
 
-* Applegate, Richard B. 2015. *Integrated Dictionary of Shmuwich -- Barbareño Chumash*. Manuscript. [[PDF](https://berkeley.box.com/v/shmuwich-dictionary)]
-* Applegate, Richard B. 2017. *Topics in Shuwich Grammar: An Interim Grammar of Barbareño Chumash*. Manuscript. [[PDF for printing](https://berkeley.box.com/v/shmuwich-grammar-printing)], [[PDF for iBook](https://berkeley.box.com/v/shmuwich-grammar-ibook)]
+* Applegate, Richard B. 2015. *Integrated Dictionary of Shmuwich -- Barbareño Chumash*. Manuscript. [[PDF](https://berkeley.app.box.com/v/shmuwich-dictionary)]
+* Applegate, Richard B. 2017. *Topics in Shuwich Grammar: An Interim Grammar of Barbareño Chumash*. Manuscript. [[PDF for printing](https://berkeley.app.box.com/v/shmuwich-grammar-printing)], [[PDF for iBooks](https://berkeley.app.box.com/v/shmuwich-grammar-ibooks)]
 * Beeler, Madison S. 1976. Barbareño Chumash grammar: A farrago. In Langdon, Margaret and Shirley Silver, eds. *Hokan studies: Papers from the First Conference on Hokan Languages held in San Diego, California, April 23-25, 1970,* pp. 251-270. (Janua Linguarum, Volume 181.) The Hague: Mouton.
 * Beeler, Madison S. 1978. Barbareño Chumash text and lexicon. In  Mohammad Ali Jazayeri, Edgar C. Polomé, and Werner Winter, eds. *Linguistic and literary studies in honor of Archibald A. Hill, II: Descriptive linguistics*, pp. 171-193. Lisse: de Ridder.
 * Beeler, Madison S. and Kathryn A. Klar. 1977. Interior Chumash. *Journal of California Anthropology* 4:287-305. [[PDF](http://escholarship.org/uc/item/584924cs)]
@@ -40,11 +40,11 @@ Barbareño (also called "Shmuwich") is a member of the Chumashan language family
 * Klar, Kathryn. 1977. *Topics in Historical Chumash Grammar.* Doctoral dissertation, University of California, Berkeley. [[PDF](https://escholarship.org/uc/item/31t2k96m)]
 * Kroeber, A.L. 1910. The Chumash and Costanoan languages. *University of California Publications in American Archaeology and Ethnology* 9,2:237-271. [[PDF](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp009-004.pdf)]
 * Wash, Suzanne M. 1995. *Productive reduplication in Barbareño Chumash.* Master's thesis, University of California, Santa Barbara. [[PDF](https://berkeley.box.com/v/wash-1995)]
-* Wash, Suzanne. 2001. *Adverbial clauses in Barbareño Chumash narrative discourse.* Ph.D. dissertation, University of California, Santa Barbara. [[PDF](https://berkeley.box.com/v/wash-2001)]
+* Wash, Suzanne. 2001. *Adverbial clauses in Barbareño Chumash narrative discourse.* Ph.D. dissertation, University of California, Santa Barbara. [[PDF](https://berkeley.app.box.com/v/wash-2001)]
 
 #### Links
 
-* [Barbareño Band of Chumash Indians](http://www.bbcindians.com/)
+* [Barbareño Band of Chumash Indians](http://www.bbc-indians.com/)
 * [The Barbareño / Ventureño Band of Mission Indians](https://www.bvbmi.com/)
 * [OLAC Resources in and about the Barbareño language](http://www.language-archives.org/language/boi)
 * [World Atlas of Language Structures: Barbareño](http://wals.info/languoid/lect/wals_code_cba)
