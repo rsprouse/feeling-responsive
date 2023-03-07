@@ -1,5 +1,5 @@
 <div class="row t60 text-center">
-	<form id="cla-search-form" accept-charset="UTF-8" method="post"{% if page.search_results != true %} action="{{ site.baseurl }}{{ site.search.url }}"{% endif %}>
+	<form id="cla-search-form" accept-charset="UTF-8" method="post"{% if page.search_results != true %} action="{{ site.url }}{{ site.baseurl }}{{ site.search.url }}"{% endif %}>
       <select aria-labelledby="search_button" multiple="multiple" style="width: 80%" name="sparams[]" id="cla-search-select"></select>
       <input type="hidden" name="size" value="25">
       <input type="hidden" name="collfrom" value="0">
@@ -8,7 +8,7 @@
       <input type="hidden" id="bndlpgidx" name="bndlpage" value="1">
       <input type="hidden" name="tab" value="coll">
       <input type="hidden" name="with_js" value="1">
-      <a id="search_button" class="button large radius t10" href="{{ site.baseurl }}{{ site.search.url }}">{{ site.search.button_text }}</a>
+      <a id="search_button" class="button large radius t10" href="{{ site.url }}{{ site.baseurl }}{{ site.search.url }}">{{ site.search.button_text }}</a>
     </form>
 </div><!-- /.row -->
 
