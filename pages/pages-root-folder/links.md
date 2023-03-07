@@ -13,7 +13,7 @@ sitemap: true
 See the website of the [Digital Endangered Languages and Musics Archives Network](https://www.delaman.org/) (DELAMAN) for listings of other similar repositories.
 
 - [Alaska Native Language Center](http://www.uaf.edu/anlc/) (ANLC), University of Alaska Fairbanks
-- [Archive of the Indigenous Language of Latin America](http://www.ailla.utexas.org/site/welcome.html) (AILLA), University of Texas at Austin
+- [Archive of the Indigenous Language of Latin America](http://www.ailla.utexas.org) (AILLA), University of Texas at Austin
 - [Archives of Traditional Music](https://libraries.indiana.edu/archives-traditional-music), Indiana University Bloomington
 - [Center for Native American and Indigenous Research](https://www.amphilsoc.org/library/CNAIR), American Philosophical Society (APS, Philadelphia)
 - [Endangered Languages Archive](https://www.elararchive.org/) (ELAR, Berlin)

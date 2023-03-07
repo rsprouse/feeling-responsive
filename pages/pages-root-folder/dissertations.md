@@ -472,7 +472,7 @@ For a complete listing of Berkeley PhD dissertations in linguistics, see [here](
 <tr>
 <td>1994</td>
 <td>David Costa</td>
-<td><em>The Miami-Illinois language</em> [<a href="http://www.nebraskapress.unl.edu/product/,671283.aspx?skuid=7891">publication link</a>]</td>
+<td><em>The Miami-Illinois language</em> [<a href="https://www.nebraskapress.unl.edu/nebraska/9780803215146/">publication link</a>]</td>
 <td>Richard Rhodes</td>
 </tr>
 

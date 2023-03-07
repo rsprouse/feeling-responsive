@@ -18,7 +18,7 @@ We have included a selection of maps of California languages, both contemporary 
 </div>
 
 <div class="gallery_item gallery__img">
-<a href="images/indian-library-map.jpg"><img src="{{ site.urlimg }}indian-library-map.jpg" width="300px" alt="Map from the California Indian Library"/></a>
+<a href="{{ site.urlimg }}indian-library-map.jpg"><img src="{{ site.urlimg }}indian-library-map.jpg" width="300px" alt="Map from the California Indian Library"/></a>
 <div class="caption">Map from the California Indian Library</div>
 </div>
 
