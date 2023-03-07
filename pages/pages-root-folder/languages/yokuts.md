@@ -22,11 +22,11 @@ The Yokuts languages comprise one branch of the hypothesized Penutian language f
 
 #### Grammatical information
 
-Thumbnail sketch of Yawelmani Yokuts by Mary R. Haas, based on an oral report by Stanley Newman [[PDF](https://berkeley.box.com/v/sketch-yawelmani-yokuts)] ([Haas.063]({{ site.url }}/item.html?bndlid=921))
+Thumbnail sketch of Yawelmani Yokuts by Mary R. Haas, based on an oral report by Stanley Newman [[PDF](https://berkeley.box.com/v/sketch-yawelmani-yokuts)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Yokuts"]({{ site.baseurl }}/list.html?langid=556=Yokuts)
+* [California Language Archive: "Yokuts"]({{ site.url }}/list/?langid=556=Yokuts)
 
 #### Selected materials in other archives
 
