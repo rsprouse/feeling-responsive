@@ -12,7 +12,7 @@ permalink: languages/barbareno.html
 The traditional Barbareño language area is along the Pacific coast, from Point Conception to Rincon Point (along the Santa Barbara Channel). During the mission period, Barbareño was spoken at Mission Santa Barbara. A variety of Barbareño called Emigdiano, which was heavily influenced by [Buena Vista Yokuts](yokuts.html) was spoken at San Emigdio near Buena Vista Lake, though it is attested solely in place names (Beeler and Klar 1977). Based on archaeological evidence and the testimony of early observers, it has been estimated that speakers of all Chumashan languages together numbered between 10,700 and 17,250 in pre-contact times (King 1969). In the 21st century, there are no first-language speakers of any Chumashan language. However, tribal members and language activists have been pursuing language revitalization and reclamation ([Wishtoyo Chumash Foundation](https://www.wishtoyo.org/cp-chumash-language)).
 
 <div class="image fit right" style="width: 400px;">
-<a href="https://berkeley.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}chumashan-languages-map-small.jpg" width="400px"/></a>
+<a href="https://berkeley.app.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}chumashan-languages-map-small.jpg" width="400px"/></a>
 <div class="caption">
 Map of the Chumashan languages (Robert F. Heizer, ed. 1978. <em>California.</em> (Handbook of North American Indians, Volume 8.) Washington: Smithsonian Institute.)
 </div>
@@ -39,7 +39,7 @@ Barbareño (also called "Shmuwich") is a member of the Chumashan language family
 * Heizer, R.F., ed. 1955. California Indian linguistic records: The Mission Indian vocabularies of H. W. Henshaw. *University of California Anthropological Records* 15:85-202. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar015-002.pdf)]
 * Klar, Kathryn. 1977. *Topics in Historical Chumash Grammar.* Doctoral dissertation, University of California, Berkeley. [[PDF](https://escholarship.org/uc/item/31t2k96m)]
 * Kroeber, A.L. 1910. The Chumash and Costanoan languages. *University of California Publications in American Archaeology and Ethnology* 9,2:237-271. [[PDF](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp009-004.pdf)]
-* Wash, Suzanne M. 1995. *Productive reduplication in Barbareño Chumash.* Master's thesis, University of California, Santa Barbara. [[PDF](https://berkeley.box.com/v/wash-1995)]
+* Wash, Suzanne M. 1995. *Productive reduplication in Barbareño Chumash.* Master's thesis, University of California, Santa Barbara. [[PDF](https://berkeley.app.box.com/v/wash-1995)]
 * Wash, Suzanne. 2001. *Adverbial clauses in Barbareño Chumash narrative discourse.* Ph.D. dissertation, University of California, Santa Barbara. [[PDF](https://berkeley.app.box.com/v/wash-2001)]
 
 #### Links

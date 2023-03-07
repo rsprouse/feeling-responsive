@@ -92,7 +92,7 @@ Audio sample: Verdena Parker tells a story about her cat
 * Goddard, Pliny Earle. 1904. Hupa texts. *University of California Publications in American Archaeology and Ethnography* 1:89-368. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp001-004.pdf)]
 * Goddard, Pliny Earle. 1905. Morphology of the Hupa language. *University of California Publications in American Archaeology and Ethnography* 3:1-344. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp003-001.pdf)]
 * Goddard, Pliny Earle. 1914. Chilula texts. *University of California Publications in American Archaeology and Ethnography* 10,7:289-379. [[PDF](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp010-008.pdf)]
-* Golla, Victor. 1970. *Hupa grammar.* Ph.D. dissertation, University of California, Berkeley. [[PDF](https://berkeley.box.com/v/golla-1970)]
+* Golla, Victor. 1970. *Hupa grammar.* Ph.D. dissertation, University of California, Berkeley. [[PDF](https://berkeley.app.box.com/v/golla-1970)]
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
 * Sapir, Edward and Victor Golla. 2001. Hupa texts, with notes and lexicon. In Victor Golla and Sean O'Neill, eds. *Collected works of Edward Sapir, Volume 14: Northwest California linguistics*, pp. 19-1011. New York: Mouton de Gruyter. [[PDF](https://archive.org/stream/collectedworksof14sapi#page/n6/mode/2up)]
 

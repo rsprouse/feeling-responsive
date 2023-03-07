@@ -12,7 +12,7 @@ permalink: languages/ramaytush.html
 The traditional Ramaytush language area is on the San Francisco peninsula as far south as Palo Alto and Pescadero. It may also have been spoken immediately north of the Golden Gate Bridge. During the mission period, Ramaytush was spoken at Mission Dolores. Ramaytush is only attested in a few wordlists. In pre-contact times, there were approximately 1,400 speakers of Ramaytush (Levy 1978). However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://www.ramaytush.org/about.html).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}ohlone-languages-map-small.jpg" width="300px"/></a>
+<a href="https://berkeley.app.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}ohlone-languages-map-small.jpg" width="300px"/></a>
 <div class="caption">
 Map of the Ohlone languages (Richard L. Levy. 1976. <a href="https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/arfs017-001.pdf"><em>Costanoan internal relationships.</em></a>. Berkeley: Archaeological Research Facility, University of California.)
 </div>

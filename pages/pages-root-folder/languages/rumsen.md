@@ -12,7 +12,7 @@ permalink: languages/rumsen.html
 The traditional Rumsen language area is on the Monterey Peninsula and along the lower Carmel River, around Salinas and Fort Ord, near Castroville, and from Carmel Valley to Point Sur. During the mission period, it was spoken at Mission San Carlos de Borroméo in Carmel. Rumsen is documented in wordlists and extensive fieldwork by J. P. Harrington. In pre-contact times, there were approximately 800 speakers of Rumsen (Levy 1978). However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://bthechange.com/reviving-indigenous-communities-through-traditional-food-and-language-da9316f0417).
 
 <div class="image fit right" style="width: 300px;">
-<a href="https://berkeley.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}ohlone-languages-map-small.jpg" width="300px"/></a>
+<a href="https://berkeley.app.box.com/v/ohlone-languages-map"><img alt="Map of the Ohlone languages" src="{{ site.urlimg }}ohlone-languages-map-small.jpg" width="300px"/></a>
 <div class="caption">
 Map of the Ohlone languages (Richard L. Levy. 1976. <a href="http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&amp;volumeid=66&amp;item=1"><em>Costanoan internal relationships.</em></a>. Berkeley: Archaeological Research Facility, University of California.)
 </div>

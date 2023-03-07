@@ -21,7 +21,7 @@ The Patwin language has two main dialects. For the first dialect, River Patwin, 
 
 #### Grammatical information
 
-Thumbnail sketch of Hill Patwin by Donald Ultan [[PDF](https://berkeley.box.com/v/sketch-hill-patwin)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
+Thumbnail sketch of Hill Patwin by Donald Ultan [[PDF](https://berkeley.app.box.com/v/sketch-hill-patwin)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
 #### Further reading
 

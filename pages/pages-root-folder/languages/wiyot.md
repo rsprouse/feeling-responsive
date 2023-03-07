@@ -16,7 +16,7 @@ Wiyot belongs to the Algic language family, which also includes [Yurok](yurok.ht
 					
 #### Grammatical information
 
-Thumbnail sketch of Wiyot by Mary R. Haas, based on Karl V. Teeter's <em>The Wiyot language</em> (Berkeley: University of California Press, 1964) [[PDF](https://berkeley.box.com/v/sketch-wiyot)] ([Haas.063](http://dx.doi.org/doi:10.7297/X20G3H32))
+Thumbnail sketch of Wiyot by Mary R. Haas, based on Karl V. Teeter's <em>The Wiyot language</em> (Berkeley: University of California Press, 1964) [[PDF](https://berkeley.app.box.com/v/sketch-wiyot)] ([Haas.063](http://dx.doi.org/doi:10.7297/X20G3H32))
 
 #### Selected archival materials at Berkeley
 

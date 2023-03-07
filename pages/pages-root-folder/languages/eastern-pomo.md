@@ -14,7 +14,7 @@ The traditional Eastern Pomo language area is on the eastern side of Clear Lake,
 <div class="image fit right" style="width: 300px;">
 <img alt="Map of the Pomoan languages" src="{{ site.urlimg }}pomoan-languages-map-small.jpg" width="300px"/>
 <div class="caption">
-Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.box.com/v/pomoan-languages-map">Barrett 1908</a>.
+Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.app.box.com/v/pomoan-languages-map">Barrett 1908</a>.
 </div>
 </div>
 
@@ -22,7 +22,7 @@ Eastern Pomo (also called "Clear Lake Pomo") is one of seven languages comprisin
 
 #### Grammatical information
 
-Thumbnail sketch of Eastern Pomo by Sally McLendon [[PDF](https://berkeley.box.com/v/sketch-eastern-pomo)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
+Thumbnail sketch of Eastern Pomo by Sally McLendon [[PDF](https://berkeley.app.box.com/v/sketch-eastern-pomo)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
 #### Selected archival materials at Berkeley
 

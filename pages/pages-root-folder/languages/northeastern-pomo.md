@@ -14,7 +14,7 @@ The traditional Northeastern Pomo language area is along Stony Creek on the west
 <div class="image fit right" style="width: 300px;">
 <img alt="Map of the Pomoan languages" src="{{ site.urlimg }}pomoan-languages-map-small.jpg" width="300px"/>
 <div class="caption">
-Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.box.com/v/pomoan-languages-map">Barrett 1908</a>.
+Map of the Pomoan languages (Walker 2020). For a large-scale map with village names, see <a href="https://berkeley.app.box.com/v/pomoan-languages-map">Barrett 1908</a>.
 </div>
 </div>
 

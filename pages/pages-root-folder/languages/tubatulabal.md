@@ -15,7 +15,7 @@ Tubatulabal (also written "Tübatulabal" and called "Pahkanapul" or "Paka'anil")
 
 #### Grammatical information
 
-Thumbnail sketch of Tubatulabal by Mary R. Haas, based on an oral report by C. F. Voegelin [[PDF](https://berkeley.box.com/v/sketch-tubatulabal)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
+Thumbnail sketch of Tubatulabal by Mary R. Haas, based on an oral report by C. F. Voegelin [[PDF](https://berkeley.app.box.com/v/sketch-tubatulabal)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
 #### Selected archival materials at Berkeley
 

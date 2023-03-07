@@ -12,7 +12,7 @@ permalink: languages/purisimeno.html
 The traditional Purisimeño language area is along the Pacific coast around modern-day Lompoc. During the mission period, it was spoken at Mission La Purísima Concepción. Purisimeño is attested solely in some wordlists and miscellaneous materials. Based on archaeological evidence and the testimony of early observers, it has been estimated that speakers of all Chumashan languages together numbered between 10,700 and 17,250 in pre-contact times (King 1969). In the 21st century, there are no first-language speakers of any Chumashan language.
 
 <div class="image fit right" style="width: 400px;">
-<a href="https://berkeley.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}chumashan-languages-map-small.jpg" width="400px"/></a>
+<a href="https://berkeley.app.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}chumashan-languages-map-small.jpg" width="400px"/></a>
 <div class="caption">
 Map of the Chumashan languages (Robert F. Heizer, ed. 1978. <em>California.</em> (Handbook of North American Indians, Volume 8.) Washington: Smithsonian Institute.)
 </div>

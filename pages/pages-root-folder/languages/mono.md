@@ -25,8 +25,8 @@ The traditional Mono language area is from Mono Lake in eastern California to th
 * Gayton, A. H. and Newman, Stanley S. 1940. Yokuts and Western Mono Myths. *Anthropological Records*, 5:1. [[PDF](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar005-002.pdf)]
 * Gifford, Edward Winslow. 1923. Western Mono Myths. *The Journal of American Folk-lore*, 36: 302-367. [[PDF – may not be publicly available](https://www.jstor.org/stable/535047?seq=1#metadata_info_tab_contents)]
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
-* Lamb, Sydney M. 1957. *Mono grammar.* Ph.D. dissertation, University of California, Berkeley. [[PDF](https://berkeley.box.com/v/lamb-1958)]
-* Lamb, Sydney M. n.d. *Monachi dictionary.* Ms., Survey of California and Other Indian Languages, [Lamb.002]({{ site.url }}/item/?bndlid=2825). [[PDF](https://berkeley.box.com/v/lamb-002)]
+* Lamb, Sydney M. 1957. *Mono grammar.* Ph.D. dissertation, University of California, Berkeley. [[PDF](https://berkeley.app.box.com/v/lamb-1958)]
+* Lamb, Sydney M. n.d. *Monachi dictionary.* Ms., Survey of California and Other Indian Languages, [Lamb.002]({{ site.url }}/item/?bndlid=2825). [[PDF](https://berkeley.app.box.com/v/lamb-002)]
 * Norris, Evan J. 1986. *A grammar sketch and comparative study of Eastern Mono. * Ph.D. dissertation, University of California, San Diego.
 
 #### Links
