@@ -13,7 +13,7 @@ The traditional Salinan language area is in the Salinas River Valley and the adj
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Salinan"]({{ site.url }}/list.html?langid=247=Salinan)
+* [California Language Archive: "Salinan"]({{ site.url }}/list/?langid=247=Salinan)
 
 #### Selected materials in other archives
 

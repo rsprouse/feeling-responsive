@@ -13,7 +13,7 @@ The traditional Nisenan language area is throughout the American, Bear, and Yuba
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Nisenan"]({{ site.url }}/list.html?langid=564=Nisenan)
+* [California Language Archive: "Nisenan"]({{ site.url }}/list/?langid=564=Nisenan)
 
 #### Selected materials in other archives
 

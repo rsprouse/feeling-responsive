@@ -22,7 +22,7 @@ Konomihu is a member of the Shastan language family, the other members of which 
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Konomihu"]({{ site.url }}/list.html?langid=255=Konomihu)
+* [California Language Archive: "Konomihu"]({{ site.url }}/list/?langid=255=Konomihu)
 
 #### Further reading
 

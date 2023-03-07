@@ -26,7 +26,7 @@ Thumbnail sketch of Shasta by Shirley Silver [[PDF](https://berkeley.box.com/v/s
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Shasta"]({{ site.url }}/list.html?langid=250=Shasta)
+* [California Language Archive: "Shasta"]({{ site.url }}/list/?langid=250=Shasta)
 
 #### Selected materials in other archives
 

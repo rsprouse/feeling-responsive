@@ -78,9 +78,9 @@ Audio sample: Verdena Parker tells a story about her cat
 </div>
 </div>
 
-* [California Language Archive: "Hupa"]({{ site.url }}/list.html?langid=1256=Hupa)
-* [California Language Archive: "Chilula"]({{ site.url }}/list.html?langid=1258=Chilula)
-* [California Language Archive: "Whilkut"]({{ site.url }}/list.html?langid=1259=Whilkut)
+* [California Language Archive: "Hupa"]({{ site.url }}/list/?langid=1256=Hupa)
+* [California Language Archive: "Chilula"]({{ site.url }}/list/?langid=1258=Chilula)
+* [California Language Archive: "Whilkut"]({{ site.url }}/list/?langid=1259=Whilkut)
 
 #### Selected materials in other archives
 

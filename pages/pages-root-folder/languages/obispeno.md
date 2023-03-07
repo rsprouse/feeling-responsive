@@ -22,7 +22,7 @@ Obispeño (also called "Northern Chumash") is a member of the Chumashan language
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Obispeño"]({{ site.url }}/list.html?langid=298=Obispeño)
+* [California Language Archive: "Obispeño"]({{ site.url }}/list/?langid=298=Obispeño)
 
 #### Selected materials in other archives
 

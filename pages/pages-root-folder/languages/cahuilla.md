@@ -13,7 +13,7 @@ The traditional Cahuilla language area is in the San Gorgonio Pass (around Banni
 
 #### Selected archival materials at Berkeleys
 
-* [California Language Archive: "Cahuilla"]({{ site.url }}/list.html?langid=940=Cahuilla)
+* [California Language Archive: "Cahuilla"]({{ site.url }}/list/?langid=940=Cahuilla)
 
 #### Selected materials in other archives
 

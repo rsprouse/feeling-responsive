@@ -22,7 +22,7 @@ Barbareño (also called "Shmuwich") is a member of the Chumashan language family
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Barbareño"]({{ site.url }}/list.html?langid=290=Barbareño)
+* [California Language Archive: "Barbareño"]({{ site.url }}/list/?langid=290=Barbareño)
 
 #### Selected materials in other archives
 

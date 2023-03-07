@@ -22,7 +22,7 @@ Okwanuchu is a member of the Shastan language family, the other members of which
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Okwanuchu"]({{ site.url }}/list.html?langid=254=Okwanuchu)
+* [California Language Archive: "Okwanuchu"]({{ site.url }}/list/?langid=254=Okwanuchu)
 
 #### Further reading
 

@@ -13,7 +13,7 @@ The traditional Saclan language area is â€” from what little is known about it â
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Saclan"]({{ site.url }}/list.html?langid=575=Saclan)
+* [California Language Archive: "Saclan"]({{ site.url }}/list/?langid=575=Saclan)
 
 #### Selected materials in other archives
 

@@ -13,7 +13,7 @@ The traditional Chemehuevi language area is in the Mojave Desert, and later thro
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Chemehuevi"]({{ site.url }}/list.html?langid=924=Chemehuevi)
+* [California Language Archive: "Chemehuevi"]({{ site.url }}/list/?langid=924=Chemehuevi)
 
 #### Further reading
 

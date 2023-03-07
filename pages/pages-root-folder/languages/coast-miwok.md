@@ -13,7 +13,7 @@ The traditional Coast Miwok language area is from Bodega Bay across Petaluma Pla
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Coast Miwok"]({{ site.url }}/list.html?langid=572=Coast+Miwok)
+* [California Language Archive: "Coast Miwok"]({{ site.url }}/list/?langid=572=Coast+Miwok)
 
 #### Selected materials in other archives
 

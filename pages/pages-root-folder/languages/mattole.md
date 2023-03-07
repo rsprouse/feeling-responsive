@@ -22,7 +22,7 @@ Mattole is a member of the Dene (Athabaskan) language family, spoken across Nort
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Mattole"]({{ site.url }}/list.html?langid=1248=Mattole)
+* [California Language Archive: "Mattole"]({{ site.url }}/list/?langid=1248=Mattole)
 
 #### Selected materials in other archives
 

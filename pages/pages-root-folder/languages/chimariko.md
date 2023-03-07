@@ -13,7 +13,7 @@ The traditional Chimariko language area is along the Trinity River from its conf
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Chimariko"]({{ site.url }}/list.html?langid=245=Chimariko)
+* [California Language Archive: "Chimariko"]({{ site.url }}/list/?langid=245=Chimariko)
 
 #### Selected materials in other archives
 

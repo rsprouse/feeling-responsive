@@ -40,7 +40,7 @@ Loretta Kelsey, describing how to make fruit salad, Clear Lake, 2007 (Photo cour
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Southeastern Pomo"]({{ site.url }}/list.html?langid=269=Southeastern+Pomo)
+* [California Language Archive: "Southeastern Pomo"]({{ site.url }}/list/?langid=269=Southeastern+Pomo)
 
 #### Further reading
 

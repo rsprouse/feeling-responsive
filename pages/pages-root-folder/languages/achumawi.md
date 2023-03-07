@@ -13,7 +13,7 @@ The traditional Achumawi language area is along the Pit River from the margins o
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Achumawi"]({{ site.url }}/list.html?langid=256=Achumawi)
+* [California Language Archive: "Achumawi"]({{ site.url }}/list/?langid=256=Achumawi)
 
 #### Selected materials in other archives
 

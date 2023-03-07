@@ -22,7 +22,7 @@ Ramaytush is an Ohlone (or "Costanoan") language, along with [Awaswas](awaswas.h
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Ramaytush"]({{ site.url }}/list.html?langid=589=Ramaytush)
+* [California Language Archive: "Ramaytush"]({{ site.url }}/list/?langid=589=Ramaytush)
 
 #### Further reading
 

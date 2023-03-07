@@ -22,7 +22,7 @@ Northern Yukian (also called "Yuki") is a Yukian language; the other member of t
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Northern Yukian"]({{ site.url }}/list.html?langid=1042=Northern+Yukian)
+* [California Language Archive: "Northern Yukian"]({{ site.url }}/list/?langid=1042=Northern+Yukian)
 
 #### Selected materials in other archives
 

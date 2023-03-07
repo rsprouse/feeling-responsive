@@ -22,7 +22,7 @@ Cruzeño (also called "Isleño", "Ysleño", or "Island Chumash") is a member of 
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Cruzeño"]({{ site.url }}/list.html?langid=294=Island+Chumash)
+* [California Language Archive: "Cruzeño"]({{ site.url }}/list/?langid=294=Island+Chumash)
 
 #### Selected materials in other archives
 

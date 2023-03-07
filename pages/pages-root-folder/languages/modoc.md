@@ -13,7 +13,7 @@ Modoc is the southern variety of a language sometimes called Klamath-Modoc, whos
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Klamath-Modoc"]({{ site.url }}/list.html?langid=650=Klamath-Modoc)
+* [California Language Archive: "Klamath-Modoc"]({{ site.url }}/list/?langid=650=Klamath-Modoc)
 
 #### Selected materials in other archives
 

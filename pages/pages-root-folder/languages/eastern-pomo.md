@@ -26,7 +26,7 @@ Thumbnail sketch of Eastern Pomo by Sally McLendon [[PDF](https://berkeley.box.c
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Eastern Pomo"]({{ site.url }}/list.html?langid=267=Eastern+Pomo)
+* [California Language Archive: "Eastern Pomo"]({{ site.url }}/list/?langid=267=Eastern+Pomo)
 
 #### Selected materials in other archives
 

@@ -22,10 +22,10 @@ Wailaki / Eel River Dene is a member of the Dene (Athabaskan) language family, s
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Lassik"]({{ site.url }}/list.html?langid=1250=Lassik)
-* [California Language Archive: "Nongatl"]({{ site.url }}/list.html?langid=1251=Nongatl)
-* [California Language Archive: "Sinkyone"]({{ site.url }}/list.html?langid=1252=Sinkyone)
-* [California Language Archive: "Wailaki"]({{ site.url }}/list.html?langid=1253=Wailaki)
+* [California Language Archive: "Lassik"]({{ site.url }}/list/?langid=1250=Lassik)
+* [California Language Archive: "Nongatl"]({{ site.url }}/list/?langid=1251=Nongatl)
+* [California Language Archive: "Sinkyone"]({{ site.url }}/list/?langid=1252=Sinkyone)
+* [California Language Archive: "Wailaki"]({{ site.url }}/list/?langid=1253=Wailaki)
 
 #### Further reading
 

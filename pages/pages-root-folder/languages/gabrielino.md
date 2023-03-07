@@ -13,7 +13,7 @@ The traditional Gabrielino language area is throughout the Los Angeles basin, to
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Gabrielino"]({{ site.url }}/list.html?langid=938=Gabrielino)
+* [California Language Archive: "Gabrielino"]({{ site.url }}/list/?langid=938=Gabrielino)
 
 #### Selected materials in other archives
 

@@ -22,7 +22,7 @@ Samala (also called "Ineseño" or "Ynezeño") is a member of the Chumashan langu
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Samala (Ineseño)"]({{ site.url }}/list.html?langid=291=Ineseño)
+* [California Language Archive: "Samala (Ineseño)"]({{ site.url }}/list/?langid=291=Ineseño)
 
 #### Selected materials in other archives
 

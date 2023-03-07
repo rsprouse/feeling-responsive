@@ -13,7 +13,7 @@ The traditional Wintu language areas are around the upper end of the Sacramento 
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Wintu"]({{ site.url }}/list.html?langid=559=Wintu)
+* [California Language Archive: "Wintu"]({{ site.url }}/list/?langid=559=Wintu)
 
 #### Selected materials in other archives
 

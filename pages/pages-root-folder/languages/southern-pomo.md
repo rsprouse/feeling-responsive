@@ -22,7 +22,7 @@ Southern Pomo (also called "Gallinomero") is one of seven languages comprising t
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Southern Pomo"]({{ site.url }}/list.html?langid=285=Southern+Pomo)
+* [California Language Archive: "Southern Pomo"]({{ site.url }}/list/?langid=285=Southern+Pomo)
 
 #### Selected materials in other archives
 

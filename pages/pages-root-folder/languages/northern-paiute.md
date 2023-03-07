@@ -36,7 +36,7 @@ Audio sample: From a narrative about gathering willow (spoken by Madeline Steven
 </div>
 </div>
 
-* [California Language Archive: "Northern Paiute"]({{ site.url }}/list.html?langid=908=Northern+Paiute)
+* [California Language Archive: "Northern Paiute"]({{ site.url }}/list/?langid=908=Northern+Paiute)
 
 #### Selected materials in other archives
 

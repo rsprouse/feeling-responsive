@@ -13,7 +13,7 @@ The traditional Lake Miwok language area is to the southeast of Clear Lake, on C
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Lake Miwok"]({{ site.url }}/list.html?langid=571=Lake+Miwok)
+* [California Language Archive: "Lake Miwok"]({{ site.url }}/list/?langid=571=Lake+Miwok)
 
 #### Selected materials in other archives
 

@@ -14,7 +14,7 @@ The traditional Southern Sierra Miwok language area is in the foothills of the S
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Southern Sierra Miwok"]({{ site.url }}/list.html?langid=580=Southern+Sierra+Miwok)
+* [California Language Archive: "Southern Sierra Miwok"]({{ site.url }}/list/?langid=580=Southern+Sierra+Miwok)
 
 #### Selected materials in other archives
 

@@ -22,7 +22,7 @@ Northern Pomo is one of seven languages comprising the Pomoan language family; t
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Northern Pomo"]({{ site.url }}/list.html?langid=271=Northern+Pomo)
+* [California Language Archive: "Northern Pomo"]({{ site.url }}/list/?langid=271=Northern+Pomo)
 
 #### Selected materials in other archives
 

@@ -13,7 +13,7 @@ The traditional Esselen language area is the northern Santa Lucia Range in what 
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Esselen"]({{ site.url }}/list.html?langid=246=Esselen)
+* [California Language Archive: "Esselen"]({{ site.url }}/list/?langid=246=Esselen)
 
 #### Selected materials in other archives
 

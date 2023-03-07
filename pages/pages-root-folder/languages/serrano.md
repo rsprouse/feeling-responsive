@@ -13,7 +13,7 @@ The traditional Serrano language area is in the San Bernadino Mountains and the 
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Serrano"]({{ site.url }}/list.html?langid=948=Serrano)
+* [California Language Archive: "Serrano"]({{ site.url }}/list/?langid=948=Serrano)
 
 #### Selected materials in other archives
 

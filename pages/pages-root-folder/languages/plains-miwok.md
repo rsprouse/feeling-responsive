@@ -13,7 +13,7 @@ The traditional Plains Miwok language area is on the eastern side of the Sacrame
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Plains Miwok"]({{ site.url }}/list.html?langid=576=Plains+Miwok)
+* [California Language Archive: "Plains Miwok"]({{ site.url }}/list/?langid=576=Plains+Miwok)
 
 #### Selected materials in other archives
 

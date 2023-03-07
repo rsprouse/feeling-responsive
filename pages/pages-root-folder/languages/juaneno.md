@@ -13,7 +13,7 @@ The traditional Juaneño language area is on the San Juan Creek (in what is now 
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Juaneño"]({{ site.url }}/list.html?langid=944=Juaneño)
+* [California Language Archive: "Juaneño"]({{ site.url }}/list/?langid=944=Juaneño)
 
 #### Further reading
 

@@ -26,7 +26,7 @@ Thumbnail sketch of Kashaya by Robert L. Oswalt, April 1962 [[PDF](https://berke
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Kashaya"]({{ site.url }}/list.html?langid=287=Kashaya)
+* [California Language Archive: "Kashaya"]({{ site.url }}/list/?langid=287=Kashaya)
 
 #### Selected materials in other archives
 

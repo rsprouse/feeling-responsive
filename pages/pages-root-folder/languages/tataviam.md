@@ -15,7 +15,7 @@ Tatativam (also called "Alliklik") is a member of the Takic branch of the Uto-Az
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Tataviam"]({{ site.url }}/list.html?langid=936=Tataviam)
+* [California Language Archive: "Tataviam"]({{ site.url }}/list/?langid=936=Tataviam)
 
 #### Selected materials in other archives
 

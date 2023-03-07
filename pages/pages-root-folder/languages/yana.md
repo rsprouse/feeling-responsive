@@ -15,7 +15,7 @@ Yana is an isolate within the hypothesized Hokan language family. This additionl
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Yana"]({{ site.url }}/list.html?langid=237=Yana)
+* [California Language Archive: "Yana"]({{ site.url }}/list/?langid=237=Yana)
 
 
 #### Selected materials in other archives

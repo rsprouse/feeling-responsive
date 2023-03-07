@@ -13,7 +13,7 @@ The traditional Kawaiisu language area is in the southern Sierra Nevada, in the 
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Kawaiisu"]({{ site.url }}/list.html?langid=923=Kawaiisu)
+* [California Language Archive: "Kawaiisu"]({{ site.url }}/list/?langid=923=Kawaiisu)
 
 #### Selected materials in other archives
 

@@ -22,7 +22,7 @@ Awaswas is an Ohlone (or "Costanoan") language, along with [Chalon](chalon.html)
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Awaswas"]({{ site.url }}/list.html?langid=590=Awaswas)
+* [California Language Archive: "Awaswas"]({{ site.url }}/list/?langid=590=Awaswas)
 
 #### Further reading
 

@@ -20,7 +20,7 @@ Thumbnail sketch of Wiyot by Mary R. Haas, based on Karl V. Teeter's <em>The Wiy
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: Wiyot]({{site.url}}/list.html?langid=2=Wiyot)
+* [California Language Archive: Wiyot]({{site.url}}/list/?langid=2=Wiyot)
 
 #### Selected materials in other archives
   

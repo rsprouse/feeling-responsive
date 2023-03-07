@@ -13,7 +13,7 @@ The traditional Kato language areas are Cahto Valley and Long Valley in Mendocin
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Kato"]({{ site.url }}/list.html?langid=1254=Kato)
+* [California Language Archive: "Kato"]({{ site.url }}/list/?langid=1254=Kato)
 
 #### Further reading
 

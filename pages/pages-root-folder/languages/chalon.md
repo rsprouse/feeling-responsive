@@ -22,7 +22,7 @@ Chalon is an Ohlone (or "Costanoan") language, along with [Awaswas](awaswas.html
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Chalon"]({{ site.url }}/list.html?langid=592=Chalon)
+* [California Language Archive: "Chalon"]({{ site.url }}/list/?langid=592=Chalon)
 
 #### Further reading
 

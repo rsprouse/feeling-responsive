@@ -28,7 +28,7 @@ Tolowa prosody requires at least one syllable of each utterance to have high pit
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Tolowa"]({{ site.url }}/list.html?langid=1265=Tolowa)
+* [California Language Archive: "Tolowa"]({{ site.url }}/list/?langid=1265=Tolowa)
 
 #### Selected materials in other archives
 

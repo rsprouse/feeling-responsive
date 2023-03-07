@@ -13,7 +13,7 @@ The traditional Northern Sierra Miwok language area is in the foothills of the S
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Northern Sierra Miwok"]({{ site.url }}/list.html?langid=578=Northern+Sierra+Miwok)
+* [California Language Archive: "Northern Sierra Miwok"]({{ site.url }}/list/?langid=578=Northern+Sierra+Miwok)
 
 #### Selected materials in other archives
 

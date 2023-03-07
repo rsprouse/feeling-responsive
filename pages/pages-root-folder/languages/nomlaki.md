@@ -13,7 +13,7 @@ The traditional Nomlaki language area is the Sacramento Valley, from Cottonwood 
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Nomlaki"]({{ site.url }}/list.html?langid=560=Nomlaki)
+* [California Language Archive: "Nomlaki"]({{ site.url }}/list/?langid=560=Nomlaki)
 
 #### Selected materials in other archives
 

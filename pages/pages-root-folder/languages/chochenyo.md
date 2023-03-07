@@ -22,7 +22,7 @@ Chochenyo (also spelled "Chocheño") is an Ohlone (or "Costanoan") language, alo
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Chochenyo"]({{ site.url }}/list.html?langid=586=Chochenyo)
+* [California Language Archive: "Chochenyo"]({{ site.url }}/list/?langid=586=Chochenyo)
 
 #### Further reading
 

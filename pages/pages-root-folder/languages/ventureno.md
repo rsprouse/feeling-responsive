@@ -22,7 +22,7 @@ Ventureño (also called Mitsqanaqan̓) is a member of the Chumashan language fam
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Ventureño"]({{ site.url }}/list.html?langid=289=Ventureno)
+* [California Language Archive: "Ventureño"]({{ site.url }}/list/?langid=289=Ventureno)
 
 #### Selected materials in other archives
 

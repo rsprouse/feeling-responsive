@@ -13,7 +13,7 @@ The traditional Atsugewi language area is south of the Pit River, along Hat Cree
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Atsugewi"]({{ site.url }}/list.html?langid=260=Atsugewi)
+* [California Language Archive: "Atsugewi"]({{ site.url }}/list/?langid=260=Atsugewi)
 
 #### Selected materials in other archives
 

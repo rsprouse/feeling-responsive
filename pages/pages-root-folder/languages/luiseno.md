@@ -13,7 +13,7 @@ The traditional Luiseño language area is on the San Luis Rey River, from the co
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Luiseño"]({{ site.url }}/list.html?langid=943=Luiseño)
+* [California Language Archive: "Luiseño"]({{ site.url }}/list/?langid=943=Luiseño)
 
 #### Selected materials in other archives
 

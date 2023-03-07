@@ -13,7 +13,7 @@ The traditional Mojave language area is along the Colorado River from Black Cany
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Mojave"]({{ site.url }}/list.html?langid=347=Mojave)
+* [California Language Archive: "Mojave"]({{ site.url }}/list/?langid=347=Mojave)
 
 #### Selected materials in other archives
 

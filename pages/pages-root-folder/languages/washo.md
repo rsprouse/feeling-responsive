@@ -16,7 +16,7 @@ Washo (also written "Wá·šiw" and "Washoe") is an isolate within the hypothesi
 #### Selected archival materials at Berkeley
 
 
-* [California Language Archive: "Washo"]({{ site.url }}/list.html?langid=375=Washo)
+* [California Language Archive: "Washo"]({{ site.url }}/list/?langid=375=Washo)
 
 
 #### Selected materials in other archives

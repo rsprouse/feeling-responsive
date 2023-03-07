@@ -22,7 +22,7 @@ Northeastern Pomo (also called "Salt Pomo") is one of seven languages that compr
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Northeastern Pomo"]({{ site.url }}/list.html?langid=265=Northeastern+Pomo)
+* [California Language Archive: "Northeastern Pomo"]({{ site.url }}/list/?langid=265=Northeastern+Pomo)
 
 #### Further reading
 

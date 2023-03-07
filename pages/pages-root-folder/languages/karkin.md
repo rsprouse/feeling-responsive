@@ -22,7 +22,7 @@ Karkin (also spelled "Carquin") is an Ohlone (or "Costanoan") language, along wi
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Karkin"]({{ site.url }}/list.html?langid=585=Karkin)
+* [California Language Archive: "Karkin"]({{ site.url }}/list/?langid=585=Karkin)
 
 #### Further reading
 

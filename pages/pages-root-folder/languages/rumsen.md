@@ -22,7 +22,7 @@ Rumsen (also spelled "Rumsien") is an Ohlone (or "Costanoan") language, along wi
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Rumsen"]({{ site.url }}/list.html?langid=595=Rumsen)
+* [California Language Archive: "Rumsen"]({{ site.url }}/list/?langid=595=Rumsen)
 
 #### Further reading
 

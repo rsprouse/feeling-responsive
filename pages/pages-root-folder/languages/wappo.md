@@ -13,7 +13,7 @@ The traditional Wappo language area is in Alexander Valley, most of Napa Valley,
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Wappo"]({{ site.url }}/list.html?langid=1040=Wappo)
+* [California Language Archive: "Wappo"]({{ site.url }}/list/?langid=1040=Wappo)
 
 #### Selected materials in other archives
 

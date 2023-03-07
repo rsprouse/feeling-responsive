@@ -22,7 +22,7 @@ Purisimeño is a member of the Chumashan language family; the others are [Barbar
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Purisimeño"]({{ site.url }}/list.html?langid=293=Purisimeño)
+* [California Language Archive: "Purisimeño"]({{ site.url }}/list/?langid=293=Purisimeño)
 
 #### Selected materials in other archives
 

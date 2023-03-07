@@ -61,7 +61,7 @@ There are a large number of reduplicated forms indicating repeated sounds, motio
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Kumeyaay"]({{ site.url }}/list.html?langid=307=Kumeyaay)
+* [California Language Archive: "Kumeyaay"]({{ site.url }}/list/?langid=307=Kumeyaay)
 
 #### Selected materials in other archives
 

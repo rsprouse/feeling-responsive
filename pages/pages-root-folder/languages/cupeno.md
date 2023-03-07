@@ -13,7 +13,7 @@ The traditional Cupeño language area is near the headwaters of the San Luis Rey
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Cupeño"]({{ site.url }}/list.html?langid=941=Cupeño)
+* [California Language Archive: "Cupeño"]({{ site.url }}/list/?langid=941=Cupeño)
 
 #### Selected materials in other archives
 

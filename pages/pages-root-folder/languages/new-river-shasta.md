@@ -22,7 +22,7 @@ New River Shasta is a member of the Shastan language family, the other members o
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "New River Shasta"]({{ site.url }}/list.html?langid=253=New+River+Shasta)
+* [California Language Archive: "New River Shasta"]({{ site.url }}/list/?langid=253=New+River+Shasta)
 
 #### Further reading
 

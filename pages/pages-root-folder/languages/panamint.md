@@ -13,7 +13,7 @@ There are three main varieties of the Panamint language: the western variety (al
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Panamint"]({{ site.url }}/list.html?langid=913=Panamint)
+* [California Language Archive: "Panamint"]({{ site.url }}/list/?langid=913=Panamint)
 
 #### Selected materials in other archives
 

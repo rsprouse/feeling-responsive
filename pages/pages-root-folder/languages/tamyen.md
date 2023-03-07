@@ -22,7 +22,7 @@ Tamyen (also spelled "Tamien" and "Thamien") is an Ohlone (or "Costanoan") langu
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Tamyen"]({{ site.url }}/list.html?langid=588=Tamyen)
+* [California Language Archive: "Tamyen"]({{ site.url }}/list/?langid=588=Tamyen)
 
 #### Further reading
 

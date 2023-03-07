@@ -40,7 +40,7 @@ Audio sample: From the story of the toad and the mouse (spoken by Florence Shaug
 </div>
 </div>
 
-* [California Language Archive: "Yurok"]({{ site.url }}/list.html?langid=3=Yurok)
+* [California Language Archive: "Yurok"]({{ site.url }}/list/?langid=3=Yurok)
 
 
 #### Selected materials in other archives

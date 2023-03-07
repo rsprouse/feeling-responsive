@@ -22,7 +22,7 @@ Central Pomo is one of seven languages comprising the Pomoan language family; th
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Central Pomo"]({{ site.url }}/list.html?langid=272=Central+Pomo)
+* [California Language Archive: "Central Pomo"]({{ site.url }}/list/?langid=272=Central+Pomo)
 
 #### Selected materials in other archives
 

@@ -13,7 +13,7 @@ The traditional Mono language area is from Mono Lake in eastern California to th
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Mono"]({{ site.url }}/list.html?langid=905=Mono)
+* [California Language Archive: "Mono"]({{ site.url }}/list/?langid=905=Mono)
 
 #### Selected materials in other archives
 

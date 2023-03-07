@@ -13,7 +13,7 @@ The traditional Kitanemuk language area is near Tehachapi Pass and in the wester
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Kitanemuk"]({{ site.url }}/list.html?langid=949=Kitanemuk)
+* [California Language Archive: "Kitanemuk"]({{ site.url }}/list/?langid=949=Kitanemuk)
 
 #### Selected materials in other archives
 

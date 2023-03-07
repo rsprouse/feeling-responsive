@@ -13,7 +13,7 @@ The traditional Quechan language area is along the Colorado River, around its co
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Quechan"]({{ site.url }}/list.html?langid=342=Quechan)
+* [California Language Archive: "Quechan"]({{ site.url }}/list/?langid=342=Quechan)
 
 #### Selected materials in other archives
 

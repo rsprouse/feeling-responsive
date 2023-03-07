@@ -46,7 +46,7 @@ Karuk is famous for its large system of directional suffixes on verbs of motion,
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Karuk"]({{ site.url }}/list.html?langid=243=Karuk)
+* [California Language Archive: "Karuk"]({{ site.url }}/list/?langid=243=Karuk)
 
 #### Selected materials in other archives
 

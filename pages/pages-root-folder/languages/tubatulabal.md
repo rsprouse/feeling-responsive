@@ -19,7 +19,7 @@ Thumbnail sketch of Tubatulabal by Mary R. Haas, based on an oral report by C. F
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Tubatulabal"]({{ site.url }}/list.html?langid=898=Tubatulabal)
+* [California Language Archive: "Tubatulabal"]({{ site.url }}/list/?langid=898=Tubatulabal)
 
 #### Selected materials in other archives
 

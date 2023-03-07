@@ -13,7 +13,7 @@ Before the 18th century, the Maricopa language was spoken along the Colorado Riv
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Maricopa"]({{ site.url }}/list.html?langid=346=Maricopa)
+* [California Language Archive: "Maricopa"]({{ site.url }}/list/?langid=346=Maricopa)
 
 #### Selected materials in other archives
 

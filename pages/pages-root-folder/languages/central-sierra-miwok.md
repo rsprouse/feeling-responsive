@@ -13,7 +13,7 @@ The traditional Central Sierra Miwok area is in the foothills of the Sierra Neva
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Central Sierra Miwok"]({{ site.url }}/list.html?langid=579=Central+Sierra+Miwok)
+* [California Language Archive: "Central Sierra Miwok"]({{ site.url }}/list/?langid=579=Central+Sierra+Miwok)
 
 #### Selected materials in other archives
 

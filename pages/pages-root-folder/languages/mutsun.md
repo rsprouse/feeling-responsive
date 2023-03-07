@@ -22,7 +22,7 @@ Mutsun is an Ohlone (or "Costanoan") language, along with [Awaswas](awaswas.html
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Mutsun"]({{ site.url }}/list.html?langid=594=Mutsun)
+* [California Language Archive: "Mutsun"]({{ site.url }}/list/?langid=594=Mutsun)
 
 #### Further reading
 

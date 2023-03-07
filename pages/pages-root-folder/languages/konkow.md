@@ -17,7 +17,7 @@ Thumbnail sketch of Konkow by Russell Ultan [[PDF](https://berkeley.box.com/v/sk
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Konkow"]({{ site.url }}/list.html?langid=563=Konkow)
+* [California Language Archive: "Konkow"]({{ site.url }}/list/?langid=563=Konkow)
 
 #### Selected materials in other archives
 

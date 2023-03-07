@@ -13,7 +13,7 @@ The traditional Maidu language area is in the valleys in the Sierra Nevada betwe
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Maidu"]({{ site.url }}/list.html?langid=562=Maidu)
+* [California Language Archive: "Maidu"]({{ site.url }}/list/?langid=562=Maidu)
 
 #### Selected materials in other archives
 

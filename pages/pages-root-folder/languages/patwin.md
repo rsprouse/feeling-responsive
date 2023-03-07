@@ -13,7 +13,7 @@ The Patwin language has two main dialects. For the first dialect, River Patwin, 
 
 #### Selected archival materials at Berkeley
 
-* [California Language Archive: "Patwin"]({{ site.url }}/list.html?langid=561=Patwin)
+* [California Language Archive: "Patwin"]({{ site.url }}/list/?langid=561=Patwin)
 
 #### Selected materials in other archives
 
