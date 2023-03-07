@@ -15,7 +15,7 @@ Tubatulabal (also written "Tübatulabal" and called "Pahkanapul" or "Paka'anil")
 
 #### Grammatical information
 
-Thumbnail sketch of Tubatulabal by Mary R. Haas, based on an oral report by C. F. Voegelin [[PDF](https://berkeley.box.com/v/sketch-tubatulabal)] ([Haas.063]({{ site.url }}/item.html?bndlid=921))
+Thumbnail sketch of Tubatulabal by Mary R. Haas, based on an oral report by C. F. Voegelin [[PDF](https://berkeley.box.com/v/sketch-tubatulabal)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
 #### Selected archival materials at Berkeley
 
@@ -24,7 +24,7 @@ Thumbnail sketch of Tubatulabal by Mary R. Haas, based on an oral report by C. F
 #### Selected materials in other archives
 
 * [The American Philosophical Society: "Tübatulabal"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AT%C3%BCbatulabal)
-* [Smithsonian Institution: "John Peabody Harrington papers: Tubatulabal"](https://collections.si.edu/search/detail/edanmdm:siris_arc_363771?q=url%3Aedanmdm%3Asiris_arc_363771&amp;record=1&amp;hlterm=url%3Aedanmdm%3Asiris_arc_363771)
+* [Smithsonian Institution: "John Peabody Harrington papers: Tubatulabal"](https://collections.si.edu/search/results.htm?q=harrington+tubatulabal)
 
 #### Further reading
 
