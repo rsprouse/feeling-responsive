@@ -22,7 +22,7 @@ Shasta is a member of the Shastan language family, the other members of which ar
 
 #### Grammatical information
 
-Thumbnail sketch of Shasta by Shirley Silver [[PDF](https://berkeley.box.com/v/sketch-shasta)] ([Haas.063]({{ site.url }}/item.html?bndlid=921))
+Thumbnail sketch of Shasta by Shirley Silver [[PDF](https://berkeley.box.com/v/sketch-shasta)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
 #### Selected archival materials at Berkeley
 

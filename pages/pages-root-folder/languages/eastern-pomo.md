@@ -22,7 +22,7 @@ Eastern Pomo (also called "Clear Lake Pomo") is one of seven languages comprisin
 
 #### Grammatical information
 
-Thumbnail sketch of Eastern Pomo by Sally McLendon [[PDF](https://berkeley.box.com/v/sketch-eastern-pomo)] ([Haas.063]({{ site.url }}/item.html?bndlid=921))
+Thumbnail sketch of Eastern Pomo by Sally McLendon [[PDF](https://berkeley.box.com/v/sketch-eastern-pomo)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
 #### Selected archival materials at Berkeley
 

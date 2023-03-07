@@ -13,7 +13,7 @@ The traditional Konkow language area is along the Feather River and surrounding 
 
 #### Grammatical information
 
-Thumbnail sketch of Konkow by Russell Ultan [[PDF](https://berkeley.box.com/v/sketch-konkow)] ([Haas.063]({{ site.url }}/item.html?bndlid=921))
+Thumbnail sketch of Konkow by Russell Ultan [[PDF](https://berkeley.box.com/v/sketch-konkow)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
 #### Selected archival materials at Berkeley
 

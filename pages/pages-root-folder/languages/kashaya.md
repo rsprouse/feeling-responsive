@@ -22,7 +22,7 @@ Kashaya (also spelled "Kashia" and called "Southwestern Pomo") is one of seven l
 
 #### Grammatical information
 
-Thumbnail sketch of Kashaya by Robert L. Oswalt, April 1962 [[PDF](https://berkeley.box.com/v/sketch-kashaya)] ([Haas.063]({{ site.url }}/item.html?bndlid=921))
+Thumbnail sketch of Kashaya by Robert L. Oswalt, April 1962 [[PDF](https://berkeley.box.com/v/sketch-kashaya)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
 #### Selected archival materials at Berkeley
 
