@@ -71,6 +71,8 @@ $grey-5             : #A4A4A4;
 $grey-6             : #979797;
 $grey-7             : #8B8B8B;
 $grey-8             : #7E7E7E;
+$grey-8a            : #595959; // darkened for land acknoweledgement footer bg
+$grey-8b            : #313131; // lightened for template recognition footer text
 $grey-9             : #646464;
 $grey-10            : #575757;
 $grey-11            : #4B4B4B;
@@ -120,13 +122,13 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg          : $grey-8;
+$footer-bg          : $grey-8a;
 $footer-color       : #fff;
 $footer-link-color  : $ci-6;
 
 
 $subfooter-bg       : $grey-13;
-$subfooter-color    : $grey-8;
+$subfooter-color    : $grey-8b;
 $subfooter-link-color: $grey-8;
 
 $subfooter-contactinfo-color  : $ci-6;
