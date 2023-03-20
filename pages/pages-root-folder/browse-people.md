@@ -2,7 +2,7 @@
 permalink: browse-people.html
 layout: browse_page
 title: Browse People
-header:
+header: Browse People
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
 sitemap: true
