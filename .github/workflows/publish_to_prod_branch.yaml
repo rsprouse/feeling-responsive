@@ -21,7 +21,7 @@ jobs:
             ${{ runner.os }}-gems-
 
       - name:  prod_build
-        uses:  helaili/jekyll-action@master
+        uses:  helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: gh-pages-prod
