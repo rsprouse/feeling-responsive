@@ -6,7 +6,7 @@
 #
 layout: cla-frontpage
 header:
-  image_fullwidth: cla_website-banner_v2.png
+  image_fullwidth: cla_website-banner_v2.jpg
   title: California Language Archive
 search_include: true
 widget1:
