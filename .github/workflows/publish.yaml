@@ -1,0 +1,43 @@
+# This action builds the CLA website and copies the files to the
+# selected branch when this action is invoked manually.
+
+name: Build CLA website with Jekyll and deploy to selected branch
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_branch:
+        description: Branch to which generated site will be pushed
+        type: choice
+        required: true
+        options:
+        - gh-pages-dev
+        - gh-pages-local-dev
+        - gh-pages-prod
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+ 
+    steps:
+      - uses: actions/checkout@v3
+
+      # Use GitHub Actions' cache to shorten build times and decrease load on servers
+      - uses: actions/cache@v3
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name:  build
+        uses:  helaili/jekyll-action@v2
+        env:
+          ymlfile: ${{ fromJSON('{"gh-pages-dev":"_config.yml,_config_dev.yml","gh-pages-local-dev":"_config.yml,_config_local_dev.yml","gh-pages-prod":"_config.yml"}')[inputs.target_branch] }}
+          jekyll_env: ${{ fromJSON('{"gh-pages-dev":"development","gh-pages-local-dev":"development","gh-pages-prod":"production"}')[inputs.target_branch] }}
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: ${{ inputs.target_branch }}
+          jekyll_build_options: --config ${{ env.ymlfile }}
+          # Set to development env if you want to prevent minifying the output.
+          jekyll_env: ${{ env.jekyll_env }}
