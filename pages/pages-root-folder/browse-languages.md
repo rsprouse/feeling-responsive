@@ -2,7 +2,7 @@
 permalink: browse-languages.html
 layout: browse_page
 title: Browse Languages
-header: Browse Languages
+header:
    image_fullwidth: salinan_lands.jpg
    title: California Language Archive
 sitemap: true
