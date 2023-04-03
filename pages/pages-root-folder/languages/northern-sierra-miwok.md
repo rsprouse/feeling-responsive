@@ -29,7 +29,7 @@ The traditional Northern Sierra Miwok language area is in the foothills of the S
 #### Links
 
 * [Buena Vista Rancheria](http://buenavistatribe.com/)
-* [California Valley Miwok Tribe](http://californiavalleymiwok.us/)
+* [California Valley Miwok Tribe](https://californiavalleymiwok.us/)
 * [Colfax-Todds Valley Consolidated Tribe](http://www.colfaxrancheria.com/)
 * [Ione Band of Miwok Indians](https://ionemiwok.net/)
 * [Shingle Springs Rancheria](http://www.shinglespringsrancheria.com/)
