@@ -44,7 +44,7 @@ sitemap: true
 <img src="{{ site.urlimg }}Arms-Nicolas-photo.jpg" alt="Nicolas Arms"/>
 </div>
 
-**Nicolas Arms** (Graduate Student, Anthropology) studies deixis and other indexical phenomena in language, focusing on the deictic systems of indigenous languages of the Americas, and on the contribution of deictic expressions to the multimodal dynamics of everyday communicative interaction. Since 2018, he has been carrying out fieldwork on 'Weenhayek, a Mataguayan language spoken in the Bolivian Chaco.
+**Nicolas Arms** (Graduate Student, Anthropology) is interested in the ethnography, linguistics, and historical ecology of southwestern North America and the Gran Chaco. As part of a broader dissertation project on human-environment relationships and settler colonialism in the coastal Sonoran Desert region, his current language-centered research focuses on the history of plant and animal names in Cmiique Iitom (or Seri) and the Indigenous languages of the Baja California peninsula. He has also carried out fieldwork with speakers of ‘Weenhayek in communities along the Pilcomayo River in southeastern Bolivia, and he continues to pursue research on several topics in comparative Mataguayan and Guaykuruan linguistics.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}carpenter.jpg" alt="Kayla Carpenter"/>
