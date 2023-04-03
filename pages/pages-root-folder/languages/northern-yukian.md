@@ -15,7 +15,7 @@ The traditional Northern Yukian language area ranges from the Coast Range border
 <div class="image right" style="width: 300px;">
 <a href="https://berkeley.app.box.com/v/northern-yukian-language-map"><img alt="Map of the Yuki and Huchnom varieties of Northern Yukian" src="{{ site.urlimg }}northern-yukian-language-map-small.jpg" width="300px"/></a>
 <div class="caption">
-Map of the Yuki and Huchnom varieties of Northern Yukian (Martin A. Baumhoff. 1958. <a href="http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&amp;volume=16&amp;journal=3&amp;item=6">California Athabascan Groups.</a> University of California Anthropological Records 16:157-237.)
+Map of the Yuki and Huchnom varieties of Northern Yukian (Martin A. Baumhoff. 1958. <a href="https://digicoll.lib.berkeley.edu/record/84218">California Athabascan Groups.</a> University of California Anthropological Records 16:157-237.)
 </div>
 </div>
 Northern Yukian (also called "Yuki") is a Yukian language; the other member of this family is [Wappo](wappo.html).
