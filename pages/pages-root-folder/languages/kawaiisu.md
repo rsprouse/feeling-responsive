@@ -21,7 +21,7 @@ The traditional Kawaiisu language area is in the southern Sierra Nevada, in the 
 
 #### Further reading
 
-* Garfinkel, Alan P. and Williams, Harold. 2010. *Handbook of the Kawaiisu.* Bakersfield: Archaeological Associates of Kern County. [[PDF](https://d1wqtxts1xzle7.cloudfront.net/56742545/KH_as_of_July_14.pdf?1528311682=&amp;response-content-disposition=inline%3B+filename%3DHandbook_of_the_Kawaiisu.pdf&amp;Expires=1617666933&amp;Signature=NcwGEStaPfQTY0gBNnkJavjLqw9qq2VLYWjRzrOZKsB33c6TCvZZcSPWw0E7M9xXd86gQ745OyHh4hLselh3HHRw1zrzDDzWJyeYwIF129VmVeOL2l62X-mYkEY~qys28QBZdVJHN8yUQcAi9T88-9LFyjVbgavWpQvJE0ZBT6Z9gSyrT3OLVOSCYNHKTamcK5qbnba-vZjf2g7VsDZ1peEIS8yMduKyY7CwfzDpxomA1uWItoBXFh~cY4ndb5dt8xuDvJlGuZA7J3mQ9fQO9xgjTAWkLZ-MiWSaWTN3-y8rtq2Ywp0x2xA-ibEN9NKPlYJMNdBbqUzqOQ06daZLHA__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
+* Garfinkel, Alan P. and Williams, Harold. 2010. *Handbook of the Kawaiisu.* Bakersfield: Archaeological Associates of Kern County.
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
 * Zigmond, Maurice L. 1980. *Kawaiisu Mythology: An Oral Tradition of South-Central California*. Malki-Ballena Press.
 * Zigmond, Maurice L., Curtis G. Booth and Pamela Munro. 1990. *Kawaiisu: A grammar and dictionary with texts.* Berkeley: University of California Press.
