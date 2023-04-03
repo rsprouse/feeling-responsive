@@ -54,7 +54,7 @@ Karuk is famous for its large system of directional suffixes on verbs of motion,
 
 #### Further reading
 
-* Bright, William. 1957. *The Karok language.* Berkeley: University of California Press. [[PDF](http://linguistics.berkeley.edu/~karuk/Bright-1957)]
+* Bright, William. 1957. *The Karok language.* Berkeley: University of California Press. [[PDF](https://linguistics.berkeley.edu/~karuk/Bright-1957)]
 * Harrington, J. P. 1932. *Karuk Indian myths.* (Bureau of American Ethnology, Bulletin 107.) Washington: Smithsonian Institute. [[PDF](http://www.archive.org/details/karukindianmyths00harr)]
 * Harrington, J.P. 1931. Karuk texts. *International Journal of American Linguistics* 6:121-161. [[PDF](http://linguistics.berkeley.edu/~karuk/harrington-karuk-texts.pdf)]
 * Lang, Julian. 1994. *Ararapíkva: Creation stories of the people: Traditional Karuk Indian literature from northwestern California.* Berkeley, CA: Heyday Books. [[PDF](http://linguistics.berkeley.edu/~karuk/Bright-1957)]
