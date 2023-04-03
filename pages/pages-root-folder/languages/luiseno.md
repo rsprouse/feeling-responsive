@@ -34,7 +34,7 @@ The traditional Luiseño language area is on the San Luis Rey River, from the co
 
 #### Links
 
-* [La Jolla Band of Luiseño Indians](http://www.lajollaindians.com/)
+* [La Jolla Band of Luiseño Indians](https://sctca.net/la-jolla-band-of-luiseno-indians/)
 * [Pala Band of Mission Indians](http://www.palatribe.com/)
 * [Pauma Band of Luiseño Indians](https://www.paumatribe.com/)
 * [Pechanga Band of Luiseño Indians](http://www.pechanga-nsn.gov/)
