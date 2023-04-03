@@ -31,7 +31,7 @@ Rumsen (also spelled "Rumsien") is an Ohlone (or "Costanoan") language, along wi
 * Heizer, R.F., ed. 1955. California Indian linguistic records: The Mission Indian vocabularies of H. W. Henshaw. *University of California Anthropological Records* 15:85-202. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar015-002.pdf)]
 * Hinton, Leanne. 2001. The Ohlone Languages. In Leanne Hinton &amp; Kenneth Hale (eds.) *The Green Book of Language Revitalization in Practice*. San Diego: Academic Press
 * Kroeber, Alfred L. 1910. The Chumash and Costanoan languages. *University of California Publications in American Archaeology and Ethnology* 9:237-271. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp009-004.pdf)]
-* Milliken, Randall, Shoup, Laurence H. &amp; Ortiz, Beverly R. *Ohlone/Coastanoan Indians of the San Francisco Peninsula and their Neighbors, Yesterday and Today.* Oakland: Archaeological and Historical Consultants. [[PDF](https://www.ci.benicia.ca.us/vertical/sites/%7BF991A639-AAED-4E1A-9735-86EA195E2C8D%7D/uploads/Milliken_Shoup_Ortiz_2009.pdf)]
+* Milliken, Randall, Shoup, Laurence H. &amp; Ortiz, Beverly R. *Ohlone/Coastanoan Indians of the San Francisco Peninsula and their Neighbors, Yesterday and Today.* Oakland: Archaeological and Historical Consultants. [[PDF](https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1005&context=hornbeck_ind_1)]
 
 #### Links
 
