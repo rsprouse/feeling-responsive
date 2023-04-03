@@ -27,7 +27,7 @@ Tamyen (also spelled "Tamien" and "Thamien") is an Ohlone (or "Costanoan") langu
 #### Further reading
 
 * Hinton, Leanne. 2001. The Ohlone Languages. In Leanne Hinton &amp; Kenneth Hale (eds.) *The Green Book of Language Revitalization in Practice*. San Diego: Academic Press
-* Milliken, Randall, Shoup, Laurence H. &amp; Ortiz, Beverly R. *Ohlone/Coastanoan Indians of the San Francisco Peninsula and their Neighbors, Yesterday and Today.* Oakland: Archaeological and Historical Consultants. [[PDF](https://www.ci.benicia.ca.us/vertical/sites/%7BF991A639-AAED-4E1A-9735-86EA195E2C8D%7D/uploads/Milliken_Shoup_Ortiz_2009.pdf)]
+* Milliken, Randall, Shoup, Laurence H. &amp; Ortiz, Beverly R. *Ohlone/Coastanoan Indians of the San Francisco Peninsula and their Neighbors, Yesterday and Today.* Oakland: Archaeological and Historical Consultants. [[PDF](https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1005&context=hornbeck_ind_1)]
 * Powell, J. W. 1877. Linguistics. In Stephen Powers. *Tribes of California*, pp. 535-614. (Contributions to North American Ethnology, Volume 3.) Washington: Government Printing Office. [[PDF](http://www.archive.org/download/contributionston03unituoft/contributionston03unituoft.pdf)]
 
 #### Links
