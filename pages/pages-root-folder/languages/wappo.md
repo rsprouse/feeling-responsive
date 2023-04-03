@@ -9,7 +9,7 @@ header:
 permalink: languages/wappo.html
 ---
 
-The traditional Wappo language area is in Alexander Valley, most of Napa Valley, and northern Sonoma Valley. In the 21st century, there are no first-language speakers (Golla 2011). However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://scholarspace.manoa.hawaii.edu/bitstream/10125/26061/26061.pdf). Wappo is a Yukian language; the other member of this family is [Northern Yukian](northern-yukian.html).
+The traditional Wappo language area is in Alexander Valley, most of Napa Valley, and northern Sonoma Valley. In the 21st century, there are no first-language speakers (Golla 2011). However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/7208ecc7-01c9-4b65-9cbd-141943b3f8dc/content). Wappo is a Yukian language; the other member of this family is [Northern Yukian](northern-yukian.html).
 
 #### Selected archival materials at Berkeley
 
