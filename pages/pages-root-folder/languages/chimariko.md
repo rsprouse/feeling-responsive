@@ -17,7 +17,7 @@ The traditional Chimariko language area is along the Trinity River from its conf
 
 #### Selected materials in other archives
 
-* [Smithsonian Institution: "John Peabody Harrington papers: Chimariko/Hupa, 1921-1930"](https://collections.si.edu/search/detail/edanmdm:siris_arc_363718)
+* [Smithsonian Institution: "John Peabody Harrington papers: Chimariko/Hupa, 1921-1930"](https://sova.si.edu/details/NAA.1976-95?t=W&q=wintu#ref13423)
 * [The American Philosophical Society: "Chimariko"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AVenture%C3%B1o)
 
 #### Further reading
