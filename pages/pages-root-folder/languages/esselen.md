@@ -25,7 +25,7 @@ The traditional Esselen language area is the northern Santa Lucia Range in what 
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
 * Heizer R. F., ed. 1952. California Indian linguistic records: The Mission Indian vocabularies of Alphonse Pinart. *University of California Anthropological Records* 15:1-84. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar015-001.pdf)]
 * Shaul, David. 1995. The Huelel (Esselen) language. *International Journal of American Linguistics* 61:191-239.[[PDF](https://www.jstor.org/stable/1265728?seq=1#metadata_info_tab_contents)]
-* Shaul, David &amp; Turner, Katherine &amp; Collins, James. 1984. Esselen Linguistic Materials. *Kansas Working Papers in Linguistics.* [[PDF](https://kuscholarworks.ku.edu/bitstream/handle/1808/490/ling.wp.v9.paper6.pdf?sequence=1&amp;isAllowed=y)]
+* Shaul, David &amp; Turner, Katherine &amp; Collins, James. 1984. Esselen Linguistic Materials. *Kansas Working Papers in Linguistics.* [[PDF](https://journals.ku.edu/kwpl/article/view/17882/16134)]
 * Shaul, David. 1995. The Last Words of Esselen. *International Journal of American Linguistics* 61:2 245-249 [[PDF](https://www.journals.uchicago.edu/doi/10.1086/466253)]
 * Shaul, David. 2019. *Esselen studies: Language, culture, and prehistory.* Muenchen: Lincom GmbH
 
