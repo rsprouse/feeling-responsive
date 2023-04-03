@@ -14,7 +14,7 @@ The traditional area of the very closely related Mattole and Bear River varietie
 <div class="image fit right" style="width: 300px;">
 <a href="https://berkeley.app.box.com/v/mattole-language-map"><img alt="Map of Mattole" src="{{ site.urlimg }}mattole-language-map-small.jpg" width="300px"/></a>
 <div class="caption">
-Map of Mattole (Martin A. Baumhoff. 1958. <a href="http://dpg.lib.berkeley.edu/webdb/anthpubs/search?all=&amp;volume=16&amp;journal=3&amp;item=6">California Athabascan Groups</a>. <em>University of California Anthropological Records</em> 16:157-237.)
+Map of Mattole (Martin A. Baumhoff. 1958. <a href="https://digicoll.lib.berkeley.edu/record/84218">California Athabascan Groups</a>. <em>University of California Anthropological Records</em> 16:157-237.)
 </div>
 </div>
 
