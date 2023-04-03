@@ -30,7 +30,7 @@ Chalon is an Ohlone (or "Costanoan") language, along with [Awaswas](awaswas.html
 * Heizer R. F., ed. 1952. California Indian linguistic records: The Mission Indian vocabularies of Alphonse Pinart. *University of California Anthropological Records* 15:1-84. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar015-001.pdf)]
 * Heizer, R.F., ed. 1955. California Indian linguistic records: The Mission Indian vocabularies of H. W. Henshaw. *University of California Anthropological Records* 15:85-202. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar015-002.pdf)]
 * Hinton, Leanne. 2001. The Ohlone Languages. In Leanne Hinton &amp; Kenneth Hale (eds.) *The Green Book of Language Revitalization in Practice*. San Diego: Academic Press
-* Milliken, Randall, Shoup, Laurence H. &amp; Ortiz, Beverly R. *Ohlone/Coastanoan Indians of the San Francisco Peninsula and their Neighbors, Yesterday and Today.* Oakland: Archaeological and Historical Consultants. [[PDF](https://www.ci.benicia.ca.us/vertical/sites/%7BF991A639-AAED-4E1A-9735-86EA195E2C8D%7D/uploads/Milliken_Shoup_Ortiz_2009.pdf)]
+* Milliken, Randall, Shoup, Laurence H. &amp; Ortiz, Beverly R. *Ohlone/Coastanoan Indians of the San Francisco Peninsula and their Neighbors, Yesterday and Today.* Oakland: Archaeological and Historical Consultants. [[PDF](https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1005&context=hornbeck_ind_1)]
 * Shaul, David L. 2012. Chalon and Rumsen (Ohlone/Costanoan) catechism. *Journal of Californian and Great Basin Anthropology*, 32:161-186.
 
 #### Links
