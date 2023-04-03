@@ -30,7 +30,7 @@ The traditional Central Sierra Miwok area is in the foothills of the Sierra Neva
 #### Links
 
 * [Buena Vista Rancheria](http://buenavistatribe.com/)
-* [California Valley Miwok Tribe](http://californiavalleymiwok.us/)
+* [California Valley Miwok Tribe](https://californiavalleymiwok.us/)
 * [Colfax-Todds Valley Consolidated Tribe](http://www.colfaxrancheria.com/)
 * [Ione Band of Miwok Indians](https://ionemiwok.net/)
 * [Shingle Springs Rancheria](http://www.shinglespringsrancheria.com/)
