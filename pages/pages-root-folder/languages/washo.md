@@ -44,7 +44,7 @@ Washo (also written "Wá·šiw" and "Washoe") is an isolate within the hypothesi
 
 * [Reno-Sparks Indian Colony](http://www.rsic.org/)
 * [Washo Project, University of Chicago](http://washo.uchicago.edu/)
-* [Washoe Tribe of California and Nevada](http://www.washoetribe.us/)
+* [Washoe Tribe of California and Nevada](https://www.washoetribe.us/)
 * [Wašišiw GuwaɁ Language Circle videos](https://www.youtube.com/channel/UCs-3PoulM2UUidyjx85s3qQ/videos)
 * [Glottolog: Washo](https://glottolog.org/resource/languoid/id/wash1253)
 * [OLAC Resources in and about the Washo language](http://www.language-archives.org/language/was)
