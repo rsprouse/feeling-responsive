@@ -65,8 +65,8 @@ For more details and how to apply, click <a href="https://forms.gle/vTYNbA2a1Xe6
 <li><a href="http://www.jacobsgrants.org/">Jacobs Research Funds</a>
 <br><b>Deadline</b>: February 15, 2022
 <li><a href="http://www.wennergren.org/programs/">Wenner-Gren Foundation Dissertation Fieldwork Grants </a>
-<br><b>Deadline</b>: Annual deadlines on November 1 and May 1 (Note: <a href="http://www.wennergren.org/faq/not-normally-funded">Does not support</a> the preparation of dictionaries and/or grammars)
+<br><b>Deadline</b>: Annual deadlines on November 1 and May 1
 <li><a href="https://www.ssrc.org/programs/idrf/international-dissertation-research-fellowship/">International Dissertation Research Fellowship (Social Science Research Council)</a>
 <br><b>Deadline</b>: TBA
-<li><a href="https://clas.berkeley.edu/indigenous-languages-latin-america-illa-travel-fund">Indigenous Languages of Latin America Travel Fund</a>
-<br><b>Deadline</b>: Applications are accepted on a rolling basis and are due at least 3 weeks before the conference date for travel within the US, and 2 months before the conference date for travel outside of the US.
+<li><a href="https://clas.berkeley.edu/funding/clas-grants/field-research">Center for Latin American Studies Field Research Grants</a>
+<br><b>Deadline</b>: TBA (previously December 15, 2022)
