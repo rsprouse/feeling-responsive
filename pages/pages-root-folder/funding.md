@@ -49,7 +49,7 @@ For more details and how to apply, click <a href="https://forms.gle/vTYNbA2a1Xe6
 <br><b>Deadline</b>: March 18, 2022
 <li><a href="http://www.endangeredlanguagefund.org/native-voices-endowment.html">Endangered Language Fund (ELF) Native Voices Endowment Grants</a>
 <br><b>Deadline</b>: TBA (previously October 1, 2021)
-                <li><a href="http://www.ogmios.org/grants/">Foundation for Endangered Lanugages Grant</a>
+                <li><a href="http://www.ogmios.org/grants/">Foundation for Endangered Languages Grant</a>
 <br><b>Deadline</b>: TBA (previously December 31, 2021)
                 <li><a href="http://www.firebirdfellowships.org/">Fellowships for the Documentation of Oral Literature and Traditional Ecological Knowledge</a>
 <br><b>Deadline</b>: Temporarily suspended due to COVID-19
