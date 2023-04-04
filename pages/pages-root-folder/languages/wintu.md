@@ -35,7 +35,7 @@ Thumbnail sketch of Wintu by Harvy Pitkin [[PDF](https://berkeley.app.box.com/v/
 
 #### Links
 
-* [Redding Rancheria](http://www.redding-rancheria.com/)
+* [Redding Rancheria](https://www.reddingrancheria-nsn.gov/)
 * [Winnemem Wintu Tribe](http://www.winnememwintu.us/)
 * [Glottolog: Wintu](https://glottolog.org/resource/languoid/id/nucl1651)
 * [OLAC Resources in and about the Wintu language](http://www.language-archives.org/language/wnw)
