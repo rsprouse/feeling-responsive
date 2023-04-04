@@ -24,9 +24,9 @@ The traditional Cahuilla language area is in the San Gorgonio Pass (around Banni
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
 * Hill, Jane H and Hill, Kenneth C. 2019. *Comparative Takic Grammar.* UC Berkeley Survey Reports, Survey of California and Other Indian Languages.
 [[PDF](https://escholarship.org/uc/item/6tr732gg)]
-* Hooper, Lucile. 1920. The Cahuilla Indians. *Univerity of California Publications in American Archaeology and Ethnology*, 16:315-380.
+* Hooper, Lucile. 1920. The Cahuilla Indians. *University of California Publications in American Archaeology and Ethnology*, 16:315-380.
 [[PDF](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp016-007.pdf)]
-* Kroeber, A. L. 1908. An ethnography of the Cahuilla indians. *Univerity of California Publications in American Archaeology and Ethnology*, 8:29-68.
+* Kroeber, A. L. 1908. An ethnography of the Cahuilla indians. *University of California Publications in American Archaeology and Ethnology*, 8:29-68.
 [[PDF](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp008-004.pdf)]
 * Saubel, Katherine Siva. 1977. *I'isniyatam: A Cahuilla word book.* Banning, CA: Malki Museum Press.
 * Saubel, Katherine Siva and Eric Elliott. 2004. *I’sill he’qwas wa’xish: A dried coyote's tail.* Banning, CA: Malki Museum Press.
