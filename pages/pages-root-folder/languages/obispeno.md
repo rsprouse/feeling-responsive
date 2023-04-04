@@ -9,7 +9,7 @@ header:
 permalink: languages/obispeno.html
 ---
 
-The traditional Obispeño language area is along the Pacific coast around modern-day San Luis Obispo. During the Mission period, it was spoken at Mission San Luis Obispo de Tolosa. The language is attested solely in wordlists and the field notes of J. P. Harrington. Based on archaeological evidence and the testimony of early observers, it has been estimated that speakers of all Chumashan languages together numbered between 10,700 and 17,250 in pre-contact times (King 1969). In the 21st century, there are no first-language speakers of any Chumashan language. However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://www.yttnorthernchumash.org/copy-of-rosario-cooper).
+The traditional Obispeño language area is along the Pacific coast around modern-day San Luis Obispo. During the Mission period, it was spoken at Mission San Luis Obispo de Tolosa. The language is attested solely in wordlists and the field notes of J. P. Harrington. Based on archaeological evidence and the testimony of early observers, it has been estimated that speakers of all Chumashan languages together numbered between 10,700 and 17,250 in pre-contact times (King 1969). In the 21st century, there are no first-language speakers of any Chumashan language. However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://www.northernchumashtribe.com/language-development).
 
 <div class="image fit right" style="width: 400px;">
 <a href="https://berkeley.app.box.com/v/chumashan-languages-map"><img alt="Map of the Chumashan languages" src="{{ site.urlimg }}chumashan-languages-map-small.jpg" width="400px"/></a>
