@@ -35,14 +35,14 @@
 - title: About
   side: right
   dropdown:
+  - title: FAQ
+    url: "faq.html"
   - title: People
     url: "people.html"
   - title: History
     url: "history.html"
   - title: Mission
     url: "mission.html"
-  - title: FAQ
-    url: "faq.html"
   - title: Breath of Life
     url: "https://aicls.org/breath-of-life-institute/"
   - title: Terms & Conditions
