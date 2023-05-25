@@ -32,7 +32,7 @@
   - title: Links
     url: "links.html"
 
-- title: About Us
+- title: About
   side: right
   dropdown:
   - title: People
@@ -41,6 +41,8 @@
     url: "history.html"
   - title: Mission
     url: "mission.html"
+  - title: FAQ
+    url: "faq.html"
   - title: Breath of Life
     url: "https://aicls.org/breath-of-life-institute/"
   - title: Terms & Conditions
