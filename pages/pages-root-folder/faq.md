@@ -61,23 +61,23 @@ sitemap: true
 <p>There are two ways to find materials in our catalog: browsing by collection, language, or person, or using our search bar.</p>
 <p><i>Browsing by collection, language, or person:</i><br>On the menu bar at the top of our page, there is a button labeled “Browse CLA”. If you hover over it, three options appear: Collections, Languages, People. If you click <i>Collections</i>, you will see an alphabetical list of all of our collections; if you select one, you will be redirected to that collection’s page. If you click <i>Languages</i>, you will see an alphabetical list of all of the languages that are covered in our collections; if you select one, you will be sent to a list of collections and items that we have involving that language. If you click <i>People</i>, you will see an alphabetical list of all of the people involved in the materials, including speakers (consultants), researchers, and depositors. If you select one of these names, you will be sent to a list of all collections and items we have that involve that person. </p>
 
-IMAGE
+<img src="assets/images/browseCLAguide.png" alt="Screenshot of homepage with pink arrow pointing to Browse CLA option on top right menu" />
 
-IMAGE
+<img src="assets/browseCLAoptionsguide" alt="Screenshot of dropdown menu of Broswe CLA option on top right menu, with pink arrows pointing to submenu options Collections, Languages, People" />
 
 <p><i>Using our search bar (more common)</i><br>Our home page has a search bar for the catalog. When typing in a search word(s), there are two types of keyword searches you can make. The first is by selecting a preset language, person, collection name, or item name. When you begin typing, these will appear below the search bar under the label <i>Filter by:</i>. By searching by a preset keyword, you will be brought to a list of all collections and items with that tag. If you do not choose a preset keyword, the search will return any item or collection that has that exact spelling listed anywhere in its title or description. This may be helpful if you are looking for a certain type of material, such as stories, or certain topics. However, it is more likely to return results that are less relevant.</p>
 
-IMAGE
+<img src="assets/images/searchbarguide.png" alt="Screenshot of homepage with pink arrow pointing to search bar" />
 
-IMAGE
+<img src="assets/images/searchbarktunaxa1guide.png" alt="Screenshot of homepage with Ktunaxa typed in search bar and pink arrow pointing to the first option below that reads Ktunaxa" />
 
-IMAGE
+<img src="assets/images/searchbarktunaxa2guide.png" alt="Screenshot of homepage with Ktunaxa typed in search bar and pink arrow pointing to the second option below that reads Ktunaxa, underneath bold lettering that reads Filter by language" />
 
 <p>After you search, you are brought to a page with two tabs: <i>collections</i> and <i>items</i>. If you click on a collection, you will be brought to that collection’s page and can then see all of the items in that collection. If you click on an item, you will be brought to that item's specific page.</p>
 
-IMAGE
+<img src="assets/images/ktunaxacollectionsguide.png" alt="Results page for Ktunaxa with pink arrow pointing to Collections tab" />
 
-IMAGE
+<img src="assets/images/ktunaxaitemsguide.png" alt="Results page for Ktunaxa with pink arrow pointing to Items tab" />
 
 <p>Note that you can search by multiple keywords (whether preset or not). This can help refine your search; for example, you could search by the preset keyword <i>Yurok</i> and then also by the word <i>story</i> to find items that are tagged as being in Yurok, that mention the word <i>story</i> in their titles or descriptions.</p>
 </div>
@@ -95,15 +95,16 @@ IMAGE
 <div class="content">
 <p>Once you have navigated to a specific item's page, if that material is digitized and publicly accessible, it will be found by scrolling down and looking at the embedded bConnected Box page. Here, you will be able to click on the file(s) and view or listen to them. You can also download them by clicking on the gray <i>Download</i> button in the top right corner.</p>
 
-IMAGE
+<img src="assets/images/bConnectedBoxguide.png" alt="Item description page with pink arrows pointing to the file name and download buttons in the embedded bConnected Box page" />
 
-IMAGE
+<img src="assets/images/bConnectedBoxplayguide.png" alt="Item description page with pink arrow pointing to the audio play button in the embedded bConnected Box page" />
 
 <p>If you are having trouble downloading any file(s), we have a few suggestions. If you are using a phone or tablet, try downloading the file(s) from a computer if you can. If you have issues with your wifi connection, try downloading the file(s) from a place with faster wifi (such as a public library) if that is an option. If you are still having issues, you can call or email us. We may be able to send the file to you directly, or send a compressed (smaller) version of the file.</p>
 
 <p>Some items will not be available online, so they will not have the embedded bConnected Box page. You can check an item's availability (digitization and restriction status) which is listed under the line <i>Availability</i> in the item's description.</p>
 
-IMAGE
+<img src="assets/images/unavailableitemguide.png" alt="Item description page with pink arrow pointing to Availability line that reads Materials for Item number Garvin.002.001 are not digitized" />
+   
 </div>
 </div>
 
