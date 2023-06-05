@@ -1,8 +1,8 @@
-var coll = document.getElementsByClassName("question");
+var collapsible = document.getElementsByClassName("question");
   var i;
 
-  for (i = 0; i < coll.length; i++) {
-    coll[i].firstElementChild.addEventListener("click", expand(coll[i]) );
+  for (i = 0; i < collapsible.length; i++) {
+    collapsible[i].firstElementChild.addEventListener("click", expand(collapsible[i]) );
     }
 
     function expand(questionElement) {
