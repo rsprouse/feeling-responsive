@@ -61,17 +61,17 @@ sitemap: true
 <p>There are two ways to find materials in our catalog: browsing by collection, language, or person, or using our search bar.</p>
 <p><i>Browsing by collection, language, or person:</i><br>On the menu bar at the top of our page, there is a button labeled “Browse CLA”. If you hover over it, three options appear: Collections, Languages, People. If you click <i>Collections</i>, you will see an alphabetical list of all of our collections; if you select one, you will be redirected to that collection’s page. If you click <i>Languages</i>, you will see an alphabetical list of all of the languages that are covered in our collections; if you select one, you will be sent to a list of collections and items that we have involving that language. If you click <i>People</i>, you will see an alphabetical list of all of the people involved in the materials, including speakers (consultants), researchers, and depositors. If you select one of these names, you will be sent to a list of all collections and items we have that involve that person. </p>
 
-<img src="assets/images/browseCLAguide.png" alt="Screenshot of homepage with pink arrow pointing to Browse CLA option on top right menu" />
+<img src="assets/images/browseCLAguide.png" alt="Homepage with pink arrow pointing to Browse CLA option on top right menu" />
 
-<img src="assets/browseCLAoptionsguide" alt="Screenshot of dropdown menu of Broswe CLA option on top right menu, with pink arrows pointing to submenu options Collections, Languages, People" />
+<img src="assets/browseCLAoptionsguide" alt="Dropdown menu of Broswe CLA option on top right menu, with pink arrows pointing to submenu options Collections, Languages, People" />
 
 <p><i>Using our search bar (more common)</i><br>Our home page has a search bar for the catalog. When typing in a search word(s), there are two types of keyword searches you can make. The first is by selecting a preset language, person, collection name, or item name. When you begin typing, these will appear below the search bar under the label <i>Filter by:</i>. By searching by a preset keyword, you will be brought to a list of all collections and items with that tag. If you do not choose a preset keyword, the search will return any item or collection that has that exact spelling listed anywhere in its title or description. This may be helpful if you are looking for a certain type of material, such as stories, or certain topics. However, it is more likely to return results that are less relevant.</p>
 
-<img src="assets/images/searchbarguide.png" alt="Screenshot of homepage with pink arrow pointing to search bar" />
+<img src="assets/images/searchbarguide.png" alt="Homepage with pink arrow pointing to search bar" />
 
-<img src="assets/images/searchbarktunaxa1guide.png" alt="Screenshot of homepage with Ktunaxa typed in search bar and pink arrow pointing to the first option below that reads Ktunaxa" />
+<img src="assets/images/searchbarktunaxa1guide.png" alt="Homepage with Ktunaxa typed in search bar and pink arrow pointing to the first option below that reads Ktunaxa" />
 
-<img src="assets/images/searchbarktunaxa2guide.png" alt="Screenshot of homepage with Ktunaxa typed in search bar and pink arrow pointing to the second option below that reads Ktunaxa, underneath bold lettering that reads Filter by language" />
+<img src="assets/images/searchbarktunaxa2guide.png" alt="Homepage with Ktunaxa typed in search bar and pink arrow pointing to the second option below that reads Ktunaxa, underneath bold lettering that reads Filter by language" />
 
 <p>After you search, you are brought to a page with two tabs: <i>collections</i> and <i>items</i>. If you click on a collection, you will be brought to that collection’s page and can then see all of the items in that collection. If you click on an item, you will be brought to that item's specific page.</p>
 
