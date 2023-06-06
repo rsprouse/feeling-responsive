@@ -8,6 +8,12 @@ header:
 sitemap: true
 ---
 
+<style>
+   img {
+      padding: 16px;
+      }
+</style>
+
 ## Frequently asked questions
 
 ### General  
@@ -54,6 +60,7 @@ sitemap: true
 ### Using our website
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXT2VdPaWAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div class="question">
 <button type="button" class="collapsible">How can I find materials in your catalog? </button>
@@ -63,7 +70,7 @@ sitemap: true
 
 <img src="assets/images/browseCLAguide.png" alt="Homepage with pink arrow pointing to Browse CLA option on top right menu" />
 
-<img src="assets/browseCLAoptionsguide" alt="Dropdown menu of Broswe CLA option on top right menu, with pink arrows pointing to submenu options Collections, Languages, People" />
+<img src="assets/browseCLAoptionsguide.png" alt="Dropdown menu of Browse CLA option on top right menu, with pink arrows pointing to submenu options Collections, Languages, People" />
 
 <p><i>Using our search bar (more common)</i><br>Our home page has a search bar for the catalog. When typing in a search word(s), there are two types of keyword searches you can make. The first is by selecting a preset language, person, collection name, or item name. When you begin typing, these will appear below the search bar under the label <i>Filter by:</i>. By searching by a preset keyword, you will be brought to a list of all collections and items with that tag. If you do not choose a preset keyword, the search will return any item or collection that has that exact spelling listed anywhere in its title or description. This may be helpful if you are looking for a certain type of material, such as stories, or certain topics. However, it is more likely to return results that are less relevant.</p>
 
@@ -95,7 +102,7 @@ sitemap: true
 <div class="content">
 <p>Once you have navigated to a specific item's page, if that material is digitized and publicly accessible, it will be found by scrolling down and looking at the embedded bConnected Box page. Here, you will be able to click on the file(s) and view or listen to them. You can also download them by clicking on the gray <i>Download</i> button in the top right corner.</p>
 
-<img src="assets/images/bConnectedBoxguide.png" alt="Item description page with pink arrows pointing to the file name and download buttons in the embedded bConnected Box page" />
+<img src="assets/images/bConnectedBox.png" alt="Item description page with pink arrows pointing to the file name and download buttons in the embedded bConnected Box page" />
 
 <img src="assets/images/bConnectedBoxplayguide.png" alt="Item description page with pink arrow pointing to the audio play button in the embedded bConnected Box page" />
 
