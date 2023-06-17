@@ -200,7 +200,7 @@ sitemap: true
 <div class="question">
 <button type="button" class="collapsible">How can I set up a visit? </button>
 <div class="content">
-<p>If you would like to visit us, call or email us. Note that, if you coming from a tribal language group, we may be able to help connect you with funding to make a visit possible.</p>
+<p>In-person visits are available by appointment. Please call or email us to schedule. We also may be able to help connect tribal language individuals or groups with external funding to make a visit possible.</p>
 </div>
 </div>
 
