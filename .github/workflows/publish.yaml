@@ -1,7 +1,7 @@
 # This action builds the CLA website and copies the files to the
-# selected branch when this action is invoked manually.
+# target branch when this action is invoked manually.
 
-name: Build CLA website with Jekyll and deploy to selected branch
+name: Build CLA website with Jekyll and deploy to target branch
 
 on:
   workflow_dispatch:
@@ -20,8 +20,8 @@ jobs:
     runs-on: ubuntu-20.04
  
     steps:
-      - name: Log selected branch
-        run: echo "::notice Building selected branch ${{ inputs.target_branch }}."
+      - name: Echo source and target branches
+        run: echo "::notice Building source branch ${{ github.ref_name }} and pushing to target branch ${{ inputs.target_branch }}."
 
       - uses: actions/checkout@v3
 
