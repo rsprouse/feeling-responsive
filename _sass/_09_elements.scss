@@ -176,7 +176,7 @@ img.lazy {
   font-size: 18px;
 }
 
-.active, .collapsible:hover {
+.collapsibleactive, .collapsible:hover {
   background-color: #555;
 }
 
@@ -188,11 +188,11 @@ img.lazy {
   margin-left: 5px;
 }
 
-.active:after {
+.collapsibleactive:after {
   content: "\2212";
 }
 
-.content {
+.collapsiblecontent {
   padding: 0.18px;
   max-height: 0;
   overflow: hidden;
