@@ -1,7 +1,8 @@
 # This action builds the CLA website and copies the files to the
 # target branch when this action is invoked manually.
 
-name: Build CLA website with Jekyll and deploy to target branch
+# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+name: Build CLA website with Jekyll and copy to target branch
 
 on:
   workflow_dispatch:
@@ -15,32 +16,55 @@ on:
         - gh-pages-local-dev
         - gh-pages-prod
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
+  # Build job
   build:
-    runs-on: ubuntu-20.04
- 
+    runs-on: ubuntu-latest
     steps:
       - name: Echo source and target branches
         run: echo "::notice Building source branch ${{ github.ref_name }} and pushing to target branch ${{ inputs.target_branch }}."
-
-      - uses: actions/checkout@v3
-
-      # Use GitHub Actions' cache to shorten build times and decrease load on servers
-      - uses: actions/cache@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Ruby
+#        uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-
-      - name:  build
-        uses:  helaili/jekyll-action@v2
+          ruby-version: '3.1' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build  --config ${{ env.ymlfile }}
         env:
           ymlfile: ${{ fromJSON('{"gh-pages-dev":"_config.yml,_config_dev.yml","gh-pages-local-dev":"_config.yml,_config_local_dev.yml","gh-pages-prod":"_config.yml"}')[inputs.target_branch] }}
-          jekyll_env: ${{ fromJSON('{"gh-pages-dev":"development","gh-pages-local-dev":"development","gh-pages-prod":"production"}')[inputs.target_branch] }}
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: ${{ inputs.target_branch }}
-          jekyll_build_options: --config ${{ env.ymlfile }}
           # Set to development env if you want to prevent minifying the output.
-          jekyll_env: ${{ env.jekyll_env }}
+          JEKYLL_ENV: ${{ fromJSON('{"gh-pages-dev":"development","gh-pages-local-dev":"development","gh-pages-prod":"production"}')[inputs.target_branch] }}
+          # Set to development env if you want to prevent minifying the output.
+      - name: copy
+        env:
+          SRC_FOLDER_PATH: '_site'
+          TARGET_BRANCH: ${{ inputs.target_branch }}
+        run: |
+          files=$(find $SRC_FOLDER_PATH -type f) # get the file list
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git fetch                         # fetch branches
+          git checkout $TARGET_BRANCH       # checkout to your branch
+          git checkout ${GITHUB_REF##*/} -- $files # copy files from the source branch
+          git add -A
+          git diff-index --quiet HEAD ||  git commit -am "deploy files"  # commit to the repository (ignore if no modification)
+          git push origin $TARGET_BRANCH # push to remote branch
