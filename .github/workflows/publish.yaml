@@ -57,8 +57,7 @@ jobs:
         run: bundle exec jekyll build  --config ${{ env.ymlfile }}
       - name: Copy to selected branch
         env:
-          build_dir: ${{ fromJSON('{"gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site","gemfile-update":"_site_dev"}')[inputs.target_branch] }}
-          SRC_FOLDER_PATH: ${{ env.build_dir }}
+          SRC_FOLDER_PATH: ${{ fromJSON('{"gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site","gemfile-update":"_site_dev"}')[inputs.target_branch] }}
           TARGET_BRANCH: ${{ inputs.target_branch }}
         run: |
           files=$(find $SRC_FOLDER_PATH -type f) # get the file list
@@ -66,12 +65,8 @@ jobs:
           echo ${SRC_FOLDER_PATH}
           echo target_branch
           echo ${TARGET_BRANCH}
-          echo ymlfile
-          echo ${ymfile}
-          echo "build_dir subdirs"
+          echo "SRC_FOLDER_PATH subdirs"
           ls -d */
-          echo "working dir"
-          pwd
 #          git config --global user.name 'GitHub Action'
 #          git config --global user.email 'action@github.com'
 #          git fetch                         # fetch branches
