@@ -47,23 +47,27 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build  --config ${{ env.ymlfile }}
         env:
           # The build directory is specified as the `destination` value in the config file(s).
           # The default dir is `_site`.
-          build_dir: ${{ fromJSON('{"gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site","gemfile-update":"_site_dev"}')[inputs.target_branch] }}
           ymlfile: ${{ fromJSON('{"gh-pages-dev":"_config.yml,_config_dev.yml","gh-pages-local-dev":"_config.yml,_config_local_dev.yml","gh-pages-prod":"_config.yml","gemfile-update":"_config.yml,_config_dev.yml"}')[inputs.target_branch] }}
           # Set to development env if you want to prevent minifying the output.
           JEKYLL_ENV: ${{ fromJSON('{"gh-pages-dev":"development","gh-pages-local-dev":"development","gh-pages-prod":"production"}')[inputs.target_branch] }}
-      - name: copy
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build  --config ${{ env.ymlfile }}
+      - name: Copy to selected branch
         env:
+          build_dir: ${{ fromJSON('{"gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site","gemfile-update":"_site_dev"}')[inputs.target_branch] }}
           SRC_FOLDER_PATH: ${{ env.build_dir }}
           TARGET_BRANCH: ${{ inputs.target_branch }}
         run: |
           files=$(find $SRC_FOLDER_PATH -type f) # get the file list
           echo src_folder_path
           echo ${SRC_FOLDER_PATH}
+          echo target_branch
+          echo ${TARGET_BRANCH}
+          echo ymlfile
+          echo ${ymfile}
           echo "build_dir subdirs"
           ls -d */
           echo "working dir"
