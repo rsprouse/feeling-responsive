@@ -62,8 +62,8 @@ jobs:
           TARGET_BRANCH: ${{ inputs.target_branch }}
         run: |
           files=$(find $SRC_FOLDER_PATH -type f) # get the file list
-          echo files
-          echo ${files}
+          echo src_folder_path
+          echo ${SRC_FOLDER_PATH}
           echo "build_dir subdirs"
           ls -d */
           echo "working dir"
