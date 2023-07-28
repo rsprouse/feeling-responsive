@@ -60,22 +60,21 @@ jobs:
           SRC_FOLDER_PATH: ${{ fromJSON('{"gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site","gemfile-update":"_site_dev"}')[inputs.target_branch] }}
           TARGET_BRANCH: ${{ inputs.target_branch }}
         run: |
-          files=$(find $SRC_FOLDER_PATH -type f) # get the file list
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           echo "git fetch"
           git fetch                         # fetch branches
           echo "git checkout target branch"
           git checkout --orphan $TARGET_BRANCH       # checkout to your branch
-          echo "git checkout github ref files"
-          echo "git checkout ${GITHUB_REF##*/} -- $files"
-          git checkout ${GITHUB_REF##*/} -- $files # copy files from the source branch
+          echo "cp -av"
+          cp -av ${SRC_FOLDER_PATH}/* . # copy files from the source branch
           echo "git add"
           git add -A
           echo "git diff-index"
           git diff-index --quiet HEAD ||  git commit -am "deploy files"  # commit to the repository (ignore if no modification)
           echo "git push"
           git push origin $TARGET_BRANCH # push to remote branch
+#          files=$(find $SRC_FOLDER_PATH -type f) # get the file list
 #          git add . && \
 #          git commit $COMMIT_OPTIONS -m "jekyll build from Action ${GITHUB_SHA}" && \
 #          git push $PUSH_OPTIONS $REMOTE_REPO $LOCAL_BRANCH:$remote_branch && \
