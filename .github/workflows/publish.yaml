@@ -66,8 +66,8 @@ jobs:
           git fetch                         # fetch branches
           echo "git checkout target branch"
           git checkout --orphan $TARGET_BRANCH       # checkout to your branch
-          echo "find . -not -name ${SRC_FOLDER_PATH} -delete"
-          find . -not -name ${SRC_FOLDER_PATH} -delete
+          echo "find . -path ./${SRC_FOLDER_PATH} -prune -o -name '*' -delete"
+          find . -path ./${SRC_FOLDER_PATH} -prune -o -name "*" -delete
           echo "ls -al"
           ls -al
           echo "cp -av ${SRC_FOLDER_PATH}/* ."
