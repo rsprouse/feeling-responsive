@@ -27,6 +27,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+env:
+  REPO: "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+
 jobs:
   # Build job
   build:
@@ -57,28 +60,45 @@ jobs:
         run: bundle exec jekyll build  --config ${{ env.ymlfile }}
       - name: Copy to selected branch
         env:
+          REPO: "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           SRC_FOLDER_PATH: ${{ fromJSON('{"gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site","gemfile-update":"_site_dev"}')[inputs.target_branch] }}
           TARGET_BRANCH: ${{ inputs.target_branch }}
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          echo "git fetch"
-          git fetch                         # fetch branches
-          echo "git checkout target branch"
-          git checkout --orphan $TARGET_BRANCH       # checkout to your branch
-          echo "find . \( \( -type d -not -name ${SRC_FOLDER_PATH} -not -name . \) -o \( -type f -maxdepth 1 \) \) -exec rm -rf {} \;"
-          find . \( \( -type d -not -name ${SRC_FOLDER_PATH} -not -name . \) -o \( -type f -maxdepth 1 \) \) -exec rm -rf {} \;
-          echo "ls -al"
-          ls -al
-          echo "cp -av ${SRC_FOLDER_PATH}/* ."
-          cp -av ${SRC_FOLDER_PATH}/* . # copy files from the source branch
-          rm -rf ${SRC_FOLDER_PATH}
-          echo "git add"
-          git add -A
-          echo "git diff-index"
-          git diff-index --quiet HEAD ||  git commit -am "deploy files"  # commit to the repository (ignore if no modification)
-          echo "git push"
-          git push origin $TARGET_BRANCH # push to remote branch
+          echo "::debug::Initializing new repo (branch named ${{ inputs.target_branch }})"
+          cd ${{ inputs.target_branch }} && \
+          git init -b ${{ inputs.target_branch }} && \
+          git config user.name "${GITHUB_ACTOR}" && \
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
+          git add . && \
+          git commit -m "Site build from workflow action" && \
+          echo "::debug::Pushing to target branch" && \
+          echo "::debug::${REPO}" && \
+          echo "::debug::${{ inputs.target_branch }}" && \
+          echo "::debug::git push --force ${REPO} mysite:${{ inputs.target_branch }}" && \
+          echo "::debug::pushing" && \
+          git push --force $REPO ${{ inputs.target_branch }}:${{ inputs.target_branch }} && \
+          echo "SHA=$( git rev-parse ${{ inputs.target_branch }} )" >> $GITHUB_OUTPUT
+          rm -rf .git && \
+          cd ..
+#          git config --global user.name 'GitHub Action'
+#          git config --global user.email 'action@github.com'
+#          echo "git fetch"
+#          git fetch                         # fetch branches
+#          echo "git checkout target branch"
+#          git checkout --orphan $TARGET_BRANCH       # checkout to your branch
+#          echo "find . \( \( -type d -not -name ${SRC_FOLDER_PATH} -not -name . \) -o \( -type f -maxdepth 1 \) \) -exec rm -rf {} \;"
+#          find . \( \( -type d -not -name ${SRC_FOLDER_PATH} -not -name . \) -o \( -type f -maxdepth 1 \) \) -exec rm -rf {} \;
+#          echo "ls -al"
+#          ls -al
+#          echo "cp -av ${SRC_FOLDER_PATH}/* ."
+#          cp -av ${SRC_FOLDER_PATH}/* . # copy files from the source branch
+#          rm -rf ${SRC_FOLDER_PATH}
+#          echo "git add"
+#          git add -A
+#          echo "git diff-index"
+#          git diff-index --quiet HEAD ||  git commit -am "deploy files"  # commit to the repository (ignore if no modification)
+#          echo "git push"
+#          git push origin $TARGET_BRANCH # push to remote branch
 #          files=$(find $SRC_FOLDER_PATH -type f) # get the file list
 #          git add . && \
 #          git commit $COMMIT_OPTIONS -m "jekyll build from Action ${GITHUB_SHA}" && \
