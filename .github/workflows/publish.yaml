@@ -66,8 +66,11 @@ jobs:
           git fetch                         # fetch branches
           echo "git checkout target branch"
           git checkout --orphan $TARGET_BRANCH       # checkout to your branch
-          echo "cp -av"
+          echo "find . -not -name ${SRC_FOLDER_PATH} -delete"
           find . -not -name ${SRC_FOLDER_PATH} -delete
+          echo "ls -al"
+          ls -al
+          echo "cp -av ${SRC_FOLDER_PATH}/* ."
           cp -av ${SRC_FOLDER_PATH}/* . # copy files from the source branch
           rm -rf ${SRC_FOLDER_PATH}
           echo "git add"
