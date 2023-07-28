@@ -66,8 +66,8 @@ jobs:
           git fetch                         # fetch branches
           echo "git checkout target branch"
           git checkout --orphan $TARGET_BRANCH       # checkout to your branch
-          echo "find . -path ./${SRC_FOLDER_PATH} -prune -o -name '*' -print -exec rm -rf {} \;"
-          find . -path ./${SRC_FOLDER_PATH} -prune -o -name "*" -print -exec rm -rf {} \;
+          echo "find . \( \( -type d -not -name ${SRC_FOLDER_PATH} -not -name . \) -o \( -type f -maxdepth 1 \) \) -exec rm -rf {} \;"
+          find . \( \( -type d -not -name ${SRC_FOLDER_PATH} -not -name . \) -o \( -type f -maxdepth 1 \) \) -exec rm -rf {} \;
           echo "ls -al"
           ls -al
           echo "cp -av ${SRC_FOLDER_PATH}/* ."
