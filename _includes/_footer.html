@@ -12,7 +12,6 @@
           We acknowledge with respect the Ohlone people on whose traditional, ancestral, and unceded land we work and whose historical relationships with that land continue to this day.<br>
           &nbsp;<br>    
         </div>
-{% comment %}
         <div class="row">
           <div class="medium-6 large-5 columns">
 <!--
@@ -25,8 +24,7 @@
 -->
           </div><!-- /.large-6.columns -->
 
-
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+          <div class="small-6 medium-3 large-3 columns">
             {% for service_item in site.data.services %}
               {% if forloop.first == true %}
                 <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
@@ -64,28 +62,33 @@
         </div><!-- /.row -->
 {% endcomment %}
 
-      </div><!-- /#footer -->
-
+      </div><!-- START OF END FOOTER -->
 
       <div id="subfooter">
+         <!-- credits into buttons -->
         <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-6 large-5 columns credits">
-            {{ site.credits }}
+          <section id="subfooter-left" class="small-6 medium-3 large-3 columns">
+            <p><a style="display: inline-block; width: 124px; height: 33px; background-color: #DD3113; color: #ffffff; font-size: 14px; line-height: 33px; text-align: center; border-radius: 5px;" href="/index.html">Support the CLA</a></p>
+            <p><a style="display: inline-block; width: 124px; height: 33px; background-color: #003057; color: #ffffff; font-size: 14px; line-height: 33px; text-align: center; border-radius: 5px;" href="http://eepurl.com/igTzW1">Get our newsletter</a></p>
           </section>
 
-          <section id="subfooter-mid" class="small-6 medium-3 large-3 large-offset-1 columns">
-            <ul class="inline-list social-icons">
-            {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
-            </ul>
-          </section>
-          <section id="subfooter-right" class="small-6 medium-3 large-3 columns contactinfo">
+          <!-- social media into contact -->
+          <section id="subfooter-mid" class="small-6 medium-3 large-3 large-offset-1 columns contactinfo">
             <ul class="no-bullet shadow-black">
-            {% for contact_item in site.data.contact %}
-                <li>{{ contact_item.name }}</li>
-            {% endfor %}
-            </ul>
+              {% for contact_item in site.data.contact %}
+                  <li>{{ contact_item.name }}</li>
+              {% endfor %}
+              </ul>
+          </section>
+
+           <!-- contact into social media and credits -->
+          <section id="subfooter-right" class="small-6 medium-3 large-3 columns credits">
+            <ul class="inline-list social-icons">
+              {% for social_item in site.data.socialmedia %}
+                <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+              {% endfor %}
+              </ul>
+              {{ site.credits }}
           </section>
         </nav>
       </div><!-- /#subfooter -->
