@@ -12,6 +12,7 @@
 - Lazy Load XT
 - Frontpage Widget
 - Collapsible Button
+- Footer Buttons
 
 */
 
@@ -200,5 +201,34 @@ img.lazy {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   background-color: #eeeeee;
+}
+
+/*Footer Buttons
+*/
+.buttonsupport {
+  background-color: $ci-5;
+  border: none;
+  color: $footer-color;
+  padding: 1em 1em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: .25em .125em;
+  cursor: pointer;
+  border-radius: .5em;
+}
+.buttonnewsletter {
+  background-color: $ci-1;
+  border: none;
+  color: $footer-color;
+  padding: 1em 1em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: .25em .125em;
+  cursor: pointer;
+  border-radius: .5em;
 }
 
