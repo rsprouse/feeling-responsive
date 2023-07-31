@@ -71,8 +71,7 @@ $grey-5             : #A4A4A4;
 $grey-6             : #979797;
 $grey-7             : #8B8B8B;
 $grey-8             : #7E7E7E;
-$grey-8b            : #595959; // lightened for template recognition footer text
-$grey-8a            : #313131; // darkened for land acknoweledgement footer bg
+$grey-8a            : #595959; // darkened for land acknoweledgement footer bg
 $grey-9             : #646464;
 $grey-10            : #575757;
 $grey-11            : #4B4B4B;
@@ -123,7 +122,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 ------------------------------------------------------------------- */
 
 $footer-bg          : $grey-8a;
-$footer-color       : #fff;
+$footer-color       : #ci-6;
 $footer-link-color  : $ci-6;
 
 
