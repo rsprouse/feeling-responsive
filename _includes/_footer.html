@@ -24,7 +24,7 @@
             <p><a style="display: inline-block; width: 18em; height: 2.5em; background-color: #DD3113; color: #ffffff; font-size: 14px; line-height: 2.5em; text-align: center; border-radius: .5em;" href="/index.html">Support the CLA</a></p>
             <p><a style="display: inline-block; width: 18em; height: 2.5em; background-color: #003057; color: #ffffff; font-size: 14px; line-height: 2.5em; text-align: center; border-radius: .5em;" href="http://eepurl.com/igTzW1">Get our newsletter</a></p></section>
           <!-- contact -->
-          <section id="subfooter-mid" class="small-6 medium-3 large-3 large-offset-1 columns">
+          <section id="subfooter-mid" class="small-6 medium-3 large-3 large-offset-1 columns contactinfo">
             <ul class="no-bullet shadow-black">
               {% for contact_item in site.data.contact %}
                   <li>{{ contact_item.name }}</li>
@@ -33,7 +33,7 @@
           </section>
 
            <!-- credits -->
-          <section id="subfooter-right" class="small-6 medium-3 large-3 columns">
+          <section id="subfooter-right" class="small-6 medium-3 large-3 columns credits">
             <ul class="inline-list social-icons">
               {% for social_item in site.data.socialmedia %}
                 <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
