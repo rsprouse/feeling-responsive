@@ -7,12 +7,14 @@ var collapsible = document.getElementsByClassName("question");
 
     function expand(questionElement) {
       return () => {
-      questionElement.firstElementChild.classList.toggle("active");
-      var content = questionElement.lastElementChild;
-      if (content.style.maxHeight){
-        content.style.maxHeight = null;
+
+      questionElement.firstElementChild.classList.toggle("collapsibleactive");
+      var collapsiblecontent = questionElement.lastElementChild;
+      if (collapsiblecontent.style.maxHeight){
+        collapsiblecontent.style.maxHeight = null;
       } else {
-        content.style.maxHeight = content.scrollHeight + "px";
+        collapsiblecontent.style.maxHeight = collapsiblecontent.scrollHeight + "px";
+
        } 
      }
     }

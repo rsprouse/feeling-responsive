@@ -72,8 +72,8 @@
     border-bottom: 1px solid #fff;
   }
   .alert-box.terminal {
-    background: $grey-12; 
-    color: #fff; 
+    background: $grey-12;
+    color: #fff;
     border-color: scale-color($grey-12, $lightness: -14%);
     font-family: $font-family-monospace;
   }
@@ -162,7 +162,7 @@ img.lazy {
   }
 }
 
-/*Collapsible button 
+/*Collapsible button
 */
 .collapsible {
   background-color: #003262;
@@ -176,7 +176,8 @@ img.lazy {
   font-size: 18px;
 }
 
-.active, .collapsible:hover {
+.collapsibleactive, .collapsible:hover {
+
   background-color: #555;
 }
 
@@ -188,11 +189,12 @@ img.lazy {
   margin-left: 5px;
 }
 
-.active:after {
+.collapsibleactive:after {
   content: "\2212";
 }
 
-.content {
+.collapsiblecontent {
+
   padding: 0.18px;
   max-height: 0;
   overflow: hidden;
