@@ -63,9 +63,10 @@ $info-color         : $ci-1;
 /* Grey Scale
 ------------------------------------------------------------------- */
 
+$grey-0            : #ffffff;
 $grey-1             : #E4E4E4;
 $grey-2             : #D7D7D7;
-$grey-3             : #CBCBCB;
+$grey-3             : #CBCBCB;   
 $grey-4             : #BEBEBE;
 $grey-5             : #A4A4A4;
 $grey-6             : #979797;
@@ -122,7 +123,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 ------------------------------------------------------------------- */
 
 $footer-bg          : $grey-8a;
-$footer-color       : #ci-6;
+$footer-color       : $grey-0;
 $footer-link-color  : $ci-6;
 
 
