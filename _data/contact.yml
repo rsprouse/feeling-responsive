@@ -1,3 +1,7 @@
 - name: "Location: 1311 Dwinelle Hall"
 - name: "Email: scoil-ling@berkeley.edu"
 - name: "Phone: 510 642-8891"
+- name: "Accessibility"
+  url: https://dac.berkeley.edu/web-accessibility
+- name: "California Relay Service 711"
+  url: https://hamiltonrelay.com/california/how-it-works/tty-text-telephone.html
