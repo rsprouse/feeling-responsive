@@ -28,11 +28,9 @@
         
             <!-- contact -->
           <section id="subfooter-mid" class="small-4 medium-4 large-4 columns contactinfo" style="text-align:center">
-            <ul class="no-bullet shadow-black">
-              {% for contact_item in site.data.contact %}
-                  <li>{% if contact_item.url %}<a href="{{ contact_item.url }}" target="_blank">{% endif %}{{ contact_item.name }}{% if contact_item.url %}</a>{% endif %}</li>
-              {% endfor %}
-              </ul>
+            {% for contact_item in site.data.contact %}
+                <p>{% if contact_item.url %}<a href="{{ contact_item.url }}" target="_blank">{% endif %}{{ contact_item.name }}{% if contact_item.url %}</a>{% endif %}</p>
+            {% endfor %}
           </section>
 
            <!-- credits -->
