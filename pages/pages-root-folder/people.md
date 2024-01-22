@@ -166,9 +166,3 @@ sitemap: true
 </div>
 
 [Amalia Skilton](http://blogs.cornell.edu/amaliaskilton) (PhD 2019, Linguistics), a linguist and linguistic anthropologist, currently holds a Klarman Postdoctoral Fellowship at Cornell University. After receiving her PhD, she began her career with an NSF SBE Postdoctoral Research Fellowship held at UT Austin and the Max Planck Institute for Psycholinguistics, Nijmegen. Amalia's research on language, cognition, and social interaction is based on over two years of fieldwork in the Amazon Basin with speakers of Ticuna (isolate) and Máíhɨ̃ki (Tukanoan). Her current project examines the language and communicative development of young children learning Ticuna, and her recent articles have appeared in Language, Journal of Pragmatics, Language Documentation & Conservation, and Liames/Línguas Indígenas Americanas.
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}stark.jpg" alt="Tammy Stark"/>
-</div>
-
-**Tammy Stark's** (PhD 2018, Linguistics) dissertation work investigated agreement in Northern Caribbean Arawak. She has carried out team-based linguistic fieldwork on the Tupí-Guaraní language, Omagua. She has also studied the Arawak languages Yanesha and Garifuna. Her research broadly focuses on the theoretical linguistic issues presented by indigenous languages of South America.
