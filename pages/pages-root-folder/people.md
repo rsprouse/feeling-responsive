@@ -18,7 +18,7 @@ sitemap: true
 <img src="{{ site.urlimg }}zjo.jpg" alt="Zachary O'Hagan"/>
 </div>
 
-<a name="zacho">[Zachary O'Hagan](http://linguistics.berkeley.edu/~zjohagan/) (Manager)</a> received his PhD in linguistics from the University of California, Berkeley in 2020, with a dissertation titled <a href="https://escholarship.org/uc/item/9640m1fg"><i>Focus in Caquinte</i></a>, an Arawak language of Peru. His research centers on the documentation of Amazonian indigenous languages, on the people who speak them, and their history and culture. He is a generalist and arealist, with theoretical interests in morphosyntax, semantics, information structure, and historical linguistics. Since 2010 he has carried out fieldwork in Peru on Omagua (Tupí-Guaraní), Caquinte (Arawak), Taushiro (isolate), and Omurano (isolate). In 2019 he edited <a href="http://linguistics.berkeley.edu/~zjohagan/pdflinks/salazar-et-al_caquinte-stories_2019_official-ortho"><i>Tsabetsatsarentsipae itionkantajitakaroka igenketsatsare kakinte</i></a>, a monolingual volume of stories in Caquinte.
+<a name="zacho">[Zachary O'Hagan](http://linguistics.berkeley.edu/~zjohagan/) (Manager)</a> received his PhD in linguistics from the University of California, Berkeley in 2020, with a dissertation titled <a href="https://escholarship.org/uc/item/9640m1fg"><i>Focus in Caquinte</i></a>, an Arawak language of Peru. His research centers on the documentation of Amazonian indigenous languages, on the people who speak them, and their history and culture. He is a generalist and arealist, with theoretical interests in morphosyntax, semantics, information structure, and historical linguistics. Since 2010 he has carried out fieldwork in Peru on Caquinte (Arawak), Omagua (Tupí-Guaraní), Taushiro (isolate), Urarina (isolate), and Omurano (isolate). In 2019 he edited <a href="http://linguistics.berkeley.edu/~zjohagan/pdflinks/salazar-et-al_caquinte-stories_2019_official-ortho"><i>Tsabetsatsarentsipae itionkantajitakaroka igenketsatsare kakinte</i></a>, a monolingual volume of stories in Caquinte.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}sprouse.jpg" alt="Ronald Sprouse"/>
@@ -27,10 +27,10 @@ sitemap: true
 <a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (IT Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
 
 <div class="image right people_images">
-<img src="{{ site.urlimg }}macknick.png" alt="Anna Macknick"/>
+<img src="{{ site.urlimg }}alexander_elias.jpeg" alt="Alexander Elias"/>
 </div>
 
-**Anna Macknick's** (Assistant, Graduate Student, Linguistics) work focuses on language reclamation, dialectal variation, and morphology. They are working with Robert Geary (Elem Pomo) on building an online dictionary of Xaitsnue ([Southeastern Pomo](languages/southeastern-pomo.php)), along with other community-oriented language materials, to support language learners. Anna has also worked on Northern New Mexican Spanish, their heritage language, primarily with archival materials from UNM’s Center for Southwest Research.
+<a name="alexander">[Alexander Elias](https://sites.google.com/view/alexander-elias/home) (Assistant; Graduate Student, Linguistics) </a> is a graduate student whose is interested in documentation of Austronesian langauges, language revitalization and historical linguistics. Since 2019, he has been carrying out a language documentation project on Jao, an Oceanic language spoken in Kanaky-New Caledonia. Previously, he worked in eastern Indonesia, documentating of the Malayo-Polynesian languages of Central Flores such as Lio and Ende. He has worked on two major language revitalization projects, working with speakers of Miriwoong in Kununurra, Western Australia and learners of Rammaytush on the San Francisco Peninsula.
 
 <div class="image left people_images">
 <img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
@@ -62,7 +62,7 @@ sitemap: true
 <img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
 </div>
 
-<a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Assistant; Graduate Student, Linguistics) </a> is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. Since 2020, she has worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, including co-teaching a weekly class as well as archival research.
+<a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Graduate Student, Linguistics) </a> is a graduate student whose primary research interests are in leveraging archival recordings for the phonetic analysis of under-documented languages, as well as exploring how these methodologies can be generalized for other languages in similar situations. She is particularly interested in the Wintuan languages, native to California's northern Sacramento Valley. Her recently completed MA thesis focuses on an acoustic and statistical analysis of the Nomlaki vowel space, in particular with respect to how the vowel system is represented orthographically in pedagogical materials. Since 2020, she has worked with the Paskenta Band of Nomlaki Indians on language revitalization for Nomlaki, including co-teaching a weekly class as well as archival research.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}deal.jpg" alt="Amy Rose Deal"/>
@@ -86,7 +86,7 @@ sitemap: true
 <img src="{{ site.urlimg }}ko.png" alt="Edwin Ko"/>
 </div>
 
-[Edwin Ko's](http://eddersko.com/)  (Graduate Student, Linguistics) interests focus on the indigenous languages of North America, especially Crow (Siouan) and Northern Pomo (Pomoan). His research interests are broadly in (morpho)syntax, historical linguistics, language contact, language documentation, and language revitalization. Some of his recent work involves an analysis of active-stative agreement, multiple exponence and switch-reference system in Crow, as well as of the use of digital technology in the revitalization of Northern Pomo.
+[Edwin Ko's](http://eddersko.com/)  (PhD 2023, Linguistics) interests focus on the indigenous languages of North America, especially Crow (Siouan) and Northern Pomo (Pomoan). His research interests are broadly in (morpho)syntax, historical linguistics, language contact, language documentation, and language revitalization. Some of his recent work involves an analysis of active-stative agreement, multiple exponence and switch-reference system in Crow, as well as of the use of digital technology in the revitalization of Northern Pomo.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}lapierre.jpg" alt="Myriam Lapierre"/>
@@ -95,47 +95,47 @@ sitemap: true
 [Myriam Lapierre](https://sites.google.com/uw.edu/myriam-lapierre) (PhD 2021, Linguistics) is interested in the phonetics and phonology of South American languages, with a particular focus on nasality-related phenomena in the Amazon. She began conducting fieldwork in the Brazilian Amazon in 2014, and has since worked with several languages of the Jê family (Panãra, Me~bêngôkre, Kajkwakhrattxi, and Xavante), as well as Kawaiwete (Tupí-Guaraní). Some of her recent and ongoing work includes a descriptive analysis of the phonology of Panãra, an analysis of nasal coarticulation in Panãra using oral and nasal airflow data, and a typological and theoretical analysis of nasal harmony phenomena in languages of the Tupí-Guaraní family.
 
 <div class="image left people_images">
+<img src="{{ site.urlimg }}macknick.png" alt="Anna Macknick"/>
+</div>
+
+**Anna Macknick's** (Graduate Student, Linguistics) work focuses on language reclamation, dialectal variation, and morphology. They are working with Robert Geary (Elem Pomo) on building an online dictionary of Xaitsnue ([Southeastern Pomo](languages/southeastern-pomo.php)), along with other community-oriented language materials, to support language learners. Anna has also worked on Northern New Mexican Spanish, their heritage language, primarily with archival materials from UNM’s Center for Southwest Research.
+
+<div class="image right people_images">
 <img src="{{ site.urlimg }}lopezmarquez.jpg" alt="Wendy Lopez Marquez"/>
 </div>
 
 **Wendy L.A. López Márquez** (Graduate Student, Linguistics) ′iyooxaka′aba Mixe-Zoque ′angmaatyiyaj. Je′m ′ingmaatyi Nuntajɨɨyi (Zoque ′angmaatyi) je′am je′m maj ′iyooxakanewɨ′ɨp. ′Ikusunɨ′yba language documentation, ′ikusunɨ′ybatyim morphosyntax. Sɨ′p sɨ′ ′ikuyujka′ relative clauses ′ingmatyiimɨ′. ′Ikupadɨgɨ′yñe′um ′iga ′ingmaatyi ′ini′ity relative clauses kobagɨ′yyajwɨpɨ′k, dyapɨ′k kobagɨ′yyajwɨ′ɨp, ′i je′m kobagɨ′yyajwɨpɨ′k ′ijojmɨ′.
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}maier.jpg" alt="Erik Maier"/>
 </div>
 
 [Erik Maier](http://linguistics.berkeley.edu/~erikhmaier/) (PhD 2022, Linguistics) is part of the Karuk Research Unit, a group which conducts regular fieldwork with remaining Karuk speakers, manages an online dictionary and text corpus of the language, works with the Karuk community to support their language revitalization efforts, and is currently building a dependency grammar syntactic treebank of Karuk. His research interests include language documentation and revitalization, morphology, syntax, semantics, and verbal art.
 
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}michael.jpg" alt="Lev Michael"/>
 </div>
 
 [Lev Michael](http://linguistics.berkeley.edu/~levmichael/home.html) (Professor of Linguistics) carries out ethnographically-informed linguistic research in several communities in Peruvian and Ecuadorean Amazonia, and has worked with speakers of with speakers of Andoa (Zaparoan), Aʔɨwa (isolate), Iquito (Zaparoan), Kashibo-Kakataibo (Panoan), Máíhĩ̵̀kì (Tukanoan), Matsigenka (Arawak), Muniche (isolate), Nanti (Arawak), Omagua (Tupí-Guaraní based contact language), and Záparo (Zaparoan). As an anthropological linguist, his interests include the social instrumentality of deictic evidential categories (especially evidentiality), the formal structure and social function of verbal art, language contact and historical linguistics in Amazonia, language typology, language documentation and grammatical description, and the practice and politics of language revitalization. His blog on Amazonian languages and societies can be found [here](http://anthroling.wordpress.com/).
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}mikkelsen.jpg" alt="Line Mikkelsen"/>
 </div>
 
 [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen) (Professor of Linguistics) has a long-standing interest in indigenous languages of California. She currently works with Karuk language teacher Florrine Super to develop language teaching and learning materials for Karuk. She also works with Vincent Medina, Louis Trevino and language learners and activists to keep Chochenyo, the first language of the East Bay, strong. Most recently, she has developed an interest in Kalaallisut, the official language of Greenland.
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano"/>
 </div>
 
 **Tzintia Montano Ramirez** (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" style="padding-right:5px; padding-top:0px;"/>
 </div>
 
 [Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (PhD 2021, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northern Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}neely.jpg" alt="Kelsey Neely"/>
-</div>
-
-[Kelsey Neely](http://www.kelseycneely.com/) (PhD 2019, Linguistics) is incoming Capacity Development Officer at the Endangered Languages Documentation Programme (ELDP). She works on Yaminawa and Nahua (Yora), two closely related Panoan language varieties spoken in Peruvian Amazonia. She is currently interlinearizing and editing a book of traditional narratives and oral histories for the Yaminawa and Nahua communities. Her research interests include anthropological linguistics, sociolinguistics, prosody, morphosyntax, and the history of Amazonian languages and peoples. Kelsey is also producing a grammatical description and lexical database for the language.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}beth_crop.jpg" alt="Beth Piatote"/>
@@ -160,9 +160,3 @@ sitemap: true
 </div>
 
 [Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos) (Graduate Student, Linguistics) is interested on the documentation and analysis of grammatical phenomena of South American languages. His current work focuses on Kawahíva (Tupí-Guaraní), an endangered Amazonian language of Brazil spoken by some 550 speakers in the states of Amazonas, Mato Grosso and Rondônia. In particular, he has been documenting the differences and conditioning factors in constituent order, person-marking indexes and dependent clauses of Kawahíva varieties known as Juma (ISO code: jua) and Uru Eu Wau Wau (ISO code: urz).
-
-<div class="image right people_images">
-<img src="{{ site.urlimg }}amalia.jpeg" alt="Amalia Skilton"/>
-</div>
-
-[Amalia Skilton](http://blogs.cornell.edu/amaliaskilton) (PhD 2019, Linguistics), a linguist and linguistic anthropologist, currently holds a Klarman Postdoctoral Fellowship at Cornell University. After receiving her PhD, she began her career with an NSF SBE Postdoctoral Research Fellowship held at UT Austin and the Max Planck Institute for Psycholinguistics, Nijmegen. Amalia's research on language, cognition, and social interaction is based on over two years of fieldwork in the Amazon Basin with speakers of Ticuna (isolate) and Máíhɨ̃ki (Tukanoan). Her current project examines the language and communicative development of young children learning Ticuna, and her recent articles have appeared in Language, Journal of Pragmatics, Language Documentation & Conservation, and Liames/Línguas Indígenas Americanas.
