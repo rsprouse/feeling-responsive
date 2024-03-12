@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://trill.linguistics.berkeley.edu//sitemap.xml
