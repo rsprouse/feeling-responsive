@@ -49,7 +49,7 @@ jobs:
       - name: Deploy to selected target branch
         env:
           REPO: "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          SRC_FOLDER_PATH: ${{ fromJSON('{"gh-pages":"_site","gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site"}')[inputs.target_branch] }}
+          SRC_FOLDER_PATH: ${{ fromJSON('{"gh-pages":"_site_gh","gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site"}')[inputs.target_branch] }}
         run: |
           echo "::debug::Initializing new repo (branch named ${{ inputs.target_branch }})"
           cd ${SRC_FOLDER_PATH} && \
