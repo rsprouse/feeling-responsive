@@ -12,14 +12,14 @@ baseurl: '/feeling-responsive/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '/assets/images/'
+urlimg: '/feeling-responsive/assets/images/'
 
 # and audio:
 #
-urlaudio: '/assets/audio/'
+urlaudio: '/feeling-responsive/assets/audio/'
 
 # JSON source data for map.
-clamap: https://trill.linguistics.berkeley.edu/browse/cla-map.json
+clamap: https://rsprouse.github.io/browse/cla-map.json
 
 search:
   aws_endpoint: https://vuuf8mlr15.execute-api.us-east-1.amazonaws.com/devapi/
