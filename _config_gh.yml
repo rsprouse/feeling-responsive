@@ -1,0 +1,25 @@
+# Where the site will be built.
+destination: _site_gh
+
+# This URL is the main address for absolute links. Don't include a slash at the end.
+#
+url: 'https://rsprouse.github.io/'
+baseurl: '/feeling-responsive/'
+
+# This URL points directly to the images directory making
+# things easier to link to images in posts and templates. It needs a slash at the end.
+#
+# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
+#
+urlimg: '/assets/images/'
+
+# and audio:
+#
+urlaudio: '/assets/audio/'
+
+# JSON source data for map.
+clamap: https://trill.linguistics.berkeley.edu/browse/cla-map.json
+
+search:
+  aws_endpoint: https://vuuf8mlr15.execute-api.us-east-1.amazonaws.com/devapi/

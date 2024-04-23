@@ -11,6 +11,7 @@ on:
         type: choice
         required: true
         options:
+        - gh-pages
         - gh-pages-dev
         - gh-pages-local-dev
         - gh-pages-prod
@@ -41,14 +42,14 @@ jobs:
         env:
           # The build directory is specified as the `destination` value in the config file(s).
           # The default dir is `_site`.
-          ymlfile: ${{ fromJSON('{"gh-pages-dev":"_config.yml,_config_dev.yml","gh-pages-local-dev":"_config.yml,_config_local_dev.yml","gh-pages-prod":"_config.yml"}')[inputs.target_branch] }}
+          ymlfile: ${{ fromJSON('{"gh-pages":"_config.yml,_config_gh.yml","gh-pages-dev":"_config.yml,_config_dev.yml","gh-pages-local-dev":"_config.yml,_config_local_dev.yml","gh-pages-prod":"_config.yml"}')[inputs.target_branch] }}
           # Set to development env if you want to prevent minifying the output.
-          JEKYLL_ENV: ${{ fromJSON('{"gh-pages-dev":"development","gh-pages-local-dev":"development","gh-pages-prod":"production"}')[inputs.target_branch] }}
+          JEKYLL_ENV: ${{ fromJSON('{"gh-pages":"production","gh-pages-dev":"development","gh-pages-local-dev":"development","gh-pages-prod":"production"}')[inputs.target_branch] }}
         run: bundle exec jekyll build  --config ${{ env.ymlfile }}
       - name: Deploy to selected target branch
         env:
           REPO: "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          SRC_FOLDER_PATH: ${{ fromJSON('{"gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site"}')[inputs.target_branch] }}
+          SRC_FOLDER_PATH: ${{ fromJSON('{"gh-pages":"_site","gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site"}')[inputs.target_branch] }}
         run: |
           echo "::debug::Initializing new repo (branch named ${{ inputs.target_branch }})"
           cd ${SRC_FOLDER_PATH} && \
