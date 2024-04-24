@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://cla-public-backup.s3-website-us-east-1.amazonaws.com//sitemap.xml
