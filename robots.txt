@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://d2rjss0x7tv6bg.cloudfront.net//sitemap.xml
