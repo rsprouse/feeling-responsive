@@ -3,7 +3,7 @@ destination: _site_aws
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://d2xiyhfn6fu7go.cloudfront.net'
+url: 'https://d2rjss0x7tv6bg.cloudfront.net'
 baseurl: '/'
 
 # This URL points directly to the images directory making
@@ -19,7 +19,7 @@ urlimg: '/assets/images/'
 urlaudio: '/assets/audio/'
 
 # JSON source data for map.
-clamap: https://d2xiyhfn6fu7go.cloudfront.net/browse/cla-map.json
+clamap: https://d2rjss0x7tv6bg.cloudfront.net/browse/cla-map.json
 
 search:
-  aws_endpoint: https://dmjxfr797j.execute-api.us-east-1.amazonaws.com/githubapi/
+  aws_endpoint: https://xcsocq3938.execute-api.us-east-1.amazonaws.com/awscloudfrontapi/
