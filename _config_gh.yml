@@ -4,7 +4,7 @@ destination: _site_gh
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://rsprouse.github.io/'
-baseurl: '/feeling-responsive/'
+baseurl: '/'
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -12,11 +12,11 @@ baseurl: '/feeling-responsive/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '/feeling-responsive/assets/images/'
+urlimg: '/assets/images/'
 
 # and audio:
 #
-urlaudio: '/feeling-responsive/assets/audio/'
+urlaudio: '/assets/audio/'
 
 # JSON source data for map.
 clamap: https://rsprouse.github.io/browse/cla-map.json
