@@ -22,4 +22,4 @@ urlaudio: '/feeling-responsive/assets/audio/'
 clamap: https://rsprouse.github.io/browse/cla-map.json
 
 search:
-  aws_endpoint: https://dmjxfr797j.execute-api.us-east-1.amazonaws.com/githubapi/
+  aws_endpoint: https://1058b5ti28.execute-api.us-east-1.amazonaws.com/githubapi/
