@@ -17,13 +17,6 @@ on:
         - gh-pages-dev
         - gh-pages-local-dev
         - gh-pages-prod
-      target_repo:
-        description: Repo to which generated site will be pushed
-        type: choice
-        required: true
-        options:
-        - rsprouse/feeling-responsive
-        - rsprouse/rsprouse.github.io
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 concurrency:
@@ -57,7 +50,7 @@ jobs:
         run: bundle exec jekyll build  --config ${{ env.ymlfile }}
       - name: Deploy to selected target branch
         env:
-          REPO: "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ inputs.target_repo }}.git"
+          REPO: "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           SRC_FOLDER_PATH: ${{ fromJSON('{"gh-pages":"_site_gh","gh-pages-awscloudfront":"_site_aws","gh-pages-awss3":"_site_aws","gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site"}')[inputs.target_branch] }}
         run: |
           echo "::debug::Initializing new repo (branch named ${{ inputs.target_branch }})"
