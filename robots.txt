@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://rsprouse.github.io//feeling-responsive//sitemap.xml
