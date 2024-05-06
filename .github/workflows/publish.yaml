@@ -22,8 +22,8 @@ on:
         type: choice
         required: true
         options:
-        - feeling-responsive
-        - rsprouse.github.io
+        - ${{ github.repository }}
+        - ${{ github.actor }}.github.io
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 concurrency:
