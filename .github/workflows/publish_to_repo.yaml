@@ -1,0 +1,83 @@
+# This action builds the CLA website and copies the files to the
+# selected target branch when this action is invoked manually.
+
+name: Build CLA website with Jekyll and deploy to target repo
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_branch:
+        description: Branch to which generated site will be pushed
+        type: choice
+        required: true
+        options:
+        - gh-pages
+        - gh-pages-awscloudfront
+        - gh-pages-awss3
+        - gh-pages-dev
+        - gh-pages-local-dev
+        - gh-pages-prod
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo source and target branches
+        run: echo "::notice Building source branch ${{ github.ref_name }} and pushing to target branch ${{ inputs.target_branch }}."
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
+      - name: Build with Jekyll
+        env:
+          # The build directory is specified as the `destination` value in the config file(s).
+          # The default dir is `_site`.
+          ymlfile: ${{ fromJSON('{"gh-pages":"_config.yml,_config_gh.yml","gh-pages-awscloudfront":"_config.yml,_config_awscloudfront.yml","gh-pages-awss3":"_config.yml,_config_awss3.yml","gh-pages-dev":"_config.yml,_config_dev.yml","gh-pages-local-dev":"_config.yml,_config_local_dev.yml","gh-pages-prod":"_config.yml"}')[inputs.target_branch] }}
+          # Set to development env if you want to prevent minifying the output.
+          JEKYLL_ENV: ${{ fromJSON('{"gh-pages":"production","gh-pages-awscloudfront":"production","gh-pages-awss3":"production","gh-pages-dev":"development","gh-pages-local-dev":"development","gh-pages-prod":"production"}')[inputs.target_branch] }}
+        run: bundle exec jekyll build  --config ${{ env.ymlfile }}
+#      - name: Deploy to selected target branch
+#        env:
+#          REPO: "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/rsprouse/rsprouse.github.io.git"
+#          SRC_FOLDER_PATH: ${{ fromJSON('{"gh-pages":"_site_gh","gh-pages-awscloudfront":"_site_aws","gh-pages-awss3":"_site_aws","gh-pages-dev":"_site_dev","gh-pages-local-dev":"_site_local_dev","gh-pages-prod":"_site"}')[inputs.target_branch] }}
+#        run: |
+#          echo "::debug::Initializing new repo (branch named ${{ inputs.target_branch }})"
+#          cd ${SRC_FOLDER_PATH} && \
+#          git init -b ${{ inputs.target_branch }} && \
+#          git config user.name "${GITHUB_ACTOR}" && \
+#          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
+#          git add . && \
+#          git commit -m "Site build from workflow action" && \
+#          echo "::debug::Pushing to target branch" && \
+#          echo "::debug::${REPO}" && \
+#          echo "::debug::${SRC_FOLDER_PATH}" && \
+#          echo "::debug::${{ inputs.target_branch }}" && \
+#          echo "::debug::git push --force ${REPO} ${{ inputs.target_branch }}:${{ inputs.target_branch }}" && \
+#          echo "::debug::pushing" && \
+#          git push --force $REPO ${{ inputs.target_branch }}:${{ inputs.target_branch }} && \
+#          echo "SHA=$( git rev-parse ${{ inputs.target_branch }} )" >> $GITHUB_OUTPUT
+#          rm -rf .git && \
+#          cd ..
+      - name: Pushes to another repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+#          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: ${SRC_FOLDER_PATH}
+          destination-github-username: 'rsprouse'
+          destination-repository-name: 'rsprouse.github.io'
+          user-email: ronald@berkeley.edu
+          target-branch: gh-pages
