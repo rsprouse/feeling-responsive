@@ -45,7 +45,7 @@ The Community Research Grant program is generously supported by <a href="https:/
 
 Berkeley students, faculty members, and staff (in any department) are invited to apply for an Oswalt Endangered Language Grant. This funding comes through the Robert L. Oswalt Graduate Student Support Endowment for Endangered Language Documentation, given in memory of Robert L. Oswalt (Ph.D. UC Berkeley 1961) by his widow and sons. It is restricted to Berkeley affiliates, for linguistic fieldwork on endangered languages (anywhere in the world). Proposal guidelines will be circulated closer to the submission deadline.
 
-Apply here: <a href="[https://forms.gle/vTYNbA2a1Xe6qnBFA](https://forms.gle/nZZz9wKGZPApzSci8)">https://forms.gle/nZZz9wKGZPApzSci8</a>.
+Apply here: <a href="https://forms.gle/nZZz9wKGZPApzSci8">https://forms.gle/nZZz9wKGZPApzSci8</a>.
 
 <div class="between_images">
 <figure>
@@ -61,7 +61,7 @@ Apply here: <a href="[https://forms.gle/vTYNbA2a1Xe6qnBFA](https://forms.gle/nZZ
 
 In 2025, Berkeley affiliates may also apply for separate grants for language revitalization work. These grants have a separate funding source, and are not subject to the terms of the Oswalt gift. 
 
-Apply here: <a href="[https://forms.gle/vTYNbA2a1Xe6qnBFA](https://forms.gle/nZZz9wKGZPApzSci8)">https://forms.gle/nZZz9wKGZPApzSci8</a>.
+Apply here: <a href="https://forms.gle/nZZz9wKGZPApzSci8">https://forms.gle/nZZz9wKGZPApzSci8</a>.
 
 ## External Grants <br>
 
