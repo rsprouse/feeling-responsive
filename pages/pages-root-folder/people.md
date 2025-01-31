@@ -26,12 +26,6 @@ sitemap: true
 
 <a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (IT Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
 
-<div class="image right people_images">
-<img src="{{ site.urlimg }}alexander_elias.jpeg" alt="Alexander Elias"/>
-</div>
-
-<a name="alexander">[Alexander Elias](https://sites.google.com/view/alexander-elias/home) (Assistant; Graduate Student, Linguistics) </a> is a graduate student whose is interested in documentation of Austronesian langauges, language revitalization and historical linguistics. Since 2019, he has been carrying out a language documentation project on Jao, an Oceanic language spoken in Kanaky-New Caledonia. Previously, he worked in eastern Indonesia, documentating of the Malayo-Polynesian languages of Central Flores such as Lio and Ende. He has worked on two major language revitalization projects, working with speakers of Miriwoong in Kununurra, Western Australia and learners of Rammaytush on the San Francisco Peninsula.
-
 <div class="image left people_images">
 <img class="img_left" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
 </div>
@@ -159,4 +153,4 @@ sitemap: true
 <img src="{{ site.urlimg }}wesley_new.jpeg" alt="Wesley dos Santos" style="padding-right:7px; padding-top:10px;"/>
 </div>
 
-[Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos) (Graduate Student, Linguistics) is interested on the documentation and analysis of grammatical phenomena of South American languages. His current work focuses on Kawahíva (Tupí-Guaraní), an endangered Amazonian language of Brazil spoken by some 550 speakers in the states of Amazonas, Mato Grosso and Rondônia. In particular, he has been documenting the differences and conditioning factors in constituent order, person-marking indexes and dependent clauses of Kawahíva varieties known as Juma (ISO code: jua) and Uru Eu Wau Wau (ISO code: urz).
+[Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos) (PhD 2024, Linguistics) is interested on the documentation and analysis of grammatical phenomena of South American languages. His current work focuses on Kawahíva (Tupí-Guaraní), an endangered Amazonian language of Brazil spoken by some 550 speakers in the states of Amazonas, Mato Grosso and Rondônia. In particular, he has been documenting the differences and conditioning factors in constituent order, person-marking indexes and dependent clauses of Kawahíva varieties known as Juma (ISO code: jua) and Uru Eu Wau Wau (ISO code: urz).
