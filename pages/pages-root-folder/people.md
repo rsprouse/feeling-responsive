@@ -77,6 +77,12 @@ sitemap: true
 <a name="leanne">[Leanne Hinton](http://linguistics.berkeley.edu/people/person_detail.php?person=17) (Director Emerita; Professor Emerita of Linguistics)</a> specializes in endangered languages and language revitalization, especially for American Indian languages. She is one of the founders and an advisory board member for the Advocates for Indigenous California Language Survival, and a co-designer of their two main programs, the Master-Apprentice Language Learning Program (MAP), and the Breath of Life archival workshops and institutes for indigenous language recovery, in Berkeley and Washington D.C. (BOL). Her books include Flutes of Fire: Essays on California Indian Languages (Heyday Books, 1994), The Green Book of Language Revitalization in Practice (ed. with Ken Hale, Academic Press, 2001), How to Keep Your Language Alive: A commonsense approach to one-on-one language learning (Heyday Books, 2002), and Bringing Our Languages Home: Language revitalization for Families (Heyday Books, 2013). Her most recent book is The Routledge Handbook of Language Revitalization (co-edited with Leena Huss and Gerald Roche, 2018).  Hinton consults around the world for tribes and organizations doing language revitalization.
 
 <div class="image left people_images">
+<img src="{{ site.urlimg }}ironhawk.png" alt="Claudia Iron Hawk"/>
+</div>
+
+[Claudia Iron Hawk’s](https://lx.berkeley.edu/people/claudia-iron-hawk) (D/Lakota; Assistant; Graduate Student, Linguistics) work focuses on indigenous language revitalization, specifically for the Lakota language, phonology, and morphology. She is an enrolled member of the Cheyenne River Sioux Tribe. Her past research studied final obstruent voicing in Lakota via a production study with her current research focusing on second language learning methods for the Lakota language.
+
+<div class="image left people_images">
 <img src="{{ site.urlimg }}ko.png" alt="Edwin Ko"/>
 </div>
 
@@ -87,6 +93,12 @@ sitemap: true
 </div>
 
 [Myriam Lapierre](https://sites.google.com/uw.edu/myriam-lapierre) (PhD 2021, Linguistics) is interested in the phonetics and phonology of South American languages, with a particular focus on nasality-related phenomena in the Amazon. She began conducting fieldwork in the Brazilian Amazon in 2014, and has since worked with several languages of the Jê family (Panãra, Me~bêngôkre, Kajkwakhrattxi, and Xavante), as well as Kawaiwete (Tupí-Guaraní). Some of her recent and ongoing work includes a descriptive analysis of the phonology of Panãra, an analysis of nasal coarticulation in Panãra using oral and nasal airflow data, and a typological and theoretical analysis of nasal harmony phenomena in languages of the Tupí-Guaraní family.
+
+<div class="image left people_images">
+<img src="{{ site.urlimg }}lee-wynant.png" alt="Tyler Lee-Wynant"/>
+</div>
+
+[Tyler Lee-Wynant](https://lx.berkeley.edu/people/tyler-lee-wynant) (Graduate Student, Linguistics) works on California Indigenous languages with a focus on the Pomoan languages and Hupa (Pacific Coast Dene). He is involved in projects which process archived language documentation for the development of machine-readable resources (e.g., online dictionaries, text corpora, content indexes). His current projects are: developing a Northern Pomo (his heritage language) language course, directing an Eastern Pomo dictionary/text corpus project, and conducting fieldwork on Hupa. His research interests include morphosyntax, fieldwork, documentation, language reawakening, and the synergism between these.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}macknick.png" alt="Anna Macknick"/>
