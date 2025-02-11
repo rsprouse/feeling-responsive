@@ -27,28 +27,28 @@ sitemap: true
 <a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (IT Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
 
 <div class="image right people_images">
-<img class="img_right" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
-</div>
-
-<a name="andrew">[Andrew Garrett](http://linguistics.berkeley.edu/~garrett/) (Director)</a> is Professor of Linguistics and Nadine M. Tang and Bruce L. Smith Professor of Cross-Cultural Social Sciences. As a Californianist he has done linguistic fieldwork, archival work, and consulting work with the [Hupa](languages/hupa.php), [Karuk](languages/karuk.php), [Northern Paiute](languages/northern-paiute.php), [Rumsen Ohlone](languages/rumsen.php), and Sierra Miwok languages, but he mainly focuses on [Yurok](languages/yurok.php) and [Karuk](languages/karuk.php) (in northern California). His Yurok projects include articles on descriptive and historical linguistics, contributions to the tribal language program (including a practical dictionary compiled with Juliette Blevins and Lisa Conathan), ongoing work on Yurok texts, and a [digital text and lexical archive](http://linguistics.berkeley.edu/~yurok). In Yurok grammar, Garrett is especially interested in relations between lexical and morphological structures on the one hand, and between lexical and syntactic patterns on the other; his book [Basic Yurok](http://escholarship.org/uc/item/2vw609w4) appeared in 2014. His Karuk projects, in collaboration with [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen/) and several graduate students, include a database of texts, research on the language's interesting syntactic patterns, and a co-edited volume of ten texts recorded in 1901 and 1902. More generally, he studies the dialectology of languages of the west coast and the emergence of the distinctive California linguistic profile. Outside California, Garrett also worked on Indo-European historical linguistics, especially Anatolian, Greek, and Latin, and general problems of language change and linguistic reconstruction.
-
-<div class="image left people_images">
 <img src="{{ site.urlimg }}akolkar.jpg" alt="Shweta Akolkar"/>
 </div>
 
 [Shweta Akolkar](https://sites.google.com/view/akolkar/home) (Assistant; Graduate Student, Linguistics) has research interests in syntax, semantics, and language documentation.  She has been working on the documentation and description of Bishnupriya Manipuri (Indo-Aryan; India & Bangladesh) since 2019 in collaboration with speakers based in New York City.  Her specific areas of interest include attitude reports, clausal complementation, and number and definiteness.
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img src="{{ site.urlimg }}fanucchi.jpg" alt="Madison Fanucchi"/>
 </div>
 
 **Madison Fanucchi** (Assistant; Undergraduate Student, Linguistics) is interested in language preservation, revitalization, and archival methods. She has worked on the creation and preservation of hundreds of documents since coming to the CLA. Her primary goals are to increase information accessibility to heritage communities and ensure the preservation of information for decades to come. After receiving her undergraduate degree, she is pursuing an MA in Library and Information Science with a focus on Archival Studies.
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}ironhawk.png" alt="Claudia Iron Hawk"/>
 </div>
 
 [Claudia Iron Hawk’s](https://lx.berkeley.edu/people/claudia-iron-hawk) (Assistant; D/Lakota; Graduate Student, Linguistics) work focuses on indigenous language revitalization, specifically for the Lakota language, phonology, and morphology. She is an enrolled member of the Cheyenne River Sioux Tribe. Her past research studied final obstruent voicing in Lakota via a production study with her current research focusing on second language learning methods for the Lakota language.
+
+<div class="image left people_images">
+<img class="img_right" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
+</div>
+
+<a name="andrew">[Andrew Garrett](http://linguistics.berkeley.edu/~garrett/) (Director)</a> is Professor of Linguistics and Nadine M. Tang and Bruce L. Smith Professor of Cross-Cultural Social Sciences. As a Californianist he has done linguistic fieldwork, archival work, and consulting work with the [Hupa](languages/hupa.php), [Karuk](languages/karuk.php), [Northern Paiute](languages/northern-paiute.php), [Rumsen Ohlone](languages/rumsen.php), and Sierra Miwok languages, but he mainly focuses on [Yurok](languages/yurok.php) and [Karuk](languages/karuk.php) (in northern California). His Yurok projects include articles on descriptive and historical linguistics, contributions to the tribal language program (including a practical dictionary compiled with Juliette Blevins and Lisa Conathan), ongoing work on Yurok texts, and a [digital text and lexical archive](http://linguistics.berkeley.edu/~yurok). In Yurok grammar, Garrett is especially interested in relations between lexical and morphological structures on the one hand, and between lexical and syntactic patterns on the other; his book [Basic Yurok](http://escholarship.org/uc/item/2vw609w4) appeared in 2014. His Karuk projects, in collaboration with [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen/) and several graduate students, include a database of texts, research on the language's interesting syntactic patterns, and a co-edited volume of ten texts recorded in 1901 and 1902. More generally, he studies the dialectology of languages of the west coast and the emergence of the distinctive California linguistic profile. Outside California, Garrett also worked on Indo-European historical linguistics, especially Anatolian, Greek, and Latin, and general problems of language change and linguistic reconstruction.
 
 ### <a name="affiliates"></a>Affiliates
 
