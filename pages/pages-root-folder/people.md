@@ -42,7 +42,7 @@ sitemap: true
 <img src="{{ site.urlimg }}fanucchi.jpg" alt="Madison Fanucchi"/>
 </div>
 
-**Madison Fanucchi** (Assistant; Undergraduate Student, Linguistics) is an undergraduate Linguistics student working at the CLA. She is interested in language preservation, revitalization, and archival methods. She has worked on the creation and preservation of hundreds of documents since coming to the CLA. Her primary goals are to increase information accessibility to heritage communities and ensure the preservation of information for decades to come. After receiving her undergraduate degree, she is pursuing an MA in Library and Information Science with a focus on Archival Studies.
+**Madison Fanucchi** (Assistant; Undergraduate Student, Linguistics) is interested in language preservation, revitalization, and archival methods. She has worked on the creation and preservation of hundreds of documents since coming to the CLA. Her primary goals are to increase information accessibility to heritage communities and ensure the preservation of information for decades to come. After receiving her undergraduate degree, she is pursuing an MA in Library and Information Science with a focus on Archival Studies.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}ironhawk.png" alt="Claudia Iron Hawk"/>
