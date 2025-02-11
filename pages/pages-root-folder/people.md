@@ -48,7 +48,7 @@ sitemap: true
 <img src="{{ site.urlimg }}ironhawk.png" alt="Claudia Iron Hawk"/>
 </div>
 
-[Claudia Iron Hawk’s](https://lx.berkeley.edu/people/claudia-iron-hawk) (D/Lakota; Assistant; Graduate Student, Linguistics) work focuses on indigenous language revitalization, specifically for the Lakota language, phonology, and morphology. She is an enrolled member of the Cheyenne River Sioux Tribe. Her past research studied final obstruent voicing in Lakota via a production study with her current research focusing on second language learning methods for the Lakota language.
+[Claudia Iron Hawk’s](https://lx.berkeley.edu/people/claudia-iron-hawk) (Assistant; D/Lakota; Graduate Student, Linguistics) work focuses on indigenous language revitalization, specifically for the Lakota language, phonology, and morphology. She is an enrolled member of the Cheyenne River Sioux Tribe. Her past research studied final obstruent voicing in Lakota via a production study with her current research focusing on second language learning methods for the Lakota language.
 
 ### <a name="affiliates"></a>Affiliates
 
