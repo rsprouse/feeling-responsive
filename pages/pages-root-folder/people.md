@@ -32,6 +32,24 @@ sitemap: true
 
 <a name="andrew">[Andrew Garrett](http://linguistics.berkeley.edu/~garrett/) (Director)</a> is Professor of Linguistics and Nadine M. Tang and Bruce L. Smith Professor of Cross-Cultural Social Sciences. As a Californianist he has done linguistic fieldwork, archival work, and consulting work with the [Hupa](languages/hupa.php), [Karuk](languages/karuk.php), [Northern Paiute](languages/northern-paiute.php), [Rumsen Ohlone](languages/rumsen.php), and Sierra Miwok languages, but he mainly focuses on [Yurok](languages/yurok.php) and [Karuk](languages/karuk.php) (in northern California). His Yurok projects include articles on descriptive and historical linguistics, contributions to the tribal language program (including a practical dictionary compiled with Juliette Blevins and Lisa Conathan), ongoing work on Yurok texts, and a [digital text and lexical archive](http://linguistics.berkeley.edu/~yurok). In Yurok grammar, Garrett is especially interested in relations between lexical and morphological structures on the one hand, and between lexical and syntactic patterns on the other; his book [Basic Yurok](http://escholarship.org/uc/item/2vw609w4) appeared in 2014. His Karuk projects, in collaboration with [Line Mikkelsen](http://linguistics.berkeley.edu/~mikkelsen/) and several graduate students, include a database of texts, research on the language's interesting syntactic patterns, and a co-edited volume of ten texts recorded in 1901 and 1902. More generally, he studies the dialectology of languages of the west coast and the emergence of the distinctive California linguistic profile. Outside California, Garrett also worked on Indo-European historical linguistics, especially Anatolian, Greek, and Latin, and general problems of language change and linguistic reconstruction.
 
+<div class="image right people_images">
+<img src="{{ site.urlimg }}akolkar.jpg" alt="Shweta Akolkar"/>
+</div>
+
+[Shweta Akolkar's](https://sites.google.com/view/akolkar/home) (Assistant; Graduate Student, Linguistics) is a graduate student whose research interests are in syntax, semantics, and language documentation.  She has been working on the documentation and description of Bishnupriya Manipuri (Indo-Aryan; India & Bangladesh) since 2019 in collaboration with speakers based in New York City.  More specific interests include attitude reports, clausal complementation, and number and definiteness.
+
+<div class="image right people_images">
+<img src="{{ site.urlimg }}fanucchi.jpg" alt="Madison Fanucchi"/>
+</div>
+
+**Madison Fanucchi** (Assistant; Undergraduate Student, Linguistics) is an undergraduate Linguistics student working at the CLA. She is interested in language preservation, revitalization, and archival methods. She has worked on the creation and preservation of hundreds of documents since coming to the CLA. Her primary goals are to increase information accessibility to heritage communities and ensure the preservation of information for decades to come. After receiving her undergraduate degree, she is pursuing an MA in Library and Information Science with a focus on Archival Studies.
+
+<div class="image left people_images">
+<img src="{{ site.urlimg }}ironhawk.png" alt="Claudia Iron Hawk"/>
+</div>
+
+[Claudia Iron Hawk’s](https://lx.berkeley.edu/people/claudia-iron-hawk) (D/Lakota; Assistant; Graduate Student, Linguistics) work focuses on indigenous language revitalization, specifically for the Lakota language, phonology, and morphology. She is an enrolled member of the Cheyenne River Sioux Tribe. Her past research studied final obstruent voicing in Lakota via a production study with her current research focusing on second language learning methods for the Lakota language.
+
 ### <a name="affiliates"></a>Affiliates
 
 <div class="image right people_images">
@@ -75,12 +93,6 @@ sitemap: true
 </div>
 
 <a name="leanne">[Leanne Hinton](http://linguistics.berkeley.edu/people/person_detail.php?person=17) (Director Emerita; Professor Emerita of Linguistics)</a> specializes in endangered languages and language revitalization, especially for American Indian languages. She is one of the founders and an advisory board member for the Advocates for Indigenous California Language Survival, and a co-designer of their two main programs, the Master-Apprentice Language Learning Program (MAP), and the Breath of Life archival workshops and institutes for indigenous language recovery, in Berkeley and Washington D.C. (BOL). Her books include Flutes of Fire: Essays on California Indian Languages (Heyday Books, 1994), The Green Book of Language Revitalization in Practice (ed. with Ken Hale, Academic Press, 2001), How to Keep Your Language Alive: A commonsense approach to one-on-one language learning (Heyday Books, 2002), and Bringing Our Languages Home: Language revitalization for Families (Heyday Books, 2013). Her most recent book is The Routledge Handbook of Language Revitalization (co-edited with Leena Huss and Gerald Roche, 2018).  Hinton consults around the world for tribes and organizations doing language revitalization.
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}ironhawk.png" alt="Claudia Iron Hawk"/>
-</div>
-
-[Claudia Iron Hawk’s](https://lx.berkeley.edu/people/claudia-iron-hawk) (D/Lakota; Assistant; Graduate Student, Linguistics) work focuses on indigenous language revitalization, specifically for the Lakota language, phonology, and morphology. She is an enrolled member of the Cheyenne River Sioux Tribe. Her past research studied final obstruent voicing in Lakota via a production study with her current research focusing on second language learning methods for the Lakota language.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}ko.png" alt="Edwin Ko"/>
