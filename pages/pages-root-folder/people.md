@@ -15,7 +15,7 @@ sitemap: true
 ### <a name="staff"></a>Staff
 
 <div class="image right people_images">
-<img src="{{ site.urlimg }}zjo.jpg" alt="Zachary O'Hagan"/>
+<img src="{{ site.urlimg }}ohagan.JPG" alt="Zachary O'Hagan"/>
 </div>
 
 <a name="zacho">[Zachary O'Hagan](http://linguistics.berkeley.edu/~zjohagan/) (Manager)</a> received his PhD in linguistics from the University of California, Berkeley in 2020, with a dissertation titled <a href="https://escholarship.org/uc/item/9640m1fg"><i>Focus in Caquinte</i></a>, an Arawak language of Peru. His research centers on the documentation of Amazonian indigenous languages, on the people who speak them, and their history and culture. He is a generalist and arealist, with theoretical interests in morphosyntax, semantics, information structure, and historical linguistics. Since 2010 he has carried out fieldwork in Peru on Caquinte (Arawak), Omagua (Tupí-Guaraní), Taushiro (isolate), Urarina (isolate), and Omurano (isolate). In 2019 he edited <a href="http://linguistics.berkeley.edu/~zjohagan/pdflinks/salazar-et-al_caquinte-stories_2019_official-ortho"><i>Tsabetsatsarentsipae itionkantajitakaroka igenketsatsare kakinte</i></a>, a monolingual volume of stories in Caquinte.
