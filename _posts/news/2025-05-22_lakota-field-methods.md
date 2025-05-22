@@ -26,7 +26,7 @@ Students in field methods classes learn how to:
 
 These classes emphasize respectful collaboration and ethical practices, especially when working with Indigenous communities. The knowledge gathered can support revitalization efforts, especially when it is shared back with the community in the form of dictionaries, lesson plans, or recordings.
 
-In the California Language Archive's collections of Lakota materials from Berkeley graduate field methods courses (<a href="[URL](http://cla.berkeley.edu/collection/10084)">here</a>, <a href="[URL](http://dx.doi.org/doi:10.7297/X2DZ078D)">here</a>, and <a href="[URL](http://dx.doi.org/doi:10.7297/X2610Z9C)">here</a>), all the speakers are from a reservation in South Dakota called the Oglala Sioux Tribe or the Pine Ridge Indian Reservation. The map below highlights in red the territory.
+In the California Language Archive's collections of Lakota materials from Berkeley graduate field methods courses (<a href="http://cla.berkeley.edu/collection/10084">here</a>, <a href="http://dx.doi.org/doi:10.7297/X2DZ078D">here</a>, and <a href="http://dx.doi.org/doi:10.7297/X2610Z9C">here</a>), all the speakers are from a reservation in South Dakota called the Oglala Sioux Tribe or the Pine Ridge Indian Reservation. The map below highlights in red the territory.
 
 <div class="between_images">
    <figure>
