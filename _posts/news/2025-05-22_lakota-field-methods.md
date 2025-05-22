@@ -26,7 +26,7 @@ Students in field methods classes learn how to:
 
 These classes emphasize respectful collaboration and ethical practices, especially when working with Indigenous communities. The knowledge gathered can support revitalization efforts, especially when it is shared back with the community in the form of dictionaries, lesson plans, or recordings.
 
-In these collections, all the speakers are from a reservation in South Dakota called the Oglala Sioux Tribe or the Pine Ridge Indian Reservation. The map below highlights in red the territory.
+In the California Language Archive's collections of Lakota materials from Berkeley graduate field methods courses (<a href="[URL](http://cla.berkeley.edu/collection/10084)">here</a>, <a href="[URL](http://dx.doi.org/doi:10.7297/X2DZ078D)">here</a>, and <a href="[URL](http://dx.doi.org/doi:10.7297/X2610Z9C)">here</a>), all the speakers are from a reservation in South Dakota called the Oglala Sioux Tribe or the Pine Ridge Indian Reservation. The map below highlights in red the territory.
 
 <div class="between_images">
    <figure>
@@ -37,13 +37,13 @@ In these collections, all the speakers are from a reservation in South Dakota ca
 
 These field methods classes were held at different times, from the years 1964-1965, 1974-1975, and 1979-80. Though the exact recruitment method is unknown, the speakers likely lived in or around the Bay Area. 
 <ul>
-  <li>Eva Martin Brown, Pine Ridge, SD (1979-1980)</li>
-  <li>Mary Afraid of Enemy McDaniel, Pine Ridge, SD (1979-1980)</li>
+  <li>Eva Martin Brown, Pine Ridge, SD (1980)</li>
+  <li>Mary Afraid of Enemy McDaniel, Pine Ridge, SD (1980)</li>
   <li>Ruby LaPointe Swift Bird, Pine Ridge, SD (1964-1965, 1974-1975)</li>
   <li>Stella Red Star, Pine Ridge, SD (1964-1965)</li>
 </ul>
 
-The 1980s class of field notes covered word lists of various topics (kinship, animals, etc.) as well as sentences and grammatical analysis. Topics across all the fields methods classes include phonology, morphology, syntax, and miscellaneous wordlists and transcripts of the language. 
+The field notes from the 1980 class include word lists of various topics (kinship, animals, etc.) as well as sentences and grammatical analysis. Topics across all the fields methods classes include phonology, morphology, syntax, and miscellaneous wordlists and transcripts of the language. 
 
 Some contents in the notebook include topics on question particles, tense, and gendered command differences. 
 
