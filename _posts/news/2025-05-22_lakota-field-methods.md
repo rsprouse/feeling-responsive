@@ -43,9 +43,7 @@ These field methods classes were held at different times, in 1964-1965, 1974-197
   <li>Stella Red Star, Pine Ridge, SD (1964-1965)</li>
 </ul>
 
-Knud Lambrecht's <a href="http://dx.doi.org/doi:10.7297/X22806MG">field notes</a> from the 1980 class include word lists of various topics (kinship, animals, etc.) as well as sentences and grammatical analysis. Topics across all the fields methods classes include phonology, morphology, syntax, and miscellaneous wordlists and transcripts of the language. 
-
-Some contents in the notebook include topics on question particles, tense, and gendered command differences. 
+Knud Lambrecht's <a href="http://dx.doi.org/doi:10.7297/X22806MG">field notes</a> from the 1980 class include wordlists of various topics (kinship, animals, etc.) as well as sentences and grammatical analysis. Topics across all the fields methods classes include phonology, morphology, syntax, and miscellaneous wordlists and transcripts of the language. Some contents in the notebook include topics on question particles, tense, and gendered command differences. 
 
 <b>Questions</b>
 
