@@ -47,11 +47,11 @@ The 1980s class of field notes covered word lists of various topics (kinship, an
 
 Some contents in the notebook include topics on question particles, tense, and gendered command differences. 
 
-Questions: 
+<b>Questions</b>
 
 Questions ending in “he?” Lakota questions tend to end in “he.” It always signals that the sentence is a question. For instance, “Le igmu kin hecha he?” Which is “Is this a cat?” The notebook as this on page 57 with “do you eat?” being “yata he?” 
 
-Future tense:
+<b>Future Tense</b>
 
 Lakota has a future tense particle “kte.” It changes to “kta” when it follows a question. For instance a sentence that might translate to “Will you do X?:
 
@@ -64,7 +64,7 @@ Here is an example of both being used in a sentence, also on page 57. “Unyake 
    </figure>
 </div>
 
-Commands:
+<b>Commands</b>
 
 There are different endings on commands based on the gender of the speaker. These arise in usually just two variants of the same word. 
 
