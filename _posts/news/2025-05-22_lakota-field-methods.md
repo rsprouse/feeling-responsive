@@ -47,18 +47,16 @@ Knud Lambrecht's <a href="http://dx.doi.org/doi:10.7297/X22806MG">field notes</a
 
 <b>Questions</b>
 
-Questions ending in “he?” Lakota questions tend to end in “he.” It always signals that the sentence is a question. For instance, “Le igmu kin hecha he?” Which is “Is this a cat?” The notebook as this on page 57 with “do you eat?” being “yata he?” 
+Questions ending in “he?” Lakota questions tend to end in “he.” It always signals that the sentence is a question. For instance, “Le igmu kin hecha he?” Which is “Is this a cat?” Lambrecht's notebook has this on page 57 with “do you eat?” being “yata he?” 
 
 <b>Future Tense</b>
 
-Lakota has a future tense particle “kte.” It changes to “kta” when it follows a question. For instance a sentence that might translate to “Will you do X?:
-
-Here is an example of both being used in a sentence, also on page 57. “Unyake lowanpi kta he?” Translating as “Will you sing for us?”
+Lakota has a future tense particle “kte.” It changes to “kta” when it follows a question. For instance, a sentence that might translate to “Will you do X?” Here is an example of both being used in a sentence, also on page 57. “Unyake lowanpi kta he?” translating as “Will you sing for us?”
 
 <div class="between_images">
    <figure>
 <img src="{{ site.urlimg }}lakota-02.jpg" alt="lakota02" width="600px"/>
-      <figcaption class="caption"></figcaption>
+      <figcaption class="caption">Page 57 of Knud Lambrecht's notes on Lakota from the 1980 Berkeley graduate field methods (CLA 2023-06.001)</figcaption>
    </figure>
 </div>
 
@@ -66,12 +64,12 @@ Here is an example of both being used in a sentence, also on page 57. “Unyake 
 
 There are different endings on commands based on the gender of the speaker. These arise in usually just two variants of the same word. 
 
-On page 90 there is “wayatkan ye!” in which “ye” is commonly stated to be a more feminine ending. This means “drink!”
+On page 90, there is “wayatkan ye!” in which “ye” is commonly stated to be a more feminine ending. This means “drink!”
 
-On page 91 there is “ayupta yo!” in which “yo” is commonly stated to be a more masculine ending. This means “answer/reply!”
+On page 91, there is “ayupta yo!” in which “yo” is commonly stated to be a more masculine ending. This means “answer/reply!”
 
-As of 2025, the Lakota language is critically endangered with a few thousand Native speakers. The study of Lakota through field methods classes is not just about academic research—it is about healing, empowerment, and cultural survival. By combining linguistic tools with community knowledge, we can support the preservation and revitalization of languages that hold centuries of wisdom and resilience.
+As of 2025, the Lakota language is critically endangered, with a few thousand Native speakers. The study of Lakota through field methods classes is not just about academic research &mdash; it is about healing, empowerment, and cultural survival. By combining linguistic tools with community knowledge, we can support the preservation and revitalization of languages that hold centuries of wisdom and resilience.
 
-Whether you're a student of linguistics, a language learner, or someone interested in Indigenous issues, methods used in a field methods class is a good toolkit to understanding the structure and meaning (as well as culture) of Lakota language. 
+Whether you're a student of linguistics, a language learner, or someone interested in Indigenous issues, methods used in a field methods class are a good toolkit to understanding the structure and meaning (as well as culture) of Lakota language. 
 
 And in the sense of cultural continuity, there is a lot to consider when discussing language revitalization. When discussing the ethics of language revitalization, a lot of time and effort must be devoted to ethical considerations on who benefits from what materials in the research process.
