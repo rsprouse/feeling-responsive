@@ -51,7 +51,7 @@ Lakota questions tend to end in “he.” It always signals that the sentence is
 
 <b>Future Tense</b>
 
-Lakota has a future tense particle “kte.” It changes to “kta” when it follows a question. For instance, a sentence that might translate to “Will you do X?” Here is an example of both being used in a sentence, also on page 57. “Unyake lowanpi kta he?” translating as “Will you sing for us?”
+Lakota has a future tense particle “kte.” It changes to “kta” when it follows a question, for instance, a sentence that might translate to “Will you do X?” Here is an example of both being used in a sentence, also on page 57: “Unyake lowanpi kta he?” translating as “Will you sing for us?”
 
 <div class="between_images">
    <figure>
