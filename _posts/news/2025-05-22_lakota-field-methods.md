@@ -35,7 +35,7 @@ In the California Language Archive's collections of Lakota materials from Berkel
    </figure>
 </div>
 
-These field methods classes were held at different times, from the years 1964-1965, 1974-1975, and 1979-80. Though the exact recruitment method is unknown, the speakers likely lived in or around the Bay Area. 
+These field methods classes were held at different times, in 1964-1965, 1974-1975, and 1980. Though the exact recruitment method is unknown, the speakers likely lived in or around the Bay Area. 
 <ul>
   <li>Eva Martin Brown, Pine Ridge, SD (1980)</li>
   <li>Mary Afraid of Enemy McDaniel, Pine Ridge, SD (1980)</li>
