@@ -47,7 +47,7 @@ Knud Lambrecht's <a href="http://dx.doi.org/doi:10.7297/X22806MG">field notes</a
 
 <b>Questions</b>
 
-Lakota questions tend to end in “he.” It always signals that the sentence is a question. For instance, “Le igmu kin hecha he?” Which is “Is this a cat?” Lambrecht's notebook has this on page 57 with “do you eat?” being “yata he?” 
+Lakota questions tend to end in “he.” It always signals that the sentence is a question. For instance, “Le igmu kin hecha he?” which is “Is this a cat?” Lambrecht's notebook has this on page 57 with “Do you eat?” being “Yata he?” 
 
 <b>Future Tense</b>
 
