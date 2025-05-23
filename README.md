@@ -12,7 +12,7 @@ Subdirectories of `pages/pages-root-folder` will also be rendered as .html files
 
 1. Add an .md file in `_posts`
    * Use a subdir appropriate to the topic, e.g. `news` (it should match a value in the `categories` list in the post). The resulting url includes the category as part of the path, e.g. `news/post-name`.
-   * The filename should be follow the pattern: `YYYY-MM-DD-descriptive_name.md`. **Use a hyphen, not underscore, in constructing the date and between the date and descriptive name. The post will not be created automatically if you do not use the correct pattern.** 
+   * The filename should be follow the pattern: `YYYY-MM-DD-descriptive_name.md`. **Use a hyphen, not underscore, in constructing the date and between the date and descriptive name. The post will not be included when the site is built if you do not use the correct pattern.** 
 2. Use an existing post to model content.
 
 ## Updating
