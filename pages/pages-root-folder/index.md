@@ -11,10 +11,10 @@ header:
 search_include: true
 widget1:
   title: "The CLA Blog"
-  url: blog/2022/northern_paiute_natches.html
-  image: natches021.png
-  imgalt: Photo of field notebook
-  text: Gilbert Natches's Northern Paiute documentation
+  url: blog/2025/lakota-field-methods.html
+  image: lakota-02.jpg
+  imgalt: Knud Lambrecht's notes on Lakota from the 1980 Berkeley graduate field methods
+  text: Knud Lambrecht's notes on Lakota from the 1980 Berkeley graduate field methods
 widget2:
   title: "Project spotlight"
   url: projects/cucapa.html
