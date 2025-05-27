@@ -14,7 +14,7 @@ widget1:
   url: blog/2025/lakota-field-methods.html
   image: lakota-02.jpg
   imgalt: Knud Lambrecht's notes on Lakota from the 1980 Berkeley graduate field methods
-  text: Field Methods: The Lakota Language
+  text: "Field Methods: The Lakota Language"
 widget2:
   title: "Project spotlight"
   url: projects/cucapa.html
