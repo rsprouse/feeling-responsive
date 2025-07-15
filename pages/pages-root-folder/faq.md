@@ -163,7 +163,7 @@ sitemap: true
 </div>
 
 <div class="question">
-<button type="button" class="collapsible">Who can I contact if I have a concern about the accuracy of materials form my community? </button>
+<button type="button" class="collapsible">Who can I contact if I have a concern about the accuracy of materials from my community? </button>
 
 <div class="collapsiblecontent">
 
