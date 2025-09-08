@@ -708,10 +708,46 @@ For a complete listing of Berkeley PhD dissertations in linguistics, see [here](
 </tr>
    
 <tr>
-<td>2021</td>
+<td>2022</td>
 <td>Erik Hans Maier</td>
 <td><em>A Treebank of the Karuk Language</em> [<a href="https://escholarship.org/uc/item/0w40v7sg?">PDF</a>]</td>
 <td>Line Mikkelsen</td>
 </tr>
+
+<tr>
+<td>2023</td>
+<td>Tessa Scott</td>
+<td><em>Pronouns and agreement in San Juan Atitán Mam</em> [<a href="https://escholarship.org/uc/item/9vw0v4x5?">PDF</a>]</td>
+<td>Amy Rose Deal and Peter Jenks</td>
+</tr>
+
+<tr>
+<td>2023</td>
+<td>Edwin Ko</td>
+<td><em>Studies in Crow Linguistics: Documentation, Grammar, and History</em> [<a href="https://escholarship.org/uc/item/97v3h6x0?">PDF</a>]</td>
+<td>Andrew Garrett</td>
+</tr>
+
+<tr>
+<td>2024</td>
+<td>Wesley dos Santos</td>
+<td><em>Topics on the syntax of Kawahíva: A Tupí-Guaraní language from the Brazilian Amazon</em> [<a href="https://escholarship.org/uc/item/7n3020c1">PDF</a>]</td>
+<td>Lev Michael and Peter Jenks</td>
+</tr>
+
+<tr>
+<td>2025</td>
+<td>Allegra Robertson Molinaro</td>
+<td><em>Laryngeal features and segmental length: Cases studies in Yánesha’, Barese, Maranese, and Italian</em> [<a href="https://escholarship.org/uc/item/4qj8q1gh">PDF</a>]</td>
+<td>Hannah Sande</td>
+</tr>
+
+<tr>
+<td>2025</td>
+<td>Anna Björklund</td>
+<td><em>A Grammar of Nomlaki</em> [<a href="https://escholarship.org/uc/item/44v21211?">PDF</a>]</td>
+<td>Keith Johnson</td>
+</tr>
    
 </table>
+
