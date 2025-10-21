@@ -26,17 +26,11 @@ sitemap: true
 
 <a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (IT Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
 
-<div class="image left people_images">
+<div class="image right people_images">
 <img src="{{ site.urlimg }}lee-wynant.png" alt="Tyler Lee-Wynant"/>
 </div>
 
 [Tyler Lee-Wynant](https://lx.berkeley.edu/people/tyler-lee-wynant) (Assistant; Graduate Student, Linguistics) works on California Indigenous languages with a focus on the Pomoan languages and Hupa (Pacific Coast Dene). He is involved in projects which process archived language documentation for the development of machine-readable resources (e.g., online dictionaries, text corpora, content indexes). His current projects are: developing a Northern Pomo (his heritage language) language course, directing an Eastern Pomo dictionary/text corpus project, and conducting fieldwork on Hupa. His research interests include morphosyntax, fieldwork, documentation, language reawakening, and the synergism between these.
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}fanucchi.jpg" alt="Madison Fanucchi"/>
-</div>
-
-**Madison Fanucchi** (Assistant; Undergraduate Student, Linguistics) is interested in language preservation, revitalization, and archival methods. She has worked on the creation and preservation of hundreds of documents since coming to the CLA. Her primary goals are to increase information accessibility to heritage communities and ensure the preservation of information for decades to come. After receiving her undergraduate degree, she is pursuing an MA in Library and Information Science with a focus on Archival Studies.
 
 <div class="image left people_images">
 <img class="img_right" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
