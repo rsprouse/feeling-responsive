@@ -1,7 +1,7 @@
 # This action builds the CLA website and copies the files to the
 # selected target branch when this action is invoked manually.
 
-name: Prod - Build CLA website with Jekyll and deploy to target branch
+name: PROD - Build CLA website with Jekyll and deploy to target branch
 
 on:
   workflow_dispatch:
