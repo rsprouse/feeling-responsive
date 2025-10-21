@@ -17,6 +17,7 @@ on:
         - gh-pages-dev
         - gh-pages-local-dev
         - gh-pages-prod
+        default: 'gh-pages-prod'
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 concurrency:
