@@ -1,7 +1,7 @@
 # This action builds the CLA website and copies the files to the
 # selected target branch when this action is invoked manually.
 
-name: Build CLA website with Jekyll and deploy to target branch
+name: Prod - Build CLA website with Jekyll and deploy to target branch
 
 on:
   workflow_dispatch:
@@ -11,12 +11,13 @@ on:
         type: choice
         required: true
         options:
-        - gh-pages
-        - gh-pages-awscloudfront
-        - gh-pages-awss3
-        - gh-pages-dev
-        - gh-pages-local-dev
-        - gh-pages-prod
+          - gh-pages
+          - gh-pages-awscloudfront
+          - gh-pages-awss3
+          - gh-pages-dev
+          - gh-pages-local-dev
+          - gh-pages-prod
+        default: 'gh-pages-prod'
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 concurrency:
