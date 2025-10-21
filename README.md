@@ -18,7 +18,11 @@ Subdirectories of `pages/pages-root-folder` will also be rendered as .html files
 
 ## Updating
 
-When the site is built, `cd` to the destination server directory under `/home/sites` and do:
+1. Build the dev site by running the [publish_to_repo](https://github.com/rsprouse/feeling-responsive/actions/workflows/publish_to_repo.yaml) action. Click on 'Run workflow', then choose the appropriate branch (normally `main`) and push to `gh-pages`.
+2. Visit [the development site](rsprouse.github.io) for review.
+3. If all is well on the development site, build the production site by running the [`publish`](https://github.com/rsprouse/feeling-responsive/actions/workflows/publish.yaml) action. Click on 'Run workflow', then choose the appropriate branch (normally `main`) and push to `gh-pages-prod`.
+
+4. When the site is built, log in to the destination server. `cd` to the `/home/sites\cla_public_jekyll\feeling-responsive` directory and do:
 
 ```bash
 git pull origin --rebase --allow-unrelated-histories
