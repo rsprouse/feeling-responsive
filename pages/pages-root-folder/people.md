@@ -26,23 +26,17 @@ sitemap: true
 
 <a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (IT Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
 
-<div class="image right people_images">
-<img src="{{ site.urlimg }}akolkar.jpg" alt="Shweta Akolkar"/>
+<div class="image left people_images">
+<img src="{{ site.urlimg }}lee-wynant.png" alt="Tyler Lee-Wynant"/>
 </div>
 
-[Shweta Akolkar](https://sites.google.com/view/akolkar/home) (Assistant; Graduate Student, Linguistics) has research interests in syntax, semantics, and language documentation.  She has been working on the documentation and description of Bishnupriya Manipuri (Indo-Aryan; India & Bangladesh) since 2019 in collaboration with speakers based in New York City.  Her specific areas of interest include attitude reports, clausal complementation, and number and definiteness.
+[Tyler Lee-Wynant](https://lx.berkeley.edu/people/tyler-lee-wynant) (Assistant; Graduate Student, Linguistics) works on California Indigenous languages with a focus on the Pomoan languages and Hupa (Pacific Coast Dene). He is involved in projects which process archived language documentation for the development of machine-readable resources (e.g., online dictionaries, text corpora, content indexes). His current projects are: developing a Northern Pomo (his heritage language) language course, directing an Eastern Pomo dictionary/text corpus project, and conducting fieldwork on Hupa. His research interests include morphosyntax, fieldwork, documentation, language reawakening, and the synergism between these.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}fanucchi.jpg" alt="Madison Fanucchi"/>
 </div>
 
 **Madison Fanucchi** (Assistant; Undergraduate Student, Linguistics) is interested in language preservation, revitalization, and archival methods. She has worked on the creation and preservation of hundreds of documents since coming to the CLA. Her primary goals are to increase information accessibility to heritage communities and ensure the preservation of information for decades to come. After receiving her undergraduate degree, she is pursuing an MA in Library and Information Science with a focus on Archival Studies.
-
-<div class="image right people_images">
-<img src="{{ site.urlimg }}ironhawk.png" alt="Claudia Iron Hawk"/>
-</div>
-
-[Claudia Iron Hawk’s](https://lx.berkeley.edu/people/claudia-iron-hawk) (Assistant; D/Lakota; Graduate Student, Linguistics) work focuses on indigenous language revitalization, specifically for the Lakota language, phonology, and morphology. She is an enrolled member of the Cheyenne River Sioux Tribe. Her past research studied final obstruent voicing in Lakota via a production study with her current research focusing on second language learning methods for the Lakota language.
 
 <div class="image left people_images">
 <img class="img_right" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
@@ -74,7 +68,7 @@ sitemap: true
 <img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
 </div>
 
-<a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Graduate Student, Linguistics) </a> is a graduate student whose primary research interests are in the phonetics and revitalization of the Wintuan languages of Northern California, which survive through archival materials. She has been a linguist consultant with the Paskenta Band of Nomlaki Indians since 2020, and the Wintu Tribe of Northern California since 2022.
+<a name="anna">[Anna Björklund's](https://aebjorklund.github.io/) (PhD 2025, Linguistics) </a> primary research interests are in the phonetics and revitalization of the Wintuan languages of Northern California, which survive through archival materials. She has been a linguist consultant with the Paskenta Band of Nomlaki Indians since 2020, and the Wintu Tribe of Northern California since 2022.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}deal-02.jpg" alt="Amy Rose Deal"/>
@@ -86,7 +80,7 @@ sitemap: true
 <img src="{{ site.urlimg }}maks.jpg" alt="Maksymilian Dabkowski" />
 </div>
 
-[Maksymilian Dąbkowski](https://maksymilian-dabkowski.github.io/) (Graduate Student, Linguistics) is interested in phonological interfaces and language documentation. Since 2017, he has been carrying out fieldwork on A'ingae (or Cofán, ISO 639-3: con), an Amazonian language isolate spoken in northeast Ecuador and southern Colombia. He has investigated the interactions of stress, glottalization, and morphosyntactic structure in A'ingae verbs. In 2020, Maksymilian worked as a lab manager for A'ingae Language Documentation Project, building a multimedia language corpus accessible to the communities of speakers. His other interests include semantics, language revitalization, logic, and psycholinguistics.
+[Maksymilian Dąbkowski](https://maksymilian-dabkowski.github.io/) (PhD 2025, Linguistics) is interested in phonological interfaces and language documentation. Since 2017, he has been carrying out fieldwork on A'ingae (or Cofán, ISO 639-3: con), an Amazonian language isolate spoken in northeast Ecuador and southern Colombia. He has investigated the interactions of stress, glottalization, and morphosyntactic structure in A'ingae verbs. In 2020, Maksymilian worked as a lab manager for A'ingae Language Documentation Project, building a multimedia language corpus accessible to the communities of speakers. His other interests include semantics, language revitalization, logic, and psycholinguistics.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}hinton.jpg" alt="Leanne Hinton"/>
@@ -105,12 +99,6 @@ sitemap: true
 </div>
 
 [Myriam Lapierre](https://sites.google.com/uw.edu/myriam-lapierre) (PhD 2021, Linguistics) is interested in the phonetics and phonology of South American languages, with a particular focus on nasality-related phenomena in the Amazon. She began conducting fieldwork in the Brazilian Amazon in 2014, and has since worked with several languages of the Jê family (Panãra, Me~bêngôkre, Kajkwakhrattxi, and Xavante), as well as Kawaiwete (Tupí-Guaraní). Some of her recent and ongoing work includes a descriptive analysis of the phonology of Panãra, an analysis of nasal coarticulation in Panãra using oral and nasal airflow data, and a typological and theoretical analysis of nasal harmony phenomena in languages of the Tupí-Guaraní family.
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}lee-wynant.png" alt="Tyler Lee-Wynant"/>
-</div>
-
-[Tyler Lee-Wynant](https://lx.berkeley.edu/people/tyler-lee-wynant) (Graduate Student, Linguistics) works on California Indigenous languages with a focus on the Pomoan languages and Hupa (Pacific Coast Dene). He is involved in projects which process archived language documentation for the development of machine-readable resources (e.g., online dictionaries, text corpora, content indexes). His current projects are: developing a Northern Pomo (his heritage language) language course, directing an Eastern Pomo dictionary/text corpus project, and conducting fieldwork on Hupa. His research interests include morphosyntax, fieldwork, documentation, language reawakening, and the synergism between these.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}macknick.png" alt="Anna Macknick"/>
