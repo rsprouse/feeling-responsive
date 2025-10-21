@@ -22,7 +22,7 @@ Subdirectories of `pages/pages-root-folder` will also be rendered as .html files
 2. Visit [the development site](https://rsprouse.github.io) for review.
 3. If all is well on the development site, build the production site by running the [`PROD - Build CLA website with Jekyll and deploy to target branch`](https://github.com/rsprouse/feeling-responsive/actions/workflows/publish.yaml) action. Click on 'Run workflow', then choose the appropriate 'from' branch (normally `main`) and push to `gh-pages-prod`.
 
-4. When the site is built, log in to the destination server. `cd` to the `/home/sites\cla_public_jekyll\feeling-responsive` directory and do:
+4. When the site is built, log in to the destination server. `cd` to the `/home/sites/cla_public_jekyll/feeling-responsive` directory and do:
 
 ```bash
 git pull origin --rebase --allow-unrelated-histories
