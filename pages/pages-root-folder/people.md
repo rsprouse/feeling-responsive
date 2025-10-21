@@ -77,7 +77,7 @@ sitemap: true
 <a name="anna">[Anna Björklund](https://aebjorklund.github.io/) (Graduate Student, Linguistics) </a> is a graduate student whose primary research interests are in the phonetics and revitalization of the Wintuan languages of Northern California, which survive through archival materials. She has been a linguist consultant with the Paskenta Band of Nomlaki Indians since 2020, and the Wintu Tribe of Northern California since 2022.
 
 <div class="image right people_images">
-<img src="{{ site.urlimg }}deal.jpg" alt="Amy Rose Deal"/>
+<img src="{{ site.urlimg }}deal-02.jpg" alt="Amy Rose Deal"/>
 </div>
 
 [Amy Rose Deal](http://linguistics.berkeley.edu/~ardeal/) (Professor of Linguistics) has worked for many years with speakers of Nez Perce, a Sahaptian language of the Columbia River plateau. Her interests are broadly in linguistic universals and variation as they relate to syntax and semantics, and ways that formal tools can be brought to bear to better understand linguistic phenomena. Particular interests include case and agreement; attitude reports; perspectival phenomena, especially indexical shift; possessor raising; and mass/count distinctions.
