@@ -40,12 +40,12 @@ The Community Research Grant program is generously supported by <a href="https:/
 
 ### Oswalt Endangered Language Grant
 
-<b>Deadline</b>: Fall 2025 (TBA)<br>
-<b>Award</b>: up to $7,500
+<b>Deadline</b>: December 8, 2025<br>
+<b>Award</b>: up to $8,000
 
 Berkeley students, faculty members, and staff (in any department) are invited to apply for an Oswalt Endangered Language Grant. This funding comes through the Robert L. Oswalt Graduate Student Support Endowment for Endangered Language Documentation, given in memory of Robert L. Oswalt (Ph.D. UC Berkeley 1961) by his widow and sons. It is restricted to Berkeley affiliates, for linguistic fieldwork on endangered languages (anywhere in the world). Proposal guidelines will be circulated closer to the submission deadline.
 
-Apply here: <a href="https://forms.gle/nZZz9wKGZPApzSci8">https://forms.gle/nZZz9wKGZPApzSci8</a>.
+Apply here: <a href="https://forms.gle/gvFnaiKskA5xdvMq7">https://forms.gle/gvFnaiKskA5xdvMq7</a>.
 
 <div class="between_images">
 <figure>
@@ -56,12 +56,12 @@ Apply here: <a href="https://forms.gle/nZZz9wKGZPApzSci8">https://forms.gle/nZZz
 
 ### CLA Language Revitalization Grant
 
-<b>Deadline</b>: Fall 2025 (TBA)<br>
+<b>Deadline</b>: December 8, 2025<br>
 <b>Award</b>: up to $5,000
 
 In 2025, Berkeley affiliates may also apply for separate grants for language revitalization work. These grants have a separate funding source, and are not subject to the terms of the Oswalt gift. 
 
-Apply here: <a href="https://forms.gle/nZZz9wKGZPApzSci8">https://forms.gle/nZZz9wKGZPApzSci8</a>.
+Apply here: <a href="https://forms.gle/gvFnaiKskA5xdvMq7">https://forms.gle/gvFnaiKskA5xdvMq7</a>.
 
 ## External Grants <br>
 
@@ -83,4 +83,5 @@ Apply here: <a href="https://forms.gle/nZZz9wKGZPApzSci8">https://forms.gle/nZZz
 <li><a href="http://www.wennergren.org/programs/">Wenner-Gren Foundation</a>
 <li><a href="https://www.ssrc.org/programs/idrf/international-dissertation-research-fellowship/">International Dissertation Research Fellowship (Social Science Research Council)</a>
 <li><a href="http://www.amphilsoc.org/grants/phillips">American Philosophical Society</a>
+
 
