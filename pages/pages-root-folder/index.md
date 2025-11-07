@@ -7,6 +7,7 @@
 layout: cla-frontpage
 header:
   image_fullwidth: cla_website-banner_v2.jpg
+  imgalt: Composite image of twelve headshot photographs
   title: California Language Archive
 search_include: true
 widget1:
