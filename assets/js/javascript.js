@@ -3033,6 +3033,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
     , centeredY: true   // Should we center the image on the Y axis?
     , duration: 5000    // Amount of time in between slides (if slideshow)
     , fade: 0           // Speed of fade transition between slides
+    , alt: ""           // Alt text for image
   };
 
   /* STYLES
@@ -3226,6 +3227,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
                       })
                       .appendTo(self.$wrap);
 
+        self.$img.attr('alt': self.options.alt || '');
         // Hack for IE img onload event
         self.$img.attr('src', self.images[newIndex]);
         return self;
