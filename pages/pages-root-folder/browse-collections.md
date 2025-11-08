@@ -4,6 +4,7 @@ layout: browse_page
 title: Browse Collections
 header:
    image_fullwidth: salinan_lands.jpg
+   imgalt: Photograph of hills with an unpaved road
    title: California Language Archive
 sitemap: true
 iframe_include: collection-list.html

@@ -5,6 +5,7 @@ title:  La colección de Crawford y el fortalecimiento de la lengua cucapá
 teaser: by Ezequías Reyes González & Etna T. Pascacio Montijo (Universidad Autónoma de Baja California)
 header:
    image_fullwidth: salinan_lands.jpg
+   imgalt: Photograph of hills with an unpaved road
    title: California Language Archive
 permalink: /projects/cucapa.html
 ---

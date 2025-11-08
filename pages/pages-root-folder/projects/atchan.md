@@ -5,6 +5,7 @@ title:  Atchan language project
 teaser: by Rebecca Jarvis, Timothée Kouadio & Katherine Russell
 header:
    image_fullwidth: salinan_lands.jpg
+   imgalt: Photograph of hills with an unpaved road
    title: California Language Archive
 permalink: /projects/atchan.html
 ---

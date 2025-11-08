@@ -6,6 +6,7 @@ sidebar: left
 sidebar_include: _people_sidebar.html
 header:
    image_fullwidth: salinan_lands.jpg
+   imgalt: Photograph of hills with an unpaved road
    title: California Language Archive
 sitemap: true
 ---

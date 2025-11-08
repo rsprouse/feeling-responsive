@@ -5,6 +5,7 @@ title: New River Shasta
 sidebar: left
 header:
    image_fullwidth: salinan_lands.jpg
+   imgalt: Photograph of hills with an unpaved road
    title: California Language Archive
 permalink: languages/new-river-shasta.html
 ---

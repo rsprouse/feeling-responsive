@@ -5,6 +5,7 @@ title: "Field Methods: The Lakota Language"
 teaser: "by Claudia Iron Hawk"
 header:
    image_fullwidth: salinan_lands.jpg
+   imgalt: Photograph of hills with an unpaved road
    title: California Language Archive
 permalink: /blog/:year/:title.html
 ---

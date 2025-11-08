@@ -4,6 +4,7 @@ layout: page
 title: Funding for language research
 header:
    image_fullwidth: salinan_lands.jpg
+   imgalt: Photograph of hills with an unpaved road
    title: California Language Archive
 sitemap: true
 ---

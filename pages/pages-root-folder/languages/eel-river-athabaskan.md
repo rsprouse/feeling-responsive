@@ -5,6 +5,7 @@ title: Wailaki / Eel River Dene
 sidebar: left
 header:
    image_fullwidth: salinan_lands.jpg
+   imgalt: Photograph of hills with an unpaved road
    title: California Language Archive
 permalink: languages/eel-river-athabaskan.html
 ---

@@ -5,6 +5,7 @@ title:  Anna Lewington Collection of Matsigenka and Yine Recordings
 teaser: by Zachary O'Hagan
 header:
    image_fullwidth: salinan_lands.jpg
+   imgalt: Photograph of hills with an unpaved road
    title: California Language Archive
 permalink: /collections/matsigenka_yine.html
 ---
