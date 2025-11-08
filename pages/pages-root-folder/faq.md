@@ -72,7 +72,7 @@ sitemap: true
 ### Using our website
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uXT2VdPaWAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe aria-label="Video describing how to use the CLA catalog" width="560" height="315" src="https://www.youtube.com/embed/uXT2VdPaWAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div class="question">
 <button type="button" class="collapsible">How can I find materials in your catalog? </button>
