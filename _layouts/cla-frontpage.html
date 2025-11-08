@@ -11,6 +11,7 @@ format: frontpage
 
 {% include _search_form.html %}
 
+<div role="main">
 <div class="row t60"><p class="cla-description">{{ site.description }}</p></div>
 
 {% comment %}
@@ -31,6 +32,7 @@ format: frontpage
 		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
+</div><!-- role="main" -->
 
 
 
