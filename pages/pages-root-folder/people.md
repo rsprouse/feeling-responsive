@@ -34,6 +34,12 @@ sitemap: true
 [Tyler Lee-Wynant](https://lx.berkeley.edu/people/tyler-lee-wynant) (Assistant; Graduate Student, Linguistics) works on California Indigenous languages with a focus on the Pomoan languages and Hupa (Pacific Coast Dene). He is involved in projects which process archived language documentation for the development of machine-readable resources (e.g., online dictionaries, text corpora, content indexes). His current projects are: developing a Northern Pomo (his heritage language) language course, directing an Eastern Pomo dictionary/text corpus project, and conducting fieldwork on Hupa. His research interests include morphosyntax, fieldwork, documentation, language reawakening, and the synergism between these.
 
 <div class="image left people_images">
+<img src="{{ site.urlimg }}nyssa-combs.JPG" alt="Nyssa Combs"/>
+</div>
+
+**Nyssa Combs** (Assistant; Undergraduate Student, Linguistics and Celtic Studies) has a long-standing interest in heritage languages, archival work, language revitalization. At the CLA, she primarily has processed materials related to Indigenous languages in Brazil and Peru, and her personal research focuses on English phonetic variation in California. After receiving her undergraduate degree, she is pursuing an MS in Speech Language Pathology.
+
+<div class="image right people_images">
 <img class="img_right" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
 </div>
 
