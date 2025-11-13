@@ -39,6 +39,8 @@ sitemap: true
 
 **Nyssa Combs** (Assistant; Undergraduate Student, Linguistics and Celtic Studies) has a long-standing interest in heritage languages, archival work, language revitalization. At the CLA, she primarily has processed materials related to Indigenous languages in Brazil and Peru, and her personal research focuses on English phonetic variation in California. After receiving her undergraduate degree, she is pursuing an MS in Speech Language Pathology.
 
+**Sophia Hsu** (Assistant; Undergraduate Student, Data Science) is interested in language learning, archival work, and information access. She has processed hundreds of anthropological and linguistic materials for preservation at the CLA, primarily in Armenian, Ashaninka, Kawaiisu, and other California Indigenous languages. She is in her final undergraduate year of Data Science with an emphasis in Linguistic Sciences.
+
 <div class="image right people_images">
 <img class="img_right" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
 </div>
