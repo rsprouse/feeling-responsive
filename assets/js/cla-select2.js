@@ -19,6 +19,10 @@ function configure_select2(endpoint, placeholder) {
             delay: 250,
         }
     });
+
+    // Accessibility label
+    $('#cla-search-form .select2-selection[role="combobox"]').attr('aria-label', 'Search the California Language Archive');
+
     // Let php know that javascript is available.
     if ( $('#with_js').length) {
         $('#with_js')[0].value = "1";
