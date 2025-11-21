@@ -501,7 +501,7 @@ function update_coll_list(q, recs) {
          collhtml += r['_source']['ul_md'];
     });
     collhtml += '</ol>';
-    $('#colllist').html(collhtml);
+    $('#colllist').replaceWith(collhtml);
 }
 
 /* Get the Bndl metadata content from an elasticsearch response.
@@ -561,7 +561,7 @@ function update_bndl_list(q, recs) {
         bndlhtml += '</li>';
     });
     bndlhtml += '</ol>';
-    $('#bndllist').html(bndlhtml);
+    $('#bndllist').replaceWith(bndlhtml);
 }
 
 /*
