@@ -20,8 +20,9 @@ function configure_select2(endpoint, placeholder) {
         }
     });
 
-    // Accessibility label
+    // Accessibility labels
     $('.select2-selection__rendered').attr('aria-labelledby', 'search_button');
+    $('#cla-search-form .select2-selection[role="combobox"]').attr('aria-labelledby', 'search_button');
 
     // Let php know that javascript is available.
     if ( $('#with_js').length) {
