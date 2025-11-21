@@ -481,11 +481,11 @@ function update_counts(tab, pg, colldetail=false) {
 }
 
 function update_coll_list(q, recs) {
+    if (!Array.isArray(recs) || recs.length === 0) { return; }
     const collfirst = (q === null ? 1 : parseInt(q['collfrom']) + 1);
     const liclass = (q === null ? "nocount" : "itemlist");
     const lblclass = (q === null ? "showall" : "showmore");
-    $('#colllist').prop('start', collfirst);
-    let collhtml = '';
+    let collhtml = `<ol id="colllist" class="alt" start="${collfirst}">`;
     $.each(recs, function(i, r) {
          let count = collfirst + i;
          collhtml += `<li class="${liclass}">`;
@@ -500,6 +500,7 @@ function update_coll_list(q, recs) {
          }
          collhtml += r['_source']['ul_md'];
     });
+    collhtml += '</ol>';
     $('#colllist').html(collhtml);
 }
 
@@ -550,15 +551,16 @@ function get_bndllicontent(bsource, count) {
 }
 
 function update_bndl_list(q, recs) {
+    if (!Array.isArray(recs) || recs.length === 0) { return; }
     const bndlfirst = parseInt(q['bndlfrom']) + 1;
-    $('#bndllist').prop('start', bndlfirst);
-    let bndlhtml = '';
+    let bndlhtml = `<ol id="bndllist" class="alt" start="${bndlfirst}">`;
     $.each(recs, function(i, r) {
         let count = bndlfirst + i;
         bndlhtml += '<li class="itemlist">';
         bndlhtml += get_bndllicontent(r['_source'], count);
         bndlhtml += '</li>';
     });
+    bndlhtml += '</ol>';
     $('#bndllist').html(bndlhtml);
 }
 

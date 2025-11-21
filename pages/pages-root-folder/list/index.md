@@ -22,15 +22,13 @@ class is a holdover from old CLA website.  Clean this up later, if desired. -->
   <div class="content active sectiontab" id="coll">
     <p id="collresultscnt">&nbsp;<span name="results"></span> <b><span name="start" class="counts"></span></b> &ndash; <b><span name="end"></span></b></p>
     <label id="collshowall" class="showall">Show All/Collapse All&nbsp;<i id="show-all-caret-coll" class="icon fa-caret-right"></i></label>
-    <ol id="colllist" class="alt" start="0">
-    </ol>
+    <div id="colllist" class="alt"></div>
   <div class="pagination" id="collpaginator"></div>
   </div>
   <div class="content sectiontab" id="bndl">
     <p id="bndlresultscnt">&nbsp;<span name="results"></span> <b><span name="start" class="counts"></span></b> &ndash; <b><span name="end"></span></b></p>
     <label id="bndlshowall" class="showall">Show All/Collapse All&nbsp;<i id="show-all-caret-bndl" class="icon fa-caret-right"></i></label>
-    <ol id="bndllist" class="alt" start="0">
-    </ol>
+    <div id="bndllist" class="alt"></div>
   <div class="pagination" id="bndlpaginator"></div>
   </div>
 </div>
