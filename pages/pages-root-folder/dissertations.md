@@ -158,7 +158,7 @@ For a complete listing of Berkeley PhD dissertations in linguistics, see [here](
 <tr>
 <td>1966</td>
 <td>Sally McLendon</td>
-<td><em>The Eastern Pomo language</em> [<a href="https://escholarship.org/uc/item/08t8n3db">PDF</a>]</td>
+<td><em>The Eastern Pomo language</em> [<a href="https://escholarship.org/uc/item/7xf6r5rd">PDF</a>]</td>
 <td>Mary Haas</td>
 </tr>
 
