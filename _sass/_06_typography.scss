@@ -104,18 +104,34 @@ h2 {
     .blog-index h2 {
         margin-top: 0;
     }
+    .ca-lang-page h2 {
+        font-size: $ca-lang-page-font-size-h2;
+        margin: 1.152em 0 0 0;
+    }
 h3 {
     font-size: $font-size-h3;
     margin: 1.152em 0 0 0;
 }
+    .ca-lang-page h3 {
+        font-size: $ca-lang-page-font-size-h3;
+        margin: 1.152em 0 0 0;
+    }
 h4 {
     font-size: $font-size-h4;
     margin: 1.152em 0 0 0;
 }
+    .ca-lang-page h4 {
+        font-size: $ca-lang-page-font-size-h4;
+        margin: 1.152em 0 0 0;
+    }
 h5 {
     font-size: $font-size-h5;
     margin: 1em 0 0 0;
 }
+    .ca-lang-page h5 {
+        font-size: $ca-lang-page-font-size-h5;
+        margin: 1em 0 0 0;
+    }
 
 
 
