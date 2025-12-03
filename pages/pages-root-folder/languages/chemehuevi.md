@@ -12,11 +12,11 @@ permalink: languages/chemehuevi.html
 
 The traditional Chemehuevi language area is in the Mojave Desert, and later through displacement of the [Maricopa](maricopa.html) by the [Mojave](mojave.html) and [Quechan](quechan.html), on the shores of the Colorado River in Chemehuevi Valley to the south. In pre-contact times, there may have been 500-800 speakers of Chemehuevi (Kroeber 1925). As of the 21st century, there are fewer than two dozen first-language speakers (Golla 2011). However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://news.arizona.edu/story/professor-uses-technology-preserve-tribal-languages). Chemehuevi is the westernmost variety of a language that has been called "Colorado River Numic". Other varieties are Southern Paiute (spoken from southeastern California through to southwestern Utah) and Ute (spoken throughout the rest of Utah and Colorado). Colorado River Numic is a member of the Numic branch of the Uto-Aztecan language family. Within Numic, it is most closely related to [Kawaiisu](kawaiisu.html), spoken in the Tehachapi and Piute Mountains of southern California. More distantly, it is related to [Panamint](panamint.html), Shoshone (spoken throughout Nevada, Idaho, Utah, and Wyoming), Comanche (spoken mainly in Oklahoma, Texas, and Arizona), [Mono](mono.html), and [Northern Paiute](northern-paiute.html). The other Uto-Aztecan languages of California are [Tubatulabal](tubatulabal.html) and the Takic languages ([Cahuilla](cahuilla.html), [Cupeño](cupeno.html), [Gabrielino](gabrielino.html), [Juaneño](juaneno.html), [Kitanemuk](kitanemuk.html), [Luiseño](luiseno.html), [Serrano](serrano.html), and [Tataviam](tataviam.html)).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Chemehuevi"]({{ site.url }}/list/?langid=924=Chemehuevi)
 
-#### Further reading
+## Further reading
 
 * Bunte, Pamela A. 1979. *Problems in Southern Paiute syntax and semantics.* Ph.D. dissertation, Indiana University.
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
@@ -27,7 +27,7 @@ The traditional Chemehuevi language area is in the Mojave Desert, and later thro
 * Sapir, Edward. 1931. Southern Paiute dictionary. *Proceedings of the American Academy of Arts and Sciences* 65:537-730.
 * Southern Ute Tribe. 1979. *Ute dictionary.* Ignacio, CO: Ute Press.
 
-#### Links
+## Links
 
 * [Chemehuevi Indian Tribe](http://www.chemehuevi.net/)
 * [Chemehuevi Language Archive](http://www.chemehuevilanguage.org/)

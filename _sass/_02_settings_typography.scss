@@ -58,3 +58,16 @@ $font-size-small:   0.8em;
 .font-size-h3   { font-size: $font-size-h3; }
 .font-size-h4   { font-size: $font-size-h4; }
 .font-size-h5   { font-size: $font-size-h5; }
+
+/* California language page font size
+------------------------------------------------------------------- */
+
+$ca-lang-page-font-size-h2:      1.25em;
+$ca-lang-page-font-size-h3:      1.22em;
+$ca-lang-page-font-size-h4:      1.18em;
+$ca-lang-page-font-size-h5:      1.152em;
+
+.ca-lang-page-font-size-h2   { font-size: $ca-lang-page-font-size-h2; }
+.ca-lang-page-font-size-h3   { font-size: $ca-lang-page-font-size-h3; }
+.ca-lang-page-font-size-h4   { font-size: $ca-lang-page-font-size-h4; }
+.ca-lang-page-font-size-h5   { font-size: $ca-lang-page-font-size-h5; }

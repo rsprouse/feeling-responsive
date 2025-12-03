@@ -12,15 +12,15 @@ permalink: languages/maidu.html
 
 The traditional Maidu language area is in the valleys in the Sierra Nevada between Lassen Peak and Sierra Valley (Big Meadows, Mountain Meadows, Butt Valley, Indian Valley, Genesee Valley, American Valley) and on the high plateau to the northeast along the Susan River from Susanville to Honey Lake. In pre-contact times, there were approximately 9,000 speakers of [Konkow](konkow.html), Maidu, and [Nisenan](nisenan.html) together (Kroeber 1925). In the 21st century, there are only a few first-language speakers (Golla 2011). However, tribal members and language activists have been pursuing language revitalization and reclamation ([Borhani 2011](https://open.library.ubc.ca/cIRcle/collections/graduateresearch/42591/items/1.0078066)). Maidu (also known as Northeastern Maidu or Mountain Maidu) is a member of the Maiduan language family, the other members of which are [Konkow](konkow.html) and [Nisenan](nisenan.html). Together, the Maiduan languages form one branch of the hypothesized Penutian language family. This groups also includes [Klamath-Modoc](modoc.html), the Miwokan languages ([Central Sierra Miwok](central-sierra-miwok.html), [Coast Miwok](coast-miwok.html), [Lake Miwok](lake-miwok.html), [Northern Sierra Miwok](northern-sierra-miwok.html), [Plains Miwok](plains-miwok.html), [Saclan](saclan.html), and [Southern Sierra Miwok](southern-sierra-miwok.html)), the Ohlone languages ([Awaswas](awaswas.html), [Chalon](chalon.html), [Chochenyo](chochenyo.html), [Karkin](karkin.html), [Mutsun](mutsun.html), [Ramaytush](ramaytush.html), [Rumsen](rumsen.html), and [Tamyen](tamyen.html)), the Wintuan languages ([Nomlaki](nomlaki.html), [Patwin](patwin.html), and [Wintu](wintu.html)), and the [Yokuts languages](yokuts.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Maidu"]({{ site.url }}/list/?langid=562=Maidu)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Maidu, Northeast"](https://indigenousguide.amphilsoc.org/search?search_api_fulltext=maidu&amp;f%5B0%5D=guide_language_content_title%3AMaidu%2C%20Northeast)
 
-#### Further reading
+## Further reading
 
 * Anderson, Karen Lahaie. 2015. *Mountain Maidu Grammar: Second Edition, Fish-Head Version.*
 * Anderson, Karen Lahaie. 2017a. *Mountain Maidu Dictionary: Second Edition, Fish-Head Version.*
@@ -32,7 +32,7 @@ The traditional Maidu language area is in the valleys in the Sierra Nevada betwe
 * Shipley, William. 1963. *Maidu texts and dictionary.* Berkeley: University of California Press. [[PDF](https://archive.org/details/maidutextsdictio0000ship)]
 * Shipley, William. 1964. *Maidu grammar.* Berkeley: University of California Press.
 
-#### Links
+## Links
 
 * [Greenville Rancheria](http://www.greenvillerancheria.com/)
 * [Mechoopda Maidu Indians](http://www.mechoopda-nsn.gov/)

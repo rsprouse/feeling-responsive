@@ -12,15 +12,15 @@ permalink: languages/mono.html
 
 The traditional Mono language area is from Mono Lake in eastern California to the south and west. Most linguists distinguish two main varieties of the language: *Eastern Mono* (also called "Owens Valley Paiute") is spoken in the Owens River Valley; *Western Mono* (also called "Monachi") is spoken on the western side of the Sierra Nevada, in the San Joaquin River, Kings River, and Kaweah River watersheds. In pre-contact times, there were 3,000 to 4,000 speakers of Mono, by conservative estimates (Kroeber 1925). In the 21st century, there are no more than 40 first-language speakers (Golla 2011). However, tribal members and language activists have been pursuing language revitalization and reclamation ([Kroskrity 2018](https://escholarship.org/content/qt4h56h7jb/qt4h56h7jb_noSplash_cd67e0da8f6275abdb44ac75987200ad.pdf)). Mono is a member of the Numic branch of the Uto-Aztecan language family. Within Numic, it is most closely related to [Northern Paiute](northern-paiute.html) and more distantly to [Panamint](panamint.html), Shoshone (spoken in Nevada, Idaho, Utah, and Wyoming), Comanche (spoken mainly in Oklahoma, Texas, and Arizona), [Kawaiisu](kawaiisu.html), and [Chemehuevi](chemehuevi.html)-Southern Paiute-Ute. The other Uto-Aztecan languages of California are [Tubatulabal](tubatulabal.html) and the Takic languages ([Cahuilla](cahuilla.html), [Cupeño](cupeno.html), [Gabrielino](gabrielino.html), [Juaneño](juaneno.html), [Kitanemuk](kitanemuk.html), [Luiseño](luiseno.html), [Serrano](serrano.html), and [Tataviam](tataviam.html)).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Mono"]({{ site.url }}/list/?langid=905=Mono)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Mono"](https://indigenousguide.amphilsoc.org/search?search_api_fulltext=Mono&amp;f%5B0%5D=guide_language_content_title%3AMono)
 
-#### Further reading
+## Further reading
 
 * Bethel, Rosalie, Paul V. Kroskrity, Chistopher Loether and Gregory A. Reinhardt. 1993. *A dictionary of Western Mono, second edition.* [[PDF](https://www.northforkrancheria-nsn.gov/our-people/language/mono-dictionary/)]
 * Gayton, A. H. and Newman, Stanley S. 1940. Yokuts and Western Mono Myths. *Anthropological Records*, 5:1. [[PDF](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar005-002.pdf)]
@@ -30,7 +30,7 @@ The traditional Mono language area is from Mono Lake in eastern California to th
 * Lamb, Sydney M. n.d. *Monachi dictionary.* Ms., Survey of California and Other Indian Languages, [Lamb.002]({{ site.url }}/item/?bndlid=2825). [[PDF](https://berkeley.app.box.com/v/lamb-002)]
 * Norris, Evan J. 1986. *A grammar sketch and comparative study of Eastern Mono. * Ph.D. dissertation, University of California, San Diego.
 
-#### Links
+## Links
 
 * [Benton Paiute Reservation](http://www.bentonpaiutereservation.org/)
 * [Big Sandy Rancheria](http://www.bigsandyrancheria.com/)

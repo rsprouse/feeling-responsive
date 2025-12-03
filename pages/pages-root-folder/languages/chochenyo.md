@@ -21,11 +21,11 @@ Map of the Ohlone languages (Richard L. Levy. 1976. <a href="https://digitalasse
 
 Chochenyo (also spelled "Chocheño") is an Ohlone (or "Costanoan") language, along with [Awaswas](awaswas.html), [Chalon](chalon.html), [Karkin](karkin.html), [Mutsun](mutsun.html), [Ramaytush](ramaytush.html), [Rumsen](rumsen.html), and [Tamyen](tamyen.html). The Ohlone languages comprise one branch of the hypothesized Penutian language family, within which they form a subgroup with the Miwokan languages ([Central Sierra Miwok](central-sierra-miwok.html), [Coast Miwok](coast-miwok.html), [Lake Miwok](lake-miwok.html), [Northern Sierra Miwok](northern-sierra-miwok.html), [Plains Miwok](plains-miwok.html), [Saclan](saclan.html), and [Southern Sierra Miwok](southern-sierra-miwok.html)). Penutian also includes Klamath-[Modoc](modoc.html), the Maiduan languages ([Konkow](konkow.html), [Maidu](maidu.html), and [Nisenan](nisenan.html)), the Wintuan languages ([Nomlaki](nomlaki.html), [Patwin](patwin.html), and [Wintu](wintu.html)), and the [Yokuts languages](yokuts.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Chochenyo"]({{ site.url }}/list/?langid=586=Chochenyo)
 
-#### Further reading
+## Further reading
 
 * Beeler, M. S. 1961. Northern Costanoan. *International Journal of American Linguistics* 3:191-1917.
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
@@ -35,7 +35,7 @@ Chochenyo (also spelled "Chocheño") is an Ohlone (or "Costanoan") language, alo
 * Kroeber, Alfred L. 1910. The Chumash and Costanoan languages. *University of California Publications in American Archaeology and Ethnology* 9:237-271. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp009-004.pdf)]
 * Milliken, Randall, Shoup, Laurence H. &amp; Ortiz, Beverly R. *Ohlone/Coastanoan Indians of the San Francisco Peninsula and their Neighbors, Yesterday and Today.* Oakland: Archaeological and Historical Consultants. [[PDF](http://npshistory.com/publications/goga/ohlone-indians.pdf)]
 
-#### Links
+## Links
 
 * ['Itmay Cultural Association](https://itmay.org/)
 * [Mak-'amham / Cafe Ohlone](https://www.makamham.com/)

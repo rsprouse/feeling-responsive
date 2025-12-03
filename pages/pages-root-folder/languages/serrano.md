@@ -12,15 +12,15 @@ permalink: languages/serrano.html
 
 The traditional Serrano language area is in the San Bernadino Mountains and the adjacent regions of the Mojave Desert. (Vanyume, a related language, was spoken to the north.) In pre-contact times, there were probably no more than 1,500 speakers of Serrano (Kroeber 1925). In the 21st century, there is only one known first-language speaker (Golla 2011). However, tribal members and language activists have been pursuing language revitalization, and Serrano language courses began at California State San Bernandino in 2013. Serrano is a member of the Takic branch of the Uto-Aztecan language family. Within Takic, it is most closely related to [Cahuilla](cahuilla.html), [Cupeño](cupeno.html), and [Luiseño](luiseno.html), and more distantly to [Gabrielino](gabrielino.html), [Kitanemuk](kitanemuk.html), [Serrano](serrano.html), and [Tataviam](tataviam.html). The other Uto-Aztecan languages of California are [Tubatulabal](tubatulabal.html) and the Numic languages ([Chemehuevi](chemehuevi.html)-Southern Paiute-Ute, Comanche, [Kawaiisu](kawaiisu.html), [Mono](mono.html), [Northern Paiute](northern-paiute.html), [Panamint](panamint.html), and Shoshone).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Serrano"]({{ site.url }}/list/?langid=948=Serrano)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Serrano"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3ASerrano)
 
-#### Further reading
+## Further reading
 
 * Benedict, Ruth. 1926. Serrano Tales. *The Journal of American Folklore*, 39:1-17.
 [[PDF](https://www.jstor.org/stable/534967?seq=1#metadata_info_tab_contents)]
@@ -33,7 +33,7 @@ The traditional Serrano language area is in the San Bernadino Mountains and the 
 [[PDF - may not be publicly available](https://www.journals.uchicago.edu/doi/pdf/10.1086/712460)]
 * Ramón, Dorothy and Eric Elliott. 2000. *Wayta' yawa' (Always believe).* Banning, CA: Malki Museum Press.
 
-#### Links
+## Links
 
 * [CSUSB Serrano language courses](https://www.csusb.edu/world-languages-and-literatures/undergraduate/other-languages-offered/serrano)
 * [Morongo Band of Mission Indians](http://www.morongonation.org/)

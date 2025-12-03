@@ -21,11 +21,11 @@ Lucy Telles and her largest basket (Photo courtesy of the <a href="http://www.oa
 
 Northern Paiute (also called "Paviotso") is a member of the Numic branch of the Uto-Aztecan language family. Within Numic, it is most closely related to [Mono](mono.html) and more distantly to [Panamint](panamint.html), Shoshone (spoken in Nevada, Idaho, Utah, and Wyoming), Comanche (spoken mainly in Oklahoma, Texas, and Arizona), [Kawaiisu](kawaiisu.html), and [Chemehuevi](chemehuevi.html)-Southern Paiute-Ute. The other Uto-Aztecan languages of California are [Tubatulabal](tubatulabal.html) and the Takic languages ([Cahuilla](cahuilla.html), [Cupeño](cupeno.html), [Gabrielino](gabrielino.html), [Juaneño](juaneno.html), [Kitanemuk](kitanemuk.html), [Luiseño](luiseno.html), [Serrano](serrano.html), and [Tataviam](tataviam.html)).
 
-#### Grammatical information
+## Grammatical information
 
 Northern Paiute is a language with subject-object-verb word order. It is agglutinating and, for the most part, suffixing. Its phonemic inventory is small: five monophthongal vowels with a binary length distinction, plus the Numic "sixth vowel" (a long vowel with a variable realization anywhere from the diphthong [ai] to the monophthong [e]) and 21 consonants in the northern dialects of Oregon and Idaho. In the southernmost dialect spoken near Mono Lake, there are 24 consonants. The different stems form a typologically interesting three-way distinction in the stop inventories (lenis—fortis—voiced fortis) that has been collapsed into a two-way distinction (lenis—fortis) in all dialects north of central Nevada. Word-level stress is largely predictable, almost always falling on the second mora. Morphologically, Northern Paiute shares many of the unique features of the Uto-Aztecan language family. Like other Numic languages, the first consonant of a morpheme is subject to mutation. It varies between lenis and fortis (and voiced fortis in the southern dialects) realizations with the identity of the preceding morpheme — an alternation that is synchronically arbitrary. Most nouns must bear one of a set of absolutive suffixes when they are not possessed or part of a compound, a feature that Northern Paiute shares with the rest of Uto-Aztecan. It also has a productive inventory of instrumental prefixes, formatives that occur on verbs to describe the instrument with which some activity was carried out (often a body part, such as the head or fist).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 <div class="image right" style="width: 250px;">
 <audio controls="true">
@@ -39,11 +39,11 @@ Audio sample: From a narrative about gathering willow (spoken by Madeline Steven
 
 * [California Language Archive: "Northern Paiute"]({{ site.url }}/list/?langid=908=Northern+Paiute)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Paiute, Northern"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3APaiute%2C%20Northern)
 
-#### Further reading
+## Further reading
 
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
 * Haynes, Erin Flynn. 2010. *Phonetic and Phonological Acquisition in Endangered Languages Learned by Adults: A Case Study of Numu (Oregon Northern Paiute)*. Ph.D. dissertation, University of California, Berkeley. [[PDF](https://escholarship.org/uc/item/7s60m196)]
@@ -56,7 +56,7 @@ Audio sample: From a narrative about gathering willow (spoken by Madeline Steven
 * Thornes, Tim &amp; Toosarvandani, Maziar. 2020. Texts in the Indigenous Languages of the Americas: Northern Paiute Texts across Varieties. *International Journal of American Linguistics*, 86:S1. [[PDF – may not be publicly available](https://www.journals.uchicago.edu/toc/ijal/2020/86/S1)]
 * Yerington Paiute Tribe. 1987. *Paiute-English English-Paiute dictionary.* Anchorage, AK: Bilingual Education Series.
 
-#### Links
+## Links
 
 * [Burns Paiute Tribe](http://www.burnspaiute-nsn.gov/)
 

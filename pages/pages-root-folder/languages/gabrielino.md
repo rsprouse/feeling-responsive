@@ -12,15 +12,15 @@ permalink: languages/gabrielino.html
 
 The traditional Gabrielino language area is throughout the Los Angeles basin, to the north in the San Fernando Valley (where it is sometimes known as "Fernandeño"), and to the east. In the 21st century, there are no first-language speakers (Golla 2011). However, tribal members and language activists have been pursuing [language revitalization and reclamation](https://newsroom.ucla.edu/stories/ucla-linguist-gabrieleno-tongva-indians-use-social-media-to-revive-extinct-language). Gabrielino (also called "Gabrieleño", "Tongva", and "Kizh") is a member of the Takic branch of the Uto-Aztecan language family. Within Takic, it is related to [Cahuilla](cahuilla.html), [Cupeño](cupeno.html), [Juaneño](juaneno.html), [Kitanemuk](kitanemuk.html), [Luiseño](luiseno.html), [Serrano](serrano.html), and [Tataviam](tataviam.html). The other Uto-Aztecan languages of California are [Tubatulabal](tubatulabal.html) and the Numic languages ([Chemehuevi](chemehuevi.html)-Southern Paiute-Ute, Comanche, [Kawaiisu](kawaiisu.html), [Mono](mono.html), [Northern Paiute](northern-paiute.html), [Panamint](panamint.html), and Shoshone).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Gabrielino"]({{ site.url }}/list/?langid=938=Gabrielino)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Tongva"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3ATongva)
 
-#### Further reading
+## Further reading
 
 * Bean, Lowell John and Smith, Charles R. 1978. Gabrielino. In Robert F. Heizer (ed.), *California*, pp. 538-549. Washington D.C.: Smithsonian Institution.
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
@@ -30,7 +30,7 @@ The traditional Gabrielino language area is throughout the Los Angeles basin, to
 * McCawley, William. 1996. *The first Angelinos: The Gabrielino Indians of Los Angeles.* Banning, CA: Malki Museum Press.
 * Munro, Pamela. 2008. *Yaara' Shriraaw'ax 'Eyooshiraaw'a: now you're speaking our language Gabrielino/Tongva/Fernandeño*. Tongva Language Committee.
 
-#### Links
+## Links
 
 * [Gabrielino-Tongva Tribe](http://www.gabrielinotribe.org/)
 * [Tongva People](https://www.tongvapeople.org/)

@@ -14,20 +14,20 @@ The traditional Tubatulabal language area is along the upper Kern River, northea
 
 Tubatulabal (also written "Tübatulabal" and called "Pahkanapul" or "Paka'anil") is a Uto-Aztecan language. The other languages in this family spoken in California include Numic languages ([Chemehuevi](chemehuevi.html)-Southern Paiute-Ute, [Kawaiisu](kawaiisu.html), [Mono](mono.html), [Northern Paiute](northern-paiute.html), and [Panamint](panamint.html)) and the Takic languages ([Cahuilla](cahuilla.html), [Cupeño](cupeno.html), [Gabrielino](gabrielino.html), [Juaneño](juaneno.html), [Kitanemuk](kitanemuk.html), [Luiseño](luiseno.html), [Serrano](serrano.html), and [Tataviam](tataviam.html)).
 
-#### Grammatical information
+## Grammatical information
 
 Thumbnail sketch of Tubatulabal by Mary R. Haas, based on an oral report by C. F. Voegelin [[PDF](https://berkeley.app.box.com/v/sketch-tubatulabal)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Tubatulabal"]({{ site.url }}/list/?langid=898=Tubatulabal)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Tübatulabal"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AT%C3%BCbatulabal)
 * [Smithsonian Institution: "John Peabody Harrington papers: Tubatulabal"](https://collections.si.edu/search/results.htm?q=harrington+tubatulabal)
 
-#### Further reading
+## Further reading
 
 * Marean, Lindsay, Michael Ahland, Bethany Lycan, Sergio Sandoval Sanchez, and Nicholas Sinetos. 2021. Pahka’anil (Tübatulabal): Two Texts. *International Journal of American Linguistics*, 87:51-81.
 [[PDF - may not be publicly available](https://www.journals.uchicago.edu/doi/10.1086/712462)]
@@ -39,7 +39,7 @@ Thumbnail sketch of Tubatulabal by Mary R. Haas, based on an oral report by C. F
 * Voegelin, C. F. 1958. Working dictionary of Tübatulabal. *International Journal of American Linguistics* 24: 221-228.
 [[PDF](https://www.jstor.org/stable/1263500?refreqid=excelsior%3A71594c827be3b5dd7e68598cbe0c780e&amp;seq=1#metadata_info_tab_contents)]
 
-#### Links
+## Links
 
 * [Tübatulabals of Kern](http://www.tubatulabal.org/)
 * [Glottolog: Tübatulabal](https://glottolog.org/resource/languoid/id/tuba1278)

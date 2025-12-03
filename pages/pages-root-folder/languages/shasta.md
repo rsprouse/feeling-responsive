@@ -21,19 +21,19 @@ Map of the Shastan languages (Golla 2011: 91)
 
 Shasta is a member of the Shastan language family, the other members of which are [Konomihu](konomihu.html), [New River Shasta](new-river-shasta.html), and [Okwanuchu](okwanuchu.html). Together the Shastan languages comprise one branch of the hypothesized Hokan language family. This additionally includes [Chimariko](chimariko.html), [Esselen](esselen.html), [Karuk](karuk.html), the Palaihnihan languages ([Achumawi](achumawi.html) and [Atsugewi](atsugewi.html)), the Pomoan languages ([Central Pomo](central-pomo.html), [Eastern Pomo](eastern-pomo.html), [Kashaya](kashaya.html), [Northeastern Pomo](northeastern-pomo.html), [Northern Pomo](northern-pomo.html), [Southeastern Pomo](southeastern-pomo.html), and [Southern Pomo](southern-pomo.html)), [Salinan](salinan.html), [Washo](washo.html), [Yana](yana.html), and the Yuman languages (Cocopa, Kiliwa, [Kumeyaay](kumeyaay.html), [Maricopa](maricopa.html), [Mojave](mojave.html), Pai, Paipai, and [Quechan](quechan.html)).
 
-#### Grammatical information
+## Grammatical information
 
 Thumbnail sketch of Shasta by Shirley Silver [[PDF](https://berkeley.app.box.com/v/sketch-shasta)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Shasta"]({{ site.url }}/list/?langid=250=Shasta)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Shasta"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AShasta)
 
-#### Further reading
+## Further reading
 
 * Bright, William and David L. Olmsted. 1959. A Shasta vocabulary. *Kroeber Anthropological Society Papers* 20:1-55.
 [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/kas020-002.pdf)]
@@ -46,7 +46,7 @@ Thumbnail sketch of Shasta by Shirley Silver [[PDF](https://berkeley.app.box.com
 * Silver, Shirley. 1980. Shasta and Konomihu. In Kathryn Klar, Margaret Langdon, and Shirley Silver (eds.), *American Indian and Indoeuropean studies: Papers in honor of Madison S. Beeler*, pp. 245-263. The Hague: Mouton.
 [[PDF - may not be publicly available](https://www.degruyter.com/document/doi/10.1515/9783110808681.245/html)]
 
-#### Links
+## Links
 
 * [Shasta Indian Nation](https://www.shastaindiannation.org/index.html)
 * [Glottolog: Shasta](https://glottolog.org/resource/languoid/id/shas1239)

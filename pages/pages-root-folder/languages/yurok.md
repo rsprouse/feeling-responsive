@@ -21,7 +21,7 @@ Klamath River estuary (Photo courtesy of Andrew Garrett)
 
 Yurok belongs to the Algic language family, which also includes [Wiyot](wiyot.html), spoken immediately to the south, as well as all the Algonquian languages (Cree, Ojibwe, and many others), which are spoken across central and eastern Canada and the northern United State from the Rocky Mountains to the Atlantic coast.
 
-#### Grammatical information
+## Grammatical information
 
 The Yurok language is well known among linguists for several unusual features. One is phonological: Yurok is among a very few languages of the world to have the rhotic vowel sound /ɚ/ among its phonemes (another such language is American English). In addition, Yurok has a rhotic vowel harmony process by which underlying non-high vowels /a/, /e/, and /o/ may become /ɚ/ in a word that has /ɚ/; for example, the root /nahks-/ 'three' becomes [nɚhks-] in the word [nɚhksɚʔɚjɬ] 'three (animals or birds)'. This same word also highlights a second well-known feature of Yurok: its elaborate numeral system. Numerals inflect according to the class of what is counted, with the many classes including humans, animals or birds, boats, houses, bushy things, flat things, round things, and so on. As many as two dozen numeral classes are known.
 
@@ -29,7 +29,7 @@ In its word structure, Yurok is not unlike other Algic languages. Verbs are morp
 
 Yurok sentences are notable for extensive use of preverbs: a class of short non-inflected words that usually precede the verb, expressing grammatical categories such as tense and aspect; direction, location, and associated motion; negation; and circumstance, intensity, and modality. The order of other words in the sentence is flexible, with pragmatics playing a crucial role in determining whether nouns precede or follow the verb.
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 <div class="image fit right" style="width: 250px;">
 <audio controls="true">
@@ -44,11 +44,11 @@ Audio sample: From the story of the toad and the mouse (spoken by Florence Shaug
 * [California Language Archive: "Yurok"]({{ site.url }}/list/?langid=3=Yurok)
 
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Yurok"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AYurok)
 
-#### Further reading
+## Further reading
 
 * Garrett, A. 2014. *Basic Yurok.* UC Berkeley: Department of Linguistics. [[PDF](https://escholarship.org/uc/item/2vw609w4#main)]
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
@@ -57,7 +57,7 @@ Audio sample: From the story of the toad and the mouse (spoken by Florence Shaug
 * Spott, Robert, and A. L. Kroeber. 1942. Yurok narratives. *University of California Publications in American Archaeology and Ethnology* 35: 143-256. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp035-011.pdf)]
 * Waterman, T. T. 1920. Yurok geography. *University of California Publications in American Archaeology and Ethnology* 16: 177-314. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp016-006.pdf)]
 
-#### Links
+## Links
 
 * [Yurok Tribe](http://www.yuroktribe.org)
 * [Yurok Language Project, University of California, Berkeley](http://linguistics.berkeley.edu/~yurok/)

@@ -21,15 +21,15 @@ Map of the Yuki and Huchnom varieties of Northern Yukian (Martin A. Baumhoff. 19
 </div>
 Northern Yukian (also called "Yuki") is a Yukian language; the other member of this family is [Wappo](wappo.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Northern Yukian"]({{ site.url }}/list/?langid=1042=Northern+Yukian)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Yuki"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AYuki)
 
-#### Further reading
+## Further reading
 
 * Balodis, Uldis. 2016. *Yuki Grammar.* University of California Press.
 [[PDF - may not be publicly available](https://www.degruyter.com/document/doi/10.1525/9780520965690/html)]
@@ -42,7 +42,7 @@ Northern Yukian (also called "Yuki") is a Yukian language; the other member of t
 * Schlichter, Alice. 1985. *The Yukian language family.* Ph.D. dissertation, University of California, Berkeley.
 [[PDF](https://escholarship.org/uc/item/0zf540nk)]
 
-#### Links
+## Links
 
 * [Round Valley Indian Tribes](https://www.rvit.org/)
 * [Glottolog: Northern Yukian](https://glottolog.org/resource/languoid/id/yuki1243)

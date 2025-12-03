@@ -12,7 +12,7 @@ permalink: languages/kumeyaay.html
 
 The traditional Kumeyaay language area is the southern portions of what are now San Diego County and northwest Baja California. Kumeyaay (also called "Diegueño" or spelled "Kumiai") is a cover term for at least six languages, including *Jamul Tiipay*, *San José de la Zorra*, *Ja’a*, *Iipay*, *Los Conejos*, and *Northeastern Kumeyaay* ([Miller 2018](https://www.journals.uchicago.edu/doi/full/10.1086/697588)). In pre-contact times, there may have been 3,000 speakers (Kroeber 1925). In the 21st century, Kumeyaay is spoken by 140-150 people (Golla 2011), and tribal members and language activists have been pursuing language revitalization ([Rodriguez 2020](https://escholarship.org/uc/item/5s46s39r)). Kumeyaay is a member of the Yuman language family. Within Yuman, it is most closely related to Cocopa (spoken in pre-contact times around the Colorado River Delta in Mexico), and more distantly to Kiliwa (spoken in Baja California),  [Maricopa](maricopa.html), [Mojave](mojave.html), Pai (spoken in Arizona), Paipai (spoken in Baja California), and [Quechan](quechan.html). Together, the Yuman languages comprise one branch of the hypothesized Hokan language family, the other members of which are [Chimariko](chimariko.html), [Esselen](esselen.html), [Karuk](karuk.html), the Palaihnihan languages ([Achumawi](achumawi.html) and [Atsugewi](atsugewi.html)), the Pomoan languages ([Central Pomo](central-pomo.html), [Eastern Pomo](eastern-pomo.html), [Kashaya](kashaya.html), [Northeastern Pomo](northeastern-pomo.html), [Northern Pomo](northern-pomo.html), [Southeastern Pomo](southeastern-pomo.html), and [Southern Pomo](southern-pomo.html)), [Salinan](salinan.html), the Shastan languages ([Konomihu](konomihu.html), [New River Shasta](new-river-shasta.html), [Okwanuchu](okwanuchu.html), and [Shasta](shasta.html)), [Washo](washo.html), and [Yana](yana.html).
 
-#### Grammatical information
+## Grammatical information
 
 The first grammar of Kumeyaay was written by Margaret Langdon, whose fieldnotes are now at the Bancroft Library at UC Berkeley. Langdon designed a practical Kumeyaay writing system which is in use today; we will also use it here. Kumeyaay has 26 consonants: bilabial *p*, *v*, *m*, *w*; dental *t*, *s*, *n*, *r* (flap); alveolar *tt*, *ss*, *nn*, *l*, *ll* (voiceless), *nn* and *rr* (trill); palatal *ch*, *ny*, *ly*, *lly* (voiceless), *y*; velar *k*, *x*; labiovelar *kw*, *xw*; postvelar *q*, and glottal stop (*'*).  It has four vowels (*a*, *i*, *o*, *u*) long and short, and the reduced vowel schwa, represented in the orthography as *e*. Besides basic noun stems, new stems can be formed through reduplication and compounding, or derivation from verbs. Nouns in Kumeyaay are marked for possession, with kinship terms, body parts and alienably possessed nouns marked differently from each other. Nouns have a relatively robust case system, including subject, object, indirect object, instrumental case, and a number of locationals and directionals. Like many other California languages, verbal morphology is very rich. Complex verb stems can be derived from over twenty classificatory prefixes indicating action upon or by means of various shapes, sizes, quantities and body parts. For example:
 
@@ -60,15 +60,15 @@ There are a large number of reduplicated forms indicating repeated sounds, motio
 </tr>
 </table>
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Kumeyaay"]({{ site.url }}/list/?langid=307=Kumeyaay)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Kumiai"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AKumiai)
 
-#### Further reading
+## Further reading
 
 * Couro, Ted and Christina Hutcheson. 1973. *Dictionary of Mesa Grande Diegueño: 'Iipay aa-English/English-'Iipay aa.* Banning, CA: Malki Museum Press.
 * Couro, Ted and Margaret Langdon. 1975. *Let's talk 'Iipay aa: An introduction to the Mesa Grande Diegueño language.* Banning, CA: Malki Museum Press.
@@ -78,7 +78,7 @@ There are a large number of reduplicated forms indicating repeated sounds, motio
 * Langdon, Margaret. 1970. *A grammar of Diegueño: The Mesa Grande dialect.* Berkeley: University of California Press.
 * Miller, Amy. 2001. *A grammar of Jamul Tiipay.* Berlin: Mouton de Gruyter.
 
-#### Links
+## Links
 
 * [Barona Band of Mission Indians](http://www.baronatribe.org/)
 * [Campo Kumeyaay Nation](http://www.campo-nsn.gov/)

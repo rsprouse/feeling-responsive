@@ -21,19 +21,19 @@ Major divisions of the Yokuts family (<a href="https://www.journals.uchicago.edu
 
 The Yokuts languages comprise one branch of the hypothesized Penutian language family. This additionally includes Klamath-[Modoc](modoc.html), the Maiduan languages ([Konkow](konkow.html), [Maidu](maidu.html), and [Nisenan](nisenan.html)), the Miwokan languages ([Central Sierra Miwok](central-sierra-miwok.html), [Coast Miwok](coast-miwok.html), [Lake Miwok](lake-miwok.html), [Northern Sierra Miwok](northern-sierra-miwok.html), [Plains Miwok](plains-miwok.html), [Saclan](saclan.html), and [Southern Sierra Miwok](southern-sierra-miwok.html)), the Ohlone languages ([Awaswas](awaswas.html), [Chalon](chalon.html), [Chochenyo](chochenyo.html), [Karkin](karkin.html), [Mutsun](mutsun.html), [Ramaytush](ramaytush.html), [Rumsen](rumsen.html), and [Tamyen](tamyen.html)), and the Wintuan languages ([Nomlaki](nomlaki.html), [Patwin](patwin.html), and [Wintu](wintu.html)).
 
-#### Grammatical information
+## Grammatical information
 
 Thumbnail sketch of Yawelmani Yokuts by Mary R. Haas, based on an oral report by Stanley Newman [[PDF](https://berkeley.app.box.com/v/sketch-yawelmani-yokuts)] ([Haas.063]({{ site.url }}/item/?bndlid=921))
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Yokuts"]({{ site.url }}/list/?langid=556=Yokuts)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Yokuts"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AYokuts)
 
-#### Further reading
+## Further reading
 
 * Collord, Thomas. 1968. *Yokuts grammar: Chukchansi.* Ph.D. dissertation, University of California, Berkeley.
 [[PDF](https://escholarship.org/uc/item/57s99163)]
@@ -48,7 +48,7 @@ Thumbnail sketch of Yawelmani Yokuts by Mary R. Haas, based on an oral report by
 * Weigel, William. 2005. *Yowlumne in the Twentieth Century*. Ph.D. dissertation, University of California, Berkeley.
 [[PDF](https://escholarship.org/uc/item/7k2985g3)]
 
-#### Links
+## Links
 
 * [Nuumu Yadoha Language Program](http://www.ovcdc.com/blog/language/)
 * [Picayune Rancheria of the Chukchansi Indians](https://chukchansitribe.net/)

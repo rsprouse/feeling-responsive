@@ -15,19 +15,19 @@ The traditional Wiyot language is along the Pacific coast around Humboldt Bay, f
 Wiyot belongs to the Algic language family, which also includes [Yurok](yurok.html), spoken immediately to the north, as well as all the Algonquian languages (Cree, Ojibwe, and many others), which are spoken across central and eastern Canada and the northern United States from the Rocky Mountains to the Atlantic coast.
 
 					
-#### Grammatical information
+## Grammatical information
 
 Thumbnail sketch of Wiyot by Mary R. Haas, based on Karl V. Teeter's <em>The Wiyot language</em> (Berkeley: University of California Press, 1964) [[PDF](https://berkeley.app.box.com/v/sketch-wiyot)] ([Haas.063](http://dx.doi.org/doi:10.7297/X20G3H32))
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: Wiyot]({{site.url}}/list/?langid=2=Wiyot)
 
-#### Selected materials in other archives
+## Selected materials in other archives
   
 * [The American Philosophical Society: "Wiyot"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AWiyot)
 
-#### Further reading
+## Further reading
 
 * Golla, Victor. 2011. <em>California Indian languages.</em> Berkeley: University of California Press.
 * Reichard, G. A. 1925. Wiyot grammar and texts. <em>University of California Publications in American Archaeology and Ethnology</em> 22: 1-215. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp022-002.pdf)]
@@ -35,7 +35,7 @@ Thumbnail sketch of Wiyot by Mary R. Haas, based on Karl V. Teeter's <em>The Wiy
 * Teeter, Karl V. and John D. Nichols. 1993. <em>Wiyot handbook I: Glossary and concordance.</em> (Algonquian and Iroquoian Linguistics Memoirs, Volume 10.) Winnipeg, Manitoba: Department of Linguistics, University of Manitoba.
 * Teeter, Karl V. and John D. Nichols. 1993. <em>Wiyot handbook II: Interlinear translation and English index.</em> (Algonquian and Iroquoian Linguistics Memoirs, Volume 11.) Winnipeg, Manitoba: Department of Linguistics, University of Manitoba.
 
-#### Links
+## Links
 
 * [Wiyot Tribe](http://www.wiyot.com/)
 * [Wiyot Tribe, Loleta California](https://glottolog.org/resource/languoid/id/wiyo1248)
