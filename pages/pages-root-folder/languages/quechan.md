@@ -12,15 +12,15 @@ permalink: languages/quechan.html
 
 The traditional Quechan language area is along the Colorado River, around its confluence with the Gila River. In pre-contact times, there were an estimated 2,500 or more speakers (Kroeber 1925). In the 21st century, there are 150-200 speakers (Golla 2011), and tribal members and language activists have been pursuing [language revitalization and reclamation](https://www.quechantribe.com/departments-quechan-language-preservation.html). Quechan (also known as "Kwtsan" or "Yuma") is a member of the Yuman language family. Within Yuman, it is most closely related to [Maricopa](maricopa.html) and [Mojave](mojave.html), and more distantly to Cocopa (spoken in pre-contact times around the Colorado River Delta in Mexico), Kiliwa (spoken in Baja California),  [Kumeyaay](kumeyaay.html), Pai (spoken in Arizona), and Paipai (spoken in Baja California). Together, the Yuman languages comprise one branch of the hypothesized Hokan language family, the other members of which are [Chimariko](chimariko.html), [Esselen](esselen.html), [Karuk](karuk.html), the Palaihnihan languages ([Achumawi](achumawi.html) and [Atsugewi](atsugewi.html)), the Pomoan languages ([Central Pomo](central-pomo.html), [Eastern Pomo](eastern-pomo.html), [Kashaya](kashaya.html), [Northeastern Pomo](northeastern-pomo.html), [Northern Pomo](northern-pomo.html), [Southeastern Pomo](southeastern-pomo.html), and [Southern Pomo](southern-pomo.html)), [Salinan](salinan.html), the Shastan languages ([Konomihu](konomihu.html), [New River Shasta](new-river-shasta.html), [Okwanuchu](okwanuchu.html), and [Shasta](shasta.html)), [Washo](washo.html), and [Yana](yana.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Quechan"]({{ site.url }}/list/?langid=342=Quechan)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Quechan"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AQuechan)
 
-#### Further reading
+## Further reading
 
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
 * Halpern, A. M. 1946. Yuma. In Harry Hoijer, ed. *Linguistic Structures of Native America*, pp. 249-288. New York: Viking Fund.
@@ -34,7 +34,7 @@ The traditional Quechan language area is along the Colorado River, around its co
 * Halpern, A. M. 1997. *Karʔúk: Native accounts of the Quechan mourning ceremony.* Berkeley: University of California Press.
 * Ron Sheffield. 2013. *The Influence of Language on Culture and Identity: Resurgence of the Quechan Native American Tribal Language*. PhD dissertation, George Washington University.
 
-#### Links
+## Links
 
 * [Fort Yuma Quechan Indian Tribe](https://www.quechantribe.com/index.html)
 * [Glottolog: Quechan](https://glottolog.org/resource/languoid/id/quec1382)

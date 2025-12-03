@@ -21,15 +21,15 @@ Map of the Chumashan languages (Robert F. Heizer, ed. 1978. <em>California.</em>
 
 Purisimeño is a member of the Chumashan language family; the others are [Barbareño](barbareno.html), [Samala (Ineseño)](ineseno.html), [Interior Chumash](interior-chumash.html), [Cruzeño](island-chumash.html), [Obispeño](obispeno.html), and [Ventureño](ventureno.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Purisimeño"]({{ site.url }}/list/?langid=293=Purisimeño)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Purisimeño"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3APurisime%C3%B1o)
 
-#### Further reading
+## Further reading
 
 * Greenwood, Roberta S. 1978. In Heizer, Robert F. (ed) *California*, 520-523. Washington, D.C.: Smithsonian Institution.
 * Heizer R. F., ed. 1952. California Indian linguistic records: The Mission Indian vocabularies of Alphonse Pinart. *University of California Anthropological Records* 15:1-84. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar015-001.pdf)]
@@ -38,7 +38,7 @@ Purisimeño is a member of the Chumashan language family; the others are [Barbar
 * Klar, Kathryn A. 1977. *Topics in historical Chumash grammar.* Ph.D. dissertation, University of California, Berkeley. [[PDF](https://escholarship.org/uc/item/31t2k96m)]
 * Kroeber, A.L. 1910. The Chumash and Costanoan languages. *University of California Publications in American Archaeology and Ethnology* 9,2:237-271. [[PDF](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp009-004.pdf)]
 
-#### Links
+## Links
 
 * [Purisimeño Project at WEILD](http://wieldoc.org/?page_id=316)
 * [OLAC Resources in and about the Purisimeño language](http://www.language-archives.org/language/puy)

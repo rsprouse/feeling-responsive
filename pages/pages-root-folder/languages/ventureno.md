@@ -21,15 +21,15 @@ Map of the Chumashan languages (Robert F. Heizer, ed. 1978. *California.* (Handb
 
 Ventureño (also called Mitsqanaqan̓) is a member of the Chumashan language family; the others are [Barbareño](barbareno.html), [Samala (Ineseño)](ineseno.html), [Interior Chumash](interior-chumash.html), [Cruzeño](island-chumash.html), [Obispeño](obispeno.html), and [Purisimeño](purisimeno.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Ventureño"]({{ site.url }}/list/?langid=289=Ventureno)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Ventureño"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AVenture%C3%B1o)
 
-#### Further reading
+## Further reading
 
 * Applegate, Richard. 1973. A sketch of Ventureño Chumash. Ms. Survey of California and Other Indian Languages, [Applegate.001]({{ site.url }}/item/?bndlid=2787). [[PDF](https://berkeley.app.box.com/v/applegate-001)]
 * Beeler, Madison S. 1967. *The Ventureño confesionario of José Sen´n, O.F.M.* Berkeley: University of California Press.
@@ -40,7 +40,7 @@ Ventureño (also called Mitsqanaqan̓) is a member of the Chumashan language fam
 * Klar, Kathryn A. 1977. *Topics in historical Chumash grammar.* Ph.D. dissertation, University of California, Berkeley. [[PDF](https://escholarship.org/uc/item/31t2k96m)]
 * Kroeber, A.L. 1910. The Chumash and Costanoan languages. *University of California Publications in American Archaeology and Ethnology* 9,2:237-271. [[PDF](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp009-004.pdf)]
 
-#### Links
+## Links
 
 * [The Barbareño / Ventureño Band of Mission Indians](https://www.bvbmi.com/)
 * [OLAC Resources in and about the Ventureño language](http://www.language-archives.org/language/veo)

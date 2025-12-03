@@ -19,7 +19,7 @@ Map of the Chumashan languages (Robert F. Heizer, ed. 1978. <em>California.</em>
 </div>
 </div>
 
-#### Further reading
+## Further reading
 
 * Beeler, Madison S. and Kathryn A. Klar. 1977. Interior Chumash. *Journal of California Anthropology* 4:287-305. [[PDF](http://escholarship.org/uc/item/584924cs)]
 * Earle, David and Johnson, John R. 2015. Ethnohistoric Insights Pertaining to the Emigdiano Chumash and Other Southern San Joaquin Valley Indigenous Groups. *The 80th Annual Meeting of the Society for American Archaeology, San Francisco, California*

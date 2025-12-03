@@ -21,15 +21,15 @@ Map of the Chumashan languages (Robert F. Heizer, ed. 1978. <em>California.</em>
 
 Barbareño (also called "Shmuwich") is a member of the Chumashan language family; the others are [Samala (Ineseño)](ineseno.html), [Interior Chumash](interior-chumash.html), [Cruzeño](island-chumash.html), [Obispeño](obispeno.html), [Purisimeño](purisimeno.html), and [Ventureño](ventureno.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Barbareño"]({{ site.url }}/list/?langid=290=Barbareño)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Barbareño"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3ABarbare%C3%B1o)
 
-#### Further reading
+## Further reading
 
 * Applegate, Richard B. 2015. *Integrated Dictionary of Shmuwich -- Barbareño Chumash*. Manuscript. [[PDF](https://berkeley.app.box.com/v/shmuwich-dictionary)]
 * Applegate, Richard B. 2017. *Topics in Shuwich Grammar: An Interim Grammar of Barbareño Chumash*. Manuscript. [[PDF for printing](https://berkeley.app.box.com/v/shmuwich-grammar-printing)], [[PDF for iBooks](https://berkeley.app.box.com/v/shmuwich-grammar-ibooks)]
@@ -43,7 +43,7 @@ Barbareño (also called "Shmuwich") is a member of the Chumashan language family
 * Wash, Suzanne M. 1995. *Productive reduplication in Barbareño Chumash.* Master's thesis, University of California, Santa Barbara. [[PDF](https://berkeley.app.box.com/v/wash-1995)]
 * Wash, Suzanne. 2001. *Adverbial clauses in Barbareño Chumash narrative discourse.* Ph.D. dissertation, University of California, Santa Barbara. [[PDF](https://berkeley.app.box.com/v/wash-2001)]
 
-#### Links
+## Links
 
 * [Barbareño Band of Chumash Indians](http://www.bbc-indians.com/)
 * [The Barbareño / Ventureño Band of Mission Indians](https://www.bvbmi.com/)

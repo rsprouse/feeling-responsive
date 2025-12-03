@@ -21,15 +21,15 @@ Map of Mattole (Martin A. Baumhoff. 1958. <a href="https://digicoll.lib.berkeley
 
 Mattole is a member of the Dene (Athabaskan) language family, spoken across North America with concentrations in western Canada (Dëne Suliné, Sarsi, Slave), Alaska (Ahtna, Gwich'in, Koyukon), the southwest United States (Apache, Navajo), and coastal Oregon and northern California. The other Dene languages of California are [Eel River Athabaskan](eel-river-athabaskan.html), [Hupa](hupa.html), [Kato](kato.html), and [Tolowa](tolowa.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Mattole"]({{ site.url }}/list/?langid=1248=Mattole)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Mattole"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AMattole)
 
-#### Further reading
+## Further reading
 
 * Elsasser, Albert B. 1978. Mattole, Nongatl, Sinkyone, Lassik, and Wailaki. In Robert F. Heizer, ed., *Handbook of North American Indians*, Vol. 8: *California*, 190-204. Washington: Smithsonian Institution.
 
@@ -40,7 +40,7 @@ Mattole is a member of the Dene (Athabaskan) language family, spoken across Nort
 
 * Nomland, Gladys Ayer. 1938. Bear River ethnography. *University of California Anthropological Records* 2: 91-126. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar002-003.pdf)]
 
-#### Links
+## Links
 
 * [California Athapascan Home Page](https://www.turtlenodes.com/calath/index.html)
 * [OLAC Resources in and about the Mattole language](http://www.language-archives.org/language/mvb)

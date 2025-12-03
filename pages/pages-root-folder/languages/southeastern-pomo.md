@@ -19,7 +19,7 @@ Map of the Pomoan languages (Walker 2020). For a large-scale map with village na
 
 The traditional Southeastern Pomo language area is at the eastern end of Clear Lake in three groups, centering around settlements on Anderson Island off Buckingham Point, on Rattlesnake Island in the eastern arm of Clear Lake, and on Indian Island at the southern tip of Clear Lake. In pre-contact times, the Pomoan languages together probably had around 8,000 speakers (Kroeber 1925). In the 21st century, most speakers and learners of Southeastern Pomo are affiliated with the Elem Pomo Tribe ([Southeastern Pomo Language Project](http://linguistics.berkeley.edu/~sepomo/)). Southeastern Pomo (also called " Sulfur Bank Pomo", "Elem Pomo", and "Lower Lake Pomo") is one of seven languages comprising the Pomoan language family; the others are  [Central Pomo](central-pomo.html), [Eastern Pomo](eastern-pomo.html), [Kashaya](kashaya.html), [Northeastern Pomo](northeastern-pomo.html), [Northern Pomo](northern-pomo.html), and [Southern Pomo](southern-pomo.html). Together, the Pomoan languages form one branch of the hypothesized Hokan language family, the other members of which are [Chimariko](chimariko.html), [Esselen](esselen.html), [Karuk](karuk.html), the Palaihnihan languages ([Achumawi](achumawi.html) and [Atsugewi](atsugewi.html)), [Salinan](salinan.html), the Shastan languages ([Konomihu](konomihu.html), [New River Shasta](new-river-shasta.html), [Okwanuchu](okwanuchu.html), and [Shasta](shasta.html)), [Washo](washo.html), [Yana](yana.html), and the Yuman languages (Cocopa, Kiliwa, [Kumeyaay](kumeyaay.html), [Maricopa](maricopa.html), [Mojave](mojave.html), Pai, Paipai, and [Quechan](quechan.html)).
 
-#### Grammatical information
+## Grammatical information
 Southeastern Pomo is a head-final language. Basic word order in sentences is subject-object-verb. Adpositions follow nouns, while adjectives precede nouns. The language is agglutinating, and both derivational and inflectional morphology is suffixed to a root, whether verbal or nominal. Verbs may consist of a root and several suffixes (e.g. causative, evidential, imperfective). Reduplicated verbs, nouns, and adjectives are common. Negation is accomplished via use of a negative particle immediately preceding the verb and concomitant suffixation of negative morphology. Particles serve as markers of a number of other properties as well, including causation, possession, and focus. Polar questions are formed with the use of a final interrogative particle; constituent questions generally leave the interrogative pronoun in situ.
 <div class="image-left" style="width: 250px;">
 <audio controls="true">
@@ -39,11 +39,11 @@ Loretta Kelsey, describing how to make fruit salad, Clear Lake, 2007 (Photo cour
 </div>
 </div>
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Southeastern Pomo"]({{ site.url }}/list/?langid=269=Southeastern+Pomo)
 
-#### Further reading
+## Further reading
 
 * Barrett, S. A. 1908. The ethno-geography of the Pomo and neighboring Indians. *University of California Publications in American Archaeology and Ethnology* 6:1-322.
 [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp006-003-004.pdf)]
@@ -53,7 +53,7 @@ Loretta Kelsey, describing how to make fruit salad, Clear Lake, 2007 (Photo cour
 [[PDF](https://escholarship.org/uc/item/3dr494jr)]
 * Moshinsky, Julius. 1974. A grammar of Southeastern Pomo. Berkeley: University of California Press.
 
-#### Links
+## Links
 
 * [Elem Indian Colony](http://www.elemindiancolony.org/)
 * [Pomo language resources](https://cimcc.org/education-center/pomo-language-resource/)

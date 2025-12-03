@@ -21,11 +21,11 @@ Map of the Ohlone languages (Richard L. Levy. 1976. <a href="http://dpg.lib.berk
 
 Rumsen (also spelled "Rumsien") is an Ohlone (or "Costanoan") language, along with [Awaswas](awaswas.html), [Chalon](chalon.html), [Chochenyo](chochenyo.html), [Karkin](karkin.html), [Mutsun](mutsun.html), [Rumsen](rumsen.html), and [Tamyen](tamyen.html). The Ohlone languages comprise one branch of the hypothesized Penutian language family, within which they form a subgroup with the Miwokan languages ([Central Sierra Miwok](central-sierra-miwok.html), [Coast Miwok](coast-miwok.html), [Lake Miwok](lake-miwok.html), [Northern Sierra Miwok](northern-sierra-miwok.html), [Plains Miwok](plains-miwok.html), [Saclan](saclan.html), and [Southern Sierra Miwok](southern-sierra-miwok.html)). Penutian also includes Klamath-[Modoc](modoc.html), the Maiduan languages ([Konkow](konkow.html), [Maidu](maidu.html), and [Nisenan](nisenan.html)), the Wintuan languages ([Nomlaki](nomlaki.html), [Patwin](patwin.html), and [Wintu](wintu.html)), and the [Yokuts languages](yokuts.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Rumsen"]({{ site.url }}/list/?langid=595=Rumsen)
 
-#### Further reading
+## Further reading
 
 * Broadbent, Sylvia M. 1957. Rumsen I: Methods of reconstitution. *International Journal of American Linguistics* 23:275-280.
 * Heizer R. F., ed. 1952. California Indian linguistic records: The Mission Indian vocabularies of Alphonse Pinart. *University of California Anthropological Records* 15:1-84. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar015-001.pdf)]
@@ -34,7 +34,7 @@ Rumsen (also spelled "Rumsien") is an Ohlone (or "Costanoan") language, along wi
 * Kroeber, Alfred L. 1910. The Chumash and Costanoan languages. *University of California Publications in American Archaeology and Ethnology* 9:237-271. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp009-004.pdf)]
 * Milliken, Randall, Shoup, Laurence H. &amp; Ortiz, Beverly R. *Ohlone/Coastanoan Indians of the San Francisco Peninsula and their Neighbors, Yesterday and Today.* Oakland: Archaeological and Historical Consultants. [[PDF](https://digitalcommons.csumb.edu/cgi/viewcontent.cgi?article=1005&context=hornbeck_ind_1)]
 
-#### Links
+## Links
 
 * [Costanoan Rumsen Carmel Tribe](http://www.costanoanrumsen.org/)
 * [Ohlone Costanoan Esselen Nation](http://www.ohlonecostanoanesselennation.org/)

@@ -12,15 +12,15 @@ permalink: languages/atsugewi.html
 
 The traditional Atsugewi language area is south of the Pit River, along Hat Creek to the west and in Dixie Valley to the east. In pre-contact times, there were approximately 3,000 speakers of Atsugewi and [Achumawi](achumawi.html) combined (Kroeber 1925). In the 21st century, there are no first-language speakers (Golla 2011). Atsugewi and the closely related [Achumawi](achumawi.html) language constitute the Palaihnihan family, a branch of the hypothesized Hokan language family, which also includes [Chimariko](chimariko.html), [Esselen](esselen.html), [Karuk](karuk.html), the Pomoan languages ([Central Pomo](central-pomo.html), [Eastern Pomo](eastern-pomo.html), [Kashaya](kashaya.html), [Northeastern Pomo](northeastern-pomo.html), [Northern Pomo](northern-pomo.html), [Southeastern Pomo](southeastern-pomo.html), and [Southern Pomo](southern-pomo.html)), [Salinan](salinan.html), the Shastan languages ([Konomihu](konomihu.html), [New River Shasta](new-river-shasta.html), [Okwanuchu](okwanuchu.html), and [Shasta](shasta.html)), [Washo](washo.html), [Yana](yana.html), and the Yuman languages (Cocopa, Kiliwa, [Kumeyaay](kumeyaay.html), [Maricopa](maricopa.html), [Mojave](mojave.html), Pai, Paipai, and [Quechan](quechan.html)).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Atsugewi"]({{ site.url }}/list/?langid=260=Atsugewi)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Astugewi"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AAtsugewi)
 
-#### Further reading
+## Further reading
 
 *  Garth, T. R. 1978. Atsugewi. In William C. Sturtevant (ed.) *Handbook of North American Indians*, vol. 8, California: 236-243. Washington, D.C.: Smithsonian Institution.
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
@@ -30,7 +30,7 @@ The traditional Atsugewi language area is south of the Pit River, along Hat Cree
 * Talmy, Leonard. 1972. *Semantic structures in English and Atsugewi.* Ph.D. dissertation, University of California, Berkeley.
 [[PDF](https://escholarship.org/uc/item/5g15p348)]
 
-#### Links
+## Links
 
 * [Pit River Tribe](http://pitrivertribe.org/)
 * [Glottolog: Atsugewi](https://glottolog.org/resource/languoid/id/atsu1245)

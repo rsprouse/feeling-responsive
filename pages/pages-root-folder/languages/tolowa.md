@@ -21,21 +21,21 @@ Map of Tolowa speaking areas (Drucker 1937)
 
 The broader Dene (Athabaskan) language family is spoken across North America with concentrations in western Canada (Dëne Suliné, Sarsi, Slave), Alaska (Ahtna, Gwich'in, Koyukon), the southwest United States (Apache, Navajo), and coastal Oregon and northern California. The other Dene languages of California are [Wailaki / Eel River Dene](eel-river-athabaskan.html), [Hupa](hupa.html), [Kato](kato.html), and [Mattole](mattole.html).
 
-#### Grammatical information
+## Grammatical information
 
 The phonological inventory of Tolowa, and of most other Oregon Dene languages, is distinctive  in having merged Proto-Dene coronal affricates and fricatives **ts*, **dz*, **s*, and **z* as a single phoneme /s/ (fronted to dental or interdental articulation in some of the languages on the Oregon side of the border). Tolowa stands out from the other Oregon Dene languages in having developed "palatalized and strongly r-colored" [šr] and [tšr'] where other Oregon Dene languages have a less extreme apical retroflex articulation (Golla 2011).
 
 Tolowa prosody requires at least one syllable of each utterance to have high pitch. All utterances with more than one syllable also must have at least one low pitch as well. Bright (1964) gives several (near-) minimal word pairs that differ in accent placement, such as *teenéh* 'trail' vs. *tšéeneh* 'base (of tree or rock)'.
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Tolowa"]({{ site.url }}/list/?langid=1265=Tolowa)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Tolowa"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3ATolowa)
 
-#### Further reading
+## Further reading
 
 * Bright, Jane O. 1964. The phonology of Smith River Athapaskan (Tolowa). *International Journal of American Linguistics* 30:101-107. [[PDF - may not be publicly available](https://www.journals.uchicago.edu/doi/10.1086/464764)]
 * Collins, James. 1985. Pronouns, markedness, and stem change in Tolowa. *International Journal of American Linguistics* 51:358-372.
@@ -46,7 +46,7 @@ Tolowa prosody requires at least one syllable of each utterance to have high pit
 
 * Gould, Richard A. 1978. Tolowa. In Robert F. Heizer, ed., *Handbook of North American Indians*, Vol. 8: *California*, 128-136. Washington: Smithsonian Institution.
 
-#### Links
+## Links
 
 * [California Athapascan Home Page: Tolowa](https://www.turtlenodes.com/calath/index.html)
 * [Tolowa Tribe of the Smith River Rancheria](http://www.tolowa-nsn.gov/)

@@ -14,17 +14,17 @@ The traditional Washo language area is around Lake Tahoe, from Honey Lake in the
 
 Washo (also written "Wá·šiw" and "Washoe") is an isolate within the hypothesized Hokan language family. This additionally includes [Chimariko](chimariko.html), [Esselen](esselen.html), [Karuk](karuk.html), the Palaihnihan languages ([Achumawi](achumawi.html) and [Atsugewi](atsugewi.html)), the Pomoan languages ([Central Pomo](central-pomo.html), [Eastern Pomo](eastern-pomo.html), [Kashaya](kashaya.html), [Northeastern Pomo](northeastern-pomo.html), [Northern Pomo](northern-pomo.html), [Southeastern Pomo](southeastern-pomo.html), and [Southern Pomo](southern-pomo.html)), [Salinan](salinan.html), the Shastan languages ([Konomihu](konomihu.html), [New River Shasta](new-river-shasta.html), [Okwanuchu](okwanuchu.html), and [Shasta](shasta.html)), [Yana](yana.html), and the Yuman languages (Cocopa, Kiliwa, [Kumeyaay](kumeyaay.html), [Maricopa](maricopa.html), [Mojave](mojave.html), Pai, Paipai, and [Quechan](quechan.html)).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 
 * [California Language Archive: "Washo"]({{ site.url }}/list/?langid=375=Washo)
 
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Washo"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AWasho)
 
-#### Further reading
+## Further reading
 
 
 * Dangberg, Grace. 1927. Washo texts. *University of California Publications in American Archaeology and Ethnology* 22:391-443.
@@ -41,7 +41,7 @@ Washo (also written "Wá·šiw" and "Washoe") is an isolate within the hypothesi
 *  Lowie, Robert H. 1963. Washo Texts. *Anthropological Linguistics*, 5:1-30.
 [[PDF](https://www.jstor.org/stable/30022429?seq=1#metadata_info_tab_contents)]
 
-#### Links
+## Links
 
 * [Reno-Sparks Indian Colony](http://www.rsic.org/)
 * [Washo Project, University of Chicago](http://washo.uchicago.edu/)

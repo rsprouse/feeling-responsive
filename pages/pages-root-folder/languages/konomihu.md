@@ -21,11 +21,11 @@ Map of the Shastan languages (Golla 2011: 91)
 
 Konomihu is a member of the Shastan language family, the other members of which are [New River Shasta](new-river-shasta.html), and [Okwanuchu](okwanuchu.html), and [Shasta](shasta.html). Together the Shastan languages comprise one branch of the hypothesized Hokan language family. This additionally includes [Chimariko](chimariko.html), [Esselen](esselen.html), [Karuk](karuk.html), the Palaihnihan languages ([Achumawi](achumawi.html) and [Atsugewi](atsugewi.html)), the Pomoan languages ([Central Pomo](central-pomo.html), [Eastern Pomo](eastern-pomo.html), [Kashaya](kashaya.html), [Northeastern Pomo](northeastern-pomo.html), [Northern Pomo](northern-pomo.html), [Southeastern Pomo](southeastern-pomo.html), and [Southern Pomo](southern-pomo.html)), [Salinan](salinan.html), [Washo](washo.html), [Yana](yana.html), and the Yuman languages (Cocopa, Kiliwa, [Kumeyaay](kumeyaay.html), [Maricopa](maricopa.html), [Mojave](mojave.html), Pai, Paipai, and [Quechan](quechan.html)).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Konomihu"]({{ site.url }}/list/?langid=255=Konomihu)
 
-#### Further reading
+## Further reading
 
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
 * Larsson, Lars J. 1987. Who Were the Konomihu? *International Journal of American Linguistics* 53:232-235.
@@ -33,7 +33,7 @@ Konomihu is a member of the Shastan language family, the other members of which 
 * Silver, Shirley. 1980. Shasta and Konomihu. In Kathryn Klar, Margaret Langdon, and Shirley Silver, eds. *American Indian and Indoeuropean studies: Papers in honor of Madison S. Beeler*, pp. 245-263. The Hague: Mouton.
 [[PDF - may not be publicly available](https://www.degruyter.com/document/doi/10.1515/9783110808681.245/html)]
 
-#### Links
+## Links
 
 * [Glottolog: Konomihu](https://glottolog.org/resource/languoid/id/kono1241)
 

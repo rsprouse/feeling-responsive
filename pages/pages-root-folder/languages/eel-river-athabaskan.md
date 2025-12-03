@@ -21,14 +21,14 @@ Map of Sinkyone and surrounding languages (Nomland 1935)
 
 Wailaki / Eel River Dene is a member of the Dene (Athabaskan) language family, spoken across North America with concentrations in western Canada (Dëne Suliné, Sarsi, Slave), Alaska (Ahtna, Gwich'in, Koyukon), the southwest United States (Apache, Navajo), and coastal Oregon and northern California. The other Athabaskan languages of California are [Hupa](hupa.html), [Kato](kato.html), [Mattole](mattole.html), and [Tolowa](tolowa.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Lassik"]({{ site.url }}/list/?langid=1250=Lassik)
 * [California Language Archive: "Nongatl"]({{ site.url }}/list/?langid=1251=Nongatl)
 * [California Language Archive: "Sinkyone"]({{ site.url }}/list/?langid=1252=Sinkyone)
 * [California Language Archive: "Wailaki"]({{ site.url }}/list/?langid=1253=Wailaki)
 
-#### Further reading
+## Further reading
 
 * Begay, Kayla Rae. 2017. *Wailaki Grammar*. Doctoral dissertation, University of California, Berkeley. [[PDF](https://escholarship.org/uc/item/3np1t75w)]
 * Elsasser, Albert B. 1978. Mattole, Nongatl, Sinkyone, Lassik, and Wailaki. In Robert F. Heizer, ed. *California*, pp. 190-204. (Handbook of North American Indians, Volume 8.) Washington: Smithsonian Institution.
@@ -41,7 +41,7 @@ Wailaki / Eel River Dene is a member of the Dene (Athabaskan) language family, s
 
 * Seaburg, William R. 1977. A Wailaki (Athapaskan) text with comparative notes. *International Journal of American Linguistics* 43:327-332.
 
-#### Links
+## Links
 
 * [California Athapascan Home Page](https://www.turtlenodes.com/calath/index.html)
 * [Round Valley Indian Tribes](http://www.rvit.org/)

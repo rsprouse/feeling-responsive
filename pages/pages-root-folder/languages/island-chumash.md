@@ -21,22 +21,22 @@ Map of the Chumashan languages (Robert F. Heizer, ed. 1978. <em>California.</em>
 
 Cruzeño (also called "Isleño", "Ysleño", or "Island Chumash") is a member of the Chumashan language family; the others are [Barbareño](barbareno.html), [Samala (Ineseño)](ineseno.html), [Interior Chumash](interior-chumash.html), [Obispeño](obispeno.html), [Purisimeño](purisimeno.html), [Ventureño](ventureno.html).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Cruzeño"]({{ site.url }}/list/?langid=294=Island+Chumash)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Cruzeño"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3ACruze%C3%B1o)
 
-#### Further reading
+## Further reading
 
 * Heizer R. F., ed. 1952. California Indian linguistic records: The Mission Indian vocabularies of Alphonse Pinart. *University of California Anthropological Records* 15:1-84. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar015-001.pdf)]
 * Heizer, R.F., ed. 1955. California Indian linguistic records: The Mission Indian vocabularies of H. W. Henshaw. *University of California Anthropological Records* 15:85-202. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucar015-002.pdf)]
 * Klar, Kathryn. 1977. *Topics in Historical Chumash Grammar.* Doctoral dissertation, University of California, Berkeley. [[PDF](https://escholarship.org/uc/item/31t2k96m)]
 * Kroeber, A.L. 1910. The Chumash and Costanoan languages. *University of California Publications in American Archaeology and Ethnology* 9,2:237-271. [[PDF](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp009-004.pdf)]
 
-#### Links
+## Links
 
 * [English - Cruzeño Dictionary online](https://glosbe.com/en/crz)
 * [OLAC resources in and about the Cruzeño language](http://www.language-archives.org/language/crz)

@@ -21,7 +21,7 @@ Map of Hupa Valley by Pliny Earle Goddard. 1903. <a href="http://digitalassets.l
 
 Hupa is a member of the Dene (Athabaskan) language family, spoken across North America with concentrations in western Canada (Dëne Suliné, Sarsi, Slave), Alaska (Ahtna, Gwich'in, Koyukon), the southwest United States (Apache, Navajo), and coastal Oregon and northern California. The other Dene languages of California are [Wailaki / Eel River Dene](eel-river-athabaskan.html), [Kato](kato.html), [Mattole](mattole.html), and [Tolowa](tolowa.html).
 
-#### Grammatical information
+## Grammatical information
 
 Dene languages are well known for their elaborate verb morphology. Hupa is no exception: each verb consists of a stem preceded by a potentially large number of prefixes that participate in complex morphophonemic interactions. Subject agreement is split between two positions: first and second person subjects are marked close to the stem, while third person subject prefixes occur farther away, e.g. *ni<strong>wh</strong>kya:w* 'I'm big' versus *<strong>ch'i</strong>ningkya:w* 'he's big'. Derivational and inflectional morphemes are interleaved throughout the verbal template, leading to discontinuous lexical entries known as "themes" among Dene scholars. For example, the verb theme translated in English as 'stir' or 'move something back and forth' consists of a stem *-na* and a prefix *xi-*; this theme is inflected with aspect and agreement prefixes to make full words like *xe'iwhna'* 'I move it back and forth'. Moreover, Hupa verb stems change form depending on semantic properties of their arguments such as number, shape and texture. For example, the stem *-łiq'* is used in the word *ya'winłiq'* 'he picked up a dough-like object', whereas the stem *-kyo:s* is used in the word *ya'wiłkyo:s* 'he picked up a cloth-like object'. Most Dene languages have fairly rigid word order, requiring noun phrases to come before the verb. Hupa is exceptional in this respect: it allows noun phrases to appear to the right of the verb. Noun phrases are sometimes divided between preverbal and postverbal positions, as in the following example:
 
@@ -67,7 +67,7 @@ he saw
 </tr>
 </table>
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 <div class="image right" style="width: 250px;">
 <audio controls="true">
@@ -83,11 +83,11 @@ Audio sample: Verdena Parker tells a story about her cat
 * [California Language Archive: "Chilula"]({{ site.url }}/list/?langid=1258=Chilula)
 * [California Language Archive: "Whilkut"]({{ site.url }}/list/?langid=1259=Whilkut)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Hupa"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3AHupa)
 
-#### Further reading
+## Further reading
 
 * Goddard, Pliny Earle. 1903. Life and culture of the Hupa. *University of California Publications in American Archaeology and Ethnography* 1:1-87. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp001-003.pdf)]
 * Goddard, Pliny Earle. 1904. Hupa texts. *University of California Publications in American Archaeology and Ethnography* 1:89-368. [[PDF](http://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp001-004.pdf)]
@@ -97,7 +97,7 @@ Audio sample: Verdena Parker tells a story about her cat
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
 * Sapir, Edward and Victor Golla. 2001. Hupa texts, with notes and lexicon. In Victor Golla and Sean O'Neill, eds. *Collected works of Edward Sapir, Volume 14: Northwest California linguistics*, pp. 19-1011. New York: Mouton de Gruyter. [[PDF](https://archive.org/stream/collectedworksof14sapi#page/n6/mode/2up)]
 
-#### Links
+## Links
 
 * [Hoopa Valley Tribe](http://www.hoopa-nsn.gov/)
 * [California Athapascan Home Page](https://www.turtlenodes.com/calath/index.html)

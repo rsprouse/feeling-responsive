@@ -21,15 +21,15 @@ Map of the Pomoan languages (Walker 2020). For a large-scale map with village na
 
 Central Pomo is one of seven languages comprising the Pomoan language family; the others are [Eastern Pomo](eastern-pomo.html), [Kashaya Pomo](kashaya.html), [Northeastern Pomo](northeastern-pomo.html), [Northern Pomo](northern-pomo.html), [Southeastern Pomo](southeastern-pomo.html), and [Southern Pomo](southern-pomo.html). Together, the Pomoan languages form one branch of the hypothesized Hokan language family, the other members of which are [Chimariko](chimariko.html), [Esselen](esselen.html), [Karuk](karuk.html), the Palaihnihan languages ([Achumawi](achumawi.html) and [Atsugewi](atsugewi.html)), [Salinan](salinan.html), the Shastan languages ([Konomihu](konomihu.html), [New River Shasta](new-river-shasta.html), [Okwanuchu](okwanuchu.html), and [Shasta](shasta.html)), [Washo](washo.html), [Yana](yana.html), and the Yuman languages (Cocopa, Kiliwa, [Kumeyaay](kumeyaay.html), [Maricopa](maricopa.html), [Mojave](mojave.html), Pai, Paipai, and [Quechan](quechan.html)).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "Central Pomo"]({{ site.url }}/list/?langid=272=Central+Pomo)
 
-#### Selected materials in other archives
+## Selected materials in other archives
 
 * [The American Philosophical Society: "Pomo, Central"](https://indigenousguide.amphilsoc.org/search?f%5B0%5D=guide_language_content_title%3APomo%2C%20Central)
 
-#### Further reading
+## Further reading
 
 * de Angulo, Jaime. 1935. Pomo creation myth. *Journal of American Folklore* 48:203-262.
 [[PDF](https://www.jstor.org/stable/535271?seq=1#metadata_info_tab_contents)]
@@ -41,7 +41,7 @@ Central Pomo is one of seven languages comprising the Pomoan language family; th
 * Mithun, Marianne. 1993. "Switch-Reference": Clause Combining in Central Pomo. *International Journal of American Linguistics* 59: 119-136.
 [[PDF](https://www.jstor.org/stable/1265152?seq=1#metadata_info_tab_contents)]
 
-#### Links
+## Links
 
 * [Hopland Band of Pomo Indians](https://www.hoplandtribe.com/)
 * [Pomo language resources](https://cimcc.org/education-center/pomo-language-resource/)

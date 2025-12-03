@@ -21,15 +21,15 @@ Map of the Shastan languages (Golla 2011: 91)
 
 New River Shasta is a member of the Shastan language family, the other members of which are [Konomihu](konomihu.html), and [Okwanuchu](okwanuchu.html), and [Shasta](shasta.html). Together the Shastan languages comprise one branch of the hypothesized Hokan language family. This additionally includes [Chimariko](chimariko.html), [Esselen](esselen.html), [Karuk](karuk.html), the Palaihnihan languages ([Achumawi](achumawi.html) and [Atsugewi](atsugewi.html)), the Pomoan languages ([Central Pomo](central-pomo.html), [Eastern Pomo](eastern-pomo.html), [Kashaya](kashaya.html), [Northeastern Pomo](northeastern-pomo.html), [Northern Pomo](northern-pomo.html), [Southeastern Pomo](southeastern-pomo.html), and [Southern Pomo](southern-pomo.html)), [Salinan](salinan.html), [Washo](washo.html), [Yana](yana.html), and the Yuman languages (Cocopa, Kiliwa, [Kumeyaay](kumeyaay.html), [Maricopa](maricopa.html), [Mojave](mojave.html), Pai, Paipai, and [Quechan](quechan.html)).
 
-#### Selected archival materials at Berkeley
+## Selected archival materials at Berkeley
 
 * [California Language Archive: "New River Shasta"]({{ site.url }}/list/?langid=253=New+River+Shasta)
 
-#### Further reading
+## Further reading
 
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
 
-#### Links
+## Links
 
 * [Glottolog: New River Shasta](https://glottolog.org/resource/languoid/id/newr1237)
 
