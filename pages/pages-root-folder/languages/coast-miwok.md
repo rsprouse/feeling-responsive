@@ -23,9 +23,9 @@ The traditional Coast Miwok language area is from Bodega Bay across Petaluma Pla
 ## Further reading
 
 * Callaghan, Catherine A. 1970. *Bodega Miwok dictionary.* Berkeley: University of California Press.
-* Callaghan, Catherine A. 1978. Some Coast Miwok Tales. *The Journal of California Anthropology*, 5:21-41. [[PDF](https://escholarship.org/uc/item/39t6s0kt)]
 * Golla, Victor. 2011. *California Indian languages.* Berkeley: University of California Press.
-* Kelly, Isabel. 1978. Coast Miwok. In William C. Sturtevant, and Robert F. Heizer (eds) *Handbook of North American Indians*, 8:414-425. Washington, DC: Smithsonian Institution.
+* Kelly, Isabel. 1978a. Coast Miwok. In William C. Sturtevant, and Robert F. Heizer (eds) *Handbook of North American Indians*, 8:414-425. Washington, DC: Smithsonian Institution.
+* Kelly, Isabel. 1978b. Some Coast Miwok Tales. *The Journal of California Anthropology*, 5:21-41. [[PDF](https://escholarship.org/uc/item/39t6s0kt)]
 * Levy, Richard. 1978. Eastern Miwok. In Robert F. Heizer (ed.), *California*, 398-413. Washington, D.C.: Smithsonian Institution.
 
 ## Links
