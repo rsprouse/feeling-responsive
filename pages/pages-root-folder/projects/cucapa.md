@@ -10,7 +10,7 @@ header:
 permalink: /projects/cucapa.html
 ---
 
-#### En español / [In English](#in-english)
+## En español / [In English](#in-english)
 
 Los cucapá de México viven tradicionalmente en tres lugares de Baja California, que son Cucapá el Mayor, Cucapá Mestizo y Dr. Alberto Oviedo Mota (El Indiviso); y en Pozas de Arvizu, en Sonora; además de algunas reservaciones en Arizona. Aunque el censo oficial registra que en México hay alrededor de 170 cucapá, la gente de las comunidades nos dice que el número de personas cucapá es mayor. A pesar de ello, algunas personas de las comunidades, señalan que solo hay, aproximadamente, 30 hablantes fluidos de la lengua; esos hablantes tienen edades que van de los 45 a los noventa y tantos años. Debido a que ya no hay transmisión intergeneracional, no hay niños ni jóvenes que tengan al cucapá como lengua materna. Es por ello que las acciones para el fortalecimiento de la lengua son urgentes.
 
@@ -33,7 +33,7 @@ Mención especial merece el caso de una de las mujeres mayores de la comunidad �
 
 Aunque por lo pronto no se está implementando algún proyecto o actividades específicas con las grabaciones —más allá de ponerlas a disposición de las personas cucapá—, el solo hecho de compartirlas, y que ellos las escuchen, puede tener efectos afectivos que resultan positivos para el fortalecimiento de la lengua. Además, se fortalece la memoria histórica, ya que la gente recuerda los contenidos de las historias, pero también a las personas que participaron en las grabaciones. Por otro lado, permite recordar palabras que han caído en desuso y confirmar las pronunciaciones y significados que utilizan o reflexionar por qué han cambiado. 
 
-#### In English 
+## In English 
 
 The Cucapá of Mexico live traditionally in three areas of Baja California, Cucapá el Mayor, Cucapá Mestizo, and Dr. Alberto Oviedo Mota (El Indiviso); and in Pozas de Arvizu, in Sonora; in addition to some reservations in Arizona. Although the official census records that in Mexico there are around 170 Cucapá, the people from the communities tell us that the number of Cucapá people is greater. Despite this, some people from the communities indicate that there are approximately 30 fluent speakers of the language; the ages of those speakers go from 45 to over 90 years old. Due to the fact that there is no longer intergenerational transmission, there are no children or young people who have Cucapá as a first language. It is because of this that actions to strengthen the language are urgent.
 
