@@ -9,7 +9,7 @@ header:
 sitemap: true
 ---
 
-### Donate to the California Language Archive
+## Donate to the California Language Archive
 
 To donate with a credit card, please click [here](http://give.berkeley.edu/fund/FN7677000), or on the "Make a Gift" link below. To donate by check, fill out [this form](https://storage.googleapis.com/giveadmin/filer_public/c8/8e/c88e80f4-d972-4257-893f-8175b67429ae/uc_berkeley_mail-in_donation_form.pdf), indicating "California Language Archive, FN7677000" under "Please designate my gift/pledge to." Mail the check and form to: University of California, Berkeley, Gift Services, 1995 University Avenue, Suite 400, Berkeley, CA 94704-1070.
 
@@ -29,7 +29,7 @@ Your donation supports the California Language Archive (Survey of California and
  
 There are often few permanent records of Indigenous languages, and they can be in fragile condition or stored on obsolete media. Language archives can be responsible for preserving the only physical documentation of the language(s) of some communities, and so are valuable for senses of historical and cultural continuity. We [proactively collect](https://news.berkeley.edu/2021/05/24/chance-phone-call-keeps-alive-scholars-remarkable-amazonian-legacy/), catalog, digitize, and make accessible legacy and newly created materials to ensure their preservation and their availability to current and future generations of Indigenous people, Berkeley students, and researchers from around the world.
 
-<!--### Donation-supported activities
+<!--## Donation-supported activities
 
 * digitizing at-risk analog materials such as sound recordings of Indigenous languages, and paper field notes
 * cataloging new collections, including born-digital materials, and making them publicly accessible through our online catalog
