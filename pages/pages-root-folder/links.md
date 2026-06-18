@@ -9,7 +9,7 @@ header:
 sitemap: true
 ---
 
-### Archives with major Indigenous language holdings
+## Archives with major Indigenous language holdings
 
 See the website of the [Digital Endangered Languages and Musics Archives Network](https://www.delaman.org/) (DELAMAN) for listings of other similar repositories.
 
@@ -26,14 +26,14 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 - [Smithsonian Online Virtual Archives](https://sova.si.edu/) (Washington, DC)
 - [The Language Archive](https://archive.mpi.nl/tla/) (TLA, Nijmegen)
 
-### Berkeley libraries and museums
+## Berkeley libraries and museums
 <ul class="bullets">	
 <li><a href="http://bancroft.berkeley.edu/">Bancroft Library</a></li>
 <li><a href="http://hearstmuseum.berkeley.edu/">Phoebe A. Hearst Museum of Anthropology</a></li>
 <li><a href="https://search.library.berkeley.edu/discovery/search?vid=01UCS_BER:UCB">Berkeley Library catalog</a></li>
 </ul>
 
-### Linguistic organizations
+## Linguistic organizations
 <ul class="bullets">
 <li><a href="http://www.aicls.org">Advocates for Indigenous California Language Survival</a></li>
 <li><a href="https://www.delaman.org/">Digital Endangered Languages and Musics Archives Network</a></li>
@@ -42,7 +42,7 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 <li><a href="http://www.ssila.org/">Society for the Study of the Indigenous Languages of the Americas</a></li>
 </ul>
 
-<!-- ### Linguistic resources on Native American languages
+<!-- ## Linguistic resources on Native American languages
 <ul class="bullets">
 <li><a href="http://anthrohub.lib.berkeley.edu/">Anthrohub</a></li>
 <li><a href="http://www.etnolinguistica.org/">Etnoling&uuml;&iacute;stica</a></li>
@@ -59,7 +59,7 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 <li><a href="http://repositories.cdlib.org/ucpress/ucpl/">University of California Publications in Linguistics</a></li>
 </ul> -->
 
-<!-- ### Bibliographies
+<!-- ## Bibliographies
 <ul class="bullets">
 <li><a href="http://www.rock-art.com/jph/">John Peabody Harrington Resource Page</a></li>
 <li><a href="http://linguistics.berkeley.edu/simple_archive/brightbib">William Bright's (1999) <em>Bibliography of the Languages of Native California</em></a></li>
@@ -67,7 +67,7 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 <li><a href="http://depts.washington.edu/wll2/bibliography.html">Wakashan Bibliography</a></li>	
 </ul> -->
 
-<!-- ### General information on Indigenous people of California
+<!-- ## General information on Indigenous people of California
 <ul class="bullets">
 <li><a href="http://www.mip.berkeley.edu/cilc/bibs/lang.html">Tribal Language groups of Northern and Central California</a></li>
 <li><a href="http://www.mip.berkeley.edu/cilc/bibs/alternates.html">Alternate names and/or spellings for tribal groups</a></li>
@@ -78,13 +78,13 @@ See the website of the [Digital Endangered Languages and Musics Archives Network
 <li><a href="http://library.csus.edu/services/inst/California Native Americans.html">Selected resources on California Native Americans - Sacramento State University Library</a></li>
 </ul> -->
 
-<!-- ### Materials on language revitalization
+<!-- ## Materials on language revitalization
 <ul class="bullets">
 <li><a href="http://jan.ucc.nau.edu/~jar/TIL.html">Teaching indigenous languages</a></li>
 <li><a href="http://jan.ucc.nau.edu/~jar/RIL_Contents.html">Revitalizing indigenous languages</a></li>
 </ul>	-->
 
-<!-- ### Linguistic journals
+<!-- ## Linguistic journals
 <ul class="bullets">
 <li><a href="http://www.journals.uchicago.edu/toc/ijal/current">International Journal of American Linguistics</a></li>
 <li><a href="http://www.sfu.ca/nwjl/">Northwest Journal of Linguistics</a></li>
