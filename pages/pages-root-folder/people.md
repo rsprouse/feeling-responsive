@@ -13,7 +13,7 @@ sitemap: true
 
 [Staff](#staff) \| [Affiliates](#affiliates)
 
-### <a name="staff"></a>Staff
+## <a name="staff"></a>Staff
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}ohagan-02.jpg" alt="Zachary O'Hagan"/>
