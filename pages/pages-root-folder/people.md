@@ -31,7 +31,7 @@ sitemap: true
 <img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano"/>
 </div>
 
-**Tzintia Montano Ramirez** (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
+**Tzintia Montano Ramirez** (Assistant; Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
 <div class="image right people_images">
 <img class="img_right" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
@@ -99,7 +99,7 @@ sitemap: true
 <img src="{{ site.urlimg }}lee-wynant.png" alt="Tyler Lee-Wynant"/>
 </div>
 
-[Tyler Lee-Wynant](https://lx.berkeley.edu/people/tyler-lee-wynant) (Assistant; Graduate Student, Linguistics) works on California Indigenous languages with a focus on the Pomoan languages and Hupa (Pacific Coast Dene). He is involved in projects which process archived language documentation for the development of machine-readable resources (e.g., online dictionaries, text corpora, content indexes). His current projects are: developing a Northern Pomo (his heritage language) language course, directing an Eastern Pomo dictionary/text corpus project, and conducting fieldwork on Hupa. His research interests include morphosyntax, fieldwork, documentation, language reawakening, and the synergism between these.
+[Tyler Lee-Wynant](https://lx.berkeley.edu/people/tyler-lee-wynant) (Graduate Student, Linguistics) works on California Indigenous languages with a focus on the Pomoan languages and Hupa (Pacific Coast Dene). He is involved in projects which process archived language documentation for the development of machine-readable resources (e.g., online dictionaries, text corpora, content indexes). His current projects are: developing a Northern Pomo (his heritage language) language course, directing an Eastern Pomo dictionary/text corpus project, and conducting fieldwork on Hupa. His research interests include morphosyntax, fieldwork, documentation, language reawakening, and the synergism between these.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}macknick.png" alt="Anna Macknick"/>
