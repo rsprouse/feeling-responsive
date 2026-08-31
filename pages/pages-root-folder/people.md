@@ -33,7 +33,7 @@ sitemap: true
 
 **Tzintia Montano Ramirez** (Assistant; Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
-<div class="image right people_images">
+<div class="image left people_images">
 <img class="img_right" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
 </div>
 
@@ -57,7 +57,7 @@ sitemap: true
 <img src="{{ site.urlimg }}beier.jpg" alt="Christine Beier"/>
 </div>
 
-[Christine Beier](https://lx.berkeley.edu/christine-beier) (Assistant Adjunct Professor of Linguistics) dedicates her research and field activities to the documentation, description, revitalization, and revalorization of small and endangered languages, primarily in Peruvian Amazonia. She is particularly interested in the social life of language, including factors affecting language vitality; the intersection of linguistics and scholarship with language-community service; text-driven description and analysis; and working to bring data from Amazonian languages to bear on questions in typology and tonology. Thus far, she has worked with inheritors and speakers of Andoa (also: Katsakáti; Zaparoan), Aʔiwa (isolate), Chamikuro (Arawakan), Iquito (also: Ikíìtù; Zaparoan), Matsigenka (Arawak), Máíhĩ̀kì (also: Orejón, Tukanoan), Nanti (Arawak), Muniche (isolate), Omagua (Tupí-Guaraní), and Záparo (also: Sápara; Zaparoan).
+[Christine Beier](https://lx.berkeley.edu/christine-beier) (Research Linguist, Linguistics) dedicates her research and field activities to the documentation, description, revitalization, and revalorization of small and endangered languages, primarily in Peruvian Amazonia. She is particularly interested in the social life of language, including factors affecting language vitality; the intersection of linguistics and scholarship with language-community service; text-driven description and analysis; and working to bring data from Amazonian languages to bear on questions in typology and tonology. Thus far, she has worked with inheritors and speakers of Andoa (also: Katsakáti; Zaparoan), Aʔiwa (isolate), Chamikuro (Arawakan), Iquito (also: Ikíìtù; Zaparoan), Matsigenka (Arawak), Máíhĩ̀kì (also: Orejón, Tukanoan), Nanti (Arawak), Muniche (isolate), Omagua (Tupí-Guaraní), and Záparo (also: Sápara; Zaparoan).
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
@@ -88,12 +88,6 @@ sitemap: true
 </div>
 
 [Edwin Ko's](http://eddersko.com/)  (PhD 2023, Linguistics) interests focus on the indigenous languages of North America, especially Crow (Siouan) and Northern Pomo (Pomoan). His research interests are broadly in (morpho)syntax, historical linguistics, language contact, language documentation, and language revitalization. Some of his recent work involves an analysis of active-stative agreement, multiple exponence and switch-reference system in Crow, as well as of the use of digital technology in the revitalization of Northern Pomo.
-
-<div class="image right people_images">
-<img src="{{ site.urlimg }}lapierre.jpg" alt="Myriam Lapierre"/>
-</div>
-
-[Myriam Lapierre](https://sites.google.com/uw.edu/myriam-lapierre) (PhD 2021, Linguistics) is interested in the phonetics and phonology of South American languages, with a particular focus on nasality-related phenomena in the Amazon. She began conducting fieldwork in the Brazilian Amazon in 2014, and has since worked with several languages of the Jê family (Panãra, Me~bêngôkre, Kajkwakhrattxi, and Xavante), as well as Kawaiwete (Tupí-Guaraní). Some of her recent and ongoing work includes a descriptive analysis of the phonology of Panãra, an analysis of nasal coarticulation in Panãra using oral and nasal airflow data, and a typological and theoretical analysis of nasal harmony phenomena in languages of the Tupí-Guaraní family.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}lee-wynant.png" alt="Tyler Lee-Wynant"/>
@@ -131,12 +125,6 @@ sitemap: true
 </div>
 
 [Line Mikkelsen](https://linemikkelsen.github.io/) (Professor of Linguistics) has a long-standing interest in indigenous languages of California. She works with Karuk language teacher Florrine Super to develop language teaching and learning materials for Karuk. Over the last decade this work has expanded to include annual campus visits by Florrine and highschool Karuk language students to do classroom presentations on Karuk language and culture. These presentations are part of a broader get-ready-for-college program for the visits. Line has also worked with Vincent Medina, Louis Trevino and language learners and activists to keep Chochenyo, the first language of the East Bay, strong. Most recently, she has developed an interest in Kalaallisut, the official language of Greenland. She is collaborating with Kalaallisut speakers Ellen Thrane and Grethe Schmidt on a variety of grammatical topics, as well as a UC Berkeley course on the history, structure, and sociolinguistics of Kalaallisut. She gratefully acknowledges the guidance of native-speaker linguist Naja Blytmann Trondhjem in this work.
-
-<div class="image right people_images">
-<img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" style="padding-right:5px; padding-top:0px;"/>
-</div>
-
-[Julia Nee](https://sites.google.com/berkeley.edu/julianee/home) (PhD 2021, Linguistics) is interested in language revitalization and is enrolled in the Designated Emphasis in Indigenous Language Revitalization. After finishing her BA in linguistics at the University of Chicago, she moved to Oaxaca, Mexico to teach English before returning to the U.S. to continue her education. During her time in Mexico, she began to study Teotitlán del Valle Zapotec, an indigenous language spoken outside of Oaxaca City. Her research now centers on language documentation and revitalization within the Zapotec community. She is also involved in Northern Pomo language revitalization, working collaboratively with Erica Carson, Jr., Edwin Ko, and Catherine O'Connor to design and implement language camps at Redwood Valley Rancheria.
 
 <div class="image left people_images">
 <img src="{{ site.urlimg }}beth_crop.jpg" alt="Beth Piatote"/>
