@@ -28,18 +28,10 @@ sitemap: true
 <a name="ron">[Ronald Sprouse](https://github.com/rsprouse) (IT Specialist) </a> has worked as a linguist and programmer on a number of language documentation projects in addition to his work with the Survey. He served as Technical Director of the Ingush and Chechen projects that resulted in the publication of two dictionaries; in support of these projects he conducted fieldwork with Ingush and Chechen consultants, worked on lexical databases, and created a web-based system for collecting and annotating interlinear text. He was also a significant contributor to the Turkish Electronic Living Lexicon project, a lexical database of transcribed audio recordings for studying Turkish morphophonemics, for which he created a web-based search interface and tools for investigating the statistical properties of morphophonemic alternations in the data.
 
 <div class="image right people_images">
-<img src="{{ site.urlimg }}lee-wynant.png" alt="Tyler Lee-Wynant"/>
+<img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano"/>
 </div>
 
-[Tyler Lee-Wynant](https://lx.berkeley.edu/people/tyler-lee-wynant) (Assistant; Graduate Student, Linguistics) works on California Indigenous languages with a focus on the Pomoan languages and Hupa (Pacific Coast Dene). He is involved in projects which process archived language documentation for the development of machine-readable resources (e.g., online dictionaries, text corpora, content indexes). His current projects are: developing a Northern Pomo (his heritage language) language course, directing an Eastern Pomo dictionary/text corpus project, and conducting fieldwork on Hupa. His research interests include morphosyntax, fieldwork, documentation, language reawakening, and the synergism between these.
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}nyssa-combs.JPG" alt="Nyssa Combs"/>
-</div>
-
-**Nyssa Combs** (Assistant; Undergraduate Student, Linguistics and Celtic Studies) has a long-standing interest in heritage languages, archival work, language revitalization. At the CLA, she primarily has processed materials related to Indigenous languages in Brazil and Peru, and her personal research focuses on English phonetic variation in California. After receiving her undergraduate degree, she is pursuing an MS in Speech Language Pathology.
-
-**Sophia Hsu** (Assistant; Undergraduate Student, Data Science) is interested in language learning, archival work, and information access. She has processed hundreds of anthropological and linguistic materials for preservation at the CLA, primarily in Armenian, Ashaninka, Kawaiisu, and other California Indigenous languages. She is in her final undergraduate year of Data Science with an emphasis in Linguistic Sciences.
+**Tzintia Montano Ramirez** (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
 <div class="image right people_images">
 <img class="img_right" src="{{ site.urlimg }}ag-cla.png" alt="Andrew Garrett"/>
@@ -104,6 +96,12 @@ sitemap: true
 [Myriam Lapierre](https://sites.google.com/uw.edu/myriam-lapierre) (PhD 2021, Linguistics) is interested in the phonetics and phonology of South American languages, with a particular focus on nasality-related phenomena in the Amazon. She began conducting fieldwork in the Brazilian Amazon in 2014, and has since worked with several languages of the Jê family (Panãra, Me~bêngôkre, Kajkwakhrattxi, and Xavante), as well as Kawaiwete (Tupí-Guaraní). Some of her recent and ongoing work includes a descriptive analysis of the phonology of Panãra, an analysis of nasal coarticulation in Panãra using oral and nasal airflow data, and a typological and theoretical analysis of nasal harmony phenomena in languages of the Tupí-Guaraní family.
 
 <div class="image right people_images">
+<img src="{{ site.urlimg }}lee-wynant.png" alt="Tyler Lee-Wynant"/>
+</div>
+
+[Tyler Lee-Wynant](https://lx.berkeley.edu/people/tyler-lee-wynant) (Assistant; Graduate Student, Linguistics) works on California Indigenous languages with a focus on the Pomoan languages and Hupa (Pacific Coast Dene). He is involved in projects which process archived language documentation for the development of machine-readable resources (e.g., online dictionaries, text corpora, content indexes). His current projects are: developing a Northern Pomo (his heritage language) language course, directing an Eastern Pomo dictionary/text corpus project, and conducting fieldwork on Hupa. His research interests include morphosyntax, fieldwork, documentation, language reawakening, and the synergism between these.
+
+<div class="image right people_images">
 <img src="{{ site.urlimg }}macknick.png" alt="Anna Macknick"/>
 </div>
 
@@ -133,12 +131,6 @@ sitemap: true
 </div>
 
 [Line Mikkelsen](https://linemikkelsen.github.io/) (Professor of Linguistics) has a long-standing interest in indigenous languages of California. She works with Karuk language teacher Florrine Super to develop language teaching and learning materials for Karuk. Over the last decade this work has expanded to include annual campus visits by Florrine and highschool Karuk language students to do classroom presentations on Karuk language and culture. These presentations are part of a broader get-ready-for-college program for the visits. Line has also worked with Vincent Medina, Louis Trevino and language learners and activists to keep Chochenyo, the first language of the East Bay, strong. Most recently, she has developed an interest in Kalaallisut, the official language of Greenland. She is collaborating with Kalaallisut speakers Ellen Thrane and Grethe Schmidt on a variety of grammatical topics, as well as a UC Berkeley course on the history, structure, and sociolinguistics of Kalaallisut. She gratefully acknowledges the guidance of native-speaker linguist Naja Blytmann Trondhjem in this work.
-
-<div class="image left people_images">
-<img src="{{ site.urlimg }}montano.png" alt="Tzintia Montano"/>
-</div>
-
-**Tzintia Montano Ramirez** (Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}nee.jpg"  alt="Julia Nee" style="padding-right:5px; padding-top:0px;"/>
