@@ -1,0 +1,79 @@
+/*
+The original feeling_responsive theme did not include the tabs
+component from Foundation 5. We include the .css related to tabs
+here (it was copied from the tab demo page in the Foundation 5
+docs). It would be nice to someday compile it from scss so
+that changes to the styling could be handled in the same way as
+the .scss files in the _sass directory.
+*/
+.tabs {
+  margin-bottom: 0 !important;
+  margin-left: 0; }
+  .tabs:before, .tabs:after {
+    content: " ";
+/*    display: table; # This resulted in weird shiftingh of content immediately below the tab titles of a few pixels' height. */
+  }
+  .tabs:after {
+    clear: both; }
+  .tabs dd,
+  .tabs .tab-title {
+    float: left;
+    list-style: none;
+    margin-bottom: 0 !important;
+    position: relative; }
+    .tabs dd > a,
+    .tabs .tab-title > a {
+      display: block;
+      background-color: #EFEFEF;
+      color: #222222;
+      font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif !important;
+      font-size: 0.88889rem;
+      padding: 0.88889rem 1.77778rem; }
+      .tabs dd > a:hover,
+      .tabs .tab-title > a:hover {
+        background-color: #e1e1e1; }
+    .tabs dd.active > a,
+    .tabs .tab-title.active > a {
+      background-color: #FFFFFF;
+      color: #222222; }
+  .tabs.radius dd:first-child a,
+  .tabs.radius .tab:first-child a {
+    -webkit-border-bottom-left-radius: 3px;
+    -webkit-border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px; }
+  .tabs.radius dd:last-child a,
+  .tabs.radius .tab:last-child a {
+    -webkit-border-bottom-right-radius: 3px;
+    -webkit-border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px; }
+  .tabs.vertical dd,
+  .tabs.vertical .tab-title {
+    position: inherit;
+    float: none;
+    display: block;
+    top: auto; }
+
+.tabs-content {
+  margin-bottom: 1.33333rem;
+  width: 100%; }
+  .tabs-content:before, .tabs-content:after {
+    content: " ";
+    display: table; }
+  .tabs-content:after {
+    clear: both; }
+  .tabs-content > .content {
+    display: none;
+    float: left;
+    padding: 0.83333rem 0;
+    width: 100%; }
+    .tabs-content > .content.active {
+      display: block;
+      float: none; }
+    .tabs-content > .content.contained {
+      padding: 0.83333rem; }
+  .tabs-content.vertical {
+    display: block; }
+    .tabs-content.vertical > .content {
+      padding: 0 0.83333rem; }
