@@ -747,14 +747,14 @@ For a complete listing of Berkeley PhD dissertations in linguistics, see [here](
 <td>2025</td>
 <td>Anna Björklund</td>
 <td><em>A Grammar of Nomlaki</em> [<a href="https://escholarship.org/uc/item/44v21211?">PDF</a>]</td>
-<td>Hannah Sande</td>
+<td>Keith Johnson</td>
 </tr>
 
 <tr>
 <td>2025</td>
 <td>Maksymilian Dąbkowski</td>
 <td><em>Metrical stress and glottal stops in A’ingae: A study of cyclicity and dominance at the interface of phonology and morphology</em> [<a href="https://escholarship.org/uc/item/4w34v92f?">PDF</a>]</td>
-<td>Keith Johnson</td>
+<td>Hannah Sande</td>
 </tr>
    
 </table>
