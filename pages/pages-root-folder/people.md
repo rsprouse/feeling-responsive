@@ -34,7 +34,7 @@ sitemap: true
 **Tzintia Montaño Ramírez** (Assistant; Graduate Student, Linguistics) is interested in language revitalization, documentation, and fieldwork. Her work focuses on Mixtecan languages, specially Da'an Davi (Southern Puebla Mixtec, Mexico). Her most recent research studied language ideologies among the Mixtec diaspora community from Puebla and New York. Since then, she has been interested in developing a language documentation project oriented toward create teaching materials for revitalization efforts.
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}priyanka-samant-photo.jpg" alt="Priyanka Samant"/>
+<img src="{{ site.urlimg }}priyanka-samant-photo.JPG" alt="Priyanka Samant"/>
 </div>
 
 **Priyanka Samant** (Assistant; Undergraduate Student, Linguistics) is primarily interested in language revitalization and preservation efforts. She has processed and worked with language materials from several collections, including, but not limited to those related to indigenous languages of the Americas and sub-Saharan Africa. Her personal research focuses on acoustic and theoretical phonetics.
