@@ -60,10 +60,10 @@ sitemap: true
 [Christine Beier](https://lx.berkeley.edu/christine-beier) (Research Linguist, Linguistics) dedicates her research and field activities to the documentation, description, revitalization, and revalorization of small and endangered languages, primarily in Peruvian Amazonia. She is particularly interested in the social life of language, including factors affecting language vitality; the intersection of linguistics and scholarship with language-community service; text-driven description and analysis; and working to bring data from Amazonian languages to bear on questions in typology and tonology. Thus far, she has worked with inheritors and speakers of Andoa (also: Katsakáti; Zaparoan), Aʔiwa (isolate), Chamikuro (Arawakan), Iquito (also: Ikíìtù; Zaparoan), Matsigenka (Arawak), Máíhĩ̀kì (also: Orejón, Tukanoan), Nanti (Arawak), Muniche (isolate), Omagua (Tupí-Guaraní), and Záparo (also: Sápara; Zaparoan).
 
 <div class="image left people_images">
-<img src="{{ site.urlimg }}anna_bjorklund.jpeg" alt="Anna Björklund"/>
+<img src="{{ site.urlimg }}boles_pic.jpg" alt="Chase Boles"/>
 </div>
 
-<a name="anna">[Anna Björklund's](https://aebjorklund.github.io/) (PhD 2025, Linguistics) </a> primary research interests are in the phonetics and revitalization of the Wintuan languages of Northern California, which survive through archival materials. She has been a linguist consultant with the Paskenta Band of Nomlaki Indians since 2020, and the Wintu Tribe of Northern California since 2022.
+[Chase Boles](https://chaseboles.github.io/) (Graduate Student, Linguistics) is primarily interested in morphosyntax and semantics, their typologies, and language documentation and revitalization. He primarily investigates these through the lens of fieldwork with speakers of Kanien’kéha (Mohawk), an Iroquoian language of the Northeast. He is particularly interested in how to bridge the gap between formalism and pedagogy in order to document advanced phenomena and make it accessible for learners, having aided elders in the creation of teaching materials.
 
 <div class="image right people_images">
 <img src="{{ site.urlimg }}deal-02.jpg" alt="Amy Rose Deal"/>
