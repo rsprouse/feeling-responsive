@@ -13,7 +13,7 @@ sitemap: true
 
 ### CLA Community Research Grant
 
-<b>Deadline</b>: September 15, 2025 and following<br>
+<b>Deadline</b>: date forthcoming
 <b>Award</b>: $1,500 per person (up to 2) or $4,000 per group (3 or more)
 
 Indigenous community members and associates from any region of North, Central, or South America are encouraged to apply for a CLA Community Research Grant to visit the California Language Archive (and possibly also the <a href="https://www.lib.berkeley.edu/visit/bancroft">Bancroft Library</a>) to consult linguistic archival materials. Grants are intended to cover the full costs of travel (airfare and/or gas), lodgings (4 nights), and meals for groups (usually 3-4 people) that will spend three days in the CLA. Individuals are also welcome to apply. Research visits will begin in the fall of 2025.
