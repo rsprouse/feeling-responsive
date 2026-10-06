@@ -12,10 +12,10 @@ header:
 search_include: true
 widget1:
   title: "The CLA Blog"
-  url: blog/2025/lakota-field-methods.html
-  image: lakota-02.jpg
-  imgalt: Knud Lambrecht's notes on Lakota from the 1980 Berkeley graduate field methods
-  text: "Field Methods: The Lakota Language"
+  url: blog/2026/mixtec-01.html
+  image: CognatesChalcatongo.png
+  imgalt: Lista de cognados de los diferentes pueblos de Chalcatongo Mixtec
+  text: "Tras el rastro de la lluvia: 'mixtec' en el Archivo de Lenguas de California"
 widget2:
   title: "Project spotlight"
   url: projects/cucapa.html
