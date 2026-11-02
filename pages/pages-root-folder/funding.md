@@ -41,7 +41,7 @@ The Community Research Grant program is generously supported by <a href="https:/
 
 ### Oswalt Endangered Language Grant
 
-<b>Deadline</b>: December 8, 2025<br>
+<b>Deadline</b>: December 4, 2026<br>
 <b>Award</b>: up to $8,000
 
 Berkeley students, faculty members, and staff (in any department) are invited to apply for an Oswalt Endangered Language Grant. This funding comes through the Robert L. Oswalt Graduate Student Support Endowment for Endangered Language Documentation, given in memory of Robert L. Oswalt (Ph.D. UC Berkeley 1961) by his widow and sons. It is restricted to Berkeley affiliates, for linguistic fieldwork on endangered languages (anywhere in the world). Proposal guidelines will be circulated closer to the submission deadline.
