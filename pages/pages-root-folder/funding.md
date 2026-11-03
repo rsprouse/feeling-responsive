@@ -57,12 +57,12 @@ Apply here: <a href="https://forms.gle/XQQT2FgS1shrBMNRA">https://forms.gle/XQQT
 
 ### CLA Language Revitalization Grant
 
-<b>Deadline</b>: December 8, 2025<br>
+<b>Deadline</b>: December 4, 2026<br>
 <b>Award</b>: up to $5,000
 
 In 2025, Berkeley affiliates may also apply for separate grants for language revitalization work. These grants have a separate funding source, and are not subject to the terms of the Oswalt gift. 
 
-Apply here: <a href="https://forms.gle/gvFnaiKskA5xdvMq7">https://forms.gle/gvFnaiKskA5xdvMq7</a>.
+Apply here: <a href="https://forms.gle/XQQT2FgS1shrBMNRA">https://forms.gle/XQQT2FgS1shrBMNRA</a>.
 
 ## External Grants <br>
 
