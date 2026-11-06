@@ -31,7 +31,7 @@ jobs:
       - name: Echo source and target branches
         run: echo "::notice Building source branch ${{ github.ref_name }} and pushing to target branch ${{ inputs.target_branch }}."
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -40,7 +40,7 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v6
       - name: Build with Jekyll
         env:
           # The build directory is specified as the `destination` value in the config file(s).
